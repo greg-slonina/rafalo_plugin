@@ -1,0 +1,15 @@
+#wcfm-main-contentainer #_wc_booking_duration_type {
+	width: 25%;
+}
+
+#wcfm-main-contentainer .bkap_date_timeslot_div .select2-search input[type="search"] {
+	min-width: 100px !important;
+}
+
+#wcfm-main-contentainer .bkap_date_timeslot_div .select2-container {
+	width: 100% !important;
+}
+
+.bkap_date_timeslot_div, .bkap_duration_date_timeslot_div, .specific_date, .weekdays_flex_main, .bkap_price_range_booking, .bkap_fixed_block_booking {
+	margin: 50px auto;
+}

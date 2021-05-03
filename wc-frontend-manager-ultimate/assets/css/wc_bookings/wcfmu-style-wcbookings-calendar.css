@@ -1,0 +1,275 @@
+div.wcfm-content {
+	padding: 0px;
+	margin: 0px;
+}
+
+.wc_bookings_calendar_form {
+	overflow-y: auto;
+}
+
+.wc_bookings_calendar_form .tablenav {
+	border: 1px solid #dedede;
+	background: #fff;
+	height: auto;
+	box-shadow: 0 1px 1px -1px rgba(0,0,0,.1);
+	-webkit-box-shadow: 0 1px 1px -1px rgba(0,0,0,.1);
+}
+
+.tablenav {
+	clear: both;
+	height: 30px;
+	margin: 6px 0 4px;
+	vertical-align: middle;
+}
+
+.wc_bookings_calendar_form .tablenav .filters {
+	float: left;
+	line-height: 30px;
+	padding: 5px;
+	border-right: 1px solid #ddd;
+}
+
+.wc_bookings_calendar_form .tablenav .date_selector {
+	margin-left: 5px;
+	display: block;
+	float: left;
+}
+
+.wc_bookings_calendar_form .tablenav .date_selector a.prev {
+	float: left;
+}
+
+.wc_bookings_calendar_form .tablenav .date_selector a {
+	display: inline-block;
+	position: relative;
+	height: 1em;
+	font-size: 1.5em;
+	padding: .6em;
+	float: left;
+	color: #17a2b8;
+}
+
+.wc_bookings_calendar_form .tablenav .date_selector div {
+	padding: 5px 0;
+	float: left;
+	display: inline-block;
+	width: 200px;
+}
+
+.wc_bookings_calendar_form .tablenav .date_selector div.month_view {
+	width: 100px;
+}
+
+.wc_bookings_calendar_form .tablenav .date_selector div:first-of-type select {
+	margin-right: 5px;
+}
+
+#wcfm-main-contentainer .wc_bookings_calendar_form .tablenav .date_selector select {
+	vertical-align: middle;
+	width: 6em;
+}
+
+#wcfm-main-contentainer select.wcfm-select {
+	margin-bottom: 0px;
+}
+
+#wcfm-main-contentainer .wc_bookings_calendar_form .tablenav .date_selector input {
+	border: 1px solid #ddd;
+	-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+	box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+	background-color: #fff;
+	color: #32373c;
+	outline: 0;
+	-webkit-transition: 50ms border-color ease-in-out;
+	transition: 50ms border-color ease-in-out;
+	width: 100%;
+	margin-bottom: 0px;
+}
+
+.wc_bookings_calendar_form .tablenav .views {
+	float: right;
+	padding: 0;
+	border-left: 1px solid #ddd;
+}
+
+.wc_bookings_calendar_form .tablenav .views a {
+	padding: 14px 20px;
+	display: block;
+	text-decoration: none;
+	color: #17a2b8;
+	font-weight: 600;
+}
+
+.wc_bookings_calendar_form .wc_bookings_calendar {
+	width: 100%;
+  margin: 1em 0 0!important;
+}
+
+#wcfm-main-contentainer .wc_bookings_calendar_form .wc_bookings_calendar td {
+	color: #bbb;
+	text-align: right;
+	padding: 8px 8px 0 0;
+	font-size: 20px;
+	border-right: 1px solid #ddd !important;
+	border-bottom: 1px solid #ddd !important;
+	height: 120px;
+}
+
+.wc_bookings_calendar_form .wc_bookings_calendar td a {
+	color: #356AA0;
+}
+
+.wc_bookings_calendar_form .wc_bookings_calendar .calendar-diff-month {
+  background: #efefef;
+}
+
+.wc_bookings_calendar_form .wc_bookings_calendar td .bookings {
+	overflow: auto;
+	height: 100px;
+	width: 100%;
+	text-align: left;
+	font-family: HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",sans-serif;
+}
+
+.wc_bookings_calendar_form .wc_bookings_calendar td .bookings ul {
+	padding: 0;
+	margin: 0;
+}
+
+.wc_bookings_calendar_form .wc_bookings_calendar td .bookings ul li {
+	padding: 0;
+	margin: 0 0 4px;
+	list-style: none;
+}
+
+.wc_bookings_calendar_form .wc_bookings_calendar td .bookings ul li a {
+	border-left: 4px solid #eee;
+	padding: 3px 3px 3px 8px;
+	display: block;
+	font-size: 10px;
+	color: #555;
+	line-height: 15px;
+  font-weight: 400;
+}
+
+.wc_bookings_calendar_form .wc_bookings_calendar td .bookings ul li a strong {
+	font-size: 12px;
+	word-wrap: break-word;
+	font-weight: 500;
+	line-height: 15px;
+	color: #17a2b8;
+}
+
+.wc_bookings_calendar_form .wc_bookings_calendar td .bookings ul li a ul li {
+	list-style: none;
+	font-size: 10px;
+	padding: 0;
+	margin: 0;
+	border: 0;
+	line-height: 15px;
+}
+
+.wc_bookings_calendar_form .calendar_days {
+	position: relative;
+	height: 1440px;
+	overflow: hidden;
+	overflow-x: scroll;
+	border: 1px solid #ddd;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAA8CAYAAACn8dD6AAAAIElEQVQYGWO4e/fuf4afP3/+Z2IAgsFCfP36lWHQuQoAvaoOvF/jxHkAAAAASUVORK5CYII=);
+	background-repeat: repeat;
+	background-position: 0 0;
+}
+
+.wc_bookings_calendar_form .calendar_days .hours {
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin: -.5em 0 0 0;
+}
+
+.wc_bookings_calendar_form .calendar_days .hours li {
+	height: 60px;
+	vertical-align: top;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.wc_bookings_calendar_form .calendar_days .hours li label {
+	float: left;
+	background: #f9f9f9;
+	padding: 0 8px;
+}
+
+.wc_bookings_calendar_form .calendar_days .bookings {
+	margin: 0 0 0 100px;
+	padding: 0;
+	height: 100%;
+	white-space: nowrap;
+	position: relative;
+}
+
+.wc_bookings_calendar_form .calendar_days .bookings li {
+	position: absolute;
+	width: 98px;
+	background: #000;
+	border-radius: 2px;
+	margin: 0;
+	overflow: hidden;
+	color: #fff;
+	list-style: none;
+}
+
+.wc_bookings_calendar_form .calendar_days .bookings li a {
+	display: block;
+	padding: 2px 4px;
+	height: 100%;
+	width: 100%;
+	position: relative;
+	color: #fff;
+	text-decoration: none;
+}
+
+
+.wc_bookings_calendar_form .day_label_short { display: none; }
+
+@media only screen and (max-width: 640px) {
+	.wc_bookings_calendar_form .tablenav .filters {
+		float: none;
+		text-align: center;
+	}
+	
+	.wc_bookings_calendar_form .tablenav .date_selector {
+		margin: 0px auto;
+		text-align: center;
+		width: 100%;
+		float: none;
+	}
+	
+	.wc_bookings_calendar_form .tablenav .date_selector a {
+		float: none;
+	}
+	
+	.wc_bookings_calendar_form .tablenav .date_selector div {
+		float: none;
+	}
+	
+	.wc_bookings_calendar_form .tablenav .views {
+		float: none;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+	}
+	
+	#wcfm-main-contentainer table td, #wcfm-main-contentainer table thead th {
+    padding: 1em .5em !important;
+  }
+  
+  .wc_bookings_calendar_form .day_label_long { display: none; }
+  .wc_bookings_calendar_form .day_label_short { display: block; }
+  
+  .wc_bookings_calendar_form .wc_bookings_calendar td .bookings ul li a { 
+    padding: 0px;
+    border-left: 1px solid #eee;
+  }
+}

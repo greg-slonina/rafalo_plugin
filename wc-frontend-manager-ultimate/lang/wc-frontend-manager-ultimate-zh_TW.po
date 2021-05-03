@@ -1,0 +1,5218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-25 10:58+0000\n"
+"PO-Revision-Date: 2020-02-08 16:14+0000\n"
+"Language-Team: 繁體中文\n"
+"Language: zh-TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Last-Translator: 李明軒 <eggeggxuan@gmail.com>\n"
+"X-Loco-Version: 2.3.0; wp-5.2.5"
+
+#: controllers/wcfmu-controller-screen-manage.php:36 
+#: controllers/wcfmu-controller-screen-manage.php:40
+msgid "Screen update successfully"
+msgstr ""
+
+#: controllers/wcfmu-controller-screen-manage.php:42 
+#: controllers/wcfmu-controller-screen-manage.php:43
+msgid "Screen update failed"
+msgstr ""
+
+#: core/class-wcfmu-ajax.php:219
+msgid "Attachment"
+msgstr ""
+
+#: core/class-wcfmu-ajax.php:225
+msgid "Attachments"
+msgstr ""
+
+#: core/class-wcfmu-ajax.php:235
+#, php-format
+msgid "%s has added the following note"
+msgstr ""
+
+#: core/class-wcfmu-ajax.php:248
+msgid "Just Now"
+msgstr ""
+
+#: core/class-wcfmu-bulk-edit.php:43 
+#: views/capability/wcfmu-view-capability.php:156
+msgid "Bulk Edit"
+msgstr "批量編輯"
+
+#: core/class-wcfmu-custom-validation.php:64
+msgid "Choose shipping class"
+msgstr ""
+
+#: core/class-wcfmu-custom-validation.php:77 
+#: core/class-wcfmu-custom-validation.php:80 
+#: core/class-wcfmu-custom-validation.php:84 
+#: core/class-wcfmu-custom-validation.php:87
+msgid "Gallery Images"
+msgstr ""
+
+#: core/class-wcfmu-custom-validation.php:120
+msgid "Product Custom Validation"
+msgstr ""
+
+#: core/class-wcfmu-custom-validation.php:124
+msgid "Configure what to set required for product manager"
+msgstr ""
+
+#: core/class-wcfmu-custom-validation.php:127
+msgid "Pricing"
+msgstr ""
+
+#: core/class-wcfmu-custom-validation.php:137
+msgid "Content"
+msgstr ""
+
+#: core/class-wcfmu-custom-validation.php:140
+msgid "Excerpt"
+msgstr ""
+
+#: core/class-wcfmu-custom-validation.php:147
+msgid "Sidebar"
+msgstr ""
+
+#: core/class-wcfmu-custom-validation.php:151 
+#: views/capability/wcfmu-view-capability.php:131
+msgid "Featured Image"
+msgstr ""
+
+#: core/class-wcfmu-custom-validation.php:152 
+#: views/capability/wcfmu-view-capability.php:132
+msgid "Gallery Image"
+msgstr ""
+
+#: core/class-wcfmu-custom-validation.php:175
+msgid "Inventory"
+msgstr ""
+
+#: core/class-wcfmu-custom-validation.php:186 
+#: views/capability/wcfmu-view-capability.php:289 
+#: views/vendor_invoice/commission-invoice-rtl.php:297 
+#: views/vendor_invoice/commission-invoice-rtl.php:503 
+#: views/vendor_invoice/commission-invoice.php:299 
+#: views/vendor_invoice/commission-invoice.php:498 
+#: views/vendor_invoice/packing-slip-rtl.php:328 
+#: views/vendor_invoice/packing-slip-rtl.php:419 
+#: views/vendor_invoice/packing-slip.php:328 
+#: views/vendor_invoice/packing-slip.php:417 
+#: views/vendor_invoice/store-invoice-rtl.php:304 
+#: views/vendor_invoice/store-invoice-rtl.php:392 
+#: views/vendor_invoice/store-invoice.php:304 
+#: views/vendor_invoice/store-invoice.php:390 
+#: views/vendor_invoice/withdrawal-invoice.php:184
+msgid "Shipping"
+msgstr "運費"
+
+#: core/class-wcfmu-custom-validation.php:193
+msgid "Shipping Class"
+msgstr ""
+
+#: core/class-wcfmu-custom-validation.php:199 
+#: views/vendor_invoice/packing-slip-rtl.php:410 
+#: views/vendor_invoice/packing-slip.php:408 
+#: views/vendor_invoice/store-invoice-rtl.php:383 
+#: views/vendor_invoice/store-invoice.php:381 
+#: views/vendor_invoice/withdrawal-invoice.php:182
+msgid "Tax"
+msgstr ""
+
+#: core/class-wcfmu-custom-validation.php:209
+msgid "Linked"
+msgstr ""
+
+#: core/class-wcfmu-customfield-support.php:37
+msgid "After product title"
+msgstr ""
+
+#: core/class-wcfmu-customfield-support.php:37
+msgid "After product price"
+msgstr ""
+
+#: core/class-wcfmu-customfield-support.php:37
+msgid "With product summery"
+msgstr ""
+
+#: core/class-wcfmu-customfield-support.php:37
+msgid "Before product meta"
+msgstr ""
+
+#: core/class-wcfmu-customfield-support.php:37
+msgid "After product meta"
+msgstr ""
+
+#: core/class-wcfmu-customfield-support.php:37
+msgid "With product description"
+msgstr ""
+
+#: core/class-wcfmu-dokan-subscription.php:71 
+#: core/class-wcfmu-dokan-subscription.php:102 
+#: views/dokan-subscription/wcfmu-view-dokan-subscription.php:25
+msgid "Subscription Packs"
+msgstr ""
+
+#: core/class-wcfmu-dokan.php:136
+msgid "Show all dates"
+msgstr "顯示全部日期"
+
+#. 1: month name, 2: 4-digit year
+#. 1: month name, 2: 4-digit year
+#. 1: month name, 2: 4-digit year
+#: core/class-wcfmu-dokan.php:154
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:75 
+#: controllers/products/wcfmu-controller-products.php:27 
+#: controllers/products/wcfmu-controller-products.php:31 
+#: views/capability/wcfmu-view-capability.php:155
+msgid "Quick Edit"
+msgstr "快速編輯"
+
+#: core/class-wcfmu-frontend.php:89
+msgid "Add your note"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:94
+msgid "Add Note"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:98
+msgid "Upload File"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:102 
+#: views/orders/wcfmu-view-orders-add-customer.php:41 
+#: views/orders/wcfmu-view-orders-edit-popup.php:51 
+#: views/orders/wcfmu-view-orders-manage.php:287 
+#: views/products/wcfmu-view-stock-manage.php:185 
+#: views/support/wcfmu-view-support-popup.php:115 
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:144 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:203 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:229 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:266 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:228 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:243 
+#: views/integrations/license-manager/wcfmu-view-wc-license-generators-manage-popup.php:59
+#:  
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys-manage-popup.php:67
+msgid "Submit"
+msgstr "送出"
+
+#: core/class-wcfmu-frontend.php:126
+msgid "See Attachment"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:138
+msgid "Your note succesfully submitted."
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:141
+#, php-format
+msgid "<b>%s</b> order note added by customer - %s"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:165
+msgid "Sales by product"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:166
+msgid "Coupons by date"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:167
+msgid "Low in stock"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:168 
+#: controllers/reports/wcfmu-controller-reports-low-in-stock.php:102
+msgid "Out of stock"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:264
+msgid "Check to associate this attribute with the product"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:286 core/class-wcfmu-vendor-support.php:63 
+#: views/products/wcfmu-view-products.php:66
+msgid "Downloadable"
+msgstr "可下載"
+
+#: core/class-wcfmu-frontend.php:291
+msgid "Weight"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:292
+msgid "Length"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:293
+msgid "Width"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:294
+msgid "Height"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:295
+msgid "Shipping class"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:296
+msgid "Tax class"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:298 core/class-wcfmu-wcaddons.php:352 
+#: views/capability/wcfmu-view-capability.php:308
+msgid "Description"
+msgstr "描述"
+
+#: core/class-wcfmu-frontend.php:299
+msgid "File Name"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:300
+msgid "File"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:301
+msgid "Download Limit"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:301 core/class-wcfmu-integrations.php:1635 
+#: views/capability/wcfmu-view-capability.php:180 
+#: views/capability/wcfmu-view-capability.php:181 
+#: views/capability/wcfmu-view-capability.php:182 
+#: views/capability/wcfmu-view-capability.php:183 
+#: views/capability/wcfmu-view-capability.php:184 
+#: views/capability/wcfmu-view-capability.php:198 
+#: views/capability/wcfmu-view-capability.php:211 
+#: views/capability/wcfmu-view-capability.php:235
+msgid "Unlimited"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:302
+msgid "Download Expiry"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:302
+msgid "Never"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:325
+msgid "Categories wise Attributes"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:329
+msgid "Category Specific Attributes Setup"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:338 core/class-wcfmu-integrations.php:2940
+msgid "Attributes"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:355
+msgid ""
+"Create Attributes group as per Categories. If no group for a category then "
+"all attributes will be available for that."
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:386
+msgid "Add new customer"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:453 core/class-wcfmu-integrations.php:621 
+#: views/integrations/auction/wcfmu-view-auctions.php:24
+msgid "Auctions"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:457 
+#: views/integrations/rental/wcfmu-view-wcrental-calendar.php:141
+msgid "Rental Calendar"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:461 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:24
+msgid "Quote Request"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:465
+msgid "Manage Quote Request"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:469 core/class-wcfmu-integrations.php:658 
+#: views/support/wcfmu-view-my-account-support-manage.php:78 
+#: views/support/wcfmu-view-support-manage.php:83 
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:43 
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:50
+msgid "Tickets"
+msgstr "支援票"
+
+#: core/class-wcfmu-integrations.php:473 
+#: views/integrations/license-manager/wcfmu-view-wc-license-generators.php:24
+msgid "License Generators"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:477 core/class-wcfmu-integrations.php:677 
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:24
+msgid "License Keys"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:634
+msgid "Rentals"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:639 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:89 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:99
+msgid "Quote"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:672
+msgid "License Genrators"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:706 core/class-wcfmu-integrations.php:742 
+#: views/integrations/auction/wcfmu-view-auctions.php:58 
+#: views/integrations/auction/wcfmu-view-auctions.php:66 
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:55 
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:52
+msgid "Auction"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:713
+msgid "Rental Product"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:720 core/class-wcfmu-integrations.php:760 
+#: views/integrations/wcfmu-view-wc-lottery-product-manage.php:41
+msgid "Lottery"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:736
+msgid "Resume Package"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:754 
+#: controllers/support/wcfmu-controller-support-form.php:115 
+#: controllers/support/wcfmu-controller-support-form.php:122 
+#: controllers/support/wcfmu-controller-support-manage.php:106 
+#: controllers/support/wcfmu-controller-support-manage.php:113 
+#: controllers/support/wcfmu-controller-support-manage.php:270 
+#: controllers/support/wcfmu-controller-support-manage.php:277 
+#: views/support/wcfmu-view-my-account-support-manage.php:74 
+#: views/support/wcfmu-view-my-account-support.php:60 
+#: views/support/wcfmu-view-support-manage.php:79 
+#: views/support/wcfmu-view-support.php:103 
+#: views/support/wcfmu-view-support.php:117 
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:87 
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:98
+msgid "Ticket"
+msgstr "支援票"
+
+#: core/class-wcfmu-integrations.php:927
+msgid "Voucher codes successfully generated."
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:1488 
+#: controllers/integrations/fooevent/wcfmu-controller-wc-fooevents-tickets.php:197
+msgid "Barcode"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:1489
+msgid "ISBN"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:1499
+msgid "MSRP Price"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:1509
+msgid "Fee Name"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:1509
+msgid "This will be shown at the checkout description the added fee."
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:1510
+msgid "Fee Amount"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:1510
+msgid ""
+"Enter a monetary decimal without any currency symbols or thousand separator. "
+"This field also accepts percentages."
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:1511
+msgid "Multiple Fee by Quantity"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:1511
+msgid ""
+"Multiply the fee by the quantity of this product that is added to the cart."
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:1694 
+#: core/class-wcfmu-integrations.php:1697 
+#: core/class-wcfmu-integrations.php:1716
+msgid "Create New Product"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:1694 
+#: core/class-wcfmu-integrations.php:1697 
+#: core/class-wcfmu-integrations.php:1716
+msgid "Manage Products"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2142 
+#: core/class-wcfmu-integrations.php:2220
+msgid "Rule(s)"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2310 
+#: views/integrations/wcfmu-view-wc-min-max-quantities-products-manage.php:45
+msgid "Min/Max Quantities"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2380 
+#: core/class-wcfmu-integrations.php:2388
+msgid "360° Images"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2796 
+#: views/integrations/license-manager/wcfmu-view-wc-license-manager-product-manage.php:56
+msgid "License Manager"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2940
+msgid "Categories"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2940
+msgid "Pickup Location"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2940
+msgid "Dropoff Location"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2940 
+#: views/tych_bookings/wcfmu-view-booking-resources.php:66 
+#: views/tych_bookings/wcfmu-view-booking-resources.php:73 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:82 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:92
+msgid "Resource"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2940
+msgid "Person"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2940
+msgid "Deposit"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2940
+msgid "Features"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:3083
+msgid "Congratulations! Your quote request has been accepted"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:3107
+msgid "Your quote request status has been updated"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:3126
+msgid "Quote request status has been updated."
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:3187
+msgid "New reply for your quote request"
+msgstr ""
+
+#: core/class-wcfmu-license.php:163
+msgid "WCFM Ultimate"
+msgstr ""
+
+#: core/class-wcfmu-license.php:300
+#, php-format
+msgid ""
+"The WCFM - Ultimate License Key has not been activated, so the plugin is "
+"inactive! %sClick here%s to activate the license key and the plugin."
+msgstr ""
+
+#: core/class-wcfmu-non-ajax.php:31
+msgid "Set WCFMu License"
+msgstr ""
+
+#: core/class-wcfmu-non-ajax.php:31
+msgid "License"
+msgstr ""
+
+#: core/class-wcfmu-non-ajax.php:48
+msgid "View WCFMu Change Log"
+msgstr ""
+
+#: core/class-wcfmu-non-ajax.php:48
+msgid "Change Log"
+msgstr ""
+
+#: core/class-wcfmu-orders.php:82
+msgid "Create Order"
+msgstr ""
+
+#: core/class-wcfmu-orders.php:136
+msgid "Edit Order"
+msgstr ""
+
+#: core/class-wcfmu-orders.php:155
+msgid "Add New Order"
+msgstr ""
+
+#: core/class-wcfmu-reviews.php:74 core/class-wcfmu-reviews.php:105
+msgid "Reviews"
+msgstr "評價"
+
+#: core/class-wcfmu-shipment-tracking.php:79
+msgid "You are not allowed to modify this order."
+msgstr "目前不允許您更改這個訂單。"
+
+#: core/class-wcfmu-shipment-tracking.php:92
+msgid "Order marked shipped."
+msgstr "訂單標示已出貨。"
+
+#: core/class-wcfmu-shipment-tracking.php:98 
+#: core/class-wcfmu-shipment-tracking.php:147 
+#: core/class-wcfmu-shipment-tracking.php:205 
+#: core/class-wcfmu-shipment-tracking.php:353
+#, php-format
+msgid ""
+"Vendor <b>%s</b> has shipped <b>%s</b> to customer.<br/>Tracking Code : %s "
+"<br/>Tracking URL : <a class=\"wcfm_dashboard_item_title\" target=\"_blank\" "
+"href=\"%s\">%s</a>"
+msgstr ""
+"賣家 <b>%s</b> 已出貨 <b>\"%s\"</b> 給顧客。<br/>物流編號： %s <br/>物流網址：<a "
+"class=\"wcfm_dashboard_item_title\" target=\"_blank\" href=\"%s\">%s</a>"
+
+#: core/class-wcfmu-shipment-tracking.php:104 
+#: core/class-wcfmu-shipment-tracking.php:151 
+#: core/class-wcfmu-shipment-tracking.php:212 
+#: core/class-wcfmu-shipment-tracking.php:357
+#, php-format
+msgid ""
+"Product <b>%s</b> has been shipped to customer.<br/>Tracking Code : %s <br/>"
+"Tracking URL : <a href=\"%s\">%s</a>"
+msgstr "商品 <b>\"%s\"</b> 已出貨給顧客。<br/>物流編號：%s <br/>物流網址：<a href=\"%s\">%s</a>"
+
+#: core/class-wcfmu-shipment-tracking.php:260 
+#: core/class-wcfmu-shipment-tracking.php:269
+#, php-format
+msgid ""
+"Vendor <b>%s</b> has shipped <b>%s</b> to customer.<br/>Tracking Info : <a "
+"class=\"wcfm_dashboard_item_title\" target=\"_blank\" href=\"%s\">%s</a>"
+msgstr ""
+
+#: core/class-wcfmu-shipment-tracking.php:279
+#, php-format
+msgid ""
+"Product <b>%s</b> has been shipped to customer.<br/>Tracking Info : <a "
+"href=\"%s\">%s</a>"
+msgstr ""
+
+#: core/class-wcfmu-shipment-tracking.php:386
+#, php-format
+msgid ""
+"Product <b>%s</b> has been shipped to you.<br/>Tracking Code : %s <br/>"
+"Tracking URL : <a target=\"_blank\" href=\"%s\">%s</a>"
+msgstr "我們已寄出商品 <b>\"%s\"</b> 給您。<br/>物流編號：%s <br/>物流網址：<a href=\"%s\">%s</a>"
+
+#: core/class-wcfmu-shipment-tracking.php:387 
+#: core/class-wcfmu-shipment-tracking.php:399 
+#: core/class-wcfmu-shipment-tracking.php:417
+msgid "Shipment Tracking Update"
+msgstr "配送物流更新"
+
+#: core/class-wcfmu-shipment-tracking.php:388 
+#: core/class-wcfmu-shipment-tracking.php:400 
+#: controllers/support/wcfmu-controller-support-form.php:116 
+#: controllers/support/wcfmu-controller-support-manage.php:107 
+#: controllers/support/wcfmu-controller-support-manage.php:271
+msgid "Hi"
+msgstr "您好"
+
+#: core/class-wcfmu-shipment-tracking.php:390
+msgid "Product Shipment update:"
+msgstr "商品配送更新："
+
+#: core/class-wcfmu-shipment-tracking.php:394 
+#: core/class-wcfmu-shipment-tracking.php:406
+#, php-format
+msgid "Track your package %shere%s."
+msgstr ""
+
+#: core/class-wcfmu-shipment-tracking.php:398
+#, php-format
+msgid ""
+"Order <b>%s</b> has been shipped to you.<br/>Tracking Code : %s <br/>"
+"Tracking URL : <a target=\"_blank\" href=\"%s\">%s</a>"
+msgstr ""
+
+#: core/class-wcfmu-shipment-tracking.php:402
+msgid "Order Shipment update:"
+msgstr ""
+
+#: core/class-wcfmu-shipment-tracking.php:447 
+#: controllers/products/wcfmu-controller-stock-manage.php:307 
+#: controllers/products/wcfmu-controller-stock-manage.php:309
+msgid "YES"
+msgstr "是"
+
+#: core/class-wcfmu-shipment-tracking.php:459
+#, php-format
+msgid "Customer marked <b>%s</b> received."
+msgstr "顧客標示 <b>%s</b> 已收貨。"
+
+#: core/class-wcfmu-shipment-tracking.php:474
+#, php-format
+msgid ""
+"<b>%s</b> order status updated to <b>%s</b> on item receive by customer."
+msgstr ""
+
+#: core/class-wcfmu-shipment-tracking.php:507 
+#: core/class-wcfmu-shipment-tracking.php:535 
+#: core/class-wcfmu-shipment-tracking.php:562 
+#: core/class-wcfmu-shipment-tracking.php:602 
+#: core/class-wcfmu-shipment-tracking.php:626 
+#: views/orders/wcfmu-view-orders-details.php:300 
+#: views/orders/wcfmu-view-orders-details.php:315
+msgid "Mark Shipped"
+msgstr "標示已出貨"
+
+#: core/class-wcfmu-shipment-tracking.php:653
+msgid "Mark Fulfilled"
+msgstr "標示已送達"
+
+#: core/class-wcfmu-shipment-tracking.php:665 
+#: helpers/wcfmu-core-functions.php:463 
+#: views/orders/wcfmu-view-orders-details.php:266 
+#: views/orders/wcfmu-view-shipment-tracking.php:28
+msgid "Tracking Code"
+msgstr "物流編號"
+
+#: core/class-wcfmu-shipment-tracking.php:669 
+#: helpers/wcfmu-core-functions.php:464 
+#: views/orders/wcfmu-view-orders-details.php:270 
+#: views/orders/wcfmu-view-shipment-tracking.php:29
+msgid "Tracking URL"
+msgstr "物流網址"
+
+#: core/class-wcfmu-shipment-tracking.php:673
+msgid "Item(s) Received"
+msgstr "收到商品"
+
+#: core/class-wcfmu-shipment-tracking.php:719
+msgid "Shipment Tracking: "
+msgstr "配送物流："
+
+#: core/class-wcfmu-shipment-tracking.php:721
+msgid "Item(s) already received."
+msgstr "商品已送達。"
+
+#: core/class-wcfmu-shipment-tracking.php:725
+msgid "Mark as Received"
+msgstr "我已收到商品"
+
+#: core/class-wcfmu-shipment-tracking.php:729
+msgid "Item(s) will be shipped soon."
+msgstr "我們盡快為您出貨。"
+
+#: core/class-wcfmu-shipment-tracking.php:736 core/class-wcfmu.php:452 
+#: views/orders/wcfmu-view-orders-details.php:199
+msgid "Shipment Tracking"
+msgstr "配送物流"
+
+#: core/class-wcfmu-shipment-tracking.php:737
+msgid "Shipment Received"
+msgstr "已收到商品"
+
+#: core/class-wcfmu-sitepress-wpml.php:268 
+#: core/class-wcfmu-sitepress-wpml.php:269
+msgid "Translations"
+msgstr ""
+
+#: core/class-wcfmu-support.php:122 core/class-wcfmu-support.php:388 
+#: core/class-wcfmu-support.php:406 
+#: views/support/wcfmu-view-my-account-support-manage.php:78 
+#: views/support/wcfmu-view-support-manage.php:83 
+#: views/support/wcfmu-view-support.php:40
+msgid "Support Tickets"
+msgstr "客服支援票"
+
+#: core/class-wcfmu-support.php:125
+msgid "Support Ticket Manager"
+msgstr "客服支援票管理"
+
+#: core/class-wcfmu-support.php:174 core/class-wcfmu-support.php:441
+msgid "Support"
+msgstr "客服"
+
+#: core/class-wcfmu-support.php:189
+msgid "General query"
+msgstr "一般問題"
+
+#: core/class-wcfmu-support.php:190
+msgid "Suggestion"
+msgstr "想法建議"
+
+#: core/class-wcfmu-support.php:191
+msgid "Delivery issue"
+msgstr "交貨問題"
+
+#: core/class-wcfmu-support.php:192
+msgid "Damage item received"
+msgstr "商品受損"
+
+#: core/class-wcfmu-support.php:193
+msgid "Wrong item received"
+msgstr "商品不符合"
+
+#: core/class-wcfmu-support.php:194
+msgid "Other"
+msgstr "其他"
+
+#: core/class-wcfmu-support.php:208 core/class-wcfmu-support.php:238 
+#: controllers/wc_subscriptions/wcfmu-controller-wcsubscriptions.php:23 
+#: controllers/xa_subscriptions/wcfmu-controller-xasubscriptions.php:23 
+#: views/orders/wcfmu-view-orders.php:10 
+#: views/products/wcfmu-view-products.php:8 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:19 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:19 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:19
+msgid "All"
+msgstr "全部"
+
+#: core/class-wcfmu-support.php:209 core/class-wcfmu-support.php:218 
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:61
+msgid "Normal"
+msgstr "一般"
+
+#: core/class-wcfmu-support.php:210 core/class-wcfmu-support.php:219
+msgid "Low"
+msgstr "低"
+
+#: core/class-wcfmu-support.php:211 core/class-wcfmu-support.php:220
+msgid "Medium"
+msgstr "中"
+
+#: core/class-wcfmu-support.php:212 core/class-wcfmu-support.php:221
+msgid "High"
+msgstr "高"
+
+#: core/class-wcfmu-support.php:213 core/class-wcfmu-support.php:222
+msgid "Urgent"
+msgstr "緊急"
+
+#: core/class-wcfmu-support.php:214 core/class-wcfmu-support.php:223
+msgid "Critical"
+msgstr "危急"
+
+#: core/class-wcfmu-support.php:239 core/class-wcfmu-support.php:244 
+#: controllers/followers/wcfmu-controller-followings.php:130 
+#: controllers/support/wcfmu-controller-support.php:140 
+#: views/support/wcfmu-view-my-account-support-manage.php:141 
+#: views/support/wcfmu-view-my-account-support-manage.php:141 
+#: views/support/wcfmu-view-my-account-support.php:53 
+#: views/support/wcfmu-view-support-manage.php:148 
+#: views/support/wcfmu-view-support-manage.php:148
+msgid "Open"
+msgstr "處理中"
+
+#: core/class-wcfmu-support.php:240 core/class-wcfmu-support.php:245 
+#: controllers/followers/wcfmu-controller-followings.php:132 
+#: controllers/support/wcfmu-controller-support.php:142 
+#: views/support/wcfmu-view-my-account-support-manage.php:143 
+#: views/support/wcfmu-view-my-account-support-manage.php:143 
+#: views/support/wcfmu-view-my-account-support.php:55 
+#: views/support/wcfmu-view-support-manage.php:150 
+#: views/support/wcfmu-view-support-manage.php:150
+msgid "Closed"
+msgstr "已解決"
+
+#: core/class-wcfmu-support.php:414 core/class-wcfmu.php:453 
+#: views/capability/wcfmu-view-capability.php:390 
+#: views/support/wcfmu-view-support-manage.php:72 
+#: views/support/wcfmu-view-support-popup.php:34
+msgid "Support Ticket"
+msgstr "客服支援票"
+
+#: core/class-wcfmu-support.php:533
+msgid "Enquiries"
+msgstr ""
+
+#: core/class-wcfmu-support.php:545
+msgid "Show All"
+msgstr "顯示全部"
+
+#: core/class-wcfmu-support.php:548
+msgid "There is no support yet!!"
+msgstr ""
+
+#: core/class-wcfmu-support.php:567
+msgid "New Support"
+msgstr ""
+
+#: core/class-wcfmu-tychbookings.php:738 core/class-wcfmu-wcbookings.php:715
+#, php-format
+msgid "<b>%s</b> booking status updated to <b>%s</b> by <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmu-tychbookings.php:741 core/class-wcfmu-wcbookings.php:718
+msgid "Booking status updated."
+msgstr ""
+
+#: core/class-wcfmu-vendor-badges.php:84 core/class-wcfmu-vendor-badges.php:88 
+#: core/class-wcfmu-vendor-badges.php:93 
+#: core/class-wcfmu-vendor-badges.php:167 
+#: views/integrations/wcfmu-view-wc-product-badge-products-manage.php:45
+msgid "Badges"
+msgstr ""
+
+#: core/class-wcfmu-vendor-badges.php:93
+#, php-format
+msgid ""
+"You may create any type of custom badges for your vendors. <a "
+"target=\"_blank\" href=\"%s\">Know more.</a>"
+msgstr ""
+
+#: core/class-wcfmu-vendor-badges.php:94 
+#: core/class-wcfmu-vendor-invoice.php:79 
+#: core/class-wcfmu-vendor-invoice.php:91 
+#: core/class-wcfmu-vendor-verification.php:226 
+#: core/class-wcfmu-vendor-verification.php:236 
+#: core/class-wcfmu-vendor-verification.php:247 
+#: core/class-wcfmu-vendor-verification.php:258 
+#: core/class-wcfmu-vendor-verification.php:269
+msgid "Enable"
+msgstr "啟用"
+
+#: core/class-wcfmu-vendor-badges.php:95
+msgid "Badge Icon"
+msgstr ""
+
+#: core/class-wcfmu-vendor-badges.php:96
+msgid "Badge Name"
+msgstr ""
+
+#: core/class-wcfmu-vendor-badges.php:96
+msgid "Name of the badge visible as tooltip."
+msgstr ""
+
+#: core/class-wcfmu-vendor-badges.php:124
+#, php-format
+msgid ""
+"There is no badges yet to be configured! <a target=\"_blank\" href=\"%s\">"
+"Know more.</a>"
+msgstr ""
+
+#: core/class-wcfmu-vendor-badges.php:174
+msgid "There is no custom badges yet for this vendor!"
+msgstr ""
+
+#: core/class-wcfmu-vendor-badges.php:178
+msgid "Manage vendor badges!"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:56 
+#: core/class-wcfmu-vendor-chatbox.php:294 
+#: core/class-wcfmu-vendor-chatbox.php:334 
+#: core/class-wcfmu-vendor-chatbox.php:1063 
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:19 
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:29
+msgid "Chat Now"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:186 
+#: core/class-wcfmu-vendor-chatbox.php:770 
+#: core/class-wcfmu-vendor-chatbox.php:785 
+#: core/class-wcfmu-vendor-chatbox.php:1078 core/class-wcfmu.php:459 
+#: views/capability/wcfmu-view-capability.php:331 
+#: views/chatbox/wcfmu-view-chatbox-firebase.php:26 
+#: views/chatbox/wcfmu-view-chatbox-firebase.php:32 
+#: views/chatbox/wcfmu-view-chatbox-talkjs.php:26 
+#: views/chatbox/wcfmu-view-chatbox-talkjs.php:32
+msgid "Chat Box"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:234
+msgid "Chatbox"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:375
+msgid "Something went wrong"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:941
+msgid "How may I help you?"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1082
+msgid "Live Chat Setting"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1088
+msgid "Chat Library"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1088
+msgid "Firebase"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1088
+msgid "TalkJS"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1089 
+#: core/class-wcfmu-vendor-chatbox.php:1091
+msgid "APP ID"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1089
+#, php-format
+msgid ""
+"URL of your Firebase application. If you don't have one, get a free Firebase "
+"application here:  %shttp://www.firebase.com%s"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1090
+msgid "APP Secret"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1090
+msgid ""
+"It can be found under the \"Secrets\" menu in your Firebase app dashboard"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1091
+#, php-format
+msgid "Get your Talk JS %sAPP ID%s"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1092
+msgid "Secret Key"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1092
+#, php-format
+msgid "Get your Talk JS %sSecret Key%s"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1093
+msgid "Chat Now Button Label"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1094
+msgid "Chat Now Button Background"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1095
+msgid "Chat Now Button Hover"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1096
+msgid "Chat Now Button Text"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1097
+msgid "Chat Now Button Text Hover"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1275
+msgid "No messages found"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1276 
+#: core/class-wcfmu-vendor-chatbox.php:1300 
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:56
+msgid "Connecting"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1277 
+#: core/class-wcfmu-vendor-chatbox.php:1301
+#, php-format
+msgid "%s is writing"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1278 
+#: views/chatbox/wcfmu-view-chatbox-firebase.php:48 
+#: views/chatbox/wcfmu-view-chatbox-firebase.php:54 
+#: views/chatbox/wcfmu-view-chatbox-firebase.php:63
+msgid "Please wait"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1279
+msgid "Connection error!"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1280
+msgid "Online"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1281
+msgid "Offline"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1282
+msgid "Connect"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1283
+msgid "Disconnect"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1284
+msgid "You are offline"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1285
+msgid ""
+"If you leave the chat, you will be logged out. However you will be able to "
+"save the conversations into your server when you will come back in the "
+"console!"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1286
+msgid "New Message"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1287
+msgid "New User Online"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1288
+msgid "Saving"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1289
+#, php-format
+msgid "User queue: %d"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1290
+#, php-format
+msgid "Talking with %s"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1291
+#, php-format
+msgid "%s shop"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1292
+msgid "Apply Macro"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1293
+msgid "No results match"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1298
+msgid "The user has closed the conversation"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1299
+msgid "No operators online"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1302
+msgid "Sending"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1303
+msgid "Please fill out all required fields"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1304
+msgid "Username is invalid"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1305
+msgid "Email is invalid"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1306
+msgid "A user is already logged in with the same email address"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1313
+msgid "January"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1314
+msgid "February"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1315
+msgid "March"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1316
+msgid "April"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1317 
+#: core/class-wcfmu-vendor-chatbox.php:1331
+msgid "May"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1318
+msgid "June"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1319
+msgid "July"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1320
+msgid "August"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1321
+msgid "September"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1322
+msgid "October"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1323
+msgid "November"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1324
+msgid "December"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1327
+msgid "Jan"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1328
+msgid "Feb"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1329
+msgid "Mar"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1330
+msgid "Apr"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1332
+msgid "Jun"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1333
+msgid "Jul"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1334
+msgid "Aug"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1335
+msgid "Sep"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1336
+msgid "Oct"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1337
+msgid "Nov"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1338
+msgid "Dec"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1341
+msgid "ago"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1342
+msgid "less than a minute"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1343
+msgid "about a minute"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1344
+#, php-format
+msgid "%d minutes"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1345
+msgid "about an hour"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1346
+#, php-format
+msgid "about %d hours"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1347
+msgid "a day"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1348
+#, php-format
+msgid "%d days"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1349
+msgid "about a month"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1350
+#, php-format
+msgid "%d months"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1351
+msgid "about a year"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1352
+#, php-format
+msgid "%d years"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1432
+msgid "Successfully closed!"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1450 
+#: core/class-wcfmu-vendor-chatbox.php:1590 
+#: core/class-wcfmu-vendor-chatbox.php:1634
+msgid "Something went wrong. Please try again"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1459
+msgid "New offline message"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1460
+msgid "You have received an offline message"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1475
+msgid "Thanks for contacting us. We will answer as soon as possible."
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1479
+msgid "We have received your offline message"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1480
+msgid "Here follows a recap of the details you have entered"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1510
+msgid ""
+"An error occurred while sending a copy of your message. However, "
+"administrators received it correctly."
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1520
+msgid "Successfully sent! Thank you"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1628 
+#: core/class-wcfmu-vendor-chatbox.php:1708
+msgid "Successfully saved!"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1756
+msgid "No operator has replied"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1771
+msgid "Below you can find a copy of the chat conversation"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1778
+msgid "Not received"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1779
+msgid "Operator"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:1779 
+#: views/integrations/auction/wcfmu-view-auctions.php:59 
+#: views/integrations/auction/wcfmu-view-auctions.php:67
+msgid "User"
+msgstr ""
+
+#: core/class-wcfmu-vendor-followers.php:158 
+#: core/class-wcfmu-vendor-followers.php:210 
+#: core/class-wcfmu-vendor-followers.php:672 
+#: views/followers/wcfmu-view-followers.php:26
+msgid "Followers"
+msgstr ""
+
+#: core/class-wcfmu-vendor-followers.php:161 
+#: core/class-wcfmu-vendor-followers.php:336 
+#: core/class-wcfmu-vendor-followers.php:354
+msgid "Followings"
+msgstr ""
+
+#: core/class-wcfmu-vendor-followers.php:382 
+#: core/class-wcfmu-vendor-followers.php:398
+msgid "New Product"
+msgstr ""
+
+#: core/class-wcfmu-vendor-followers.php:385
+msgid "A new product submitted by "
+msgstr ""
+
+#: core/class-wcfmu-vendor-followers.php:387
+#, php-format
+msgid "Check the product %s{product_title}%s."
+msgstr ""
+
+#: core/class-wcfmu-vendor-followers.php:418 core/class-wcfmu.php:458
+msgid "Following / Followers"
+msgstr ""
+
+#: core/class-wcfmu-vendor-followers.php:424
+msgid "Followers Icon"
+msgstr ""
+
+#: core/class-wcfmu-vendor-followers.php:528
+msgid "Congrats! Recently you got a new follower."
+msgstr ""
+
+#: core/class-wcfmu-vendor-followers.php:605
+msgid "New Follower"
+msgstr ""
+
+#: core/class-wcfmu-vendor-followers.php:676
+msgid "Follow Now"
+msgstr ""
+
+#: core/class-wcfmu-vendor-followers.php:817 
+#: core/class-wcfmu-vendor-followers.php:865
+msgid "Click to Follow"
+msgstr ""
+
+#: core/class-wcfmu-vendor-followers.php:817 
+#: core/class-wcfmu-vendor-followers.php:865
+msgid "Follow"
+msgstr ""
+
+#: core/class-wcfmu-vendor-followers.php:857
+msgid "Click to Un-follow"
+msgstr ""
+
+#: core/class-wcfmu-vendor-followers.php:857
+msgid "Following"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:70 
+#: core/class-wcfmu-vendor-invoice.php:880 
+#: views/vendor_invoice/commission-invoice-rtl.php:67 
+#: views/vendor_invoice/commission-invoice-rtl.php:84 
+#: views/vendor_invoice/commission-invoice.php:67 
+#: views/vendor_invoice/commission-invoice.php:84
+msgid "Invoice"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:74
+msgid "Store Invoice Setting"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:79
+msgid "Send out vendor store specific invoice to customer."
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:80
+msgid "Advance Font"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:80
+msgid "First check with default font, if not working then only enable this."
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:80
+#, php-format
+msgid "For having RTL support please install %sPDF Invoice mPDF library%s"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:81
+msgid "Advance Currency"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:81
+msgid "First check with default setting, if not working then only enable this."
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:82
+msgid "Vendor Logo"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:83
+msgid "Vendor Store Name"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:84
+msgid "Vendor Address"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:85
+msgid "Vendor Email"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:86
+msgid "Vendor Phone"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:87
+msgid "Vendor policies"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:88
+msgid "Vendor Disclaimer"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:89
+msgid "Vendor Signature"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:90
+msgid "Additional Info"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:92
+msgid "Field"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:130 
+#: core/class-wcfmu-vendor-invoice.php:208 
+#: views/vendor_invoice/store-invoice-rtl.php:83 
+#: views/vendor_invoice/store-invoice-rtl.php:121 
+#: views/vendor_invoice/store-invoice.php:83 
+#: views/vendor_invoice/store-invoice.php:121
+msgid "Store Invoice"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:136
+msgid "Invoice No Prefix"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:137
+msgid "Invoice No. Sufix"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:138
+msgid "Invoice No. Digit"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:138
+msgid "enter the number of digits here - enter `6` to display 42 as 000042"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:153
+msgid "Disclaimer"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:154
+msgid "Digital Signature"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:192 
+#: views/vendor_invoice/commission-invoice-rtl.php:82 
+#: views/vendor_invoice/commission-invoice.php:82
+msgid "Commission Invoice"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:194
+msgid "Sales Invoice"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:215
+msgid "Download Packing Slip"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:412 
+#: core/class-wcfmu-vendor-invoice.php:656
+msgid "invoice"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:523
+msgid "membership-invoice"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:741
+msgid "packing-slip"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:817
+msgid "withdrawal-invoice"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:876 
+#: core/class-wcfmu-vendor-support.php:75 
+#: views/wcfmu-view-screen-manager.php:42 
+#: views/wcfmu-view-screen-manager.php:109 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:84 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:94
+msgid "Store"
+msgstr "賣家"
+
+#: core/class-wcfmu-vendor-support.php:62 
+#: views/products/wcfmu-view-products.php:70
+msgid "Virtual"
+msgstr ""
+
+#: core/class-wcfmu-vendor-support.php:73
+msgid "Marketplace"
+msgstr ""
+
+#: core/class-wcfmu-vendor-support.php:150 
+#: views/wcfmu-view-screen-manager.php:58
+msgid "Commission"
+msgstr ""
+
+#: core/class-wcfmu-vendor-support.php:158
+msgid "Commission Type"
+msgstr ""
+
+#: core/class-wcfmu-vendor-support.php:159
+msgid "Commission(%)"
+msgstr ""
+
+#: core/class-wcfmu-vendor-support.php:160
+msgid "Commission Fixed"
+msgstr ""
+
+#: core/class-wcfmu-vendor-support.php:161
+msgid "Commission Fee"
+msgstr ""
+
+#: core/class-wcfmu-vendor-support.php:244 
+#: core/class-wcfmu-vendor-support.php:246 
+#: core/class-wcfmu-vendor-verification.php:1071 
+#: core/class-wcfmu-vendor-verification.php:1083 
+#: core/class-wcfmu-vendor-verification.php:1085 
+#: core/class-wcfmu-vendor-verification.php:1098
+msgid "Verified Vendor"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:211 
+#: core/class-wcfmu-vendor-verification.php:215 
+#: core/class-wcfmu-vendor-verification.php:343 
+#: core/class-wcfmu-vendor-verification.php:351 
+#: core/class-wcfmu-vendor-verification.php:351 
+#: core/class-wcfmu-vendor-verification.php:415 
+#: core/class-wcfmu-vendor-verification.php:895 
+#: core/class-wcfmu-vendor-verification.php:1032 
+#: views/capability/wcfmu-view-capability.php:320
+msgid "Verification"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:220
+msgid "Verification Badge"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:221
+msgid "Product Limit Restriction"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:225
+msgid "Identity Types"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:227
+msgid "Identity Name"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:237 
+#: core/class-wcfmu-vendor-verification.php:248 
+#: core/class-wcfmu-vendor-verification.php:259 
+#: core/class-wcfmu-vendor-verification.php:270
+msgid "Redirect URL"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:237 
+#: core/class-wcfmu-vendor-verification.php:248 
+#: core/class-wcfmu-vendor-verification.php:259 
+#: core/class-wcfmu-vendor-verification.php:270
+msgid "User will be redirect to the URL after successful authentication."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:238 
+#: core/class-wcfmu-vendor-verification.php:249 
+#: core/class-wcfmu-vendor-verification.php:260
+msgid "Client ID"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:238 
+#: core/class-wcfmu-vendor-verification.php:249 
+#: core/class-wcfmu-vendor-verification.php:260
+msgid "App generated Client ID required."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:239 
+#: core/class-wcfmu-vendor-verification.php:250 
+#: core/class-wcfmu-vendor-verification.php:261
+msgid "Client Secret"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:239 
+#: core/class-wcfmu-vendor-verification.php:250 
+#: core/class-wcfmu-vendor-verification.php:261
+msgid "App generated Client Secret key required."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:271
+msgid "Consumer key"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:271
+msgid "App generated Consumer Key required."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:272
+msgid "Consumer Secret"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:272
+msgid "App generated Consumer Secret required."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:317
+msgid "National ID Card"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:322
+msgid "Business Card"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:327
+msgid "Passport"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:332
+msgid "Driver's License"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:425
+msgid "Admin Note"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:430
+msgid "Prompt Verify"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:430
+msgid "Check this to submit your verification data to admin."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:436
+msgid "Identity Verification"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:456
+msgid "Address Verification"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:490
+msgid "Social Verification"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:507 
+#: core/class-wcfmu-vendor-verification.php:535 
+#: core/class-wcfmu-vendor-verification.php:563 
+#: core/class-wcfmu-vendor-verification.php:591
+msgid "Logout"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:517 
+#: core/class-wcfmu-vendor-verification.php:545 
+#: core/class-wcfmu-vendor-verification.php:573 
+#: core/class-wcfmu-vendor-verification.php:601
+msgid "Connect to"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:633 
+#: core/class-wcfmu-vendor-verification.php:645
+#, php-format
+msgid "<b>%s</b> - verification pending for review"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:642
+msgid "Verification pending for review"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:647
+#, php-format
+msgid "Check here to take your decision - %s"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:653
+msgid "Verification Pending"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:675
+msgid "Congratulations! You are already a verified seller."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:681
+msgid "Ahh! Your request still under review."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:687
+msgid "Hey! Complete social verification now and be a verified seller."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:693
+msgid "Opps! Your verification rejected, please try again."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:699
+msgid "Hey! Prompt for verification now and be a verified seller."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:732 core/class-wcfmu.php:456
+msgid "Vendor Verification"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:758 
+#: views/capability/wcfmu-view-capability.php:318 
+#: views/integrations/wcfmu-view-address-geocoder-products-manage.php:40 
+#: views/integrations/wcfmu-view-mappress-products-manage.php:31
+msgid "Address"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:762 
+#: core/class-wcfmu-vendor-verification.php:952
+msgid "Note to Vendor"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:766
+msgid "Status Update"
+msgstr "更新狀態"
+
+#: core/class-wcfmu-vendor-verification.php:768
+msgid "Approve"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:769
+msgid "Reject"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:777 
+#: views/products/wcfmu-view-products-bulk-manage.php:358 
+#: views/products/wcfmu-view-products-quick-manage.php:134 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:116 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:155 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:154 
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:100
+msgid "Update"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:814
+msgid ""
+"<b>Opps!!!</b> Your verification rejected, please try again. <br />Added "
+"note: "
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:816
+msgid "<b>Congratulation!!!</b> Your verification approved. <br />Added note: "
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:826
+msgid "Verification status successfully updated."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:830
+msgid "Verification status update failed."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:900
+msgid "Identity Details"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:919
+msgid "Address Details"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:952
+msgid "Add some note ..."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:958
+msgid "Mark Unapproved"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:958
+msgid "Mark Approved"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:997
+msgid ""
+"<b>Opps!!!</b> Your verification has been rejected, please try again. <br />"
+"Added note: "
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:999
+msgid ""
+"<b>Congratulation!!!</b> Your verification has been approved. <br />Added "
+"note: "
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:1003
+msgid "Verification ststus successfully updated."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:1007
+msgid "Verification ststus update failed."
+msgstr ""
+
+#: core/class-wcfmu-wcaccommodation.php:60
+msgid "Accommodation"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:67 core/class-wcfmu-wcaddons.php:343 
+#: core/class-wcfmu-wcaddons.php:348 
+#: views/capability/wcfmu-view-capability.php:136
+msgid "Add-ons"
+msgstr "附加選項"
+
+#: core/class-wcfmu-wcaddons.php:327
+msgid "Additional custom price input"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:328
+msgid "Additional price multiplier"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:329
+msgid "Checkboxes"
+msgstr "複選框"
+
+#: core/class-wcfmu-wcaddons.php:330
+msgid "Custom input (textarea)"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:331
+msgid "Any text"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:332
+msgid "Email address"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:333
+msgid "Only letters"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:334
+msgid "Only letters and numbers"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:335
+msgid "Only numbers"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:336
+msgid "File upload"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:337
+msgid "Radio buttons"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:338
+msgid "Select box"
+msgstr "選擇框"
+
+#: core/class-wcfmu-wcaddons.php:349
+msgid "Group"
+msgstr "類型"
+
+#: core/class-wcfmu-wcaddons.php:350 views/wcfmu-view-screen-manager.php:23 
+#: views/capability/wcfmu-view-capability.php:306 
+#: views/followers/wcfmu-view-followers.php:58 
+#: views/followers/wcfmu-view-followers.php:66 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:68 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:76 
+#: views/integrations/license-manager/wcfmu-view-wc-license-generators.php:69 
+#: views/integrations/license-manager/wcfmu-view-wc-license-generators.php:78
+msgid "Name"
+msgstr "名稱"
+
+#: core/class-wcfmu-wcaddons.php:353
+msgid "Required fields?"
+msgstr "必填欄位？"
+
+#: core/class-wcfmu-wcaddons.php:354
+msgid "Options"
+msgstr "選項"
+
+#: core/class-wcfmu-wcaddons.php:355
+msgid "Label"
+msgstr "標籤名稱"
+
+#: core/class-wcfmu-wcaddons.php:356 views/wcfmu-view-screen-manager.php:27 
+#: views/vendor_invoice/commission-invoice-rtl.php:157 
+#: views/vendor_invoice/commission-invoice.php:157 
+#: views/vendor_invoice/packing-slip-rtl.php:198 
+#: views/vendor_invoice/packing-slip.php:198 
+#: views/vendor_invoice/store-invoice-rtl.php:188 
+#: views/vendor_invoice/store-invoice.php:188
+msgid "Price"
+msgstr "價格"
+
+#: core/class-wcfmu-wcaddons.php:357
+msgid "Min"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:358
+msgid "Max"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:361
+msgid "Global Addon Exclusion"
+msgstr "排除全站附加選項"
+
+#: core/class-wcfmu-wcaddons.php:361
+msgid "Check this to exclude this product from all Global Addons"
+msgstr "打勾這個選項，從全站附加選項排除此商品"
+
+#: core/class-wcfmu-wcappointments.php:128
+msgid "Appointments Dashboard"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:131 
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:51 
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:96 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:61 
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:42 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:174 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:200 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:45 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:40
+msgid "Appointments List"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:134 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:25
+msgid "Appointments Staffs"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:137
+msgid "Appointments Staffs Manage"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:140 
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:23
+msgid "Create Appointments"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:143 
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:25 
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:111
+msgid "Appointments Calendar"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:146
+#, php-format
+msgid "Appointments Details #%s"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:149
+msgid "Appointments Settings"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:233 
+#: views/wcfmu-view-screen-manager.php:80 
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:70 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:129 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:121 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:134
+msgid "Appointment"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:531
+#, php-format
+msgid "<b>%s</b> appointment status updated to <b>%s</b> by <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:534
+msgid "Appointment status updated."
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:582
+msgid "Google Calendar Sync"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:731
+msgid "New Appointment"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:765 
+#: core/class-wcfmu-wcappointments.php:774
+#, php-format
+msgid "You have received an Appointment <b>#%s</b> for <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:85
+msgid "WCFM View"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:100 core/class-wcfmu-wcbookings.php:110
+msgid "WCFM Home"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:365 core/class-wcfmu-wcbookings.php:371
+msgid "Has Resources"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:366 core/class-wcfmu-wcbookings.php:372
+msgid "Has Persons"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:502
+msgid ""
+"Restrict the days of the week that are able to be selected on the calendar; "
+"this will not affect your availability."
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:503 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:420 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:185
+msgid "Restricted days"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:504
+msgid "First block starts at..."
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:505 core/class-wcfmu-wcbookings.php:648
+msgid "Rules"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:506 views/wcfmu-view-screen-manager.php:29 
+#: views/wcfmu-view-screen-manager.php:40 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:176 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:384 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:423 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:200 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:236 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:187 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:216 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:202 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:215
+msgid "Type"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:507 core/class-wcfmu-wcbookings.php:509 
+#: core/class-wcfmu-wcbookings.php:511 core/class-wcfmu-wcbookings.php:513 
+#: core/class-wcfmu-wcbookings.php:515 core/class-wcfmu-wcbookings.php:650 
+#: core/class-wcfmu-wcbookings.php:652 core/class-wcfmu-wcbookings.php:654 
+#: core/class-wcfmu-wcbookings.php:656 core/class-wcfmu-wcbookings.php:658 
+#: core/class-wcfmu-wcbookings.php:660 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:177 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:179 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:181 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:183 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:185 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:385 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:387 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:389 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:391 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:393 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:395 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:427 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:429 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:431 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:433 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:435 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:203 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:205 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:207 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:209 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:211 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:240 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:242 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:244 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:246 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:248 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:188 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:190 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:192 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:194 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:203 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:205 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:207 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:209 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:211 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:217 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:219 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:221 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:223 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:225
+msgid "From"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:508 core/class-wcfmu-wcbookings.php:510 
+#: core/class-wcfmu-wcbookings.php:512 core/class-wcfmu-wcbookings.php:514 
+#: core/class-wcfmu-wcbookings.php:516 core/class-wcfmu-wcbookings.php:651 
+#: core/class-wcfmu-wcbookings.php:653 core/class-wcfmu-wcbookings.php:655 
+#: core/class-wcfmu-wcbookings.php:657 core/class-wcfmu-wcbookings.php:659 
+#: core/class-wcfmu-wcbookings.php:661 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:178 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:180 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:182 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:184 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:186 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:386 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:388 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:390 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:392 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:394 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:396 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:428 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:430 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:432 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:434 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:436 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:204 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:206 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:208 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:210 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:212 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:241 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:243 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:245 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:247 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:249 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:189 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:191 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:193 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:195 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:204 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:206 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:208 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:210 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:212 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:218 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:220 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:222 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:224 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:226
+msgid "To"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:662
+msgid "Base Cost"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:760
+msgid "New Booking"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:793 core/class-wcfmu-wcbookings.php:802
+#, php-format
+msgid "You have received a Booking <b>#%s</b> for <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmu-wcfancyproductdesigner.php:82 
+#: core/class-wcfmu-wcfancyproductdesigner.php:131 
+#: views/wc_fncy_product_designer/wcfmu-view-fncy-product-builder.php:46 
+#: views/wc_fncy_product_designer/wcfmu-view-fncy-product-builder.php:46 
+#: views/wc_fncy_product_designer/wcfmu-view-fncy-product-designer.php:80 
+#: views/wc_fncy_product_designer/wcfmu-view-fncy-product-designer.php:88
+msgid "Product Designer"
+msgstr ""
+
+#: core/class-wcfmu-wcfancyproductdesigner.php:85 
+#: views/wc_fncy_product_designer/wcfmu-view-fncy-product-builder.php:35 
+#: views/wc_fncy_product_designer/wcfmu-view-fncy-product-builder.php:43 
+#: views/wc_fncy_product_designer/wcfmu-view-fncy-product-designer.php:91 
+#: views/wc_fncy_product_designer/wcfmu-view-fncy-product-designer.php:91
+msgid "Product Builder"
+msgstr ""
+
+#: core/class-wcfmu-wcmarketplace.php:123 core/class-wcfmu-wcpvendors.php:125 
+#: core/class-wcfmu-wcvendors.php:131
+msgid "Show all"
+msgstr "顯示全部"
+
+#: core/class-wcfmu-wcmarketplace.php:124 core/class-wcfmu-wcpvendors.php:126
+msgid "Unpaid"
+msgstr "未付"
+
+#: core/class-wcfmu-wcmarketplace.php:125 core/class-wcfmu-wcpvendors.php:127 
+#: core/class-wcfmu-wcvendors.php:133 
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:21
+msgid "Paid"
+msgstr "已付"
+
+#: core/class-wcfmu-wcmarketplace.php:126 core/class-wcfmu-wcvendors.php:134
+msgid "Reversed"
+msgstr "駁回"
+
+#: core/class-wcfmu-wcpvendors.php:128
+msgid "Void"
+msgstr ""
+
+#: core/class-wcfmu-wcsubscriptions.php:105 
+#: core/class-wcfmu-xasubscriptions.php:102 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:108 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:32 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:107 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:32
+msgid "Subscriptions List"
+msgstr ""
+
+#: core/class-wcfmu-wcsubscriptions.php:108 
+#: core/class-wcfmu-xasubscriptions.php:105
+#, php-format
+msgid "Subscription Manage #%s"
+msgstr ""
+
+#: core/class-wcfmu-wcsubscriptions.php:499 
+#: core/class-wcfmu-xasubscriptions.php:495
+#, php-format
+msgid "<b>%s</b> subscription status updated to <b>%s</b> by <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmu-wcsubscriptions.php:502 
+#: core/class-wcfmu-xasubscriptions.php:498
+msgid "Subscription status updated."
+msgstr ""
+
+#: core/class-wcfmu-wcvendors.php:113
+#, php-format
+msgid ""
+"%sTo add or edit products, view sales and orders for your vendor account, or "
+"to configure your store, visit your %sVendor Dashboard%s.%s"
+msgstr ""
+
+#: core/class-wcfmu-wcvendors.php:132
+msgid "Due"
+msgstr ""
+
+#: core/class-wcfmu.php:454
+msgid "Vendor Invoice"
+msgstr ""
+
+#: core/class-wcfmu.php:455
+msgid "Vendor Vacation"
+msgstr ""
+
+#: core/class-wcfmu.php:457
+msgid "Vendor Badges"
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:402
+msgid "Please choose a product before submit."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:403
+msgid "No order found, please try again!"
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:404
+msgid "Order Creation Failed."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:405
+msgid "Order Successfully Created."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:406
+msgid "Order Successfully Updated."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:418
+msgid "Please insert atleast Resource Title before submit."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:419
+msgid "Resource Saving Failed."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:420
+msgid "Resource Successfully Published."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:432
+msgid "Please insert Staff Username before submit."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:433
+msgid "Please insert Staff Email before submit."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:434
+msgid "This Username already exists."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:435
+msgid "This Email already exists."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:436
+msgid "Staff Saving Failed."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:437
+msgid "Staff Successfully Saved."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:449
+msgid "Global Settings Saving Failed."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:450
+msgid "Global Settings Successfully Saved."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:462 
+#: views/orders/wcfmu-view-shipment-tracking.php:24
+msgid "Shipment Tracking Info"
+msgstr "配送物流資訊"
+
+#: helpers/wcfmu-core-functions.php:466
+msgid "Fill up the details."
+msgstr "請填寫完整明細。"
+
+#: helpers/wcfmu-core-functions.php:467
+msgid "Details successfully updated."
+msgstr "成功更新明細。"
+
+#: helpers/wcfmu-core-functions.php:479
+msgid "Please insert your issue before submit."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:480
+msgid "Please insert your reply before submit."
+msgstr "請在送出前，輸入您的回覆。"
+
+#: helpers/wcfmu-core-functions.php:481
+msgid "Your ticket successfully sent. Ticket ID:"
+msgstr "您的支援票已成功送出。支援票 ID："
+
+#: helpers/wcfmu-core-functions.php:482
+msgid "Support reply successfully sent."
+msgstr "成功送出客服回覆。"
+
+#: views/wcfmu-view-screen-manager.php:22
+msgid "Image"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:24 
+#: views/products/wcfmu-view-products-quick-manage.php:84 
+#: views/products/wcfmu-view-products-quick-manage.php:85
+msgid "SKU"
+msgstr "SKU"
+
+#: views/wcfmu-view-screen-manager.php:25 
+#: views/wcfmu-view-screen-manager.php:50 
+#: views/wcfmu-view-screen-manager.php:67 
+#: views/wcfmu-view-screen-manager.php:79 
+#: views/wcfmu-view-screen-manager.php:92 
+#: views/wcfmu-view-screen-manager.php:110 
+#: views/products/wcfmu-view-products-bulk-manage.php:20 
+#: views/support/wcfmu-view-my-account-support-manage.php:244 
+#: views/support/wcfmu-view-my-account-support.php:40 
+#: views/support/wcfmu-view-my-account-support.php:50 
+#: views/support/wcfmu-view-support-manage.php:271 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:120 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:133 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:82 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:98 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:81 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:97 
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:91 
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:102 
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:96 
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:110 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:91 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:101
+msgid "Status"
+msgstr "狀態"
+
+#: views/wcfmu-view-screen-manager.php:26 
+#: views/products/wcfmu-view-products-quick-manage.php:110 
+#: views/products/wcfmu-view-products-quick-manage.php:111
+msgid "Stock"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:28
+msgid "Taxonomies"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:30
+msgid "Views"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:31 
+#: views/wcfmu-view-screen-manager.php:61 
+#: includes/reports/class-wcfm-report-coupon-usage.php:506 
+#: includes/reports/class-wcfm-report-sales-by-product.php:540 
+#: views/support/wcfmu-view-support.php:110 
+#: views/support/wcfmu-view-support.php:124 
+#: views/tych_bookings/wcfmu-view-booking-resources.php:67 
+#: views/tych_bookings/wcfmu-view-booking-resources.php:74 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:86 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:96 
+#: views/integrations/auction/wcfmu-view-auctions.php:61 
+#: views/integrations/auction/wcfmu-view-auctions.php:69 
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:92 
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:103 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:93 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:103
+msgid "Date"
+msgstr "日期"
+
+#: views/wcfmu-view-screen-manager.php:34 
+#: views/wcfmu-view-screen-manager.php:45 
+#: views/wcfmu-view-screen-manager.php:62 
+#: views/wcfmu-view-screen-manager.php:74 
+#: views/wcfmu-view-screen-manager.php:87 
+#: views/wcfmu-view-screen-manager.php:103 
+#: views/wcfmu-view-screen-manager.php:118 
+#: views/followers/wcfmu-view-followers.php:61 
+#: views/followers/wcfmu-view-followers.php:69 
+#: views/followers/wcfmu-view-my-account-followings.php:34 
+#: views/followers/wcfmu-view-my-account-followings.php:52 
+#: views/reports/wcfmu-view-reports-low-in-stock.php:58 
+#: views/reports/wcfmu-view-reports-low-in-stock.php:67 
+#: views/support/wcfmu-view-my-account-support.php:44 
+#: views/support/wcfmu-view-my-account-support.php:68 
+#: views/support/wcfmu-view-support.php:111 
+#: views/support/wcfmu-view-support.php:125 
+#: views/tych_bookings/wcfmu-view-booking-resources.php:68 
+#: views/tych_bookings/wcfmu-view-booking-resources.php:75 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:70 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:78 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:128 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:141 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:87 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:97 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:93 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:109 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:92 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:108 
+#: views/integrations/license-manager/wcfmu-view-wc-license-generators.php:73 
+#: views/integrations/license-manager/wcfmu-view-wc-license-generators.php:82 
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:105 
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:119 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:94 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:104
+msgid "Actions"
+msgstr "動作"
+
+#: views/wcfmu-view-screen-manager.php:39
+msgid "Code"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:41
+msgid "Amt"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:43
+msgid "Usage Limit"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:44
+msgid "Expiry date"
+msgstr "到期日"
+
+#: views/wcfmu-view-screen-manager.php:51 
+#: views/wcfmu-view-screen-manager.php:70 
+#: views/wcfmu-view-screen-manager.php:82 
+#: views/wcfmu-view-screen-manager.php:94 
+#: controllers/followers/wcfmu-controller-followings.php:150 
+#: controllers/followers/wcfmu-controller-followings.php:152 
+#: controllers/support/wcfmu-controller-support.php:160 
+#: controllers/support/wcfmu-controller-support.php:162 
+#: views/support/wcfmu-view-my-account-support-manage.php:128 
+#: views/support/wcfmu-view-support-manage.php:131 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:123 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:136 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:84 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:100 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:83 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:99 
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:98 
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:112
+msgid "Order"
+msgstr "訂單"
+
+#: views/wcfmu-view-screen-manager.php:52
+msgid "Purchased"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:53 
+#: views/wcfmu-view-screen-manager.php:57 
+#: views/wcfmu-view-screen-manager.php:59
+msgid "Hidden"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:56
+msgid "Gross Sales"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:59
+msgid "Commission Amount"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:68
+msgid "Booking"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:69 
+#: views/wcfmu-view-screen-manager.php:81 
+#: views/orders/wcfmu-view-orders-manage.php:134 
+#: views/products/wcfmu-view-products-quick-manage.php:62 
+#: views/reports/wcfmu-view-reports-low-in-stock.php:54 
+#: views/reports/wcfmu-view-reports-low-in-stock.php:63 
+#: views/support/wcfmu-view-support-popup.php:42 
+#: views/vendor_invoice/commission-invoice-rtl.php:156 
+#: views/vendor_invoice/commission-invoice.php:156 
+#: views/vendor_invoice/packing-slip-rtl.php:196 
+#: views/vendor_invoice/packing-slip.php:196 
+#: views/vendor_invoice/store-invoice-rtl.php:187 
+#: views/vendor_invoice/store-invoice.php:187 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:122 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:135 
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:99 
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:113 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:90 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:100
+msgid "Product"
+msgstr "商品"
+
+#: views/wcfmu-view-screen-manager.php:71 
+#: views/wcfmu-view-screen-manager.php:84 
+#: views/wcfmu-view-screen-manager.php:97 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:125 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:138 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:87 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:103 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:86 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:102
+msgid "Start Date"
+msgstr "開始日期"
+
+#: views/wcfmu-view-screen-manager.php:72 
+#: views/wcfmu-view-screen-manager.php:85 
+#: views/wcfmu-view-screen-manager.php:101 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:126 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:139 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:91 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:107 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:90 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:106
+msgid "End Date"
+msgstr "結束日期"
+
+#: views/wcfmu-view-screen-manager.php:83 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:67 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:75 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:124 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:137
+msgid "Staff"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:93 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:83 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:99 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:82 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:98
+msgid "Subscription"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:95 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:85 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:101 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:84 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:100
+msgid "Items"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:96 
+#: views/vendor_invoice/commission-invoice-rtl.php:159 
+#: views/vendor_invoice/commission-invoice.php:159 
+#: views/vendor_invoice/packing-slip-rtl.php:199 
+#: views/vendor_invoice/packing-slip-rtl.php:448 
+#: views/vendor_invoice/packing-slip.php:199 
+#: views/vendor_invoice/packing-slip.php:446 
+#: views/vendor_invoice/store-invoice-rtl.php:189 
+#: views/vendor_invoice/store-invoice-rtl.php:421 
+#: views/vendor_invoice/store-invoice.php:189 
+#: views/vendor_invoice/store-invoice.php:419 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:86 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:102 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:85 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:101
+msgid "Total"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:98 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:88 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:104 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:87 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:103
+msgid "Trial End"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:99 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:89 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:105 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:88 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:104
+msgid "Next Payment"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:100 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:90 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:106 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:89 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:105
+msgid "Last Order"
+msgstr "上個訂單"
+
+#: views/wcfmu-view-screen-manager.php:134
+msgid "Choose columns want to hide."
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:138
+msgid "Columns"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:139
+msgid "Admin"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:141
+msgid "Vendor"
+msgstr ""
+
+#: controllers/coupons/wcfmu-controller-coupons.php:26 
+#: controllers/coupons/wcfmu-controller-coupons.php:28 
+#: controllers/followers/wcfmu-controller-followers.php:98 
+#: controllers/orders/wcfmu-controller-orders.php:41 
+#: controllers/orders/wcfmu-controller-orders.php:50 
+#: controllers/reports/wcfmu-controller-reports-low-in-stock.php:110 
+#: controllers/reports/wcfmu-controller-reports-low-in-stock.php:113 
+#: controllers/support/wcfmu-controller-support.php:205 
+#: views/followers/wcfmu-view-my-account-followings.php:53 
+#: controllers/integrations/license-manager/wcfmu-controller-wc-license-generators.php:149
+#:  
+#: controllers/integrations/license-manager/wcfmu-controller-wc-license-keys.php:363
+msgid "Delete"
+msgstr ""
+
+#: controllers/followers/wcfmu-controller-followings.php:197 
+#: controllers/support/wcfmu-controller-support.php:202
+msgid "Reply"
+msgstr "回覆"
+
+#: controllers/orders/wcfm-controller-orders-edit.php:80 
+#: controllers/orders/wcfm-controller-orders-manage.php:137 
+#: views/orders/wcfmu-view-orders-manage.php:248 
+#: views/vendor_invoice/commission-invoice-rtl.php:492 
+#: views/vendor_invoice/commission-invoice.php:487 
+#: views/integrations/rental/wcfmu-view-wcrentalpro-product-manage.php:280
+msgid "Discount"
+msgstr ""
+
+#: controllers/orders/wcfm-controller-orders-edit.php:151
+#, php-format
+msgid "<b>%s</b> order updated by <b>%s</b>."
+msgstr ""
+
+#: controllers/orders/wcfm-controller-orders-manage.php:105 
+#: controllers/orders/wcfm-controller-orders-manage.php:131
+msgid "Manual Order"
+msgstr ""
+
+#: controllers/orders/wcfm-controller-orders-manage.php:241
+#, php-format
+msgid "<b>%s</b> order added by <b>%s</b> for customer <b>%s</b>."
+msgstr ""
+
+#: controllers/products/wcfmu-controller-stock-manage.php:46
+msgid "Stock Successfully updated."
+msgstr "成功更新庫存。"
+
+#: controllers/products/wcfmu-controller-stock-manage.php:284 
+#: views/orders/wcfmu-view-orders-manage.php:135
+msgid "Variation"
+msgstr "規格"
+
+#: controllers/products/wcfmu-controller-stock-manage.php:307 
+#: controllers/products/wcfmu-controller-stock-manage.php:309
+msgid "NO"
+msgstr "否"
+
+#: controllers/reports/wcfmu-controller-reports-low-in-stock.php:100
+msgid "In stock"
+msgstr ""
+
+#: controllers/reports/wcfmu-controller-reports-low-in-stock.php:107 
+#: views/support/wcfmu-view-my-account-support.php:69
+msgid "View"
+msgstr "瀏覽"
+
+#: controllers/reports/wcfmu-controller-reports-low-in-stock.php:109 
+#: controllers/reports/wcfmu-controller-reports-low-in-stock.php:112 
+#: controllers/integrations/license-manager/wcfmu-controller-wc-license-generators.php:147
+#:  
+#: controllers/integrations/license-manager/wcfmu-controller-wc-license-keys.php:362
+msgid "Edit"
+msgstr ""
+
+#: controllers/support/wcfmu-controller-support-form.php:115
+msgid "New Support Request"
+msgstr "新客服支援票"
+
+#: controllers/support/wcfmu-controller-support-form.php:118
+#, php-format
+msgid ""
+"You have recently received a support request for \"%s\". Please check below "
+"for the details: "
+msgstr "您最近收到一個關於 \"%s\" 的客服請求。請查看下方明細："
+
+#: controllers/support/wcfmu-controller-support-form.php:122
+msgid "Check more details here"
+msgstr "查看更多明細"
+
+#: controllers/support/wcfmu-controller-support-form.php:123 
+#: controllers/support/wcfmu-controller-support-manage.php:114 
+#: controllers/support/wcfmu-controller-support-manage.php:278
+msgid "Thank You"
+msgstr "感謝您"
+
+#: controllers/support/wcfmu-controller-support-form.php:140
+msgid "New Support Ticket"
+msgstr "新客服支援票"
+
+#: controllers/support/wcfmu-controller-support-form.php:152 
+#: controllers/support/wcfmu-controller-support-form.php:172
+#, php-format
+msgid "You have recently received a support request. Ticket <b>%s</b>"
+msgstr "您最近收到客服請求。支援票 <b>%s</b>"
+
+#: controllers/support/wcfmu-controller-support-manage.php:106 
+#: controllers/support/wcfmu-controller-support-manage.php:270
+msgid "Support Ticket Reply"
+msgstr "客服支援票回覆"
+
+#: controllers/support/wcfmu-controller-support-manage.php:109
+#, php-format
+msgid ""
+"You have received reply for your \"%s\" support request. Please see our "
+"response below: "
+msgstr ""
+
+#: controllers/support/wcfmu-controller-support-manage.php:113 
+#: controllers/support/wcfmu-controller-support-manage.php:277
+msgid "See details here"
+msgstr ""
+
+#: controllers/support/wcfmu-controller-support-manage.php:126 
+#: controllers/support/wcfmu-controller-support-manage.php:295
+msgid "Reply to Support Ticket"
+msgstr "回覆客服支援票"
+
+#: controllers/support/wcfmu-controller-support-manage.php:273
+msgid ""
+"You have received reply for your \"{product_title}\" support request. Please "
+"see our response below: "
+msgstr ""
+
+#: controllers/support/wcfmu-controller-support-manage.php:307 
+#: controllers/support/wcfmu-controller-support-manage.php:327
+#, php-format
+msgid "You have received reply for Support Ticket <b>%s</b>"
+msgstr "您已收到回覆的客服支援票 <b>%s</b>"
+
+#: controllers/tych_bookings/wcfmu-controller-booking-resources.php:75 
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:138 
+#: controllers/wc_bookings/wcfmu-controller-wcbookings-resources.php:85
+msgid "#"
+msgstr ""
+
+#: controllers/tych_bookings/wcfmu-controller-booking-resources.php:82 
+#: controllers/wc_bookings/wcfmu-controller-wcbookings-resources.php:127 
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:42 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:150
+msgid "Manage Resource"
+msgstr ""
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments-staffs.php:75 
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:45 
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:77 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:63 
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:45 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:177 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:180 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:203 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:32 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:77
+msgid "Manage Staff"
+msgstr ""
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:23
+msgid "Pending Confirmation"
+msgstr ""
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:25
+msgid "Un-paid"
+msgstr ""
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: controllers/wc_subscriptions/wcfmu-controller-wcsubscriptions.php:27 
+#: controllers/xa_subscriptions/wcfmu-controller-xasubscriptions.php:27 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:24 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:69 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:79 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:22 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:67 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:78 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:22
+msgid "Cancelled"
+msgstr "已取消"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:20
+msgid "Complete"
+msgstr ""
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:22
+msgid "Confirmed"
+msgstr ""
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:26 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:29
+msgid "Partial Paid"
+msgstr ""
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:148
+#, php-format
+msgctxt "Guest string with name from appointment order in brackets"
+msgid "Guest (%s)"
+msgstr ""
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:220
+msgid "Mark as Confirmed"
+msgstr ""
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:222
+msgid "View Details"
+msgstr ""
+
+#: controllers/wc_subscriptions/wcfmu-controller-wcsubscriptions-manage.php:85 
+#: controllers/xa_subscriptions/wcfmu-controller-xasubscriptions-manage.php:96
+msgid "Subscription schedule updated successfully"
+msgstr ""
+
+#: controllers/wc_subscriptions/wcfmu-controller-wcsubscriptions-manage.php:87 
+#: controllers/xa_subscriptions/wcfmu-controller-xasubscriptions-manage.php:98
+msgid "Subscription schedule updated failed!"
+msgstr ""
+
+#: controllers/wc_subscriptions/wcfmu-controller-wcsubscriptions.php:24 
+#: controllers/xa_subscriptions/wcfmu-controller-xasubscriptions.php:24 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:77 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:20 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:75 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:20 
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:37
+msgid "Active"
+msgstr ""
+
+#: controllers/wc_subscriptions/wcfmu-controller-wcsubscriptions.php:25 
+#: controllers/xa_subscriptions/wcfmu-controller-xasubscriptions.php:25 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:78 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:21 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:76 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:21
+msgid "On Hold"
+msgstr "擱置中"
+
+#: controllers/wc_subscriptions/wcfmu-controller-wcsubscriptions.php:26 
+#: controllers/xa_subscriptions/wcfmu-controller-xasubscriptions.php:26 
+#: views/products/wcfmu-view-products.php:11 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:77 
+#: views/reviews/dokan/wcfmu-view-reviews.php:22
+msgid "Pending"
+msgstr ""
+
+#: controllers/wc_subscriptions/wcfmu-controller-wcsubscriptions.php:28 
+#: controllers/xa_subscriptions/wcfmu-controller-xasubscriptions.php:28 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:73 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:80 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:23 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:71 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:79 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:23
+msgid "Expired"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-coupon-usage.php:471
+msgid "Discount Amounts"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-coupon-usage.php:479
+msgid "Coupon Counts"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-coupon-usage.php:490 
+#: includes/reports/class-wcfm-report-sales-by-product.php:524
+msgid "Sales Report by Product"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-coupon-usage.php:512 
+#: includes/reports/class-wcfm-report-sales-by-product.php:546
+msgid "Amount"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-sales-by-product.php:504
+msgid "Sales Amounts"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-sales-by-product.php:513
+msgid "Sales Counts"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:127
+msgid "Sections"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:133 
+#: views/support/wcfmu-view-my-account-support-manage.php:134 
+#: views/support/wcfmu-view-my-account-support.php:42 
+#: views/support/wcfmu-view-my-account-support.php:62 
+#: views/support/wcfmu-view-support-manage.php:141 
+#: views/support/wcfmu-view-support-popup.php:40 
+#: views/support/wcfmu-view-support.php:104 
+#: views/support/wcfmu-view-support.php:118
+msgid "Category"
+msgstr "分類"
+
+#: views/capability/wcfmu-view-capability.php:134
+msgid "Add Category"
+msgstr "新增分類"
+
+#: views/capability/wcfmu-view-capability.php:135
+msgid "Tags"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:137
+msgid "Toolset Fields"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:138
+msgid "ACF Fields"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:139 
+#: views/capability/wcfmu-view-capability.php:288
+msgid "Location"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:143
+msgid "Insights"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:147
+msgid "Add Attribute"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:148
+msgid "Add Attribute Term"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:149
+msgid "Delete Media"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:150
+msgid "Rich Editor"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:151
+msgid "Featured Product"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:152
+msgid "Duplicate Product"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:153
+msgid "Import"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:154
+msgid "Export"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:157
+msgid "Stock Manager"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:162
+msgid "Fields"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:169
+msgid "Sales Schedule"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:176
+msgid "Limits"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:180
+msgid "Space Limit"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:180
+msgid ""
+"Total disk space allow to use by an user. Disk space unit is in MB. e.g. set "
+"100 to allocate 100 MB space for a vendor. Only attachments are considered "
+"in space calculation. "
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:181
+msgid "Article Limit"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:181
+msgid "No. of Articles allow to add by an user."
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:181 
+#: views/capability/wcfmu-view-capability.php:182
+msgid "Set `-1` if you want to restrict limit at `0`."
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:182
+msgid "Product Limit"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:182
+msgid "No. of Products allow to add by an user."
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:183
+msgid "Featured Product Limit"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:184
+msgid "Gallery Limit"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:188
+msgid "Article Categories"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:188
+msgid "Allowed Article Cats"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:198
+msgid "Article Categories Limit"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:201
+msgid "Product Categories"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:201
+msgid "Allowed Product Cats"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:211
+msgid "Product Categories Limit"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:224
+msgid "Allowed "
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:234
+msgid "Limit "
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:247
+msgid "Product Attributes"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:247
+msgid "Allowed Product Attributes"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:264
+msgid "Custom Fields"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:264
+msgid "Allowed Product Custom Fields"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:283 
+#: views/integrations/rental/wcfmu-view-wcrentalpro-product-manage.php:296
+msgid "Settings"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:287
+msgid "Brand"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:290 
+#: views/orders/wcfmu-view-orders-manage.php:155
+msgid "Payment"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:291
+msgid "SEO"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:292
+msgid "Policies"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:293
+msgid "Customer Support"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:295
+msgid "Vacation"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:304
+msgid "Logo"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:305
+msgid "Banner"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:307
+msgid "Phone"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:313 
+#: views/capability/wcfmu-view-capability.php:317
+msgid "Profile"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:319
+msgid "Social"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:321 
+#: views/dokan-subscription/wcfmu-view-dokan-subscription.php:18
+msgid "Membership"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:327
+msgid "Chat Module"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:367
+msgid "Shipping Tracking"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:371
+msgid "Allow"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:378 
+#: views/capability/wcfmu-view-capability.php:382
+msgid "Inquiry"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:383
+msgid "Inquiry Reply"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:394
+msgid "View / Manage"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:395
+msgid "Allow Reply"
+msgstr "允許回覆"
+
+#: views/capability/wcfmu-view-capability.php:402 
+#: views/capability/wcfmu-view-capability.php:406
+msgid "Notice"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:407
+msgid "Topic Reply"
+msgstr "主題回覆"
+
+#: views/capability/wcfmu-view-capability.php:413 
+#: views/capability/wcfmu-view-capability.php:417
+msgid "Notification"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:418
+msgid "Direct Message"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:419
+msgid "Knowledgebase"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-chatbox-firebase.php:46
+msgid "Users"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-chatbox-firebase.php:75 
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:49
+msgid "Type here and hit enter to chat"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-chatbox-firebase.php:85
+msgid "Save chat"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-chatbox-firebase.php:90 
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:43
+msgid "End chat"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-chatbox-firebase.php:97 
+#: views/chatbox/emails/chat-copy.php:33
+msgid "User Name"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-chatbox-firebase.php:103 
+#: views/chatbox/emails/chat-copy.php:43
+msgid "IP Address"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-chatbox-firebase.php:108
+msgid "User Email"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-chatbox-firebase.php:115
+msgid "Current Page"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-chatbox-firebase.php:122
+msgid "Elapsed time"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-chatbox-firebase.php:136
+msgid "Firebase offline or not available. Please wait..."
+msgstr ""
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:37
+msgid "Questions, doubts, issues? We're here to help you!"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:62
+msgid ""
+"None of our operators are available at the moment. Please, try again later."
+msgstr ""
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:65
+msgid "Our operators are busy. Please try again later"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:70 
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:105
+msgid "Your Name"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:73 
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:108
+msgid "Please enter your name"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:77 
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:112
+msgid "Your Email"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:80 
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:115
+msgid "Please enter your email"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:84
+msgid "Your Message"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:87
+msgid "Write your question"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:93 
+#: views/support/wcfmu-view-my-account-support-manage.php:266 
+#: views/support/wcfmu-view-support-manage.php:293 
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:341
+msgid "Send"
+msgstr "送出"
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:101
+msgid "Have you got question? Write to us!"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:122
+msgid "Start Chat"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:130
+msgid "This chat session has ended"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:134
+msgid "Was this conversation useful? Vote this chat session."
+msgstr ""
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:139
+msgid "Good"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:143
+msgid "Bad"
+msgstr ""
+
+#: views/chatbox/wcfmu-view-fbc-chatbox.container.php:151
+msgid "Receive the copy of the chat via e-mail"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:85
+msgid "Restriction"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:90
+msgid "Minimum spend"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:90
+msgid "No Minimum"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:91
+msgid "Maximum spend"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:91
+msgid "No Maximum"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:92
+msgid "Individual use only"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:92
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:93
+msgid "Exclude sale items"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:93
+msgid ""
+"Check this box if the coupon should not apply to items on sale. Per-item "
+"coupons will only work if the item is not on sale. Per-cart coupons will "
+"only work if there are no sale items in the cart."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:94 
+#: views/orders/wcfmu-view-orders-manage.php:128
+msgid "Products"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:94
+msgid ""
+"Products which need to be in the cart to use this coupon or, for `Product "
+"Discounts`, which products are discounted."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:95
+msgid "Exclude products"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:95
+msgid ""
+"Products which must not be in the cart to use this coupon or, for `Product "
+"Discounts`, which products are not discounted."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:99 
+#: views/coupons/wcfmu-view-coupons-manage.php:100
+msgid "Product categories"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:99
+msgid ""
+"A product must be in this category for the coupon to remain valid or, for "
+"`Product Discounts`, products in these categories will be discounted."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:120 
+#: views/coupons/wcfmu-view-coupons-manage.php:121
+msgid "Exclude categories"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:120
+msgid ""
+"Product must not be in this category for the coupon to remain valid or, for "
+"`Product Discounts`, products in these categories will not be discounted."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:141
+msgid "Email restrictions"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:141
+msgid "No restrictions"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:141
+msgid ""
+"List of allowed emails to check against the customer's billing email when an "
+"order is placed. Separate email addresses with commas."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:151
+msgid "Limit"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:156
+msgid "Usage limit per coupon"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:156 
+#: views/coupons/wcfmu-view-coupons-manage.php:158
+msgid "Unlimited usage"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:156
+msgid "How many times this coupon can be used before it is void."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:157
+msgid "Limit usage to X items"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:157
+msgid "Apply to all qualifying items in cart"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:157
+msgid ""
+"The maximum number of individual items this coupon can apply to when using "
+"product discounts. Leave blank to apply to all qualifying items in cart."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:158
+msgid "Usage limit per user"
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:158
+msgid ""
+"How many times this coupon can be used by an invidual user. Uses billing "
+"email for guests, and user ID for logged in users."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons.php:12
+msgid "Show all types"
+msgstr ""
+
+#: views/followers/wcfmu-view-followers.php:33
+msgid "Followers List"
+msgstr ""
+
+#: views/followers/wcfmu-view-followers.php:59 
+#: views/followers/wcfmu-view-followers.php:67 
+#: views/followers/wcfmu-view-my-account-followings.php:32 
+#: views/followers/wcfmu-view-my-account-followings.php:44 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:227 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:69 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:77 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:92 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:102
+msgid "Email"
+msgstr ""
+
+#: views/followers/wcfmu-view-my-account-followings.php:58
+msgid "NO Followings"
+msgstr ""
+
+#: views/followers/wcfmu-view-my-account-followings.php:59
+msgid "You are not following any vendor yet!"
+msgstr "您尚未訂閱任何供應商！"
+
+#: views/integrations/wcfmu-view-address-geocoder-products-manage.php:41
+msgid "Lat/Lng"
+msgstr ""
+
+#: views/integrations/wcfmu-view-address-geocoder-products-manage.php:46
+msgid "Geocode Address"
+msgstr ""
+
+#: views/integrations/wcfmu-view-mappress-products-manage.php:37
+msgid "Save the product, then you will have option to associate Map with this."
+msgstr ""
+
+#: views/integrations/wcfmu-view-mappress-products-manage.php:42
+msgid "Maps for this Product"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-advanced-product-labels-products-manage.php:70
+#:  
+#: views/integrations/wcfmu-view-wc-advanced-product-labels-products-manage.php:74
+msgid "Product Labels"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-deposits-products-manage.php:82
+msgid "Deposits"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-dynamic-pricing-products-manage.php:35 
+#: views/integrations/wcfmu-view-wc-dynamic-pricing-products-manage.php:39
+msgid "Dynamic Pricing"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-measurement-price-calculator-products-manage.php:421
+msgid "Measurement"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-measurement-price-calculator-products-manage.php:424
+msgid "Measurement Price Setting"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-min-max-quantities-products-manage.php:49
+msgid "MIn/Max Quantities"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-per-product-shipping-products-manage.php:52
+#:  
+#: views/integrations/wcfmu-view-wc-per-product-shipping-products-manage.php:122
+msgid "Shipping Rules"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-product-badge-products-manage.php:49
+msgid "Product Badges"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-tabs-manager-products-manage.php:60
+msgid "Tabs Manager"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-variation-gallery-products-manage.php:63
+msgid "Aditional Images"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-variation-swatch-products-manage.php:179
+msgid "Please save the product first then set swatches setting!"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-waitlist-products-manage.php:33
+msgid "Waitlists"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-waitlist-products-manage.php:36
+msgid "Product Waitlists"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-warranty-products-manage.php:129
+msgid "Warranty"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-warranty-products-manage.php:132
+msgid "Product Warranty"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wpjm-associate-listings-products-manage.php:59
+msgid "Associate Listings"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wpjm-associate-listings-products-manage.php:64
+msgid "Listings"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wpjm-associate-listings-products-manage.php:64
+msgid "Associate this product with your Listings."
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-add-customer.php:7
+msgid "Add Customer"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-details.php:36
+msgid "Qutation"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-details.php:166
+msgid "File(s)"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-details.php:202
+msgid "Mark item(s) as shipped and provide tracking information"
+msgstr "通知消費者商品出貨的物流編號"
+
+#: views/orders/wcfmu-view-orders-details.php:283
+msgid "Delivery Boy"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-details.php:312
+msgid "Update all items tracking info:"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-details.php:340
+msgid "Order Notes"
+msgstr "訂單備註"
+
+#: views/orders/wcfmu-view-orders-details.php:369 
+#: views/orders/wcfmu-view-orders-details.php:378
+msgid "WooCommerce"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-details.php:377
+#, php-format
+msgid "added on %1$s at %2$s"
+msgstr "新增於 %1$s @%2$s"
+
+#: views/orders/wcfmu-view-orders-details.php:378
+#, php-format
+msgid "by %s"
+msgstr "| %s"
+
+#: views/orders/wcfmu-view-orders-details.php:395
+msgid "Add note"
+msgstr "新增備註"
+
+#: views/orders/wcfmu-view-orders-details.php:395
+msgid ""
+"Add a note for your reference, or add a customer note (the user will be "
+"notified)."
+msgstr "新增備註當作你的參考，或新增顧客備註(這將會通知顧客)。"
+
+#: views/orders/wcfmu-view-orders-details.php:415
+msgid "Private note"
+msgstr "私人備註"
+
+#: views/orders/wcfmu-view-orders-details.php:416
+msgid "Note to customer"
+msgstr "通知顧客"
+
+#: views/orders/wcfmu-view-orders-details.php:420
+msgid "Add"
+msgstr "新增"
+
+#: views/orders/wcfmu-view-orders-edit-popup.php:25
+msgid "Order Edit"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-edit-popup.php:29 
+#: views/orders/wcfmu-view-orders-manage.php:136
+msgid "Quantity"
+msgstr "數量"
+
+#: views/orders/wcfmu-view-orders-edit-popup.php:36
+msgid "Apply Discount"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-edit-popup.php:42 
+#: views/orders/wcfmu-view-orders-manage.php:271
+msgid "Note to Customer"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-manage.php:38
+msgid "Select Shipping Method"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-manage.php:50
+msgid "Select Payment Method"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-manage.php:59
+msgid "Create Orders"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-manage.php:66
+msgid "Create Orders Manually"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-manage.php:70 
+#: views/reports/wcfmu-view-reports-coupons-by-date.php:70 
+#: views/reports/wcfmu-view-reports-low-in-stock.php:41 
+#: views/reports/wcfmu-view-reports-sales-by-product.php:71 
+#: views/tych_bookings/wcfmu-view-booking-calendar.php:36 
+#: views/tych_bookings/wcfmu-view-booking-manual.php:34 
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:54 
+#: views/tych_bookings/wcfmu-view-booking-resources.php:37 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:141 
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:36 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:54 
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:34 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:166 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:192 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:37 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:68 
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:37 
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:34 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:162 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:37 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:180 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:104 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:103 
+#: views/integrations/auction/wcfmu-view-auctions.php:37 
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:55 
+#: views/integrations/rental/wcfmu-view-wcrental-calendar.php:153 
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:61 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:67
+msgid "WP Admin View"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-manage.php:93 
+#: views/support/wcfmu-view-support.php:107 
+#: views/support/wcfmu-view-support.php:121
+msgid "Customer"
+msgstr "顧客"
+
+#: views/orders/wcfmu-view-orders-manage.php:96 
+#: views/orders/wcfmu-view-orders-manage.php:98
+msgid "Guest"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-manage.php:161
+msgid "Payment Method"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-manage.php:162
+msgid "Payment Details"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-manage.php:179
+msgid "Shipping Method"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-manage.php:180
+msgid "Shipping Cost"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-manage.php:223
+msgid "Shipping same as billing"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-manage.php:254 
+#: views/integrations/rental/wcfmu-view-wcrentalpro-product-manage.php:289
+msgid "Discount Amount"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-manage.php:265 
+#: views/reviews/dokan/wcfmu-view-reviews.php:69 
+#: views/reviews/dokan/wcfmu-view-reviews.php:77
+msgid "Comment"
+msgstr ""
+
+#: views/products/wcfmu-view-products-manage.php:49
+msgid "Advanced"
+msgstr "進階"
+
+#: views/products/wcfmu-view-products-manage.php:58
+msgid "Enable reviews"
+msgstr "啟用評價"
+
+#: views/products/wcfmu-view-products-manage.php:59
+msgid "Menu Order"
+msgstr "選單排序"
+
+#: views/products/wcfmu-view-products-manage.php:59
+msgid "Custom ordering position."
+msgstr "自訂排序位置"
+
+#: views/products/wcfmu-view-products-manage.php:60
+msgid "Purchase Note"
+msgstr "購買備註"
+
+#: views/products/wcfmu-view-products-manage.php:60
+msgid "Enter an optional note to send the customer after purchase."
+msgstr "輸入一個非必填的備註，在顧客購買後，寄給顧客。"
+
+#: views/products/wcfmu-view-products-quick-manage.php:56
+msgid "Quick Update"
+msgstr ""
+
+#: views/products/wcfmu-view-products-quick-manage.php:93 
+#: views/products/wcfmu-view-products-quick-manage.php:94
+msgid "Regular Price"
+msgstr "一般價格"
+
+#: views/products/wcfmu-view-products-quick-manage.php:101 
+#: views/products/wcfmu-view-products-quick-manage.php:102
+msgid "Sale Price"
+msgstr "優惠價"
+
+#: views/products/wcfmu-view-products.php:9
+msgid "Published"
+msgstr "發佈"
+
+#: views/products/wcfmu-view-products.php:10
+msgid "Draft"
+msgstr "草稿"
+
+#: views/products/wcfmu-view-products.php:19
+msgid "Archive"
+msgstr ""
+
+#: views/products/wcfmu-view-products.php:47
+msgid "Select a category"
+msgstr "選擇分類"
+
+#: views/products/wcfmu-view-products.php:56
+msgid "Show all product types"
+msgstr "顯示全部商品類型"
+
+#: views/products/wcfmu-view-stock-manage.php:157 
+#: views/products/wcfmu-view-stock-manage.php:172
+msgid "Backorders"
+msgstr "延期交貨"
+
+#: views/products/wcfmu-view-stock-manage.php:158 
+#: views/products/wcfmu-view-stock-manage.php:173
+msgid "Stock Quantity"
+msgstr ""
+
+#: views/reports/wcfmu-html-report-coupons-by-date.php:27 
+#: views/reports/wcfmu-html-report-sales-by-product.php:31 
+#: views/reports/wcfmu-view-reports-sales-by-date.php:24
+msgid "Custom:"
+msgstr "自訂："
+
+#: views/reports/wcfmu-view-reports-coupons-by-date.php:56 
+#: views/reports/wcfmu-view-reports-coupons-by-date.php:58
+msgid "Coupons by Date"
+msgstr ""
+
+#: views/reports/wcfmu-view-reports-coupons-by-date.php:56 
+#: views/reports/wcfmu-view-reports-sales-by-product.php:56
+#, php-format
+msgctxt "start date and end date"
+msgid "From %s to %s"
+msgstr ""
+
+#: views/reports/wcfmu-view-reports-low-in-stock.php:30
+msgid "Low in Stock"
+msgstr ""
+
+#: views/reports/wcfmu-view-reports-low-in-stock.php:55 
+#: views/reports/wcfmu-view-reports-low-in-stock.php:64
+msgid "Parent"
+msgstr ""
+
+#: views/reports/wcfmu-view-reports-low-in-stock.php:56 
+#: views/reports/wcfmu-view-reports-low-in-stock.php:65
+msgid "Unit in stock"
+msgstr ""
+
+#: views/reports/wcfmu-view-reports-low-in-stock.php:57 
+#: views/reports/wcfmu-view-reports-low-in-stock.php:66
+msgid "Stock Status"
+msgstr "庫存狀態"
+
+#: views/reports/wcfmu-view-reports-sales-by-date.php:42
+msgid "Go"
+msgstr ""
+
+#: views/reports/wcfmu-view-reports-sales-by-product.php:56 
+#: views/reports/wcfmu-view-reports-sales-by-product.php:58
+msgid "Sales by Product"
+msgstr ""
+
+#: views/support/wcfmu-view-my-account-support-manage.php:97 
+#: views/support/wcfmu-view-support-manage.php:102
+msgid "Support Ticket For"
+msgstr ""
+
+#: views/support/wcfmu-view-my-account-support-manage.php:104 
+#: views/support/wcfmu-view-support-manage.php:109
+msgid "Ticket for Product"
+msgstr ""
+
+#: views/support/wcfmu-view-my-account-support-manage.php:107 
+#: views/support/wcfmu-view-support-manage.php:112
+#, php-format
+msgid "Ticket for %s"
+msgstr ""
+
+#: views/support/wcfmu-view-my-account-support-manage.php:120 
+#: views/support/wcfmu-view-support-manage.php:124
+msgid "Support Ticket for"
+msgstr ""
+
+#: views/support/wcfmu-view-my-account-support-manage.php:130 
+#: views/support/wcfmu-view-support-manage.php:134 
+#: views/support/wcfmu-view-support-manage.php:136
+msgid "Support Ticket for Order"
+msgstr ""
+
+#: views/support/wcfmu-view-my-account-support-manage.php:162 
+#: views/support/wcfmu-view-support-manage.php:184
+msgid "Replies"
+msgstr "回覆數"
+
+#: views/support/wcfmu-view-my-account-support-manage.php:231 
+#: views/support/wcfmu-view-support-manage.php:251
+msgid "New Reply"
+msgstr "新的回覆"
+
+#: views/support/wcfmu-view-my-account-support-manage.php:243 
+#: views/support/wcfmu-view-my-account-support.php:43 
+#: views/support/wcfmu-view-my-account-support.php:65 
+#: views/support/wcfmu-view-support-manage.php:270 
+#: views/support/wcfmu-view-support-popup.php:41 
+#: views/support/wcfmu-view-support.php:108 
+#: views/support/wcfmu-view-support.php:122 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:437 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:213 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:250
+msgid "Priority"
+msgstr "優先順序"
+
+#: views/support/wcfmu-view-my-account-support.php:41 
+#: views/support/wcfmu-view-my-account-support.php:59 
+#: views/support/wcfmu-view-my-account-support.php:74
+msgid "Ticket(s)"
+msgstr "支援票"
+
+#: views/support/wcfmu-view-my-account-support.php:75
+msgid "You do not have any support ticket yet!"
+msgstr "您目前沒有客服問題！"
+
+#: views/support/wcfmu-view-support-popup.php:48
+msgid "Issues you are having"
+msgstr "您所遇到的問題"
+
+#: views/support/wcfmu-view-support.php:23
+msgid "Last 7 Days"
+msgstr "最近 7 天"
+
+#: views/support/wcfmu-view-support.php:24
+msgid "This Month"
+msgstr "本月份"
+
+#: views/support/wcfmu-view-support.php:25
+msgid "Last Month"
+msgstr "上個月"
+
+#: views/support/wcfmu-view-support.php:26
+msgid "Year"
+msgstr "年份"
+
+#: views/support/wcfmu-view-support.php:105 
+#: views/support/wcfmu-view-support.php:119
+msgid "Issue"
+msgstr "問題"
+
+#: views/support/wcfmu-view-support.php:106 
+#: views/support/wcfmu-view-support.php:120
+msgid "Item"
+msgstr "項目"
+
+#: views/tych_bookings/wcfmu-view-booking-calendar.php:25 
+#: views/tych_bookings/wcfmu-view-booking-calendar.php:32 
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:26
+msgid "Bookings Calendar"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-calendar.php:41 
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:42
+msgid "Create Booking"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-calendar.php:45 
+#: views/tych_bookings/wcfmu-view-booking-manual.php:45 
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:65 
+#: views/tych_bookings/wcfmu-view-booking-resources.php:32 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:152 
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:46 
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:45 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:173 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:32 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:191
+msgid "Manage Resources"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-calendar.php:49 
+#: views/tych_bookings/wcfmu-view-booking-manual.php:49 
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:69 
+#: views/tych_bookings/wcfmu-view-booking-resources.php:48 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:156 
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:50 
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:49 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:177 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:48 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:195
+msgid "Create Bookable"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-calendar.php:51 
+#: views/tych_bookings/wcfmu-view-booking-manual.php:42 
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:62 
+#: views/tych_bookings/wcfmu-view-booking-resources.php:45 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:149 
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:52 
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:42 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:170 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:45 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:188
+msgid "Bookings List"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-manual.php:30 
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:30
+msgid "Create Bookings Manually"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-manual.php:39 
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:59 
+#: views/tych_bookings/wcfmu-view-booking-resources.php:42 
+#: views/tych_bookings/wcfmu-view-booking-settings.php:146 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:59 
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:39 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:171 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:197 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:42 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:85 
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:39 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:167 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:42 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:185 
+#: views/integrations/rental/wcfmu-view-wcrental-calendar.php:148 
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:65 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:71
+msgid "Calendar View"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-products-manage.php:544
+msgid "- Select Block Type -"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:49 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:157
+msgid "Edit Resource"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:49 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:157
+msgid "Add Resource"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:87 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:195
+msgid "Resource Title"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:88 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:85 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:95
+msgid "Available Quantity"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-resources.php:25 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:25
+msgid "Bookings Resources"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-resources.php:52 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:52
+msgid "Add New Resource"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-settings.php:129 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:168
+msgid "Bookings Settings"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-settings.php:136 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:175
+msgid "Global Availability"
+msgstr ""
+
+#: views/vendor_invoice/commission-invoice-rtl.php:27 
+#: views/vendor_invoice/commission-invoice.php:27 
+#: views/vendor_invoice/packing-slip-rtl.php:27 
+#: views/vendor_invoice/packing-slip.php:27 
+#: views/vendor_invoice/store-invoice-rtl.php:25 
+#: views/vendor_invoice/store-invoice.php:25
+msgid "Standard"
+msgstr ""
+
+#: views/vendor_invoice/commission-invoice-rtl.php:102 
+#: views/vendor_invoice/commission-invoice.php:102 
+#: views/vendor_invoice/packing-slip-rtl.php:148 
+#: views/vendor_invoice/packing-slip.php:148 
+#: views/vendor_invoice/store-invoice-rtl.php:129 
+#: views/vendor_invoice/store-invoice.php:129
+msgid "Billing Address:"
+msgstr ""
+
+#: views/vendor_invoice/commission-invoice-rtl.php:118 
+#: views/vendor_invoice/commission-invoice.php:118 
+#: views/vendor_invoice/packing-slip-rtl.php:162 
+#: views/vendor_invoice/packing-slip.php:162 
+#: views/vendor_invoice/store-invoice-rtl.php:142 
+#: views/vendor_invoice/store-invoice.php:142
+msgid "Ship To:"
+msgstr ""
+
+#: views/vendor_invoice/commission-invoice-rtl.php:132 
+#: views/vendor_invoice/commission-invoice.php:132 
+#: views/vendor_invoice/packing-slip-rtl.php:175 
+#: views/vendor_invoice/packing-slip.php:175 
+#: views/vendor_invoice/store-invoice-rtl.php:165 
+#: views/vendor_invoice/store-invoice.php:165 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:91 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:129 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:128
+msgid "Order Number:"
+msgstr "訂單編號："
+
+#: views/vendor_invoice/commission-invoice-rtl.php:136 
+#: views/vendor_invoice/commission-invoice.php:136 
+#: views/vendor_invoice/packing-slip-rtl.php:179 
+#: views/vendor_invoice/packing-slip.php:179 
+#: views/vendor_invoice/store-invoice-rtl.php:169 
+#: views/vendor_invoice/store-invoice.php:169
+msgid "Order Date:"
+msgstr "訂單日期："
+
+#: views/vendor_invoice/commission-invoice-rtl.php:140 
+#: views/vendor_invoice/commission-invoice.php:140 
+#: views/vendor_invoice/membership-invoice.php:97 
+#: views/vendor_invoice/packing-slip-rtl.php:183 
+#: views/vendor_invoice/packing-slip.php:183 
+#: views/vendor_invoice/store-invoice-rtl.php:173 
+#: views/vendor_invoice/store-invoice.php:173 
+#: views/vendor_invoice/withdrawal-invoice.php:117
+msgid "Payment Method:"
+msgstr ""
+
+#: views/vendor_invoice/commission-invoice-rtl.php:141 
+#: views/vendor_invoice/commission-invoice.php:141 
+#: views/vendor_invoice/packing-slip-rtl.php:184 
+#: views/vendor_invoice/packing-slip.php:184 
+#: views/vendor_invoice/store-invoice-rtl.php:174 
+#: views/vendor_invoice/store-invoice.php:174
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: views/vendor_invoice/commission-invoice-rtl.php:366 
+#: views/vendor_invoice/commission-invoice.php:366
+msgid "Fee"
+msgstr ""
+
+#: views/vendor_invoice/commission-invoice-rtl.php:480 
+#: views/vendor_invoice/commission-invoice.php:475 
+#: views/vendor_invoice/packing-slip-rtl.php:397 
+#: views/vendor_invoice/packing-slip.php:395 
+#: views/vendor_invoice/store-invoice-rtl.php:370 
+#: views/vendor_invoice/store-invoice.php:368
+msgid "Customer Notes"
+msgstr "顧客備註"
+
+#: views/vendor_invoice/commission-invoice-rtl.php:492 
+#: views/vendor_invoice/commission-invoice.php:487
+msgid "This is the total discount. Discounts are defined per line item."
+msgstr ""
+
+#: views/vendor_invoice/commission-invoice-rtl.php:503 
+#: views/vendor_invoice/commission-invoice.php:498
+msgid "This is the shipping and handling total costs for the order."
+msgstr ""
+
+#: views/vendor_invoice/commission-invoice-rtl.php:537 
+#: views/vendor_invoice/commission-invoice.php:532
+msgid "Order Total"
+msgstr "訂單總計"
+
+#: views/vendor_invoice/commission-invoice-rtl.php:549 
+#: views/vendor_invoice/commission-invoice.php:544
+msgid "Refunded"
+msgstr "已退款"
+
+#: views/vendor_invoice/membership-invoice.php:41 
+#: views/vendor_invoice/membership-invoice.php:53
+msgid "Subscription Invoice"
+msgstr ""
+
+#: views/vendor_invoice/membership-invoice.php:89 
+#: views/vendor_invoice/store-invoice-rtl.php:160 
+#: views/vendor_invoice/store-invoice.php:160 
+#: views/vendor_invoice/withdrawal-invoice.php:109
+msgid "Invoice Date:"
+msgstr ""
+
+#: views/vendor_invoice/membership-invoice.php:137
+msgid "Membership Plan"
+msgstr ""
+
+#: views/vendor_invoice/membership-invoice.php:138
+msgid "Cost"
+msgstr ""
+
+#: views/vendor_invoice/packing-slip-rtl.php:87 
+#: views/vendor_invoice/packing-slip-rtl.php:127 
+#: views/vendor_invoice/packing-slip-rtl.php:140 
+#: views/vendor_invoice/packing-slip.php:87 
+#: views/vendor_invoice/packing-slip.php:127 
+#: views/vendor_invoice/packing-slip.php:140
+msgid "Packing Slip"
+msgstr ""
+
+#: views/vendor_invoice/packing-slip-rtl.php:433 
+#: views/vendor_invoice/packing-slip.php:431 
+#: views/vendor_invoice/store-invoice-rtl.php:406 
+#: views/vendor_invoice/store-invoice.php:404 
+#: views/vendor_invoice/withdrawal-invoice.php:186
+msgid "Shipping Tax"
+msgstr ""
+
+#: views/vendor_invoice/store-invoice-rtl.php:155 
+#: views/vendor_invoice/store-invoice.php:155 
+#: views/vendor_invoice/withdrawal-invoice.php:105
+msgid "Invoice Number:"
+msgstr ""
+
+#: views/vendor_invoice/store-invoice-rtl.php:446 
+#: views/vendor_invoice/store-invoice.php:466
+msgid "Policies:"
+msgstr ""
+
+#: views/vendor_invoice/withdrawal-invoice.php:57 
+#: views/vendor_invoice/withdrawal-invoice.php:69
+msgid "Withdrawal Invoice"
+msgstr ""
+
+#: views/vendor_invoice/withdrawal-invoice.php:130
+msgid "Pay Mode:"
+msgstr ""
+
+#: views/vendor_invoice/withdrawal-invoice.php:151
+msgid "Payment Status:"
+msgstr ""
+
+#: views/vendor_invoice/withdrawal-invoice.php:167
+msgid "Payment Date:"
+msgstr ""
+
+#: views/vendor_invoice/withdrawal-invoice.php:179
+msgid "Specification"
+msgstr ""
+
+#: views/vendor_invoice/withdrawal-invoice.php:180
+msgid "Item Total"
+msgstr ""
+
+#: views/vendor_invoice/withdrawal-invoice.php:188
+msgid "Earning"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:32
+#, php-format
+msgid "Appointments by %s"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:41 
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:48 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:73
+msgid "Create Appointment"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:49 
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:60 
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:49 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:181 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:207 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:48 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:81
+msgid "Create Appointable"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:73
+msgid "Start:"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:74
+msgid "Duration:"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:75
+msgid "Quantity:"
+msgstr "數量："
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:76
+msgid "Staff:"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:78
+msgid "Customer Name:"
+msgstr "顧客姓名："
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:80
+msgid "Customer Email:"
+msgstr "顧客信箱："
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:81
+msgid "Customer Phone:"
+msgstr "顧客電話："
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:84
+msgid "View Appointment"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:24
+msgid "Appointments"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:42
+msgid "Appointment Details"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:49
+msgid "Appointment #"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:67
+msgid "Create Appointmentable"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:78 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:118 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:117
+msgid "Overview"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:86
+msgid "Appointment Created:"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:178
+msgid "All day"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:253
+msgid "Billing Email:"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:259
+msgid "Billing Phone:"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:270
+msgid "View Order"
+msgstr "瀏覽訂單"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:30
+msgid "Create Appointments Manually"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:334
+msgid "Choose Staff"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:344 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:438
+msgid "Appointable"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:385 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:386 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:427 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:428 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:240 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:241
+msgid "YYYY-MM-DD"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:424
+msgid "Capacity"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:424
+msgid ""
+"The maximum number of appointments per slot. Overrides general product "
+"capacity."
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:438 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:251
+msgid ""
+"If not appointable, users won't be able to choose slots in this range for "
+"their appointment."
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:456
+msgid "Staff selection"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:457
+msgid "Available all Staffs"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:457
+msgid ""
+"Staffs are used if you have multiple bookable items, e.g. room types, "
+"instructors or ticket types. Availability for staffs is global across all "
+"bookable products. Choose to associate with your product."
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:458
+msgid "Staffs"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:459 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:202 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:239 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:216
+msgid "Title"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:154
+msgid "Appointment Settings"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:187
+msgid "Edit Staff"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:187
+msgid "Add Staff"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:226
+msgid "Username"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:228
+msgid "First Name"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:229
+msgid "Last Name"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:52
+msgid "Add New Staff"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments.php:67 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:59 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:59
+msgid "Screen Manager"
+msgstr ""
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:20
+msgid "Day"
+msgstr ""
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:21
+msgid "Schedule"
+msgstr ""
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:21
+msgid "Month"
+msgstr ""
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:33
+#, php-format
+msgid "Bookings by %s"
+msgstr ""
+
+#: views/wc_bookings/wcfmu-view-wcbookings-products-manage.php:74
+msgid "Choose Resource"
+msgstr ""
+
+#: views/wc_bookings/wcfmu-view-wcbookings-products-manage.php:99
+msgid "Type Name"
+msgstr ""
+
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:201
+msgid "Resource Details"
+msgstr ""
+
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:83 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:93
+msgid "Parent Products"
+msgstr ""
+
+#: views/wc_fncy_product_designer/wcfmu-view-fancy-order-viewer.php:22
+msgid "Fancy Product Design"
+msgstr ""
+
+#: views/wc_fncy_product_designer/wcfmu-view-fancy-products-manage.php:56
+msgid "Fancy Product"
+msgstr ""
+
+#: views/wc_fncy_product_designer/wcfmu-view-fancy-products-manage.php:59
+msgid "Fancy Product Designer"
+msgstr ""
+
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:91 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:90
+msgid "Subscription Details"
+msgstr ""
+
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:98 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:97
+msgid "Subscription #"
+msgstr ""
+
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:124 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:123
+msgid "Subscription Created:"
+msgstr ""
+
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:146 
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:162 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:145 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:161
+msgid "Subscription Status:"
+msgstr ""
+
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:396 
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:390
+msgid "Subscription Item"
+msgstr ""
+
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:966
+msgid "Related Orders"
+msgstr ""
+
+#: controllers/integrations/fooevent/wcfmu-controller-wc-fooevents-tickets.php:224
+msgid "Download Ticket"
+msgstr ""
+
+#: controllers/integrations/rental/wcfmu-controller-rental-quote.php:106
+msgid "Details"
+msgstr ""
+
+#: core/license/admin/class-wcfm-license.php:16 
+#: core/license/admin/class-wcfm-license.php:17
+msgid "WCFM License"
+msgstr ""
+
+#: core/license/admin/class-wcfm-license.php:79
+#, php-format
+msgid "<h2>%s License</h2>"
+msgstr ""
+
+#: core/license/admin/class-wcfm-license.php:86
+#, php-format
+msgid ""
+"<h4 style='border-bottom: 1px solid rgb(215, 211, 211);padding-bottom: 21px;"
+"'>%s</h4>"
+msgstr ""
+
+#: core/license/admin/class-wcfmu-settings-license.php:51
+msgid "License Activation"
+msgstr ""
+
+#: core/license/admin/class-wcfmu-settings-license.php:52
+msgid "API License Key"
+msgstr ""
+
+#: core/license/admin/class-wcfmu-settings-license.php:53
+msgid "API License email"
+msgstr ""
+
+#: core/license/admin/class-wcfmu-settings-license.php:56
+msgid "License Deactivation"
+msgstr ""
+
+#: core/license/admin/class-wcfmu-settings-license.php:57
+msgid "Deactivate API License Key"
+msgstr ""
+
+#: core/license/admin/class-wcfmu-settings-license.php:57
+msgid "Deactivates an API License Key so it can be used on another blog."
+msgstr ""
+
+#: core/license/admin/class-wcfmu-settings-license.php:246
+msgid "Please insert your license key."
+msgstr ""
+
+#: core/license/admin/class-wcfmu-settings-license.php:256
+msgid "Please insert your license email."
+msgstr ""
+
+#: core/license/admin/class-wcfmu-settings-license.php:285
+msgid "Plugin activated. "
+msgstr ""
+
+#: core/license/admin/class-wcfmu-settings-license.php:293
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+
+#: core/license/admin/class-wcfmu-settings-license.php:358
+msgid "Plugin license deactivated."
+msgstr ""
+
+#: core/license/admin/class-wcfmu-settings-license.php:382
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+msgstr ""
+
+#: core/license/classes/class-wcfmu-update.php:373
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmu-update.php:388
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmu-update.php:403
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+
+#: core/license/classes/class-wcfmu-update.php:418
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmu-update.php:433
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>"
+"."
+msgstr ""
+
+#: core/license/classes/class-wcfmu-update.php:448
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>"
+"."
+msgstr ""
+
+#: core/license/classes/class-wcfmu-update.php:463
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmu-update.php:478
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmu-update.php:493
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmu-update.php:508
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: core/license/classes/class-wcfmu-update.php:523
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+
+#: core/license/classes/class-wcfmu-update.php:538
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a "
+"href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: views/chatbox/emails/chat-copy.php:38
+msgid "User e-mail"
+msgstr ""
+
+#: views/chatbox/emails/chat-copy.php:49
+msgid "Operator Name"
+msgstr ""
+
+#: views/chatbox/emails/chat-copy.php:54
+msgid "Chat Duration"
+msgstr ""
+
+#: views/chatbox/emails/chat-copy.php:59
+msgid "Chat closed by"
+msgstr ""
+
+#: views/chatbox/emails/chat-copy.php:64
+msgid "Chat Evaluation"
+msgstr ""
+
+#: views/integrations/acf/wcfmu-view-acf-articles-manage.php:233 
+#: views/integrations/acf/wcfmu-view-acf-pro-articles-manage.php:234 
+#: views/integrations/acf/wcfmu-view-acf-pro-articles-manage.php:264 
+#: views/integrations/acf/wcfmu-view-acf-pro-products-manage.php:249 
+#: views/integrations/acf/wcfmu-view-acf-pro-products-manage.php:279 
+#: views/integrations/acf/wcfmu-view-acf-products-manage.php:250
+msgid "-Select-"
+msgstr "-請選擇-"
+
+#: views/integrations/auction/wcfmu-view-auctions.php:31
+msgid "Auction Activity"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-auctions.php:43 
+#: views/integrations/rental/wcfmu-view-wcrental-calendar.php:160 
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:70 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:74
+msgid "Add New Product"
+msgstr "新增新商品"
+
+#: views/integrations/auction/wcfmu-view-auctions.php:43 
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:70 
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:74
+msgid "Add New"
+msgstr "新增"
+
+#: views/integrations/auction/wcfmu-view-auctions.php:60 
+#: views/integrations/auction/wcfmu-view-auctions.php:68
+msgid "Bid"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:60
+msgid "Item condition"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:60
+msgid "New"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:60
+msgid "Used"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:61
+msgid "Auction type"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:61
+msgid "Reverse"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:62
+msgid "Proxy bidding?"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:64 
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:57
+msgid "Starting Price"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:65 
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:58
+msgid "Bid up"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:66 
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:60
+msgid "Reserve price"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:66
+msgid ""
+"A reserve price is the lowest price at which you are willing to sell your "
+"item. If you don't want to sell your item below a certain price, you can set "
+"a reserve price. The amount of your reserve price is not disclosed to your "
+"bidders, but they will see that your auction has a reserve price and whether "
+"or not the reserve has been met. If a bidder does not meet that price, you "
+"are not obligated to sell your item."
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:67 
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:61
+msgid "Buy it now price"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:67
+msgid ""
+"Buy it now disappears when bid exceeds the Buy now price for normal auction, "
+"or is lower than reverse auction"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:68 
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:62
+msgid "Auction Date From"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:69 
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:63
+msgid "Auction Date To"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:96
+msgid "Automatic relist auction"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:97
+msgid "Relist if fail after n hours"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:98
+msgid "Relist if not paid after n hours"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:99
+msgid "Relist auction duration in h"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:59
+msgid "Minimum increment amount"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:64
+msgid "Time to add overtime"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:64
+msgid ""
+"Number of minutes before auction ends to check if overtime added. (Override "
+"the settings option)"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:65
+msgid "Overtime"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:65
+msgid ""
+"Number of minutes by which the auction will be extended. (Overrride the "
+"settings option)"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:66
+msgid "Time value for automatic rescheduling"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:67
+msgid "Select unit for automatic rescheduling"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:67
+msgid "days"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:67
+msgid "hours"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:67
+msgid "minutes"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:68
+msgid "Show bid up"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:69
+msgid "Show overtime"
+msgstr ""
+
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-products-manage.php:300 
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:88 
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:99
+msgid "Event"
+msgstr ""
+
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-products-manage.php:303
+msgid "Event Setup"
+msgstr ""
+
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:69
+msgid "Select an event"
+msgstr ""
+
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:89 
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:100
+msgid "Purchaser"
+msgstr ""
+
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:90 
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:101
+msgid "Attendee"
+msgstr ""
+
+#: views/integrations/license-manager/wcfmu-view-wc-license-generators-manage-popup.php:20
+msgid "License Generator"
+msgstr ""
+
+#: views/integrations/license-manager/wcfmu-view-wc-license-generators.php:39
+msgid "Add New Generator"
+msgstr ""
+
+#: views/integrations/license-manager/wcfmu-view-wc-license-generators.php:71 
+#: views/integrations/license-manager/wcfmu-view-wc-license-generators.php:80
+msgid "Maximum activation count"
+msgstr ""
+
+#: views/integrations/license-manager/wcfmu-view-wc-license-generators.php:72 
+#: views/integrations/license-manager/wcfmu-view-wc-license-generators.php:81
+msgid "Expires in"
+msgstr ""
+
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys-manage-popup.php:27
+msgid "License Key Manage"
+msgstr ""
+
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:35
+msgid "Sold"
+msgstr ""
+
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:36
+msgid "Delivered"
+msgstr ""
+
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:38
+msgid "Inactive"
+msgstr ""
+
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:97 
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:111
+msgid "Key"
+msgstr ""
+
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:100 
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:114
+msgid "Activation"
+msgstr ""
+
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:101 
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:115
+msgid "Valid For"
+msgstr ""
+
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:102 
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:116
+msgid "Expires At"
+msgstr ""
+
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:103 
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:117
+msgid "Created"
+msgstr ""
+
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:104 
+#: views/integrations/license-manager/wcfmu-view-wc-license-keys.php:118
+msgid "Updated"
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:263
+msgid "PDF Vouchers"
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:268
+msgid "Voucher General Setting"
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:311
+msgid "Gift Voucher Setting"
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:316
+#:  
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:322
+#:  
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:329
+#:  
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:335
+msgid "Enable to make this required."
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:347
+#:  
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:354
+msgid "Recipient Fields:"
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:347
+msgid ""
+"Select recipient fields that you want to show in Email to Recipient block."
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:354
+msgid ""
+"Select recipient fields that you want to show in Offline to Recipient block."
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:357
+msgid "Voucher Template Setting"
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:366
+msgid "Voucher Vendor Setting"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrental-calendar.php:157 
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:67
+msgid "Quote Requests"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:48
+msgid "Quote Details"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:55
+msgid "Quote Request #"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:81
+msgid "Quote Actions"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:114
+msgid "Quote Management"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:327
+msgid "Quote Messages"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:334
+msgid "Send Message"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrentalpro-product-manage.php:236
+msgid "Rental"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrentalpro-product-manage.php:244
+msgid "Hourly Price"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrentalpro-product-manage.php:245
+msgid "General Price"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrentalpro-product-manage.php:268
+msgid "Daye Range"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrentalpro-product-manage.php:285
+msgid "Discount depending on day length"
+msgstr ""
+
+#: views/integrations/toolset/wcfmu-view-toolset-types-articles-manage.php:257 
+#: views/integrations/toolset/wcfmu-view-toolset-types-products-manage.php:257 
+#: views/integrations/toolset/wcfmu-view-toolset-types-taxonomy.php:87 
+#: views/integrations/toolset/wcfmu-view-toolset-types-user-profile.php:212
+msgid "--- not set ---"
+msgstr "--- 尚未選擇 ---"
+
+#: views/integrations/toolset/wcfmu-view-toolset-types-settings.php:61
+msgid "Product Type Toolset Fields"
+msgstr ""
+
+#: views/integrations/toolset/wcfmu-view-toolset-types-settings.php:88
+msgid ""
+"Create group of your Store Toolset Types Fields as per Product Types. "
+"Product Manager will work according to that."
+msgstr ""
+
+#: views/reviews/dokan/wcfmu-view-reviews.php:21
+msgid "Approved"
+msgstr ""
+
+#: views/reviews/dokan/wcfmu-view-reviews.php:23
+msgid "Spam"
+msgstr ""
+
+#: views/reviews/dokan/wcfmu-view-reviews.php:24
+msgid "Trash"
+msgstr ""
+
+#: views/reviews/dokan/wcfmu-view-reviews.php:70 
+#: views/reviews/dokan/wcfmu-view-reviews.php:78
+msgid "Rating"
+msgstr ""
+
+#. Name of the plugin
+msgid "WCFM - WooCommerce Frontend Manager - Ultimate"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Now manage your WooCommerce Store from your Store Front with more Powers. "
+"Easily and Peacefully."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wclovers.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr ""

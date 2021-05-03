@@ -1,0 +1,78 @@
+#wcfm-main-contentainer .wcfm_appointment_unit_ele {
+	width: 24% !important;
+	margin-right: 5% !important;
+}
+
+#wcfm-main-contentainer .avail_rules_label, #wcfm-main-contentainer .cost_rules_label {
+	width: 17% !important;
+}
+
+#wcfm-main-contentainer .avail_rules_text {
+	width: 28% !important;
+}
+
+#wcfm-main-contentainer .avail_range_type, #wcfm-main-contentainer .avail_rule_capacity {
+	width: 73% !important;
+}
+
+#wcfm-main-contentainer p._wc_apponitment_availability_rules {
+	width: 50% !important;
+}
+
+#wcfm-main-contentainer p.avail_rules_desc {
+	display: block;
+	width: 95% !important;
+}
+
+#wcfm-main-contentainer .cost_rules_text {
+	width: 28% !important;
+}
+
+#wcfm-main-contentainer .cost_range_type {
+	width: 73% !important;
+}
+
+#wcfm-main-contentainer .cost_price_ele {
+	width: 14% !important;
+}
+
+#wcfm-main-contentainer .cost_price_field { margin-left: 5px; }
+
+#wcfm-main-contentainer p._wc_apponitment_cost_rules {
+	width: 50% !important;
+}
+
+#wcfm-main-contentainer p.cost_rules_desc {
+	display: block;
+	width: 95% !important;
+}
+
+@media only screen and (max-width: 768px) {
+	#wcfm-main-contentainer .person_types_label, #wcfm-main-contentainer .person_types_text {
+		width: 22% !important;
+	}
+	
+	#wcfm-main-contentainer .avail_rules_label, #wcfm-main-contentainer .avail_rules_ele, #wcfm-main-contentainer .cost_rules_label, #wcfm-main-contentainer .cost_rules_ele {
+		width: 25% !important;
+	}
+}
+
+@media only screen and (max-width: 640px) {
+	#wcfm-main-contentainer .wcfm_appointment_unit_label {
+		width: 99% !important;
+	}
+	
+	#wcfm-main-contentainer .wcfm_appointment_unit_ele {
+		width: 40% !important;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	#wcfm-main-contentainer .avail_rules_ele, #wcfm-main-contentainer .avail_range_type, #wcfm-main-contentainer .cost_rules_label, #wcfm-main-contentainer .cost_rules_ele, #wcfm-main-contentainer .cost_rules_text, #wcfm-main-contentainer .cost_range_type {
+		width: 42% !important;
+	}
+	
+	#wcfm-main-contentainer .cost_price_ele {
+		width: 20% !important;
+	}
+}

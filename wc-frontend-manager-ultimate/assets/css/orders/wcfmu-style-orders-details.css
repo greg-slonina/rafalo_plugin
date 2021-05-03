@@ -1,0 +1,50 @@
+#wcfm-main-contentainer #order_note_type { 
+ float: right;
+ width: 150px;
+}
+
+#orders_details_items_expander a.wcfm_order_edit_request{color:#ffffff!important;padding: 8px 10px!important;}
+
+.customer-note td {
+	background: #A7CEDC !important;
+}
+
+.system-note td {
+	background: #efefef !important;
+}
+
+#wcfm-main-contentainer #orders_details_shipment_expander .wc-order-item-name {
+	font-size: 20px;
+	color: #16c7e3;
+}
+
+#wcfm-main-contentainer #orders_details_shipment_expander .wcfmfa {
+	font-size: 25px;
+	color: #20a8d8;
+}
+
+#wcfm-main-contentainer input.upload_button, #wcfm-main-contentainer input.remove_button {
+  font-size: 10px;
+	padding: 5px;
+	float: none;
+	margin-bottom: 5px;
+	border-bottom: 0;
+}
+
+.wcfm-wp-fields-uploader {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 25%;
+	margin-bottom: 10px;
+}
+
+p.wcfm_page_options_desc {
+	margin-left: 39% !important;
+	margin-right: 0% !important;
+	display: block;
+	margin-bottom: 15px!important;
+}
+
+.wcfm_popup_wrapper td {
+	padding:5px;
+}

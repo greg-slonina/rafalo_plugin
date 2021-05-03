@@ -1,0 +1,2297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-05 20:06+0000\n"
+"PO-Revision-Date: 2018-01-05 20:06+0000\n"
+"Language-Team: Russian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Last-Translator: wclovers <wclovers.contact@gmail.com>\n"
+"Language: ru-RU"
+
+#: controllers/wcfmu-controller-stock-manage.php:46
+msgid "Stock Successfully updated."
+msgstr ""
+
+#: controllers/wcfmu-controller-stock-manage.php:322 
+#: controllers/wcfmu-controller-stock-manage.php:324
+msgid "NO"
+msgstr ""
+
+#: core/class-wcfmu-thirdparty-support.php:408
+msgid "Ticket"
+msgstr ""
+
+#: core/class-wcfmu-thirdparty-support.php:962
+msgid "packing-slip"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:200 core/class-wcfmu.php:289
+msgid "Vendor Verification"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:206
+msgid "Verification Badge"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:213 
+#: core/class-wcfmu-vendor-verification.php:224 
+#: core/class-wcfmu-vendor-verification.php:235 
+#: core/class-wcfmu-vendor-verification.php:246
+msgid "Enable"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:214 
+#: core/class-wcfmu-vendor-verification.php:225 
+#: core/class-wcfmu-vendor-verification.php:236 
+#: core/class-wcfmu-vendor-verification.php:247
+msgid "Redirect URL"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:214 
+#: core/class-wcfmu-vendor-verification.php:225 
+#: core/class-wcfmu-vendor-verification.php:236 
+#: core/class-wcfmu-vendor-verification.php:247
+msgid "User will be redirect to the URL after successful authentication."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:215 
+#: core/class-wcfmu-vendor-verification.php:226 
+#: core/class-wcfmu-vendor-verification.php:237
+msgid "Client ID"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:215 
+#: core/class-wcfmu-vendor-verification.php:226 
+#: core/class-wcfmu-vendor-verification.php:237
+msgid "App generated Client ID required."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:216 
+#: core/class-wcfmu-vendor-verification.php:227 
+#: core/class-wcfmu-vendor-verification.php:238
+msgid "Client Secret"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:216 
+#: core/class-wcfmu-vendor-verification.php:227 
+#: core/class-wcfmu-vendor-verification.php:238
+msgid "App generated Client Secret key required."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:248
+msgid "Consumer key"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:248
+msgid "App generated Consumer Key required."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:249
+msgid "Consumer Secret"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:249
+msgid "App generated Consumer Secret required."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:272
+msgid "National ID Card"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:273
+msgid "Business Card"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:274
+msgid "Passport"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:275
+msgid "Driving License"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:338 
+#: core/class-wcfmu-vendor-verification.php:719
+msgid "Verification"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:348
+msgid "Admin Note"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:353
+msgid "Prompt Verify"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:353
+msgid "Check this to submit your verification data to admin."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:359
+msgid "Identity Verification"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:377
+msgid "Address Verification"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:402
+msgid "Social Verification"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:419 
+#: core/class-wcfmu-vendor-verification.php:447 
+#: core/class-wcfmu-vendor-verification.php:475 
+#: core/class-wcfmu-vendor-verification.php:503
+msgid "Logout"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:429 
+#: core/class-wcfmu-vendor-verification.php:457 
+#: core/class-wcfmu-vendor-verification.php:485 
+#: core/class-wcfmu-vendor-verification.php:513
+msgid "Connect to"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:545
+#, php-format
+msgid "<b>%s</b> - verification pending for review"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:563
+msgid "Congratulation!!! You are already a verified seller."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:569
+msgid "Ahh!!! Your request still under review."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:575
+msgid "Hey!!! Complete social verification now and be a verified seller."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:581
+msgid "Opps!!! Your verification rejected, please try again."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:587
+msgid "Hey!!! Prompt for verification now and be a verified seller."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:643
+msgid "Note to Vendor"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:647
+msgid "Status Update"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:649
+msgid "Approve"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:650
+msgid "Reject"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:693
+msgid ""
+"<b>Opps!!!</b> Your verification rejected, please try again. <br />Added "
+"note: "
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:695
+msgid "<b>Congratulation!!!</b> Your verification approved. <br />Added note: "
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:710
+msgid "Verification ststus successfully updated."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:714
+msgid "Verification ststus update failed."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:756 
+#: core/class-wcfmu-vendor-verification.php:770 
+#: core/class-wcfmu-vendor-verification.php:784 
+#: core/class-wcfmu-vendor-verification.php:797 
+#: core/class-wcfmu-vendor-verification.php:810 
+#: core/class-wcfmu-vendor-verification.php:846 
+#: core/class-wcfmu-vendor-verification.php:864
+msgid "Verified Vendor"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:681 core/class-wcfmu-wcbookings.php:690
+#, php-format
+msgid "You have received a Booking <b>#%s</b> for <b>%s</b>"
+msgstr ""
+
+#: views/wcfmu-view-capability.php:74
+msgid "Add Attribute Term"
+msgstr ""
+
+#: views/wcfmu-view-capability.php:83
+msgid "Stock Manager"
+msgstr ""
+
+#: views/wcfmu-view-capability.php:91
+msgid "Product Limit"
+msgstr ""
+
+#: views/wcfmu-view-capability.php:114
+msgid "Allowed "
+msgstr ""
+
+#: views/wcfmu-view-capability.php:170
+msgid "Notification"
+msgstr ""
+
+#: views/wcfmu-view-capability.php:172
+msgid "Enquiry"
+msgstr ""
+
+#: views/thirdparty/wcfmu-view-acf-pro-products-manage.php:164 
+#: views/thirdparty/wcfmu-view-acf-products-manage.php:131
+msgid "-Select-"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:24
+msgid "Appointments"
+msgstr ""
+
+#: controllers/wcfmu-controller-coupons.php:26 
+#: controllers/wcfmu-controller-coupons.php:28 
+#: controllers/wcfmu-controller-orders.php:36 
+#: controllers/wcfmu-controller-reports-low-in-stock.php:111 
+#: controllers/wcfmu-controller-reports-low-in-stock.php:116
+msgid "Delete"
+msgstr "Удалить"
+
+#: controllers/wcfmu-controller-products.php:26 
+#: controllers/wcfmu-controller-products.php:30 
+#: core/class-wcfmu-frontend.php:73 views/wcfmu-view-capability.php:81
+msgid "Quick Edit"
+msgstr "Быстрое редактирование"
+
+#: controllers/wcfmu-controller-reports-low-in-stock.php:100
+msgid "In stock"
+msgstr "Доступно к заказу"
+
+#: controllers/wcfmu-controller-reports-low-in-stock.php:102 
+#: core/class-wcfmu-frontend.php:89
+msgid "Out of stock"
+msgstr "Нет в наличии"
+
+#: controllers/wcfmu-controller-reports-low-in-stock.php:109 
+#: controllers/wcfmu-controller-reports-low-in-stock.php:114
+msgid "View"
+msgstr "Посмотреть"
+
+#: controllers/wcfmu-controller-reports-low-in-stock.php:110 
+#: controllers/wcfmu-controller-reports-low-in-stock.php:115
+msgid "Edit"
+msgstr "Редактировать"
+
+#: controllers/wcfmu-controller-screen-manage.php:36 
+#: controllers/wcfmu-controller-screen-manage.php:40
+msgid "Screen update successfully"
+msgstr "Экран успешно обновлен"
+
+#: controllers/wcfmu-controller-screen-manage.php:42 
+#: controllers/wcfmu-controller-screen-manage.php:43
+msgid "Screen update failed"
+msgstr "Сбой обновления экрана"
+
+#: controllers/wcfmu-controller-stock-manage.php:322 
+#: controllers/wcfmu-controller-stock-manage.php:324 
+#: core/class-wcfmu-ajax.php:533
+msgid "YES"
+msgstr "ДА"
+
+#: core/class-wcfmu-ajax.php:249 core/class-wcfmu-ajax.php:261
+msgid "Attributes"
+msgstr "Атрибуты"
+
+#: core/class-wcfmu-ajax.php:251 core/class-wcfmu-ajax.php:263 
+#: core/class-wcfmu-frontend.php:237 views/wcfmu-view-screen-manager.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:63 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:71
+msgid "Name"
+msgstr "Имя"
+
+#: core/class-wcfmu-ajax.php:252 core/class-wcfmu-ajax.php:264
+msgid "Value(s):"
+msgstr "Значение(я)"
+
+#: core/class-wcfmu-ajax.php:253 core/class-wcfmu-ajax.php:265
+msgid "Visible on the product page"
+msgstr "Видимый на странице товара"
+
+#: core/class-wcfmu-ajax.php:254 core/class-wcfmu-ajax.php:266
+msgid "Use as Variation"
+msgstr "Использование в качестве варианта"
+
+#: core/class-wcfmu-ajax.php:264
+msgid "Enter some text, some attributes by \"|\" separating values."
+msgstr ""
+"Введите какой либо текст или атрибуты, разделяя значения вертикальной чертой "
+" (|) ."
+
+#: core/class-wcfmu-ajax.php:388
+msgid "You are not allowed to modify this order."
+msgstr "Вам не разрешено редактировать этот заказ."
+
+#: core/class-wcfmu-ajax.php:401
+msgid "Order marked shipped."
+msgstr "Заказ отмечен отправлен."
+
+#: core/class-wcfmu-ajax.php:407 core/class-wcfmu-ajax.php:440 
+#: core/class-wcfmu-ajax.php:483
+#, php-format
+msgid ""
+"Vendor <b>%s</b> has shipped <b>%s</b> to customer.<br/>Tracking Code : %s "
+"<br/>Tracking URL : <a href=\"%s\">%s</a>"
+msgstr ""
+"Поставщик <b>%s</b> отгрузил <b>%s</b> для клиента.<br>Код отслеживания: "
+"%s<br>Ссылка отслеживание: <a href=\"%s\">%s</a>"
+
+#: core/class-wcfmu-ajax.php:526
+#, php-format
+msgid "Item(s) <b>%s</b> received by customer."
+msgstr "Товар(ы) <b>%s</b> получен клиентом."
+
+#: core/class-wcfmu-bulk-edit.php:35 views/wcfmu-view-capability.php:82
+msgid "Bulk Edit"
+msgstr "Массовое Редактирование"
+
+#: core/class-wcfmu-dokan.php:114 core/class-wcfmu-wcmarketplace.php:126 
+#: core/class-wcfmu-wcpvendors.php:128 core/class-wcfmu-wcvendors.php:127
+msgid "Show all dates"
+msgstr "Показать все даты"
+
+#. 1: month name, 2: 4-digit year
+#. 1: month name, 2: 4-digit year
+#. 1: month name, 2: 4-digit year
+#: core/class-wcfmu-dokan.php:132 core/class-wcfmu-wcmarketplace.php:144 
+#: core/class-wcfmu-wcpvendors.php:146 core/class-wcfmu-wcvendors.php:145
+#, php-format
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: core/class-wcfmu-dokan.php:177 core/class-wcfmu-wcmarketplace.php:179 
+#: core/class-wcfmu-wcvendors.php:197
+msgid "Mark Shipped"
+msgstr "Отметить отправленным"
+
+#: core/class-wcfmu-frontend.php:86
+msgid "Sales by product"
+msgstr "Продажи по товарам"
+
+#: core/class-wcfmu-frontend.php:87
+msgid "Coupons by date"
+msgstr "Купоны по дате"
+
+#: core/class-wcfmu-frontend.php:88
+msgid "Low in stock"
+msgstr "Небольшое количество на складе"
+
+#: core/class-wcfmu-frontend.php:132
+msgid "Custom product attribute"
+msgstr "Индивидуальный атрибут товара"
+
+#: core/class-wcfmu-frontend.php:149 views/wcfmu-view-orders-details.php:74
+msgid "Add"
+msgstr "Добавить"
+
+#: core/class-wcfmu-frontend.php:181 core/class-wcfmu-frontend.php:232 
+#: core/class-wcfmu-frontend.php:263 core/class-wcfmu-vendor-support.php:53 
+#: views/wcfmu-view-products.php:61
+msgid "Downloadable"
+msgstr "Скачиваемый"
+
+#: core/class-wcfmu-frontend.php:200
+msgid "From"
+msgstr "От"
+
+#: core/class-wcfmu-frontend.php:201
+msgid "Upto"
+msgstr "Вплоть до"
+
+#: core/class-wcfmu-frontend.php:236
+msgid "Files"
+msgstr "Файлы"
+
+#: core/class-wcfmu-frontend.php:238 core/class-wcfmu-frontend.php:268
+msgid "File"
+msgstr "Файл"
+
+#: core/class-wcfmu-frontend.php:241 core/class-wcfmu-frontend.php:270
+msgid "Download Limit"
+msgstr "Лимит загрузок"
+
+#: core/class-wcfmu-frontend.php:241 core/class-wcfmu-frontend.php:270 
+#: core/class-wcfmu-thirdparty-support.php:1014 
+#: views/wcfmu-view-capability.php:91 views/wcfmu-view-capability.php:92 
+#: views/wcfmu-view-capability.php:93
+msgid "Unlimited"
+msgstr "Не ограничен"
+
+#: core/class-wcfmu-frontend.php:242 core/class-wcfmu-frontend.php:271
+msgid "Download Expiry"
+msgstr "Истечение лимита загрузки"
+
+#: core/class-wcfmu-frontend.php:242 core/class-wcfmu-frontend.php:271
+msgid "Never"
+msgstr "Никогда"
+
+#: core/class-wcfmu-frontend.php:262 core/class-wcfmu-vendor-support.php:52 
+#: views/wcfmu-view-products.php:65
+msgid "Virtual"
+msgstr "Виртуальный"
+
+#: core/class-wcfmu-frontend.php:269
+msgid "File Name"
+msgstr "Имя файла"
+
+#: core/class-wcfmu-frontend.php:272
+msgid "Weight"
+msgstr "Вес"
+
+#: core/class-wcfmu-frontend.php:273
+msgid "Length"
+msgstr "Длина"
+
+#: core/class-wcfmu-frontend.php:274
+msgid "Width"
+msgstr "Ширина"
+
+#: core/class-wcfmu-frontend.php:275
+msgid "Height"
+msgstr "Высота"
+
+#: core/class-wcfmu-frontend.php:276
+msgid "Shipping class"
+msgstr "Класс доставки"
+
+#: core/class-wcfmu-frontend.php:277
+msgid "Tax class"
+msgstr "Класс налогов"
+
+#: core/class-wcfmu-frontend.php:278
+msgid "Description"
+msgstr "Описание"
+
+#: core/class-wcfmu-license.php:163
+msgid "WCFM Ultimate"
+msgstr "WCFM Ultimate"
+
+#: core/class-wcfmu-license.php:300
+#, php-format
+msgid ""
+"The WCFM - Ultimate License Key has not been activated, so the plugin is "
+"inactive! %sClick here%s to activate the license key and the plugin."
+msgstr ""
+"WCFM - Ultimate лицензионный ключ не был активирован, поэтому плагин не "
+"активен! %sClick здесь %s, чтобы активировать лицензионный ключ и плагин."
+
+#: core/class-wcfmu-non-ajax.php:31
+msgid "Set WCFMu License"
+msgstr "Установить лицензию WCFMu"
+
+#: core/class-wcfmu-non-ajax.php:31
+msgid "License"
+msgstr "Лицензия"
+
+#: core/class-wcfmu-non-ajax.php:48
+msgid "View WCFMu Change Log"
+msgstr "Просмотр журнала изменений WCFMu"
+
+#: core/class-wcfmu-non-ajax.php:48
+msgid "Change Log"
+msgstr "Журнал изменений"
+
+#: core/class-wcfmu-sitepress-wpml.php:221 
+#: core/class-wcfmu-sitepress-wpml.php:222
+msgid "Translations"
+msgstr "Переводы"
+
+#: core/class-wcfmu-thirdparty-support.php:223 
+#: core/class-wcfmu-thirdparty-support.php:316 
+#: views/thirdparty/wcfmu-view-auctions.php:24
+msgid "Auctions"
+msgstr "Аукционы"
+
+#: core/class-wcfmu-thirdparty-support.php:227
+msgid "Rental Calendar"
+msgstr "Календарь выплат"
+
+#: core/class-wcfmu-thirdparty-support.php:231 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:24
+msgid "Quote Request"
+msgstr "Запрос квоты"
+
+#: core/class-wcfmu-thirdparty-support.php:235
+msgid "Manage Quote Request"
+msgstr "Управление запросами квоты"
+
+#: core/class-wcfmu-thirdparty-support.php:329
+msgid "Rentals"
+msgstr "Аренда"
+
+#: core/class-wcfmu-thirdparty-support.php:334 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:84 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:94
+msgid "Quote"
+msgstr "Запрос"
+
+#: core/class-wcfmu-thirdparty-support.php:367 
+#: core/class-wcfmu-thirdparty-support.php:396 
+#: views/thirdparty/wcfmu-view-auctions.php:53 
+#: views/thirdparty/wcfmu-view-auctions.php:61 
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:49 
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:51
+msgid "Auction"
+msgstr "Аукцион"
+
+#: core/class-wcfmu-thirdparty-support.php:374
+msgid "Rental Product"
+msgstr "Давальческий товар"
+
+#: core/class-wcfmu-thirdparty-support.php:390
+msgid "Resume Package"
+msgstr "Пакет резюме"
+
+#: core/class-wcfmu-thirdparty-support.php:710
+msgid "Barcode"
+msgstr "Штрих-код"
+
+#: core/class-wcfmu-thirdparty-support.php:711
+msgid "ISBN"
+msgstr "ISBN"
+
+#: core/class-wcfmu-thirdparty-support.php:721
+msgid "MSRP Price"
+msgstr "MSRP цена"
+
+#: core/class-wcfmu-thirdparty-support.php:731
+msgid "Fee Name"
+msgstr "Название оплаты"
+
+#: core/class-wcfmu-thirdparty-support.php:731
+msgid "This will be shown at the checkout description the added fee."
+msgstr "Это будет показано в описании оформить дополнительную плату."
+
+#: core/class-wcfmu-thirdparty-support.php:732
+msgid "Fee Amount"
+msgstr "Размер Комиссии"
+
+#: core/class-wcfmu-thirdparty-support.php:732
+msgid ""
+"Enter a monetary decimal without any currency symbols or thousand separator. "
+"This field also accepts percentages."
+msgstr ""
+"Введите денежной десятичное число без каких-либо символов валют или "
+"разделитель тысяч. Это поле также принимает проценты."
+
+#: core/class-wcfmu-thirdparty-support.php:733
+msgid "Multiple Fee by Quantity"
+msgstr "Несколько плата по количеству"
+
+#: core/class-wcfmu-thirdparty-support.php:733
+msgid ""
+"Multiply the fee by the quantity of this product that is added to the cart."
+msgstr ""
+"По умолчанию правила цен применяются после добавления продукта в корзину."
+
+#: core/class-wcfmu-thirdparty-support.php:879
+msgid "invoice"
+msgstr "счет"
+
+#: core/class-wcfmu-thirdparty-support.php:1064 
+#: core/class-wcfmu-thirdparty-support.php:1067
+msgid "Create New Product"
+msgstr "Создать новый продукт"
+
+#: core/class-wcfmu-thirdparty-support.php:1064 
+#: core/class-wcfmu-thirdparty-support.php:1067
+msgid "Manage Products"
+msgstr "Управление продуктами"
+
+#: core/class-wcfmu-vendor-support.php:93 
+#: views/wcfmu-view-screen-manager.php:51
+msgid "Commission"
+msgstr "Комиссия"
+
+#: core/class-wcfmu-vendor-support.php:101
+msgid "Commission Type"
+msgstr "Тип комиссии"
+
+#: core/class-wcfmu-vendor-support.php:102
+msgid "Commission(%)"
+msgstr "Комиссионные (%)"
+
+#: core/class-wcfmu-vendor-support.php:103
+msgid "Commission Fixed"
+msgstr "Фиксированной Комиссии"
+
+#: core/class-wcfmu-vendor-support.php:104
+msgid "Commission Fee"
+msgstr "Комиссионный сбор"
+
+#: core/class-wcfmu-vendor-support.php:140 helpers/wcfmu-core-functions.php:242
+msgid "Tracking Code"
+msgstr "Код отслеживания"
+
+#: core/class-wcfmu-vendor-support.php:144 helpers/wcfmu-core-functions.php:243
+msgid "Tracking URL"
+msgstr "Отслеживание URL"
+
+#: core/class-wcfmu-vendor-support.php:148
+msgid "Item(s) Received"
+msgstr "Товар(ы) получены"
+
+#: core/class-wcfmu-vendor-support.php:183
+msgid "Shipment Tracking: "
+msgstr "Отслеживание поставки: "
+
+#: core/class-wcfmu-vendor-support.php:185
+msgid "Item(s) already received."
+msgstr "Товар(ы) уже получены."
+
+#: core/class-wcfmu-vendor-support.php:188
+msgid "Mark as Received"
+msgstr "Отметить как полученные"
+
+#: core/class-wcfmu-vendor-support.php:191
+msgid "Item(s) will be shipped soon."
+msgstr "Товар(ы) будет отправлен скоро."
+
+#: core/class-wcfmu-vendor-verification.php:639 
+#: views/wcfmu-view-capability.php:182 
+#: views/thirdparty/wcfmu-view-address-geocoder-products-manage.php:40 
+#: views/thirdparty/wcfmu-view-mappress-products-manage.php:31
+msgid "Address"
+msgstr "Адрес"
+
+#: core/class-wcfmu-vendor-verification.php:658 
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:96 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:110
+msgid "Update"
+msgstr "Обновить"
+
+#: core/class-wcfmu-wcaccommodation.php:60
+msgid "Accommodation"
+msgstr "Размещение"
+
+#: core/class-wcfmu-wcaddons.php:72
+msgid "Options"
+msgstr "Опции"
+
+#: core/class-wcfmu-wcappointments.php:119
+msgid "Appointments Dashboard"
+msgstr "Панель назначений"
+
+#: core/class-wcfmu-wcappointments.php:122 
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:51 
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:96 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:61 
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:42 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:154 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:174 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:45 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:36
+msgid "Appointments List"
+msgstr "Список назначений"
+
+#: core/class-wcfmu-wcappointments.php:125 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:25
+msgid "Appointments Staffs"
+msgstr "Назначение сотрудников"
+
+#: core/class-wcfmu-wcappointments.php:128
+msgid "Appointments Staffs Manage"
+msgstr "Управление назначениями сотрудников"
+
+#: core/class-wcfmu-wcappointments.php:131
+msgid "Create Appointments"
+msgstr "Создание назначений"
+
+#: core/class-wcfmu-wcappointments.php:134 
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:111
+msgid "Appointments Calendar"
+msgstr "Календарь назначений"
+
+#: core/class-wcfmu-wcappointments.php:137
+#, php-format
+msgid "Appointments Details #%s"
+msgstr "Назначений детали #%s"
+
+#: core/class-wcfmu-wcappointments.php:140
+msgid "Appointments Settings"
+msgstr "Параметры назначения"
+
+#: core/class-wcfmu-wcappointments.php:224 
+#: core/class-wcfmu-wcappointments.php:561 
+#: views/wcfmu-view-screen-manager.php:70 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:120 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:104 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:115
+msgid "Appointment"
+msgstr "Назначение"
+
+#: core/class-wcfmu-wcappointments.php:595 
+#: core/class-wcfmu-wcappointments.php:604
+#, php-format
+msgid "You have received an Appointment <b>#%s</b> for <b>%s</b>"
+msgstr "Вы получили назначение <b>#%s</b> для <b>%s</b>"
+
+#: core/class-wcfmu-wcbookings.php:86
+msgid "WCFM View"
+msgstr "Вид WCFM"
+
+#: core/class-wcfmu-wcbookings.php:101 core/class-wcfmu-wcbookings.php:111
+msgid "WCFM Home"
+msgstr "Главная"
+
+#: core/class-wcfmu-wcbookings.php:429 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:185
+msgid "Restricted days"
+msgstr "Ограниченно по дням"
+
+#: core/class-wcfmu-wcbookings.php:648 views/wcfmu-view-screen-manager.php:59
+msgid "Booking"
+msgstr "Резервирование"
+
+#: core/class-wcfmu-wcmarketplace.php:151 core/class-wcfmu-wcpvendors.php:153 
+#: core/class-wcfmu-wcvendors.php:152
+msgid "Show all"
+msgstr "Показать все"
+
+#: core/class-wcfmu-wcmarketplace.php:152 core/class-wcfmu-wcpvendors.php:154
+msgid "Unpaid"
+msgstr "Неоплаченный"
+
+#: core/class-wcfmu-wcmarketplace.php:153 core/class-wcfmu-wcpvendors.php:155 
+#: core/class-wcfmu-wcvendors.php:154 
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:21
+msgid "Paid"
+msgstr "Оплаченный"
+
+#: core/class-wcfmu-wcmarketplace.php:154 core/class-wcfmu-wcvendors.php:155
+msgid "Reversed"
+msgstr "Зарезервировано"
+
+#: core/class-wcfmu-wcpvendors.php:156
+msgid "Void"
+msgstr "Аннулировано"
+
+#: core/class-wcfmu-wcpvendors.php:183
+msgid "Mark Fulfilled"
+msgstr "Отмечен выполненен"
+
+#: core/class-wcfmu-wcvendors.php:153
+msgid "Due"
+msgstr "Сроки"
+
+#: helpers/wcfmu-core-functions.php:197
+msgid "Please insert atleast Resource Title before submit."
+msgstr "Пожалуйста заполните хотя бы титул прежде подтверждения."
+
+#: helpers/wcfmu-core-functions.php:198
+msgid "Resource Saving Failed."
+msgstr "Не удалось произвести сохранение."
+
+#: helpers/wcfmu-core-functions.php:199
+msgid "Resource Successfully Published."
+msgstr "Ресурс успешно опубликован."
+
+#: helpers/wcfmu-core-functions.php:211
+msgid "Please insert Staff Username before submit."
+msgstr "Пожалуйста введите имя сотрудника прежде подтверждения."
+
+#: helpers/wcfmu-core-functions.php:212
+msgid "Please insert Staff Email before submit."
+msgstr "Пожалуйста заполните адрес e-mail сотрудника."
+
+#: helpers/wcfmu-core-functions.php:213
+msgid "This Username already exists."
+msgstr "Имя пользователя уже существует."
+
+#: helpers/wcfmu-core-functions.php:214
+msgid "This Email already exists."
+msgstr "Этот email уже существует."
+
+#: helpers/wcfmu-core-functions.php:215
+msgid "Staff Saving Failed."
+msgstr "Ошибка сохранения."
+
+#: helpers/wcfmu-core-functions.php:216
+msgid "Staff Successfully Saved."
+msgstr "Успешно сохранено."
+
+#: helpers/wcfmu-core-functions.php:228
+msgid "Global Settings Saving Failed."
+msgstr "Глобальные параметры не сохранены."
+
+#: helpers/wcfmu-core-functions.php:229
+msgid "Global Settings Successfully Saved."
+msgstr "Глобальные параметры успешно сохранен."
+
+#: helpers/wcfmu-core-functions.php:241
+msgid "Shipment Tracking Info"
+msgstr "Информация отслеживания отгрузки"
+
+#: helpers/wcfmu-core-functions.php:245
+msgid "Fill up the details."
+msgstr "Заполнить детали объекта."
+
+#: helpers/wcfmu-core-functions.php:246
+msgid "Details successfully updated."
+msgstr "Подробности успешно обновлены."
+
+#: views/wcfmu-view-capability.php:54
+msgid "Sections"
+msgstr "Разделы"
+
+#: views/wcfmu-view-capability.php:58
+msgid "Featured Image"
+msgstr "Популярные изображения"
+
+#: views/wcfmu-view-capability.php:59
+msgid "Gallery Image"
+msgstr "Изображение галереи"
+
+#: views/wcfmu-view-capability.php:60
+msgid "Category"
+msgstr "Категория"
+
+#: views/wcfmu-view-capability.php:61
+msgid "Tags"
+msgstr "Теги"
+
+#: views/wcfmu-view-capability.php:62
+msgid "Add-ons"
+msgstr "Надстройка"
+
+#: views/wcfmu-view-capability.php:63
+msgid "Toolset Fields"
+msgstr "Поля для показа"
+
+#: views/wcfmu-view-capability.php:64
+msgid "ACF Fields"
+msgstr "ACF поля"
+
+#: views/wcfmu-view-capability.php:65
+msgid "MapPress"
+msgstr "MapPress"
+
+#: views/wcfmu-view-capability.php:69
+msgid "Insights"
+msgstr "Инсайты"
+
+#: views/wcfmu-view-capability.php:73
+msgid "Add Attribute"
+msgstr "Добавить атрибут"
+
+#: views/wcfmu-view-capability.php:75
+msgid "Delete Media"
+msgstr "Удалить Медиа"
+
+#: views/wcfmu-view-capability.php:76
+msgid "Rich Editor"
+msgstr "Расширенный редактор"
+
+#: views/wcfmu-view-capability.php:77
+msgid "Featured Product"
+msgstr "Рекомендуемое предложение"
+
+#: views/wcfmu-view-capability.php:78
+msgid "Duplicate Product"
+msgstr "Дубликат продукта / магазин"
+
+#: views/wcfmu-view-capability.php:79
+msgid "Import"
+msgstr "Импорт"
+
+#: views/wcfmu-view-capability.php:80
+msgid "Export"
+msgstr "Экспорт"
+
+#: views/wcfmu-view-capability.php:87
+msgid "Limits"
+msgstr "Ограничения"
+
+#: views/wcfmu-view-capability.php:92
+msgid "Gallery Limit"
+msgstr "Лимит галереи"
+
+#: views/wcfmu-view-capability.php:93
+msgid "Category Limit"
+msgstr "Лимит категории"
+
+#: views/wcfmu-view-capability.php:96
+msgid "Categories"
+msgstr "Рубрики"
+
+#: views/wcfmu-view-capability.php:96
+msgid "Allowed Categories"
+msgstr "Разрешенные категории"
+
+#: views/wcfmu-view-capability.php:154
+msgid "Shipping Tracking"
+msgstr "Отслеживание"
+
+#: views/wcfmu-view-capability.php:158
+msgid "Allow"
+msgstr "Разрешить"
+
+#: views/wcfmu-view-capability.php:163
+msgid "Header Panels"
+msgstr "Верхняя панель"
+
+#: views/wcfmu-view-capability.php:167
+msgid "Knowledgebase"
+msgstr "База знаний"
+
+#: views/wcfmu-view-capability.php:168
+msgid "Notice"
+msgstr "Объявление"
+
+#: views/wcfmu-view-capability.php:169
+msgid "Topic Reply"
+msgstr "Ответ темы"
+
+#: views/wcfmu-view-capability.php:171
+msgid "Direct Message"
+msgstr "Личные сообщения"
+
+#: views/wcfmu-view-capability.php:173 views/wcfmu-view-capability.php:178
+msgid "Profile"
+msgstr "Профиль"
+
+#: views/wcfmu-view-capability.php:183
+msgid "Social"
+msgstr "Соцсети"
+
+#: views/wcfmu-view-capability.php:188 
+#: views/thirdparty/wcfmu-view-wcrentalpro-product-manage.php:290
+msgid "Settings"
+msgstr "Настройки"
+
+#: views/wcfmu-view-capability.php:192
+msgid "Vacation"
+msgstr "Отпуск"
+
+#: views/wcfmu-view-capability.php:193
+msgid "Brand"
+msgstr "Бренд"
+
+#: views/wcfmu-view-capability.php:194 includes/pdf_invoice/invoice.php:325 
+#: includes/pdf_invoice/invoice.php:585
+msgid "Shipping"
+msgstr "Доставка"
+
+#: views/wcfmu-view-capability.php:195
+msgid "Billing"
+msgstr "Платежная информация"
+
+#: views/wcfmu-view-coupons-manage.php:80
+msgid "Restriction"
+msgstr "Ограничение"
+
+#: views/wcfmu-view-coupons-manage.php:85
+msgid "Minimum spend"
+msgstr "Минимальный бюджет"
+
+#: views/wcfmu-view-coupons-manage.php:86
+msgid "Maximum spend"
+msgstr "Максимальная бюджет"
+
+#: views/wcfmu-view-coupons-manage.php:87
+msgid "Individual use only"
+msgstr "Индивидуальное использование только"
+
+#: views/wcfmu-view-coupons-manage.php:87
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr ""
+"Отметьте если промокод нельзя использовать вместе с другими промокодами."
+
+#: views/wcfmu-view-coupons-manage.php:88
+msgid "Exclude sale items"
+msgstr "Исключение товаров из распродажи"
+
+#: views/wcfmu-view-coupons-manage.php:88
+msgid ""
+"Check this box if the coupon should not apply to items on sale. Per-item "
+"coupons will only work if the item is not on sale. Per-cart coupons will "
+"only work if there are no sale items in the cart."
+msgstr ""
+"Установите этот флажок, если промокод не должен применяться к товарам на "
+"распродаже. Промокод на один товар применяются только в том случае, если "
+"товар не на распродаже. Промокоды на одну покупку применяются только в том "
+"случае, если в корзине есть товары не по распродаже."
+
+#: views/wcfmu-view-coupons-manage.php:89
+msgid "Products"
+msgstr "Товары"
+
+#: views/wcfmu-view-coupons-manage.php:89
+msgid ""
+"Products which need to be in the cart to use this coupon or, for `Product "
+"Discounts`, which products are discounted."
+msgstr ""
+"Продукты, которые должны быть в корзину, чтобы использовать этот купон или, "
+"для «Скидки» продукт, какие товары продаются со скидкой."
+
+#: views/wcfmu-view-coupons-manage.php:90
+msgid "Exclude products"
+msgstr "Исключить товары"
+
+#: views/wcfmu-view-coupons-manage.php:90
+msgid ""
+"Products which must not be in the cart to use this coupon or, for `Product "
+"Discounts`, which products are not discounted."
+msgstr ""
+"Продукты, которые не должны быть в корзину, чтобы использовать этот купон "
+"или, для «Продукт скидки», что продукция не со скидкой."
+
+#: views/wcfmu-view-coupons-manage.php:94 
+#: views/wcfmu-view-coupons-manage.php:95
+msgid "Product categories"
+msgstr "Категории товара"
+
+#: views/wcfmu-view-coupons-manage.php:94
+msgid ""
+"A product must be in this category for the coupon to remain valid or, for "
+"`Product Discounts`, products in these categories will be discounted."
+msgstr ""
+"Купон действует только на товары из этой категории, или для \"скидки на "
+"товар\", товары в этих категориях будут со скидкой."
+
+#: views/wcfmu-view-coupons-manage.php:115 
+#: views/wcfmu-view-coupons-manage.php:116
+msgid "Exclude categories"
+msgstr "Исключить категории"
+
+#: views/wcfmu-view-coupons-manage.php:115
+msgid ""
+"Product must not be in this category for the coupon to remain valid or, for "
+"`Product Discounts`, products in these categories will not be discounted."
+msgstr ""
+"Купон не действует на товары из этой категории или для \"скидки на товар\", "
+"товары в этих категориях не будут иметь скидку."
+
+#: views/wcfmu-view-coupons-manage.php:136
+msgid "Email restrictions"
+msgstr "Ограничения на E mail"
+
+#: views/wcfmu-view-coupons-manage.php:136
+msgid ""
+"List of allowed emails to check against the customer's billing email when an "
+"order is placed. Separate email addresses with commas."
+msgstr ""
+"Список допустимых E mail'ов для проверки E mail'а клиента при регистрации "
+"заказа. Разделяйте E mail'ы запятой."
+
+#: views/wcfmu-view-coupons-manage.php:146
+msgid "Limit"
+msgstr "Ограничение"
+
+#: views/wcfmu-view-coupons-manage.php:151
+msgid "Usage limit per coupon"
+msgstr "Лимит использования на промокод"
+
+#: views/wcfmu-view-coupons-manage.php:151
+msgid "How many times this coupon can be used before it is void."
+msgstr ""
+"Сколько раз данный промокод может быть использован, прежде чем он будет "
+"аннулирован."
+
+#: views/wcfmu-view-coupons-manage.php:152
+msgid "Limit usage to X items"
+msgstr "Лимит использования на X элементов"
+
+#: views/wcfmu-view-coupons-manage.php:152
+msgid ""
+"The maximum number of individual items this coupon can apply to when using "
+"product discounts. Leave blank to apply to all qualifying items in cart."
+msgstr ""
+"Максимальное число индивидуальных элементов на которые распространяется "
+"промокод при использовании скидки. Оставьте пустым чтобы применить на все "
+"перечисленные объекты в корзине."
+
+#: views/wcfmu-view-coupons-manage.php:153
+msgid "Usage limit per user"
+msgstr "Лимит использования на одного пользователя"
+
+#: views/wcfmu-view-coupons-manage.php:153
+msgid ""
+"How many times this coupon can be used by an invidual user. Uses billing "
+"email for guests, and user ID for logged in users."
+msgstr ""
+"Сколько раз данный купон может быть использован одним клиентом. "
+"Отслеживается по идентификатору пользователя для зарегистрированных "
+"покупателей и по адресу E mail для незарегистрированных."
+
+#: views/wcfmu-view-coupons.php:12
+msgid "Show all types"
+msgstr "Показать все типы"
+
+#: views/wcfmu-view-orders-details.php:11
+msgid "Order Notes"
+msgstr "Примечания к заказу"
+
+#: views/wcfmu-view-orders-details.php:39 
+#: views/wcfmu-view-orders-details.php:48
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: views/wcfmu-view-orders-details.php:47
+#, php-format
+msgid "added on %1$s at %2$s"
+msgstr "добавлено %1$s в %2$s"
+
+#: views/wcfmu-view-orders-details.php:48
+#, php-format
+msgid "by %s"
+msgstr "в %s"
+
+#: views/wcfmu-view-orders-details.php:64
+msgid "Add note"
+msgstr "Добавить примечание"
+
+#: views/wcfmu-view-orders-details.php:64
+msgid ""
+"Add a note for your reference, or add a customer note (the user will be "
+"notified)."
+msgstr ""
+"Добавьте примечание для вашей справки или добавьте клиентское примечание "
+"(пользователь будет оповещен)."
+
+#: views/wcfmu-view-orders-details.php:70
+msgid "Private note"
+msgstr "Личное примечание"
+
+#: views/wcfmu-view-orders-details.php:71
+msgid "Note to customer"
+msgstr "Примечание для клиента"
+
+#: views/wcfmu-view-orders.php:7 views/wcfmu-view-products.php:8 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:19
+msgid "All"
+msgstr "Все"
+
+#: views/wcfmu-view-orders.php:8
+msgid "Processing"
+msgstr "В обработке"
+
+#: views/wcfmu-view-orders.php:9
+msgid "On Hold"
+msgstr "На удержании"
+
+#: views/wcfmu-view-orders.php:10
+msgid "Completed"
+msgstr "Завершенный"
+
+#: views/wcfmu-view-orders.php:11 
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:24
+msgid "Cancelled"
+msgstr "Отменен"
+
+#: views/wcfmu-view-orders.php:12 includes/pdf_invoice/invoice.php:637
+msgid "Refunded"
+msgstr "Возвращенные"
+
+#: views/wcfmu-view-orders.php:13
+msgid "Failed"
+msgstr "Отмененные"
+
+#: views/wcfmu-view-products-manage.php:45
+msgid "Advanced"
+msgstr "Расширенные"
+
+#: views/wcfmu-view-products-manage.php:50
+msgid "Enable reviews"
+msgstr "Включить отзывы"
+
+#: views/wcfmu-view-products-manage.php:51
+msgid "Menu Order"
+msgstr "Меню заказа"
+
+#: views/wcfmu-view-products-manage.php:51
+msgid "Custom ordering position."
+msgstr "Сортировка покупателя."
+
+#: views/wcfmu-view-products-manage.php:52
+msgid "Purchase Note"
+msgstr "Примечание к покупке"
+
+#: views/wcfmu-view-products-manage.php:52
+msgid "Enter an optional note to send the customer after purchase."
+msgstr "Введите примечание, чтобы отправить его клиенту, после покупки."
+
+#: views/wcfmu-view-products-quick-manage.php:15 
+#: views/wcfmu-view-screen-manager.php:60 
+#: views/wcfmu-view-screen-manager.php:71 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:85 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:95 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:105 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:116
+msgid "Product"
+msgstr "Товар"
+
+#: views/wcfmu-view-products-quick-manage.php:19 
+#: views/wcfmu-view-screen-manager.php:24
+msgid "SKU"
+msgstr "Cкладской номер (SKU)"
+
+#: views/wcfmu-view-products-quick-manage.php:24
+msgid "Regular Price"
+msgstr "Обычная цена"
+
+#: views/wcfmu-view-products-quick-manage.php:28
+msgid "Sale Price"
+msgstr "Цена распродажи"
+
+#: views/wcfmu-view-products-quick-manage.php:34 
+#: views/wcfmu-view-screen-manager.php:26
+msgid "Stock"
+msgstr "Наличие"
+
+#: views/wcfmu-view-products.php:9
+msgid "Published"
+msgstr "Опубликованы"
+
+#: views/wcfmu-view-products.php:10
+msgid "Draft"
+msgstr "Черновик"
+
+#: views/wcfmu-view-products.php:11
+msgid "Pending"
+msgstr "В ожидании"
+
+#: views/wcfmu-view-products.php:42
+msgid "Select a category"
+msgstr "Выберите категорию"
+
+#: views/wcfmu-view-products.php:51
+msgid "Show all product types"
+msgstr "Показать все типы товаров"
+
+#: views/wcfmu-view-reports-coupons-by-date.php:56 
+#: views/wcfmu-view-reports-coupons-by-date.php:58
+msgid "Coupons by Date"
+msgstr "Купоны по дате"
+
+#: views/wcfmu-view-reports-coupons-by-date.php:56 
+#: views/wcfmu-view-reports-sales-by-product.php:56
+#, php-format
+msgctxt "start date and end date"
+msgid "From %s to %s"
+msgstr "С %s по %s"
+
+#: views/wcfmu-view-reports-coupons-by-date.php:68 
+#: views/wcfmu-view-reports-low-in-stock.php:39 
+#: views/wcfmu-view-reports-sales-by-product.php:69 
+#: views/thirdparty/wcfmu-view-auctions.php:37 
+#: views/thirdparty/wcfmu-view-wcrental-calendar.php:132 
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:61 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:67 
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:36 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:54 
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:34 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:146 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:166 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:37 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:77 
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:36 
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:34 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:151 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:37 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:142
+msgid "WP Admin View"
+msgstr "Админ-панель"
+
+#: views/wcfmu-view-reports-low-in-stock.php:30
+msgid "Low in Stock"
+msgstr "Мало на складе"
+
+#: views/wcfmu-view-reports-low-in-stock.php:49 
+#: views/wcfmu-view-reports-low-in-stock.php:58
+msgid "product"
+msgstr "товар"
+
+#: views/wcfmu-view-reports-low-in-stock.php:50 
+#: views/wcfmu-view-reports-low-in-stock.php:59
+msgid "Parent"
+msgstr "Родительский"
+
+#: views/wcfmu-view-reports-low-in-stock.php:51 
+#: views/wcfmu-view-reports-low-in-stock.php:60
+msgid "Unit in stock"
+msgstr "Количество на складе"
+
+#: views/wcfmu-view-reports-low-in-stock.php:52 
+#: views/wcfmu-view-reports-low-in-stock.php:61
+msgid "Stock Status"
+msgstr "Статус склада"
+
+#: views/wcfmu-view-reports-low-in-stock.php:53 
+#: views/wcfmu-view-reports-low-in-stock.php:62 
+#: views/wcfmu-view-screen-manager.php:32 
+#: views/wcfmu-view-screen-manager.php:42 
+#: views/wcfmu-view-screen-manager.php:53 
+#: views/wcfmu-view-screen-manager.php:64 
+#: views/wcfmu-view-screen-manager.php:75 
+#: views/wcfmu-view-screen-manager.php:86 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:89 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:99 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:65 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:73 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:109 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:120 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:64 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:71
+msgid "Actions"
+msgstr "Действия"
+
+#: views/wcfmu-view-reports-sales-by-date.php:42 
+#: views/reports/wcfmu-html-report-coupons-by-date.php:45 
+#: views/reports/wcfmu-html-report-sales-by-product.php:45
+msgid "Go"
+msgstr "Перейти"
+
+#: views/wcfmu-view-reports-sales-by-product.php:56 
+#: views/wcfmu-view-reports-sales-by-product.php:58
+msgid "Sales by Product"
+msgstr "Продажи по товару"
+
+#: views/wcfmu-view-screen-manager.php:22
+msgid "Image"
+msgstr "Изображение"
+
+#: views/wcfmu-view-screen-manager.php:25 
+#: views/wcfmu-view-screen-manager.php:47 
+#: views/wcfmu-view-screen-manager.php:58 
+#: views/wcfmu-view-screen-manager.php:69 
+#: views/wcfmu-view-screen-manager.php:81 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:86 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:96 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:103 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:114
+msgid "Status"
+msgstr "Статус"
+
+#: views/wcfmu-view-screen-manager.php:27 includes/pdf_invoice/invoice.php:139
+msgid "Price"
+msgstr "Цена"
+
+#: views/wcfmu-view-screen-manager.php:28 
+#: views/wcfmu-view-screen-manager.php:38
+msgid "Type"
+msgstr "Тип"
+
+#: views/wcfmu-view-screen-manager.php:29
+msgid "Views"
+msgstr "Просмотры"
+
+#: views/wcfmu-view-screen-manager.php:30 
+#: views/wcfmu-view-screen-manager.php:52 
+#: views/thirdparty/wcfmu-view-auctions.php:56 
+#: views/thirdparty/wcfmu-view-auctions.php:64 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:88 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:98 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:63 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:70
+msgid "Date"
+msgstr "Дата"
+
+#: views/wcfmu-view-screen-manager.php:31 
+#: views/wcfmu-view-screen-manager.php:108
+msgid "Vendor"
+msgstr "Продавец"
+
+#: views/wcfmu-view-screen-manager.php:37
+msgid "Code"
+msgstr "Код"
+
+#: views/wcfmu-view-screen-manager.php:39
+msgid "Amt"
+msgstr "AMT"
+
+#: views/wcfmu-view-screen-manager.php:40
+msgid "Usage Limit"
+msgstr "Лимит использования"
+
+#: views/wcfmu-view-screen-manager.php:41
+msgid "Expiry date"
+msgstr "Дата истечения"
+
+#: views/wcfmu-view-screen-manager.php:48 
+#: views/wcfmu-view-screen-manager.php:61 
+#: views/wcfmu-view-screen-manager.php:72 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:106 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:117
+msgid "Order"
+msgstr "Заказ"
+
+#: views/wcfmu-view-screen-manager.php:49
+msgid "Purchased"
+msgstr "Приобретен"
+
+#: views/wcfmu-view-screen-manager.php:50
+msgid "Gross Sales"
+msgstr "Валовой объем продаж"
+
+#: views/wcfmu-view-screen-manager.php:62 
+#: views/wcfmu-view-screen-manager.php:73 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:107 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:118
+msgid "Start Date"
+msgstr "Дата начала"
+
+#: views/wcfmu-view-screen-manager.php:63 
+#: views/wcfmu-view-screen-manager.php:74 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:108 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:119
+msgid "End Date"
+msgstr "Дата окончания"
+
+#: views/wcfmu-view-screen-manager.php:101
+msgid "Choose columns want to hide."
+msgstr "Выберете колонки, которые хотите скрыть."
+
+#: views/wcfmu-view-screen-manager.php:105
+msgid "Columns"
+msgstr "Колонки"
+
+#: views/wcfmu-view-screen-manager.php:106
+msgid "Admin"
+msgstr "Admin"
+
+#: views/wcfmu-view-stock-manage.php:180 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:199 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:228 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:209 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:195
+msgid "Submit"
+msgstr "Отправить"
+
+#: views/wcfmu-view-thirdparty-products-manage.php:61 
+#: views/wcfmu-view-thirdparty-products-manage.php:66 
+#: views/thirdparty/wcfmu-view-wpjm-associate-listings-products-manage.php:64
+msgid "Listings"
+msgstr "Списки"
+
+#: views/wcfmu-view-thirdparty-products-manage.php:66 
+#: views/thirdparty/wcfmu-view-wpjm-associate-listings-products-manage.php:64
+msgid "Associate this product with your Listings."
+msgstr "Свяжите этот продукт с вашим списком."
+
+#: controllers/thirdparty/wcfmu-controller-rental-quote.php:106
+msgid "Details"
+msgstr "Подробности"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments-staffs.php:75 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:153
+msgid "Manage Staff"
+msgstr "Управление персоналом"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:23
+msgid "Pending Confirmation"
+msgstr "Ожидание подтверждения"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:25
+msgid "Un-paid"
+msgstr "Неоплачено"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:20
+msgid "Complete"
+msgstr "Завершить"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:22
+msgid "Confirmed"
+msgstr "Подтвержденный"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:88 
+#: controllers/wc_bookings/wcfmu-controller-wcbookings-resources.php:75
+msgid "#"
+msgstr "#"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:98
+#, php-format
+msgctxt "Guest string with name from appointment order in brackets"
+msgid "Guest(%s)"
+msgstr "Гость(%s)"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:149
+msgid "Mark as Confirmed"
+msgstr "Отметить как подтвержденный"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:151
+msgid "View Details"
+msgstr "Посмотреть детали"
+
+#: controllers/wc_bookings/wcfmu-controller-wcbookings-resources.php:82 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:138
+msgid "Manage Resource"
+msgstr "Управление ресурсами"
+
+#: includes/pdf_invoice/invoice.php:26 includes/pdf_invoice/packing-slip.php:26
+msgid "Standard"
+msgstr "Стандарт"
+
+#: includes/pdf_invoice/invoice.php:125
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: includes/pdf_invoice/invoice.php:142
+msgid "Total"
+msgstr "Всего"
+
+#: includes/pdf_invoice/invoice.php:176 
+#: includes/pdf_invoice/packing-slip.php:134
+msgid "Variation ID:"
+msgstr "Варианты ID:"
+
+#: includes/pdf_invoice/invoice.php:180 
+#: includes/pdf_invoice/packing-slip.php:138
+msgid "No longer exists"
+msgstr "Больше не существует"
+
+#: includes/pdf_invoice/invoice.php:427
+msgid "Fee"
+msgstr "Сбор"
+
+#: includes/pdf_invoice/invoice.php:572
+msgid "This is the total discount. Discounts are defined per line item."
+msgstr "Это итоговая скидка. Скидки определены на каждую позицию."
+
+#: includes/pdf_invoice/invoice.php:572 
+#: views/thirdparty/wcfmu-view-wcrentalpro-product-manage.php:274
+msgid "Discount"
+msgstr "Скидка"
+
+#: includes/pdf_invoice/invoice.php:585
+msgid "This is the shipping and handling total costs for the order."
+msgstr "Это общие затраты на доставку и обработку заказа."
+
+#: includes/pdf_invoice/invoice.php:623
+msgid "Order Total"
+msgstr "Сумма заказа"
+
+#: views/thirdparty/wcfmu-view-address-geocoder-products-manage.php:41
+msgid "Lat/Lng"
+msgstr "Lat/Lng"
+
+#: views/thirdparty/wcfmu-view-address-geocoder-products-manage.php:46
+msgid "Geocode Address"
+msgstr "Геокод адресс"
+
+#: views/thirdparty/wcfmu-view-auctions.php:31
+msgid "Auction Activity"
+msgstr "Активность аукциона"
+
+#: views/thirdparty/wcfmu-view-auctions.php:43 
+#: views/thirdparty/wcfmu-view-wcrental-calendar.php:139 
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:70 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:74
+msgid "Add New Product"
+msgstr "Добавить новый товар"
+
+#: views/thirdparty/wcfmu-view-auctions.php:43 
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:70 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:74
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: views/thirdparty/wcfmu-view-auctions.php:54 
+#: views/thirdparty/wcfmu-view-auctions.php:62
+msgid "User"
+msgstr "Пользователь"
+
+#: views/thirdparty/wcfmu-view-auctions.php:55 
+#: views/thirdparty/wcfmu-view-auctions.php:63
+msgid "Bid"
+msgstr "ПОКУПКА"
+
+#: views/thirdparty/wcfmu-view-mappress-products-manage.php:37
+msgid "Save the product, then you will have option to associate Map with this."
+msgstr ""
+"Сохраните продукт, тогда вы будете иметь возможность связать карту с ним."
+
+#: views/thirdparty/wcfmu-view-mappress-products-manage.php:42
+msgid "Maps for this Product"
+msgstr "Карты для этого продукта"
+
+#: views/thirdparty/wcfmu-view-toolset-types-products-manage.php:223 
+#: views/thirdparty/wcfmu-view-toolset-types-taxonomy.php:82 
+#: views/thirdparty/wcfmu-view-toolset-types-user-profile.php:174
+msgid "--- not set ---"
+msgstr "- не установлены -"
+
+#: views/thirdparty/wcfmu-view-toolset-types-settings.php:57
+msgid "Product Type Toolset Fields"
+msgstr "Набор инструментов полей типа продукта"
+
+#: views/thirdparty/wcfmu-view-toolset-types-settings.php:84
+msgid ""
+"Create group of your Store Toolset Types Fields as per Product Types. "
+"Product Manager will work according to that."
+msgstr ""
+"Создание группы из вашего магазина инструментов типы полей согласно видов "
+"продукции. Менеджер продукта будет работать в соответствии с этим."
+
+#: views/thirdparty/wcfmu-view-wc-per-product-shipping-products-manage.php:51
+msgid "Shipping Rules"
+msgstr "Правила доставки"
+
+#: views/thirdparty/wcfmu-view-wc-variation-gallery-products-manage.php:44
+msgid "Aditional Images"
+msgstr "Дополнительные изображения"
+
+#: views/thirdparty/wcfmu-view-wcrental-calendar.php:121
+msgid "Rental Calender"
+msgstr "Календарь выплат"
+
+#: views/thirdparty/wcfmu-view-wcrental-calendar.php:126
+msgid "Calender View"
+msgstr "Посмотреть календарь"
+
+#: views/thirdparty/wcfmu-view-wcrental-calendar.php:136 
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:67
+msgid "Quote Requests"
+msgstr "Запрос отзыва"
+
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:48
+msgid "Quote Details"
+msgstr "Список запроса"
+
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:55
+msgid "Quote Request #"
+msgstr "Запрос отзыва #"
+
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:65 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:71 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:59 
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:39 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:151 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:171 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:42 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:94 
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:39 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:156 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:42 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:147
+msgid "Calendar View"
+msgstr "Посмотреть календарь"
+
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:77
+msgid "Quote Actions"
+msgstr "Призыв к действию"
+
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:107
+msgid "Quote Management"
+msgstr "УПРАВЛЕНИЕ ЗАПРОСАМИ"
+
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:320
+msgid "Quote Messages"
+msgstr "Сообщение запроса"
+
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:87 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:97 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:192 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:64 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:72
+msgid "Email"
+msgstr "Эл. почта"
+
+#: views/thirdparty/wcfmu-view-wcrentalpro-product-manage.php:232
+msgid "Rental"
+msgstr "Аренда"
+
+#: views/thirdparty/wcfmu-view-wcrentalpro-product-manage.php:262
+msgid "Daye Range"
+msgstr "Диапазон"
+
+#: views/thirdparty/wcfmu-view-wcrentalpro-product-manage.php:279
+msgid "Discount depending on day length"
+msgstr "Скидка в зависимости от продолжительности дня"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:54
+msgid "Item condition"
+msgstr "Состояние товара"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:54
+msgid "New"
+msgstr "Новый"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:54
+msgid "Used"
+msgstr "Использованный"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:55
+msgid "Auction type"
+msgstr "Тип Аукциона"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:55
+msgid "Normal"
+msgstr "Нормальный"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:55
+msgid "Reverse"
+msgstr "Реверсивный"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:56
+msgid "Proxy bidding?"
+msgstr "Автоматические ставки?"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:57 
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:56
+msgid "Starting Price"
+msgstr "Начальная цена"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:58 
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:57
+msgid "Bid up"
+msgstr "Повышение ставки"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:59 
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:59
+msgid "Reserve price"
+msgstr "Резервная цена"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:59
+msgid ""
+"A reserve price is the lowest price at which you are willing to sell your "
+"item. If you don't want to sell your item below a certain price, you can set "
+"a reserve price. The amount of your reserve price is not disclosed to your "
+"bidders, but they will see that your auction has a reserve price and whether "
+"or not the reserve has been met. If a bidder does not meet that price, you "
+"are not obligated to sell your item."
+msgstr ""
+"Резервная цена является низкая цена, на которой вы готовы продать ваш товар. "
+"Если вы не хотите, чтобы продать ваш товар ниже определенной цены, можно "
+"задать резервной цены. Сумма вашей резервной цены не разглашается до ваших "
+"торгов, но они будут видеть, что ваш аукцион имеет цену и ли или не были "
+"выполнены заповедника. Если претендент не отвечают что цена, вы не обязаны "
+"продать ваш товар."
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:60 
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:60
+msgid "Buy it now price"
+msgstr "Купить по цене - Купить сейчас"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:60
+msgid ""
+"Buy it now disappears when bid exceeds the Buy now price for normal auction, "
+"or is lower than reverse auction"
+msgstr ""
+"Купить сейчас теперь исчезает, когда ставка превышает цену «Купить сейчас» "
+"для обычного аукциона или ниже, чем обратный аукцион"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:61 
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:61
+msgid "Auction Date From"
+msgstr "Дата начала аукциона"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:62 
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:62
+msgid "Auction Date To"
+msgstr "Дата окончания аукциона"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:64
+msgid "Automatic relist auction"
+msgstr "Автоматический перезапуск аукциона"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:65
+msgid "Relist if fail after n hours"
+msgstr "Перезапустить если не продан через n часов"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:66
+msgid "Relist if not paid after n hours"
+msgstr "Перезапустить если не оплачен через n часов"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:67
+msgid "Relist auction duration in h"
+msgstr "Автоматический перезапуск аукциона в часах"
+
+#: views/thirdparty/wcfmu-view-wpjm-associate-listings-products-manage.php:59
+msgid "Associate Listings"
+msgstr "Связанный список"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:58
+msgid "Minimum increment amount"
+msgstr "Шаг увеличения ставки"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:63
+msgid "Time to add overtime"
+msgstr "Время для добавки на овертайм"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:63
+msgid ""
+"Number of minutes before auction ends to check if overtime added. (Override "
+"the settings option)"
+msgstr ""
+"Количество минут до конца аукциона когда будет добавлен овертайм. (Меняет "
+"установленные опции)"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:64
+msgid "Overtime"
+msgstr "Овертайм"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:64
+msgid ""
+"Number of minutes by which the auction will be extended. (Overrride the "
+"settings option)"
+msgstr ""
+"Количество минут когда аукцион будет продлен. (Меняет установленные опции)"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:65
+msgid "Time value for automatic rescheduling"
+msgstr "Значение времени для автоматического перезапуска"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:66
+msgid "Select unit for automatic rescheduling"
+msgstr "Выбор типа единиц для автоматического перезапуска"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:66
+msgid "days"
+msgstr "дни"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:66
+msgid "hours"
+msgstr "часы"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:66
+msgid "minutes"
+msgstr "минуты"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:67
+msgid "Show bid up"
+msgstr "Показывать повышение ставки"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:68
+msgid "Show overtime"
+msgstr "Добавочное время"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:25
+msgid "Appointments Calender"
+msgstr "Назначение календаря"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:41 
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:48 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:82
+msgid "Create Appointment"
+msgstr "Создать назначение"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:45 
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:77 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:63 
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:45 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:157 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:177 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:32 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:86
+msgid "Manage Staffs"
+msgstr "Управление персоналом"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:49 
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:60 
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:49 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:161 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:181 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:48 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:90
+msgid "Create Appointable"
+msgstr "Создать назначение"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:42
+msgid "Appointment Details"
+msgstr "Детали назначения"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:49
+msgid "Appointment #"
+msgstr "Назначение #"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:67
+msgid "Create Appointmentable"
+msgstr "Создание возможности назначений"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:74
+msgid "Overview"
+msgstr "Обзор"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:82
+msgid "Appointment Created:"
+msgstr "Назначение создано:"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:87
+msgid "Order Number:"
+msgstr "Номер заказа:"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:227
+msgid "Email:"
+msgstr "E-mail:"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:233
+msgid "Phone:"
+msgstr "Телефон:"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:28
+msgid "Create Appointments Manually"
+msgstr "Создание назначений вручную"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:304
+msgid "Choose Staff"
+msgstr "Выбор персонала"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:422
+msgid "Available all Staffs"
+msgstr "Доступно всем сотрудникам"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:133
+msgid "Appointment Settings"
+msgstr "Настройки назначений"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:161
+msgid "Edit Staff"
+msgstr "Изменить сотрудников"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:161
+msgid "Add Staff"
+msgstr "Добавить персонал"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:191
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:193
+msgid "First Name"
+msgstr "Имя"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:194
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:52
+msgid "Add New Staff"
+msgstr "Добавить нового сотрудника"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:62 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:70
+msgid "Staff"
+msgstr "Сотрудник"
+
+#: views/wc_appointments/wcfmu-view-wcappointments.php:76
+msgid "Screen Manager"
+msgstr "Диспетчер экрана"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:25
+msgid "Bookings Calender"
+msgstr "Календарь бронирования"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:41
+msgid "Create Booking"
+msgstr "Создать бронь"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:45 
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:45 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:162 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:32 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:153
+msgid "Manage Resources"
+msgstr "Управление ресурсами"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:49 
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:49 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:166 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:48 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:157
+msgid "Create Bookable"
+msgstr "Создать бронируемый"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:51 
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:42 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:159 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:45 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:150
+msgid "Bookings List"
+msgstr "Список бронирования"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:28
+msgid "Create Bookings Manually"
+msgstr "Создать бронь вручную"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-products-manage.php:73
+msgid "Choose Resource"
+msgstr "Выберите ресурс"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:146
+msgid "Edit Resource"
+msgstr "Редактировать ресурс"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:146
+msgid "Add Resource"
+msgstr "Добавить ресурс"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:176
+msgid "Resource Title"
+msgstr "Заголовок ресурса"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:25
+msgid "Bookings Resources"
+msgstr "Бронируемые ресурсы"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:52
+msgid "Add New Resource"
+msgstr "Добавить новый Ресурс"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:62 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:69
+msgid "Resource"
+msgstr "Ресурс"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:129
+msgid "Bookings Settings"
+msgstr "Параметры бронирования"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:137
+msgid "Global Availability"
+msgstr "Глобальная доступность"
+
+#: core/license/admin/class-wcfm-license.php:16 
+#: core/license/admin/class-wcfm-license.php:17
+msgid "WCFM License"
+msgstr "Лицензия WCFM"
+
+#: core/license/admin/class-wcfm-license.php:79
+#, php-format
+msgid "<h2>%s License</h2>"
+msgstr "<h2>%s лицензия</h2>"
+
+#: core/license/admin/class-wcfm-license.php:86
+#, php-format
+msgid ""
+"<h4 style='border-bottom: 1px solid rgb(215, 211, 211);padding-bottom: 21px;"
+"'>%s</h4>"
+msgstr ""
+"<h4 style='border-bottom: 1px solid rgb(215, 211, 211);padding-bottom: 21px;"
+"'>%s</h4>"
+
+#: core/license/admin/class-wcfmu-settings-license.php:51
+msgid "License Activation"
+msgstr "Активация лицензии"
+
+#: core/license/admin/class-wcfmu-settings-license.php:52
+msgid "API License Key"
+msgstr "API лицензионный ключ"
+
+#: core/license/admin/class-wcfmu-settings-license.php:53
+msgid "API License email"
+msgstr "Еmail указанный в лицензии"
+
+#: core/license/admin/class-wcfmu-settings-license.php:56
+msgid "License Deactivation"
+msgstr "Деактивация лицензии"
+
+#: core/license/admin/class-wcfmu-settings-license.php:57
+msgid "Deactivate API License Key"
+msgstr "Деактивировать лицензионный ключ API"
+
+#: core/license/admin/class-wcfmu-settings-license.php:57
+msgid "Deactivates an API License Key so it can be used on another blog."
+msgstr ""
+"Отключение API лицензионного ключа, чтобы он мог быть использован на другом "
+"блоге."
+
+#: core/license/admin/class-wcfmu-settings-license.php:246
+msgid "Please insert your license key."
+msgstr "Пожалуйста, введите лицензионный ключ."
+
+#: core/license/admin/class-wcfmu-settings-license.php:256
+msgid "Please insert your license email."
+msgstr "Пожалуйста, введите верный адрес электронной почты."
+
+#: core/license/admin/class-wcfmu-settings-license.php:285
+msgid "Plugin activated. "
+msgstr "Плагин активирован. "
+
+#: core/license/admin/class-wcfmu-settings-license.php:293
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+"Соединение с сервером активации ключа лицензии прервано. Попробуйте позже."
+
+#: core/license/admin/class-wcfmu-settings-license.php:358
+msgid "Plugin license deactivated."
+msgstr "Лицензия плагина деактивирована."
+
+#: core/license/admin/class-wcfmu-settings-license.php:382
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+msgstr ""
+"Лицензия не может быть отключена. Используйте вкладку Деактивация лицензии, "
+"чтобы вручную деактивировать лицензию, прежде чем активировать новую."
+
+#: core/license/classes/class-wcfmu-update.php:373
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Лицензионный ключ для %s истек. Вы можете активировать его или приобрести "
+"новый для вашей учетной записи <a href=\"%s\" target=\"_blank\">админ "
+"панель</a> ."
+
+#: core/license/classes/class-wcfmu-update.php:388
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Подписка %s на на удержании. Вы можете активировать подписку с вашего счета "
+"<a href=\"%s\" target=\"_blank\">админ панель</a> ."
+
+#: core/license/classes/class-wcfmu-update.php:403
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+"Подписка на %s была приостановлена. Вы можете активировать подписку с вашего "
+"аккаунта <a href=\"%s\" target=\"_blank\">админ панель</a>."
+
+#: core/license/classes/class-wcfmu-update.php:418
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Подписка на %s истекла. Вы можете активировать подписку с вашего аккаунта <a "
+"href=\"%s\" target=\"_blank\">админ панель</a>."
+
+#: core/license/classes/class-wcfmu-update.php:433
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>"
+"."
+msgstr ""
+"Подписка на %s была приостановлена. Вы можете активировать подписку с вашего "
+"аккаунта <a href=\"%s\" target=\"_blank\">админ панель</a>."
+
+#: core/license/classes/class-wcfmu-update.php:448
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>"
+"."
+msgstr ""
+"Подписка на %s еще не принята. Вы можете проверить статус подписки с вашего "
+"счета <a href=\"%s\" target=\"_blank\">админ панель</a> ."
+
+#: core/license/classes/class-wcfmu-update.php:463
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"Подписка на %s была помещена в корзину и скоро будет удалена. Вы можете "
+"приобрести новую подписку с вашего аккаунта <a href=\"%s\" target=\"_blank\">"
+"админ панель</a> ."
+
+#: core/license/classes/class-wcfmu-update.php:478
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Подписка для  %s не найдена. Вы можете приобрести подписку с вашего аккаунта "
+"<a href=\"%s\" target=\"_blank\">админ панель</a> ."
+
+#: core/license/classes/class-wcfmu-update.php:493
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"Лицензионный ключ для %s не найден. Может быть, Вы забыли ввести "
+"лицензионный ключ при настройке %s, или ключ был деактивирован в вашей "
+"учетной записи. Вы можете активировать или приобрести лицензионный ключ от "
+"вашей учетной записи <a href=\"%s\" target=\"_blank\">админ панель</a>."
+
+#: core/license/classes/class-wcfmu-update.php:508
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Разрешение на скачивание %s было отозвано, возможно из-за лицензионного "
+"ключа или окончания подписки. Вы можете повторно активировать или приобрести "
+"лицензионный ключ к вашей учетной записи <a href=\"%s\" target=\"_blank\">"
+"админ панель</a>."
+
+#: core/license/classes/class-wcfmu-update.php:523
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+"%s не была активирована. Перейти на страницу настроек и введите лицензионный "
+"ключ и лицензионный0 email, чтобы активировать %s."
+
+#: core/license/classes/class-wcfmu-update.php:538
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a "
+"href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Вы изменили подписку для %s, так что вам нужно будет ввести новый API "
+"лицензионный ключ на странице настроек. Лицензионный ключ должен был прийти "
+"на Ваш почтовый ящик, если вы не можете получить его, войдите в свой аккаунт "
+"<a href=\"%s\" target=\"_blank\">админ панель</a>."
+
+#. Name of the plugin
+msgid "WooCommerce Frontend Manager - Ultimate"
+msgstr "WooCommerce Frontend Manager - Ultimate"
+
+#. Description of the plugin
+msgid ""
+"Now manage your WooCommerce Store from your Store Front with more Powers. "
+"Easily and Peacefully."
+msgstr ""
+"Теперь управляйте вашим WooCommerce магазином через Store Front еще более "
+"гибко. Легко и мирно."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://wclovers.com"
+msgstr "http://wclovers.com"
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr "WC Lovers"

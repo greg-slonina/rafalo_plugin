@@ -1,0 +1,28 @@
+#wcfm-main-contentainer input.wcfm_bulk_edit, #wcfm-main-contentainer a.wcfm_bulk_delete {
+	margin: 1px 0px 0px 10px !important;
+	padding: 10px !important;
+	vertical-align: top;
+}
+
+#woocommerce-fields-bulk {
+}
+
+label.change-input input {
+}
+
+label.change-input {
+	display: none;
+}
+
+@media only screen and (max-width: 640px) {
+	label.change-input input {
+		margin-left: 0%;
+	}
+	#wcfm-main-contentainer input.wcfm_bulk_edit { float: none; }
+}
+
+@media only screen and (max-width: 414px) {
+	#wcfm_bulk_edit {
+		display: none;
+	}
+}

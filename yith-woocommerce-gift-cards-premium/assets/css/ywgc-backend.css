@@ -1,0 +1,223 @@
+p.form-field._gift_card_amount_field span.variation-amount span.amount {
+  font-size: 13px;
+  color: #838383;
+}
+
+span.variation-amount{
+  width: 20em;
+}
+
+
+a.remove-amount {
+  color: #a0a5aa;
+  text-decoration: none;
+}
+
+a.remove-amount:hover {
+  color: #b20000;
+}
+
+a.remove-amount .dashicons-trash {
+  font-size: 15px;
+  margin-top: 6px;
+}
+
+
+p.ywgc-amounts-list span{
+  margin-bottom: 0.5em;
+}
+
+#gift_card-amount {
+  width: 13em;
+  padding-left: 25px;
+}
+
+p.form-field .variation-amount-list .variation-amount input.gift_card-amount {
+  width: 13em;
+  padding-left: 25px;
+}
+
+a.add-new-amount {
+  text-decoration: none;
+  float: left;
+}
+
+span.add-new-amount-section {
+  display: grid;
+  width: 15em;
+}
+
+span.ywgc-delivery-status.scheduled {
+  color: #FFA700;
+}
+
+span.ywgc-delivery-status.sent {
+  color: #40C771;
+}
+
+span.ywgc-delivery-status.failed {
+  color: #EA1306;
+}
+
+span.ywgc-delivery-status.not-sent {
+  color: #0000ff;
+}
+
+a.ywgc-delivery-status.retry-sending {
+  display: inline-block;
+  border: 1px solid #D4CECE;
+  border-radius: 5px;
+  padding: 3px 5px;
+  background-color: #4BB939;
+  color: white;
+}
+
+a.ywgc-delivery-status.retry-sending:hover {
+  color: #1E6F11;
+}
+
+/*td.column-gift_card_actions, td.column-gift_card_enable_disable, td.column-gift_card_link {*/
+/*  vertical-align: middle;*/
+/*}*/
+
+td.column-gift_card_actions a, td.column-gift_card_enable_disable a {
+  display: inline-block;
+  border: 1px solid #D4CECE;
+  border-radius: 3px;
+  padding: 5px 10px 5px 10px;
+  margin-left: 5px;
+}
+
+a.ywgc-actions.send-now {
+  border-radius: 3px;
+  border: 0;
+  background-color: #375f6b;
+  vertical-align: middle;
+  display: inline-block;
+  height: 30px;
+  padding: 3px;
+  height: 30px;
+  width: 25px;
+  padding: 5px;
+
+}
+
+a.ywgc-actions.download_pdf {
+  border-radius: 3px;
+  border: 0;
+  background-color: lightgrey;
+  vertical-align: middle;
+  display: inline-block;
+  height: 30px;
+  width: 25px;
+  padding: 5px;
+
+}
+
+.the-metabox #_ywgc_delivery_date-container {
+  display: none;
+}
+
+.the-metabox #_ywgc_expiration-container {
+  display: none;
+}
+
+.ywgc-form-field__description {
+  display: block;
+  padding: 0;
+  font-size: 12px;
+  font-style: italic;
+  clear: both;
+  line-height: 1.4em;
+  margin-top: 5px;
+  color: #777;
+}
+
+th#title {
+  width: 15em;
+}
+
+th#taxonomy-giftcard-category{
+  width: 15%;
+}
+
+.variation-amount-list{
+  display: grid;
+}
+
+.ywgc-hidden{
+  display: none;
+}
+
+#ywgc-minimal-amount{
+  width: 9em;
+}
+
+#gift_card-sale-discount {
+  width: 9em;
+}
+
+#gift_card-sale-discount-text {
+  width: 18em;
+}
+
+#gift-card-expiration-date {
+  width: 9em;
+}
+
+.ywgc-currency-symbol-enter-amount{
+  position: absolute;
+  font-size: 18px;
+  margin: 3px 0 0 10px;
+}
+
+.ywgc-currency-symbol-amounts {
+  position: absolute;
+  font-size: 18px;
+  margin: 3px 0 0 -9.5em;
+}
+
+input.hasDatepicker {
+  background-image: url(../images/calendar.png);
+  background-position: calc(100% - 7px) 50%;
+  background-repeat: no-repeat;
+  background-size: 15px;
+}
+
+.ywgc-form-field{
+  font-size: 12px;
+}
+
+label.ywgc-form-field__label{
+  max-width: 15ch;
+}
+
+.minimal-amount-field label{
+  max-width: 15ch;
+}
+
+
+tr.type-gift_card td{
+  vertical-align: middle;
+}
+
+.ywgc_import_result {
+  position: fixed;
+  left: 45%;
+  top: 45%;
+  width: 10%;
+  z-index: 99999;
+  background-color: white;
+  height: auto;
+  padding: 10px;
+  text-align: center;
+  -webkit-box-shadow: 0px 0px 24px 0px rgba(0,0,0,0.4);
+  -moz-box-shadow: 0px 0px 24px 0px rgba(0,0,0,0.4);
+  box-shadow: 0px 0px 24px 0px rgba(0,0,0,0.4);
+}
+
+#plugin-fw-wc .ywbc-export-button-tr .forminp a.ywbc-export-button{
+  padding-top: 3px;
+}
+
+

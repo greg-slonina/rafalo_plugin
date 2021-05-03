@@ -1,0 +1,21 @@
+.wcfm_title {
+	font-size: 15px;
+	margin-bottom: 5px !important;
+	font-style: normal;
+	font-weight: 500;
+}
+
+#wwcfm_appointments_listing_expander table th { width: 200px; }
+
+.wcfm_order_add_new_customer_box {
+	text-align: right;
+}
+.wcfm_order_add_new_customer_box .wcfm_order_add_new_customer {
+	cursor: pointer;
+	font-size: 15px;
+	font-weight: 400;
+}
+
+.wcfm_order_add_new_customer_box .wcfm_order_add_new_customer:hover {
+	color: #17a2b8;
+}

@@ -1,0 +1,86 @@
+.wcfm-collapse .wcfm-container { 
+  border-radius: 0px 0px 3px 3px;
+}
+
+.wcfm-support-product {
+	font-weight: 500;
+	color: #D15600;
+}
+
+.wcfm_support_by_customer{color:#f86c6b}
+
+ul.wcfm_support_menus {
+	list-style: none;
+	margin-left: 0px;
+	padding: 0;
+	font-size: 13px;
+  color: #666;
+  display: table-cell;
+  float:left;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+ul.wcfm_support_menus li {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	white-space: nowrap;
+}
+
+ul.wcfm_support_menus li a {
+	color: #17a2b8;
+	font-weight: 500;
+	-webkit-transition-property: border,background,color;
+	transition-property: border,background,color;
+	-webkit-transition-duration: .05s;
+	transition-duration: .05s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-timing-function: ease-in-out;
+}
+
+#wcfm-main-contentainer ul.wcfm_support_menus li a.active {
+	color: #666;
+}
+
+.support-status {
+	font-size: 20px;
+}
+
+.support-priority {
+	padding: 5px 5px;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 12px;
+	line-height: 10px;
+	width: 80px;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.support-priority-normal { background-color: #73880A; }
+.support-priority-low { background-color: #6BBA70; }
+.support-priority-medium { background-color: #C79810; }
+.support-priority-high { background-color: #FF7400; }
+.support-priority-urgent { background-color: #D15600; }
+.support-priority-critical { background-color: #B02B2C; }
+
+table.dataTable.display tr td:nth-child(1),
+table.dataTable.display tr td:nth-child(2),
+table.dataTable.display tr td:nth-child(5),
+table.dataTable.display tr td:nth-child(6),
+table.dataTable.display tr td:nth-child(7),
+table.dataTable.display tr td:nth-child(8),
+table.dataTable.display tr td:nth-child(9),
+table.dataTable.display tr td:nth-child(10),
+table.dataTable.display tr th:nth-child(1),
+table.dataTable.display tr th:nth-child(2),
+table.dataTable.display tr th:nth-child(5),
+table.dataTable.display tr th:nth-child(6),
+table.dataTable.display tr th:nth-child(7),
+table.dataTable.display tr th:nth-child(8),
+table.dataTable.display tr th:nth-child(9),
+table.dataTable.display tr th:nth-child(10) {
+	text-align: center;
+}

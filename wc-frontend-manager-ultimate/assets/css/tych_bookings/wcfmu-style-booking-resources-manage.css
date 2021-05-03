@@ -1,0 +1,114 @@
+p.wcfm_title {
+	font-size: 15px;
+	margin-bottom: 5px !important;
+	font-style: normal;
+	width: 39%;
+	display: inline-block;
+}
+
+input[type="text"].wcfm-text, select.wcfm-select, input[type="number"].wcfm-text, input[type="time"].wcfm-text, textarea.wcfm-textarea {
+	padding: 5px;
+	width: 60%;
+	margin-bottom: 10px;
+	font-size: 15px;
+	display: inline-block;
+	background-color: #fff !important;
+	border: 1px solid #555 !important;
+	box-shadow: none;
+}
+
+#bkap_resource_availability table td input, #bkap_resource_availability table td select,
+#bkap_resource_availability table td span.text {
+	
+	width: 100%;
+    margin: 0;
+    border: 0;
+    background: #f7f7f7;    
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    float: none;
+    outline: 0!important;
+}
+
+#bkap_resource_availability table td{
+    padding: 9px;
+    width: auto!important;
+    border-right: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    border-top: 0;
+    background: #fff;
+    position: relative;
+    text-align: center;
+}
+
+#bkap_resource_availability table td .ui-datepicker-trigger{
+    position: absolute;
+    right: 0;
+    top: 40%;
+    margin: -8px 9px 0 0;
+}
+
+#bkap_resource_availability table tr th{
+	text-align: center;
+}
+
+.bkap_resource_row{
+    
+    clear: both;
+    border: 1px solid #eee;
+}
+
+.bkap_remove_resource, .edit_resource{
+ float: right;
+}
+
+.bkap_resource_expand-close{
+    overflow: hidden;
+}
+
+.bkap_base_resource {
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+    border-top: 1px solid #eee;
+}
+table.bkap_resource_info{
+    width:100%;
+    border: 1px solid #eee;
+    border-collapse: collapse;
+}
+
+table.bkap_resource_info tr td, table.bkap_resource_info tr th {
+    padding: 5px;
+    border: 1px solid #eee;
+}
+
+.bkap_resource_edit_link, .bkap_remove_resource_button, #bkap_remove_resource {
+    width:5%;
+    text-align: center;
+    cursor:pointer;
+}
+
+.bkap_resource_add_section{
+    padding: 2% 2% 3% 2%;
+    border: 1px solid #eee;
+}
+
+.wcfm_ele_hide {
+	display: none !important;
+}
+
+@media only screen and (max-width: 640px) {
+	p.wcfm_title {
+		width: 90%;
+	}
+	
+	input[type="text"].wcfm-text, select.wcfm-select, input[type="number"].wcfm-text {
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	a#add_new_resource_dashboard .text { display: none; }
+}

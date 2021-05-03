@@ -1,0 +1,81 @@
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--support-tickets a:before, body.storefront-secondary-navigation .woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--support-tickets a:before {
+	content: "\f1cd";
+	font-family: "Font Awesome 5 Free";
+	font-weight:300;
+}
+
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--inquiry a:before, body.storefront-secondary-navigation .woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--inquiry a:before {
+	content: "\f059";
+	font-family: "Font Awesome 5 Free";
+	font-weight:300;
+}
+
+.my_account_orders .button.wcfm-support-action:after {
+	display: inline-block;
+	font-family: "Font Awesome 5 Free";
+	font-size: inherit;
+	text-rendering: auto;
+	content: "\f1cd";
+	margin-left: 0.5407911001em;
+	font-weight:300;
+}
+
+.add_enquiry {
+	background: #3d3d3d;
+	padding: 5px 10px;         
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border:#f0f0f0 1px solid;
+	border-bottom: 1px solid #17a2b8;
+	color: #ffffff;
+	float: right;
+	text-align: center;
+	text-decoration: none;
+	margin-bottom: 8px;
+	margin-left: 10px;
+	-webkit-box-shadow: 0 1px 0 #ccc;
+	box-shadow: 0 1px 0 #ccc;
+	display: table-cell;
+	cursor: pointer;
+}
+
+.add_enquiry span { margin-left: 3px; }
+.add_enquiry:hover { background-color: #17a2b8; color: #fff; }
+
+#wcfm_support_form label {
+	display: block;
+	margin-bottom: 0.4em;
+}
+
+.support-status {
+	font-size: 20px;
+}
+
+.support-priority {
+	padding: 5px 5px;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 12px;
+	line-height: 10px;
+	width: 80px;
+	display: block;
+	text-align: center;
+}
+
+.support-priority-normal { background-color: #73880A; }
+.support-priority-low { background-color: #6BBA70; }
+.support-priority-medium { background-color: #C79810; }
+.support-priority-high { background-color: #FF7400; }
+.support-priority-urgent { background-color: #D15600; }
+.support-priority-critical { background-color: #B02B2C; }
+
+table td.woocommerce-support-tickets-table__cell-support-tickets-status, table td.woocommerce-support-tickets-table__cell-support-tickets-number, table td.woocommerce-support-tickets-table__cell-support-tickets-priority, table td.woocommerce-support-tickets-table__cell-support-tickets-actions {
+  text-align: center;
+}
+
+@media only screen and (max-width: 640px) {
+	#wcfm_enquiry_form .comment-form-author, #wcfm_enquiry_form .comment-form-email {
+		width: 100%;
+	}
+}

@@ -1,0 +1,71 @@
+#wcfm-main-contentainer p.has_person_ele_title { width: auto !important; min-width: 94px !important;margin-bottom:0px!important; }
+#wcfm-main-contentainer p.has_resource_ele_title { width: auto !important; min-width: 105px !important;margin-bottom:0px!important; }
+
+#wcfm-main-contentainer .person_types_label, #wcfm-main-contentainer .person_types_text, #wcfm-main-contentainer .avail_rules_label, #wcfm-main-contentainer .cost_rules_label {
+	width: 15% !important;
+}
+
+#wcfm-main-contentainer .avail_rules_text {
+	width: 29% !important;
+}
+
+#wcfm-main-contentainer .avail_range_type {
+	width: 73% !important;
+}
+
+#wcfm-main-contentainer p._wc_booking_availability_rules {
+	width: 50% !important;
+}
+
+#wcfm-main-contentainer p.avail_rules_desc {
+	display: block;
+	width: 95% !important;
+}
+
+#wcfm-main-contentainer .cost_rules_text {
+	width: 29% !important;
+}
+
+#wcfm-main-contentainer .cost_range_type {
+	width: 73% !important;
+}
+
+#wcfm-main-contentainer .cost_price_ele {
+	width: 14% !important;
+}
+
+#wcfm-main-contentainer .cost_price_field { margin-left: 5px; }
+
+#wcfm-main-contentainer p._wc_booking_cost_rules {
+	width: 50% !important;
+}
+
+#wcfm-main-contentainer p.cost_rules_desc {
+	display: block;
+	width: 95% !important;
+}
+
+.addon_wc_booking_person_qty_multiplier, .addon_wc_booking_block_qty_multiplier {
+	padding: 10px 20px 10px 20px;
+	border-bottom: 1px solid #eee;
+}
+
+@media only screen and (max-width: 768px) {
+	#wcfm-main-contentainer .person_types_label, #wcfm-main-contentainer .person_types_text {
+		width: 22% !important;
+	}
+	
+	#wcfm-main-contentainer .avail_rules_label, #wcfm-main-contentainer .avail_rules_ele, #wcfm-main-contentainer .cost_rules_label, #wcfm-main-contentainer .cost_rules_ele {
+		width: 25% !important;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	#wcfm-main-contentainer .person_types_label, #wcfm-main-contentainer .person_types_text, #wcfm-main-contentainer .avail_rules_ele, #wcfm-main-contentainer .avail_range_type, #wcfm-main-contentainer .cost_rules_label, #wcfm-main-contentainer .cost_rules_ele, #wcfm-main-contentainer .cost_rules_text, #wcfm-main-contentainer .cost_range_type {
+		width: 42% !important;
+	}
+	
+	#wcfm-main-contentainer .cost_price_ele {
+		width: 20% !important;
+	}
+}

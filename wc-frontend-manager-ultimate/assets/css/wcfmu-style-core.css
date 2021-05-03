@@ -1,0 +1,66 @@
+#wcfm_quick_edit_form, #wcfm_screen_manager_form {
+	height: auto;
+}
+
+#wcfm_screen_manager_form .wcfm_screen_manager_form_label { width: 80%; }
+
+.wcfm_vacation_msg {
+	width: 100%;
+	padding: .5em;
+	margin-bottom: 1em;
+	background-color: #17a2b8;
+	margin-left: 0;
+	color: #fff;
+	clear: both;
+	border-left: .618em solid rgba(0,0,0,.15);
+	border-right: .618em solid rgba(0,0,0,.15);
+	text-align: center;
+}
+
+.wcfm_filters_wrap { opacity: 1 !important; }
+
+a.wcfm_vendor_badge, div.wcfm_vendor_badge {
+	min-width: 16px;
+	max-width: 48px;
+	display: inline-block !important;
+	margin-left: 5px;
+	vertical-align: top;
+}
+
+.wcfm_vendor_badges {
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.wcfm_vendor_badges a.wcfm_vendor_badge, .wcfm_vendor_badges div.wcfm_vendor_badge {
+	margin-left: 0px;
+	margin-right: 5px;
+}
+
+a.wcfm_vendor_badge img, div.wcfm_vendor_badge img {
+	width: 20px !important;
+	position: relative !important;
+	height: 20px !important;
+	top: 0px !important;
+	margin: 0px !important;
+}
+
+.wcfm-store-page a.wcfm_vendor_badge_large img, .wcfm-store-page div.wcfm_vendor_badge_large img {
+	width: 32px !important;
+	height: 32px !important;
+}
+
+.by-vendor-name-link,
+.wcfm_vendor_badge{
+  display: inline-block !important;
+}
+
+.downlodable_file_visible {
+	display: inline-block !important;
+	margin-bottom: 0px !important;
+}
+
+.downloadable_ele_hide, .variation_ele_hide {
+	display: none !important;
+}

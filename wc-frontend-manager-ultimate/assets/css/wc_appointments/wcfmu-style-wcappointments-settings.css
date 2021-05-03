@@ -1,0 +1,95 @@
+p.description {
+	font-size: 12px;
+	font-style: italic;
+	font-weight: normal;
+}
+
+p.wcfm_title {
+	font-size: 15px;
+	margin-bottom: 5px !important;
+	font-style: normal;
+	width: 39%;
+	display: inline-block;
+}
+
+p.wc_global_appointment_availability { width: 100%; }
+
+input[type="text"].wcfm-text, select.wcfm-select, input[type="number"].wcfm-text, input[type="time"].wcfm-text, textarea.wcfm-textarea {
+	padding: 5px;
+	width: 60%;
+	margin-bottom: 10px;
+	font-size: 15px;
+	display: inline-block;
+	background-color: #fff !important;
+	border: 1px solid #555 !important;
+	box-shadow: none;
+}
+
+.multi_input_block {
+  border: 1px solid #dfdfdf;
+  radius: 3px;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  padding: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+  width: 100%;
+}
+
+.multi_input_block_manupulate {
+  float: right;
+  margin: 2px !important;
+  font-size: 20px;
+	cursor: pointer;
+	padding: 1px;
+}
+
+.remove_multi_input_block:hover { background: #CC0000 none repeat scroll 0 0; }
+
+.avail_rules_label {
+	width: 17% !important;
+}
+
+.avail_rules_text {
+	width: 28% !important;
+}
+
+.avail_range_type, .avail_rule_title {
+	width: 73% !important;
+}
+
+p._wc_apponitment_availability_rules {
+	width: 50% !important;
+}
+
+p.avail_rules_desc {
+	display: block;
+	width: 95% !important;
+}
+
+.wcfm_ele_hide {
+	display: none !important;
+}
+
+@media only screen and (max-width: 768px) {
+	.avail_rules_label, .avail_rules_ele {
+		width: 25% !important;
+	}
+}
+
+@media only screen and (max-width: 640px) {
+	p.wcfm_title {
+		width: 90%;
+	}
+	
+	input[type="text"].wcfm-text, select.wcfm-select, input[type="number"].wcfm-text {
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	.avail_rules_ele, .avail_range_type {
+		width: 42% !important;
+	}
+}

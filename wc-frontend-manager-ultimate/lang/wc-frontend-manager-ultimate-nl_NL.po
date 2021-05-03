@@ -1,0 +1,2639 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Frontend Manager - Ultimate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-30 09:39+0000\n"
+"PO-Revision-Date: 2018-01-30 09:40+0000\n"
+"Last-Translator: wcmp_vendor <moumita.h@dualcube.com>\n"
+"Language-Team: Dutch\n"
+"Language: nl-NL\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: views/wcfmu-view-reports-sales-by-date.php:47 
+#: views/reports/wcfmu-html-report-coupons-by-date.php:53 
+#: views/reports/wcfmu-html-report-sales-by-product.php:53
+msgid "Custom:"
+msgstr "Gewoonte:"
+
+#: controllers/wcfmu-controller-screen-manage.php:42 
+#: controllers/wcfmu-controller-screen-manage.php:43
+#, fuzzy
+msgid "Screen update failed"
+msgstr "Scherm-update mislukt"
+
+#: core/class-wcfmu-frontend.php:201
+#, fuzzy
+msgid "Upto"
+msgstr "T/m"
+
+#: core/class-wcfmu-frontend.php:277
+#, fuzzy
+msgid "Tax class"
+msgstr "Belasting Klasse"
+
+#: core/class-wcfmu-license.php:163
+#, fuzzy
+msgid "WCFM Ultimate"
+msgstr "WCFM Ultimate"
+
+#: core/class-wcfmu-license.php:300
+#, fuzzy
+#, php-format
+msgid ""
+"The WCFM - Ultimate License Key has not been activated, so the plugin is "
+"inactive! %sClick here%s to activate the license key and the plugin."
+msgstr ""
+"De WCFM - de ultieme licentiesleutel is niet geactiveerd, zodat de plugin "
+"niet actief is! %sClick hier %s om de sleutel van de vergunning en de plugin "
+"te activeren."
+
+#: core/class-wcfmu-non-ajax.php:31
+#, fuzzy
+msgid "Set WCFMu License"
+msgstr "Set WCFMu-licentie"
+
+#: core/class-wcfmu-non-ajax.php:48
+#, fuzzy
+msgid "View WCFMu Change Log"
+msgstr "Logboek van de verandering van de WCFMu van de weergave"
+
+#: core/class-wcfmu-thirdparty-support.php:233
+#, fuzzy
+msgid "Rental Calendar"
+msgstr "Kalender van de huur"
+
+#: core/class-wcfmu-thirdparty-support.php:241
+#, fuzzy
+msgid "Manage Quote Request"
+msgstr "Offerte aanvraag beheren"
+
+#: core/class-wcfmu-thirdparty-support.php:727
+#, fuzzy
+msgid "MSRP Price"
+msgstr "Adviesprijs prijs"
+
+#: core/class-wcfmu-thirdparty-support.php:737
+#, fuzzy
+msgid "This will be shown at the checkout description the added fee."
+msgstr "Dit wordt getoond bij de kassa-beschrijving de betaling."
+
+#: core/class-wcfmu-thirdparty-support.php:738
+#, fuzzy
+msgid ""
+"Enter a monetary decimal without any currency symbols or thousand separator. "
+"This field also accepts percentages."
+msgstr ""
+"Voer een monetaire decimaal zonder valutasymbolen of scheidingsteken voor "
+"duizendtallen. Dit veld accepteert ook percentages."
+
+#: core/class-wcfmu-thirdparty-support.php:739
+#, fuzzy
+msgid "Multiple Fee by Quantity"
+msgstr "Meerdere bijdrage door de hoeveelheid"
+
+#: core/class-wcfmu-thirdparty-support.php:739
+#, fuzzy
+msgid ""
+"Multiply the fee by the quantity of this product that is added to the cart."
+msgstr ""
+"De vergoeding te vermenigvuldigen met de hoeveelheid van dit product dat "
+"wordt toegevoegd aan de winkelwagen."
+
+#: core/class-wcfmu-thirdparty-support.php:885
+#, fuzzy
+msgid "invoice"
+msgstr "PDF Factuur"
+
+#: core/class-wcfmu-thirdparty-support.php:968
+#, fuzzy
+msgid "packing-slip"
+msgstr "vrachtnota"
+
+#: core/class-wcfmu-thirdparty-support.php:1070 
+#: core/class-wcfmu-thirdparty-support.php:1073
+#, fuzzy
+msgid "Create New Product"
+msgstr "Maak een nieuwe product aan"
+
+#: core/class-wcfmu-vendor-support.php:103
+#, fuzzy
+msgid "Commission Fixed"
+msgstr "Vaste Commissie"
+
+#: core/class-wcfmu-vendor-support.php:104
+#, fuzzy
+msgid "Commission Fee"
+msgstr "Commissie"
+
+#: core/class-wcfmu-vendor-support.php:144 helpers/wcfmu-core-functions.php:243
+#, fuzzy
+msgid "Tracking URL"
+msgstr "Tracking URL:"
+
+#: core/class-wcfmu-vendor-support.php:188
+#, fuzzy
+msgid "Mark as Received"
+msgstr "Markeren als ontvangen"
+
+#: core/class-wcfmu-vendor-verification.php:200 core/class-wcfmu.php:289
+#, fuzzy
+msgid "Vendor Verification"
+msgstr "Verificatie van de verkoper"
+
+#: core/class-wcfmu-vendor-verification.php:206
+#, fuzzy
+msgid "Verification Badge"
+msgstr "Verificatie Badge"
+
+#: core/class-wcfmu-vendor-verification.php:214 
+#: core/class-wcfmu-vendor-verification.php:225 
+#: core/class-wcfmu-vendor-verification.php:236 
+#: core/class-wcfmu-vendor-verification.php:247
+#, fuzzy
+msgid "User will be redirect to the URL after successful authentication."
+msgstr "Gebruiker zullen na een geslaagde verificatie omleiden naar de URL."
+
+#: core/class-wcfmu-vendor-verification.php:215 
+#: core/class-wcfmu-vendor-verification.php:226 
+#: core/class-wcfmu-vendor-verification.php:237
+#, fuzzy
+msgid "App generated Client ID required."
+msgstr "App gegenereerd ID van de Client vereist."
+
+#: core/class-wcfmu-vendor-verification.php:216 
+#: core/class-wcfmu-vendor-verification.php:227 
+#: core/class-wcfmu-vendor-verification.php:238
+#, fuzzy
+msgid "App generated Client Secret key required."
+msgstr "App gegenereerd Client geheime sleutel vereist."
+
+#: core/class-wcfmu-vendor-verification.php:248
+#, fuzzy
+msgid "App generated Consumer Key required."
+msgstr "App gegenereerd consument sleutel vereist."
+
+#: core/class-wcfmu-vendor-verification.php:249
+#, fuzzy
+msgid "App generated Consumer Secret required."
+msgstr "App gegenereerd geheim van de consument vereist."
+
+#: core/class-wcfmu-vendor-verification.php:272
+#, fuzzy
+msgid "National ID Card"
+msgstr "Identiteitsbewijs"
+
+#: core/class-wcfmu-vendor-verification.php:273
+#, fuzzy
+msgid "Business Card"
+msgstr "Visitekaartje"
+
+#: core/class-wcfmu-vendor-verification.php:353
+#, fuzzy
+msgid "Prompt Verify"
+msgstr "Prompt controleren"
+
+#: core/class-wcfmu-vendor-verification.php:353
+#, fuzzy
+msgid "Check this to submit your verification data to admin."
+msgstr ""
+"Controleer dit voor het indienen van uw gegevens voor het verifiëren naar "
+"admin."
+
+#: core/class-wcfmu-vendor-verification.php:359
+#, fuzzy
+msgid "Identity Verification"
+msgstr "identiteitscontrole"
+
+#: core/class-wcfmu-vendor-verification.php:377
+#, fuzzy
+msgid "Address Verification"
+msgstr "Verificatie adres"
+
+#: core/class-wcfmu-vendor-verification.php:402
+#, fuzzy
+msgid "Social Verification"
+msgstr "Sociale controle"
+
+#: core/class-wcfmu-vendor-verification.php:545
+#, fuzzy
+#, php-format
+msgid "<b>%s</b> - verification pending for review"
+msgstr "<b>%s</b> - verificatie in afwachting voor revisie"
+
+#: core/class-wcfmu-vendor-verification.php:563
+#, fuzzy
+msgid "Congratulation!!! You are already a verified seller."
+msgstr "Heilwens!!! Bent u al een geverifieerde verkoper."
+
+#: core/class-wcfmu-vendor-verification.php:569
+#, fuzzy
+msgid "Ahh!!! Your request still under review."
+msgstr "Ahh! Uw verzoek nog onderzochte."
+
+#: core/class-wcfmu-vendor-verification.php:575
+#, fuzzy
+msgid "Hey!!! Complete social verification now and be a verified seller."
+msgstr ""
+"He!!! Sociale controle nu voltooien en een geverifieerde verkoper worden."
+
+#: core/class-wcfmu-vendor-verification.php:581
+#, fuzzy
+msgid "Opps!!! Your verification rejected, please try again."
+msgstr "Opps!!! De verificatie van uw afgewezen, probeer het opnieuw."
+
+#: core/class-wcfmu-vendor-verification.php:587
+#, fuzzy
+msgid "Hey!!! Prompt for verification now and be a verified seller."
+msgstr "He!!! Prompt voor verificatie nu en een geverifieerde verkoper worden."
+
+#: core/class-wcfmu-vendor-verification.php:647
+#, fuzzy
+msgid "Status Update"
+msgstr "Microblogging"
+
+#: core/class-wcfmu-vendor-verification.php:693
+#, fuzzy
+msgid ""
+"<b>Opps!!!</b> Your verification rejected, please try again. <br />Added "
+"note: "
+msgstr ""
+"<b>Opps!</b> De verificatie van uw afgewezen, probeer het opnieuw.<br>Extra "
+"Opmerking:"
+
+#: core/class-wcfmu-vendor-verification.php:695
+#, fuzzy
+msgid "<b>Congratulation!!!</b> Your verification approved. <br />Added note: "
+msgstr ""
+"<b>Gefeliciteerd!</b> De verificatie van uw goedgekeurd.<br>Extra Opmerking:"
+
+#: core/class-wcfmu-vendor-verification.php:710
+#, fuzzy
+msgid "Verification ststus successfully updated."
+msgstr "Verificatie ststus bijgewerkt."
+
+#: core/class-wcfmu-vendor-verification.php:714
+#, fuzzy
+msgid "Verification ststus update failed."
+msgstr "Verificatie ststus bijwerken is mislukt."
+
+#: core/class-wcfmu-wcappointments.php:118
+#, fuzzy
+msgid "Appointments Dashboard"
+msgstr "Afspraken Dashboard"
+
+#: core/class-wcfmu-wcappointments.php:121 
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:52 
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:96 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:61 
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:42 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:153 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:173 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:45 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:40
+#, fuzzy
+msgid "Appointments List"
+msgstr "Lijst met afspraken"
+
+#: core/class-wcfmu-wcappointments.php:124 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:25
+#, fuzzy
+msgid "Appointments Staffs"
+msgstr "Afspraken personeel"
+
+#: core/class-wcfmu-wcappointments.php:127
+#, fuzzy
+msgid "Appointments Staffs Manage"
+msgstr "Afspraken personeel beheren"
+
+#: core/class-wcfmu-wcappointments.php:130
+#, fuzzy
+msgid "Create Appointments"
+msgstr "Afspraken maken"
+
+#: core/class-wcfmu-wcappointments.php:133 
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:111
+#, fuzzy
+msgid "Appointments Calendar"
+msgstr "Afspraken agenda"
+
+#: core/class-wcfmu-wcappointments.php:136
+#, fuzzy
+#, php-format
+msgid "Appointments Details #%s"
+msgstr "Afspraken Details #%s"
+
+#: core/class-wcfmu-wcappointments.php:139
+#, fuzzy
+msgid "Appointments Settings"
+msgstr "Afspraken instellingen"
+
+#: core/class-wcfmu-wcappointments.php:594 
+#: core/class-wcfmu-wcappointments.php:603
+#, fuzzy
+#, php-format
+msgid "You have received an Appointment <b>#%s</b> for <b>%s</b>"
+msgstr "U hebt een afspraak <b>#%s</b> ontvangen voor <b>%s</b>"
+
+#: core/class-wcfmu-wcbookings.php:85
+#, fuzzy
+msgid "WCFM View"
+msgstr "WCFM weergave"
+
+#: core/class-wcfmu-wcbookings.php:100 core/class-wcfmu-wcbookings.php:110
+#, fuzzy
+msgid "WCFM Home"
+msgstr "WCFM Home"
+
+#: core/class-wcfmu-wcbookings.php:680 core/class-wcfmu-wcbookings.php:689
+#, fuzzy
+#, php-format
+msgid "You have received a Booking <b>#%s</b> for <b>%s</b>"
+msgstr "U hebt een boeking ontvangen <b>#%s</b> voor <b>%s</b>"
+
+#: core/class-wcfmu-wcmarketplace.php:152 core/class-wcfmu-wcpvendors.php:154 
+#: core/class-wcfmu-wcvendors.php:150
+#, fuzzy
+msgid "Show all"
+msgstr "Toon Alles"
+
+#: core/class-wcfmu-wcmarketplace.php:154 core/class-wcfmu-wcpvendors.php:156 
+#: core/class-wcfmu-wcvendors.php:152 
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:21
+#, fuzzy
+msgid "Paid"
+msgstr "BETAALD"
+
+#: core/class-wcfmu-wcpvendors.php:184
+#, fuzzy
+msgid "Mark Fulfilled"
+msgstr "Mark vervuld"
+
+#: helpers/wcfmu-core-functions.php:197
+#, fuzzy
+msgid "Please insert atleast Resource Title before submit."
+msgstr "Gelieve atleast Resource titel voordat indienen."
+
+#: helpers/wcfmu-core-functions.php:198
+#, fuzzy
+msgid "Resource Saving Failed."
+msgstr "Resource-besparing is mislukt."
+
+#: helpers/wcfmu-core-functions.php:199
+#, fuzzy
+msgid "Resource Successfully Published."
+msgstr "Resource met succes is gepubliceerd."
+
+#: helpers/wcfmu-core-functions.php:211
+#, fuzzy
+msgid "Please insert Staff Username before submit."
+msgstr "Gelieve personeel gebruikersnaam voordat indienen."
+
+#: helpers/wcfmu-core-functions.php:212
+#, fuzzy
+msgid "Please insert Staff Email before submit."
+msgstr "Gelieve personeel E-mail voordat indienen."
+
+#: helpers/wcfmu-core-functions.php:213
+#, fuzzy
+msgid "This Username already exists."
+msgstr "Deze gebruikersnaam bestaat al"
+
+#: helpers/wcfmu-core-functions.php:214
+#, fuzzy
+msgid "This Email already exists."
+msgstr "Dit e-mail adres bestaat al"
+
+#: helpers/wcfmu-core-functions.php:215
+#, fuzzy
+msgid "Staff Saving Failed."
+msgstr "Personeel opslaan is mislukt."
+
+#: helpers/wcfmu-core-functions.php:216
+#, fuzzy
+msgid "Staff Successfully Saved."
+msgstr "Personeel met succes opgeslagen."
+
+#: helpers/wcfmu-core-functions.php:228
+#, fuzzy
+msgid "Global Settings Saving Failed."
+msgstr "Globale instellingen opslaan is mislukt."
+
+#: helpers/wcfmu-core-functions.php:229
+#, fuzzy
+msgid "Global Settings Successfully Saved."
+msgstr "Globale instellingen bewaard"
+
+#: helpers/wcfmu-core-functions.php:241
+#, fuzzy
+msgid "Shipment Tracking Info"
+msgstr "Verzending traceren"
+
+#: helpers/wcfmu-core-functions.php:245
+#, fuzzy
+msgid "Fill up the details."
+msgstr "Vul de details."
+
+#: views/wcfmu-view-capability.php:82
+#, fuzzy
+msgid "Toolset Fields"
+msgstr "Toolset velden"
+
+#: views/wcfmu-view-capability.php:83
+#, fuzzy
+msgid "ACF Fields"
+msgstr "ACF velden"
+
+#: views/wcfmu-view-capability.php:84
+#, fuzzy
+msgid "MapPress"
+msgstr "MapPress"
+
+#: views/wcfmu-view-capability.php:92
+#, fuzzy
+msgid "Add Attribute"
+msgstr "Eigenschap toevoegen"
+
+#: views/wcfmu-view-capability.php:93
+#, fuzzy
+msgid "Add Attribute Term"
+msgstr "Eigenschap toevoegen"
+
+#: views/wcfmu-view-capability.php:95
+#, fuzzy
+msgid "Rich Editor"
+msgstr "RTF-Editor"
+
+#: views/wcfmu-view-capability.php:97
+#, fuzzy
+msgid "Duplicate Product"
+msgstr "Product dupliceren"
+
+#: views/wcfmu-view-capability.php:102
+#, fuzzy
+msgid "Stock Manager"
+msgstr "Vooaraad-manager"
+
+#: views/wcfmu-view-capability.php:111
+#, fuzzy
+msgid "Gallery Limit"
+msgstr "Galerie limiet"
+
+#: views/wcfmu-view-capability.php:112
+#, fuzzy
+msgid "Category Limit"
+msgstr "Categorie limiet"
+
+#: views/wcfmu-view-capability.php:115
+#, fuzzy
+msgid "Allowed Categories"
+msgstr "Toegestane Categorieën"
+
+#: views/wcfmu-view-capability.php:181
+#, fuzzy
+msgid "Shipping Tracking"
+msgstr "Verzending bijhouden"
+
+#: views/wcfmu-view-capability.php:190
+#, fuzzy
+msgid "Header Panels"
+msgstr "Koptekst panelen"
+
+#: views/wcfmu-view-capability.php:196
+#, fuzzy
+msgid "Topic Reply"
+msgstr "Topic reactie"
+
+#: views/wcfmu-view-capability.php:219
+#, fuzzy
+msgid "Vacation"
+msgstr "Vakantiemodus"
+
+#: views/wcfmu-view-coupons-manage.php:85
+#, fuzzy
+msgid "No Minimum"
+msgstr "Minimum hoeveelheid"
+
+#: views/wcfmu-view-coupons-manage.php:86
+#, fuzzy
+msgid "No Maximum"
+msgstr "Maximum hoeveelheid"
+
+#: views/wcfmu-view-coupons-manage.php:89
+#, fuzzy
+msgid ""
+"Products which need to be in the cart to use this coupon or, for `Product "
+"Discounts`, which products are discounted."
+msgstr ""
+"Artikelen die in de winkelmand moeten zitten om deze kortingsbon te kunnen "
+"gebruiken. Als je voor 'Productkorting' koos zijn dit de artikelen die de "
+"korting toegewezen krijgen."
+
+#: views/wcfmu-view-coupons-manage.php:90
+#, fuzzy
+msgid ""
+"Products which must not be in the cart to use this coupon or, for `Product "
+"Discounts`, which products are not discounted."
+msgstr ""
+"Producten die niet in de winkelwagen mogen zitten om deze kortingsbon te "
+"kunnen gebruiken. Als je voor 'Productkorting' koos zijn dit de producten "
+"die geen korting toegewezen krijgen."
+
+#: views/wcfmu-view-coupons-manage.php:94
+#, fuzzy
+msgid ""
+"A product must be in this category for the coupon to remain valid or, for "
+"`Product Discounts`, products in these categories will be discounted."
+msgstr ""
+"Een product moet in deze categorie zitten om de kortingcode te kunnen "
+"gebruiken. Als je voor \"Productkorting\" koos zijn het de producten in deze "
+"categorie die de korting toegewezen krijgen."
+
+#: views/wcfmu-view-coupons-manage.php:115
+#, fuzzy
+msgid ""
+"Product must not be in this category for the coupon to remain valid or, for "
+"`Product Discounts`, products in these categories will not be discounted."
+msgstr ""
+"Een product mag niet in deze categorie zitten om kortingcode te kunnen "
+"gebruiken. Als je voor \"Productkorting\" koos zijn het de producten in deze "
+"categorie die geen korting toegewezen krijgen."
+
+#: views/wcfmu-view-coupons-manage.php:136
+#, fuzzy
+msgid "No restictions"
+msgstr "Geen beperkingen"
+
+#: views/wcfmu-view-orders-details.php:48
+#, fuzzy
+#, php-format
+msgid "by %s"
+msgstr "Waarde(n):"
+
+#: views/wcfmu-view-reports-coupons-by-date.php:111 
+#: views/wcfmu-view-reports-coupons-by-date.php:115
+#, fuzzy
+msgid "Coupons by Date"
+msgstr "Kortingcode per datum"
+
+#: views/wcfmu-view-reports-coupons-by-date.php:111 
+#: views/wcfmu-view-reports-sales-by-product.php:111
+#, fuzzy
+#, php-format
+msgctxt "start date and end date"
+msgid "From %s to %s"
+msgstr "Van %s t/m %s"
+
+#: views/wcfmu-view-reports-coupons-by-date.php:139 
+#: views/wcfmu-view-reports-low-in-stock.php:41 
+#: views/wcfmu-view-reports-sales-by-product.php:141 
+#: views/thirdparty/wcfmu-view-auctions.php:37 
+#: views/thirdparty/wcfmu-view-wcrental-calendar.php:133 
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:61 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:67 
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:37 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:54 
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:34 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:145 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:165 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:37 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:68 
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:36 
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:34 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:150 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:37 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:141
+#, fuzzy
+msgid "WP Admin View"
+msgstr "WP Admin"
+
+#: views/wcfmu-view-reports-low-in-stock.php:30
+#, fuzzy
+msgid "Low in Stock"
+msgstr "Voorraad &#8652; Laag"
+
+#: views/wcfmu-view-reports-low-in-stock.php:56 
+#: views/wcfmu-view-reports-low-in-stock.php:65
+#, fuzzy
+msgid "Unit in stock"
+msgstr "Op voorraad"
+
+#: views/wcfmu-view-screen-manager.php:50
+#, fuzzy
+msgid "Gross Sales"
+msgstr "Bruto verkoop"
+
+#: views/wcfmu-view-screen-manager.php:101
+#, fuzzy
+msgid "Choose columns want to hide."
+msgstr "Kies kolommen wilt verbergen."
+
+#: views/wcfmu-view-thirdparty-products-manage.php:66 
+#: views/thirdparty/wcfmu-view-wpjm-associate-listings-products-manage.php:64
+#, fuzzy
+msgid "Associate this product with your Listings."
+msgstr "Dit product koppelen aan uw aanbiedingen."
+
+#: controllers/thirdparty/wcfmu-controller-rental-quote.php:106
+#, fuzzy
+msgid "Details"
+msgstr "Bestelling details  #%s"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments-staffs.php:75 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:153
+#, fuzzy
+msgid "Manage Staff"
+msgstr "Beheren van personeel"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:26 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:29
+#, fuzzy
+msgid "Partial Paid"
+msgstr "Gedeeltelijk betaald"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:105
+#, fuzzy
+#, php-format
+msgctxt "Guest string with name from appointment order in brackets"
+msgid "Guest(%s)"
+msgstr "Gast (%s)"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:157
+#, fuzzy
+msgid "Mark as Confirmed"
+msgstr "Markeren als bevestigd"
+
+#: controllers/wc_bookings/wcfmu-controller-wcbookings-resources.php:82 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:138
+#, fuzzy
+msgid "Manage Resource"
+msgstr "Resource beheren"
+
+#: views/thirdparty/wcfmu-view-address-geocoder-products-manage.php:41
+#, fuzzy
+msgid "Lat/Lng"
+msgstr "Lat/Lng"
+
+#: views/thirdparty/wcfmu-view-address-geocoder-products-manage.php:46
+#, fuzzy
+msgid "Geocode Address"
+msgstr "Geocode adres"
+
+#: views/thirdparty/wcfmu-view-auctions.php:31
+#, fuzzy
+msgid "Auction Activity"
+msgstr "Veiling activiteit"
+
+#: views/thirdparty/wcfmu-view-mappress-products-manage.php:37
+#, fuzzy
+msgid "Save the product, then you will have option to associate Map with this."
+msgstr "Sla het product, dan zul je de optie kaart koppelen aan dit."
+
+#: views/thirdparty/wcfmu-view-mappress-products-manage.php:42
+#, fuzzy
+msgid "Maps for this Product"
+msgstr "voor dit product"
+
+#: views/thirdparty/wcfmu-view-toolset-types-products-manage.php:223 
+#: views/thirdparty/wcfmu-view-toolset-types-taxonomy.php:82 
+#: views/thirdparty/wcfmu-view-toolset-types-user-profile.php:174
+#, fuzzy
+msgid "--- not set ---"
+msgstr "Zet prijs soort"
+
+#: views/thirdparty/wcfmu-view-toolset-types-settings.php:57
+#, fuzzy
+msgid "Product Type Toolset Fields"
+msgstr "Toolset velden van het Type van product"
+
+#: views/thirdparty/wcfmu-view-toolset-types-settings.php:84
+#, fuzzy
+msgid ""
+"Create group of your Store Toolset Types Fields as per Product Types. "
+"Product Manager will work according to that."
+msgstr ""
+"Maak groep van uw winkel Toolset typen velden per productsoorten. "
+"Productmanager werkt volgens."
+
+#: views/thirdparty/wcfmu-view-wc-per-product-shipping-products-manage.php:51
+#, fuzzy
+msgid "Shipping Rules"
+msgstr "Verzending regels"
+
+#: views/thirdparty/wcfmu-view-wc-variation-gallery-products-manage.php:44
+#, fuzzy
+msgid "Aditional Images"
+msgstr "Extra afbeeldingen"
+
+#: views/thirdparty/wcfmu-view-wcrental-calendar.php:121
+#, fuzzy
+msgid "Rental Calender"
+msgstr "Verhuur kalender"
+
+#: views/thirdparty/wcfmu-view-wcrental-calendar.php:128
+#, fuzzy
+msgid "Calender View"
+msgstr "Kalender weergave"
+
+#: views/thirdparty/wcfmu-view-wcrental-calendar.php:137 
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:67
+#, fuzzy
+msgid "Quote Requests"
+msgstr "Offerteaanvragen"
+
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:55
+#, fuzzy
+msgid "Quote Request #"
+msgstr "Offerteaanvraag"
+
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:111
+#, fuzzy
+msgid "Quote Management"
+msgstr "Crm citaat management"
+
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:324
+#, fuzzy
+msgid "Quote Messages"
+msgstr "Offerte berichten"
+
+#: views/thirdparty/wcfmu-view-wcrentalpro-product-manage.php:262
+#, fuzzy
+msgid "Daye Range"
+msgstr "Daye bereik"
+
+#: views/thirdparty/wcfmu-view-wcrentalpro-product-manage.php:279
+#, fuzzy
+msgid "Discount depending on day length"
+msgstr "Korting afhankelijk van daglengte"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:54
+#, fuzzy
+msgid "New"
+msgstr "Voeg Nieuwe Kortingscode toe"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:59
+#, fuzzy
+msgid ""
+"A reserve price is the lowest price at which you are willing to sell your "
+"item. If you don't want to sell your item below a certain price, you can set "
+"a reserve price. The amount of your reserve price is not disclosed to your "
+"bidders, but they will see that your auction has a reserve price and whether "
+"or not the reserve has been met. If a bidder does not meet that price, you "
+"are not obligated to sell your item."
+msgstr ""
+"De behaalde prijs is de laagste prijs die u wilt hebben voor dit item. Als u "
+"dit item niet lager wilt verkopen dan een bepaalde prijst kunt u de "
+"'behaalde prijs' opgegeven. Het bedrag van uw behaalde prijs is niet "
+"zichtbaar voor bieders maar ze zien wel dat de veiling een bepaalde prijs "
+"moet hebben om verkocht te worden. Als een bieder de behaalde prijs niet "
+"heeft gehaald ben je niet verplicht om het item te verkopen."
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:61 
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:61
+#, fuzzy
+msgid "Auction Date From"
+msgstr "Veiling dateren uit"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:62 
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:62
+#, fuzzy
+msgid "Auction Date To"
+msgstr "Veiling datum"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:64
+#, fuzzy
+msgid "Automatic relist auction"
+msgstr "Automatisch opnieuw aanbieden veiling"
+
+#: views/thirdparty/wcfmu-view-wpjm-associate-listings-products-manage.php:59
+#, fuzzy
+msgid "Associate Listings"
+msgstr "Koppelen van aanbiedingen"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:58
+#, fuzzy
+msgid "Minimum increment amount"
+msgstr "Minimale toename bedrag"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:63
+#, fuzzy
+msgid ""
+"Number of minutes before auction ends to check if overtime added. (Override "
+"the settings option)"
+msgstr ""
+"Aantal minuten voor de veiling eindigt om te controleren of overtijd is "
+"toegevoegd. (Overschrijf de instellingen optie)"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:64
+#, fuzzy
+msgid ""
+"Number of minutes by which the auction will be extended. (Overrride the "
+"settings option)"
+msgstr ""
+"Aantal minuten, door die de veiling zal worden uitgebreid. (Overrride de "
+"optie van montages)"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:65
+#, fuzzy
+msgid "Time value for automatic rescheduling"
+msgstr "Tijdwaarde voor automatische herschikking"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:66
+#, fuzzy
+msgid "Select unit for automatic rescheduling"
+msgstr "Selecteer een eenheid voor automatische herschikking"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:26
+#, fuzzy
+msgid "Appointments Calender"
+msgstr "Afspraken kalender"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:46 
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:77 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:63 
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:45 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:156 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:176 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:32 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:77
+#, fuzzy
+msgid "Manage Staffs"
+msgstr "Beheren van staven"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:50 
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:60 
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:49 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:160 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:180 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:48 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:81
+#, fuzzy
+msgid "Create Appointable"
+msgstr "Appointable maken"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:24
+#, fuzzy
+msgid "Appointments"
+msgstr "Beheer afspraken"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:49
+#, fuzzy
+msgid "Appointment #"
+msgstr "Afspraak"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:67
+#, fuzzy
+msgid "Create Appointmentable"
+msgstr "Appointmentable maken"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:86
+#, fuzzy
+msgid "Appointment Created:"
+msgstr "Afspraak Gemaakt"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:30
+#, fuzzy
+msgid "Create Appointments Manually"
+msgstr "Afspraken handmatig maken"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:304
+#, fuzzy
+msgid "Choose Staff"
+msgstr "Kies personeel"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:402 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:190 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:220
+#, fuzzy
+msgid ""
+"The maximum number of appointments per slot. Overrides general product "
+"capacity."
+msgstr ""
+"Het maximum aantal benoemingen per sleuf. Algemene product capaciteit "
+"overschrijft."
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:421
+#, fuzzy
+msgid "Available all Staffs"
+msgstr "Beschikbare alle staven"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:25
+#, fuzzy
+msgid "Bookings Calender"
+msgstr "Boekingen kalender"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:32
+#, fuzzy
+#, php-format
+msgid "Bookings by %s"
+msgstr "Boekingen door %s"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:49 
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:49 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:165 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:48 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:156
+#, fuzzy
+msgid "Create Bookable"
+msgstr "Boekbaar maken"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:51 
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:42 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:158 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:45 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:149
+#, fuzzy
+msgid "Bookings List"
+msgstr "Boeken lijst"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:30
+#, fuzzy
+msgid "Create Bookings Manually"
+msgstr "Boekingen handmatig maken"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-products-manage.php:73
+#, fuzzy
+msgid "Choose Resource"
+msgstr "Kies Bron"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:189
+#, fuzzy
+msgid "Resource Details"
+msgstr "Bron details"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:25
+#, fuzzy
+msgid "Bookings Resources"
+msgstr "Boekingen middelen"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:129
+#, fuzzy
+msgid "Bookings Settings"
+msgstr "Instellingen WC Bookings"
+
+#: core/license/admin/class-wcfm-license.php:16 
+#: core/license/admin/class-wcfm-license.php:17
+#, fuzzy
+msgid "WCFM License"
+msgstr "WCFM licentie"
+
+#: core/license/admin/class-wcfm-license.php:79
+#, fuzzy
+#, php-format
+msgid "<h2>%s License</h2>"
+msgstr "<h2>%s licentie</h2>"
+
+#: core/license/admin/class-wcfm-license.php:86
+#, fuzzy
+#, php-format
+msgid ""
+"<h4 style='border-bottom: 1px solid rgb(215, 211, 211);padding-bottom: 21px;"
+"'>%s</h4>"
+msgstr ""
+"<h4 style='border-bottom: 1px solid rgb(215, 211, 211);padding-bottom: 21px;"
+"'>%s</h4>"
+
+#: core/license/admin/class-wcfmu-settings-license.php:246
+#, fuzzy
+msgid "Please insert your license key."
+msgstr "Gelieve uw licentiesleutel."
+
+#: core/license/admin/class-wcfmu-settings-license.php:256
+#, fuzzy
+msgid "Please insert your license email."
+msgstr "Gelieve uw e-mail licentie."
+
+#: core/license/admin/class-wcfmu-settings-license.php:358
+#, fuzzy
+msgid "Plugin license deactivated."
+msgstr "Plugin licentie is gedeactiveerd."
+
+#. Name of the plugin
+#, fuzzy
+msgid "WooCommerce Frontend Manager - Ultimate"
+msgstr "WooCommerce Frontend Manager - Ultimate"
+
+#. Description of the plugin
+#, fuzzy
+msgid ""
+"Now manage your WooCommerce Store from your Store Front with more Powers. "
+"Easily and Peacefully."
+msgstr ""
+"Nu beheren uw WooCommerce-winkel van uw winkel Front met meer bevoegdheden. "
+"Eenvoudig en rustig."
+
+#. URI of the plugin
+#. Author URI of the plugin
+#, fuzzy
+msgid "https://wclovers.com"
+msgstr "https://wclovers.com"
+
+#. Author of the plugin
+#, fuzzy
+msgid "WC Lovers"
+msgstr "WC Lovers"
+
+#: controllers/wcfmu-controller-coupons.php:26 
+#: controllers/wcfmu-controller-coupons.php:28 
+#: controllers/wcfmu-controller-orders.php:36 
+#: controllers/wcfmu-controller-reports-low-in-stock.php:111 
+#: controllers/wcfmu-controller-reports-low-in-stock.php:116
+msgid "Delete"
+msgstr "Verwijder"
+
+#: controllers/wcfmu-controller-products.php:26 
+#: controllers/wcfmu-controller-products.php:30 
+#: core/class-wcfmu-frontend.php:73 views/wcfmu-view-capability.php:100
+msgid "Quick Edit"
+msgstr "Snelle bewerking"
+
+#: controllers/wcfmu-controller-reports-low-in-stock.php:100
+msgid "In stock"
+msgstr "Op voorraad"
+
+#: controllers/wcfmu-controller-reports-low-in-stock.php:102 
+#: core/class-wcfmu-frontend.php:89
+msgid "Out of stock"
+msgstr "Uitverkocht"
+
+#: controllers/wcfmu-controller-reports-low-in-stock.php:109 
+#: controllers/wcfmu-controller-reports-low-in-stock.php:114
+msgid "View"
+msgstr "Bekijk"
+
+#: controllers/wcfmu-controller-reports-low-in-stock.php:110 
+#: controllers/wcfmu-controller-reports-low-in-stock.php:115
+msgid "Edit"
+msgstr "Wijzig"
+
+#: controllers/wcfmu-controller-screen-manage.php:36 
+#: controllers/wcfmu-controller-screen-manage.php:40
+msgid "Screen update successfully"
+msgstr "Scherm bijwerken met succes"
+
+#: controllers/wcfmu-controller-stock-manage.php:46
+msgid "Stock Successfully updated."
+msgstr "Voorraad bijgewerkt."
+
+#: controllers/wcfmu-controller-stock-manage.php:322 
+#: controllers/wcfmu-controller-stock-manage.php:324
+msgid "NO"
+msgstr "Nee"
+
+#: controllers/wcfmu-controller-stock-manage.php:322 
+#: controllers/wcfmu-controller-stock-manage.php:324 
+#: core/class-wcfmu-ajax.php:533
+msgid "YES"
+msgstr "Ja"
+
+#: core/class-wcfmu-ajax.php:249 core/class-wcfmu-ajax.php:261
+msgid "Attributes"
+msgstr "Attributen"
+
+#: core/class-wcfmu-ajax.php:251 core/class-wcfmu-ajax.php:263 
+#: core/class-wcfmu-frontend.php:237 views/wcfmu-view-screen-manager.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:68 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:76
+msgid "Name"
+msgstr "Naam"
+
+#: core/class-wcfmu-ajax.php:252 core/class-wcfmu-ajax.php:264
+msgid "Value(s):"
+msgstr "Waarde(n):"
+
+#: core/class-wcfmu-ajax.php:253 core/class-wcfmu-ajax.php:265
+msgid "Visible on the product page"
+msgstr "Toon op de productpagina"
+
+#: core/class-wcfmu-ajax.php:254 core/class-wcfmu-ajax.php:266
+msgid "Use as Variation"
+msgstr "Gebruik als variatie"
+
+#: core/class-wcfmu-ajax.php:264
+msgid "Enter some text, some attributes by \"|\" separating values."
+msgstr "Voer tekst of eigenschappen in, gescheiden door sluistekens (|)."
+
+#: core/class-wcfmu-ajax.php:388
+msgid "You are not allowed to modify this order."
+msgstr "U heeft geen rechten om deze order te bewerken."
+
+#: core/class-wcfmu-ajax.php:401
+msgid "Order marked shipped."
+msgstr "Bestelling verzonden gemarkeerd."
+
+#: core/class-wcfmu-ajax.php:407 core/class-wcfmu-ajax.php:440 
+#: core/class-wcfmu-ajax.php:483
+#, php-format
+msgid ""
+"Vendor <b>%s</b> has shipped <b>%s</b> to customer.<br/>Tracking Code : %s "
+"<br/>Tracking URL : <a href=\"%s\">%s</a>"
+msgstr ""
+"Leverancier <b>%s</b> heeft <b>%s</b> naar de klant verzonden.<br>Code voor "
+"het bijhouden: %s<br>Tracking URL: <a href=\"%s\">%s</a>"
+
+#: core/class-wcfmu-ajax.php:526
+#, php-format
+msgid "Item(s) <b>%s</b> received by customer."
+msgstr "Ticket(s)<b>%s</b> ontvangen door klant."
+
+#: core/class-wcfmu-bulk-edit.php:35 views/wcfmu-view-capability.php:101
+msgid "Bulk Edit"
+msgstr "Bulk-bewerking"
+
+#: core/class-wcfmu-dokan.php:115 core/class-wcfmu-wcmarketplace.php:127 
+#: core/class-wcfmu-wcpvendors.php:129 core/class-wcfmu-wcvendors.php:125 
+#: views/wcfmu-view-orders.php:55
+msgid "Show all dates"
+msgstr "Toon alle data"
+
+#. 1: month name, 2: 4-digit year
+#. 1: month name, 2: 4-digit year
+#. 1: month name, 2: 4-digit year
+#: core/class-wcfmu-dokan.php:133 core/class-wcfmu-wcmarketplace.php:145 
+#: core/class-wcfmu-wcpvendors.php:147 core/class-wcfmu-wcvendors.php:143 
+#: views/wcfmu-view-orders.php:73
+#, php-format
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: core/class-wcfmu-dokan.php:178 core/class-wcfmu-wcmarketplace.php:180 
+#: core/class-wcfmu-wcvendors.php:195
+msgid "Mark Shipped"
+msgstr "Markeer als verzonden"
+
+#: core/class-wcfmu-frontend.php:86
+msgid "Sales by product"
+msgstr "Verkopen per Product"
+
+#: core/class-wcfmu-frontend.php:87
+msgid "Coupons by date"
+msgstr "Kortingcode per datum"
+
+#: core/class-wcfmu-frontend.php:88
+msgid "Low in stock"
+msgstr "Voorraad &#8652; Laag"
+
+#: core/class-wcfmu-frontend.php:132
+msgid "Custom product attribute"
+msgstr "Custom producteigenschap"
+
+#: core/class-wcfmu-frontend.php:149 views/wcfmu-view-orders-details.php:74
+msgid "Add"
+msgstr "Voeg toe"
+
+#: core/class-wcfmu-frontend.php:181 core/class-wcfmu-frontend.php:232 
+#: core/class-wcfmu-frontend.php:263 core/class-wcfmu-vendor-support.php:53 
+#: views/wcfmu-view-products.php:61
+msgid "Downloadable"
+msgstr "Downloadbaar"
+
+#: core/class-wcfmu-frontend.php:200 core/class-wcfmu-wcbookings.php:432 
+#: core/class-wcfmu-wcbookings.php:434 core/class-wcfmu-wcbookings.php:436 
+#: core/class-wcfmu-wcbookings.php:438 core/class-wcfmu-wcbookings.php:440 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:357 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:359 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:361 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:363 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:365 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:367 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:392 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:394 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:396 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:398 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:400 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:180 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:182 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:184 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:186 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:188 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:210 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:212 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:214 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:216 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:218 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:188 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:190 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:192 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:194 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:191 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:193 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:195 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:197 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:199 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:177 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:179 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:181 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:183 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:185
+msgid "From"
+msgstr "Vanaf"
+
+#: core/class-wcfmu-frontend.php:236
+msgid "Files"
+msgstr "Bestanden"
+
+#: core/class-wcfmu-frontend.php:238 core/class-wcfmu-frontend.php:268
+msgid "File"
+msgstr "Bestand"
+
+#: core/class-wcfmu-frontend.php:241 core/class-wcfmu-frontend.php:270
+msgid "Download Limit"
+msgstr "Download Limiet"
+
+#: core/class-wcfmu-frontend.php:241 core/class-wcfmu-frontend.php:270 
+#: core/class-wcfmu-thirdparty-support.php:1020 
+#: views/wcfmu-view-capability.php:110 views/wcfmu-view-capability.php:111 
+#: views/wcfmu-view-capability.php:112
+msgid "Unlimited"
+msgstr "Onbeperkt"
+
+#: core/class-wcfmu-frontend.php:242 core/class-wcfmu-frontend.php:271
+msgid "Download Expiry"
+msgstr "Download Vervaldatum"
+
+#: core/class-wcfmu-frontend.php:242 core/class-wcfmu-frontend.php:271
+msgid "Never"
+msgstr "Nooit"
+
+#: core/class-wcfmu-frontend.php:262 core/class-wcfmu-vendor-support.php:52 
+#: views/wcfmu-view-products.php:65
+msgid "Virtual"
+msgstr "Virtueel"
+
+#: core/class-wcfmu-frontend.php:269
+msgid "File Name"
+msgstr "Bestandsnaam"
+
+#: core/class-wcfmu-frontend.php:272
+msgid "Weight"
+msgstr "Gewicht"
+
+#: core/class-wcfmu-frontend.php:273
+msgid "Length"
+msgstr "Duur"
+
+#: core/class-wcfmu-frontend.php:274
+msgid "Width"
+msgstr "Breedte"
+
+#: core/class-wcfmu-frontend.php:275
+msgid "Height"
+msgstr "Hoogte"
+
+#: core/class-wcfmu-frontend.php:276
+msgid "Shipping class"
+msgstr "Verzendklasse"
+
+#: core/class-wcfmu-frontend.php:278
+msgid "Description"
+msgstr "Omschrijf Product/Dienst*"
+
+#: core/class-wcfmu-non-ajax.php:31
+msgid "License"
+msgstr "Licentie"
+
+#: core/class-wcfmu-non-ajax.php:48
+msgid "Change Log"
+msgstr "Change log"
+
+#: core/class-wcfmu-sitepress-wpml.php:232 
+#: core/class-wcfmu-sitepress-wpml.php:233
+msgid "Translations"
+msgstr "Vertalingen"
+
+#: core/class-wcfmu-thirdparty-support.php:229 
+#: core/class-wcfmu-thirdparty-support.php:322 
+#: views/thirdparty/wcfmu-view-auctions.php:24
+msgid "Auctions"
+msgstr "Advertenties"
+
+#: core/class-wcfmu-thirdparty-support.php:237 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:24
+msgid "Quote Request"
+msgstr "Offerteaanvraag"
+
+#: core/class-wcfmu-thirdparty-support.php:335
+msgid "Rentals"
+msgstr "Verhuur objecten"
+
+#: core/class-wcfmu-thirdparty-support.php:340 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:89 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:99
+msgid "Quote"
+msgstr "Citaat"
+
+#: core/class-wcfmu-thirdparty-support.php:373 
+#: core/class-wcfmu-thirdparty-support.php:402 
+#: views/thirdparty/wcfmu-view-auctions.php:58 
+#: views/thirdparty/wcfmu-view-auctions.php:66 
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:49 
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:51
+msgid "Auction"
+msgstr "Veiling"
+
+#: core/class-wcfmu-thirdparty-support.php:380
+msgid "Rental Product"
+msgstr "Verhuur Product"
+
+#: core/class-wcfmu-thirdparty-support.php:396
+msgid "Resume Package"
+msgstr "Hervat pakket"
+
+#: core/class-wcfmu-thirdparty-support.php:414
+msgid "Ticket"
+msgstr "Klacht"
+
+#: core/class-wcfmu-thirdparty-support.php:716
+msgid "Barcode"
+msgstr "Barcode"
+
+#: core/class-wcfmu-thirdparty-support.php:717
+msgid "ISBN"
+msgstr "ISBN"
+
+#: core/class-wcfmu-thirdparty-support.php:737
+msgid "Fee Name"
+msgstr "Kostennaam"
+
+#: core/class-wcfmu-thirdparty-support.php:738
+msgid "Fee Amount"
+msgstr "Vergoeding"
+
+#: core/class-wcfmu-thirdparty-support.php:1070 
+#: core/class-wcfmu-thirdparty-support.php:1073
+msgid "Manage Products"
+msgstr "Beheer Producten"
+
+#: core/class-wcfmu-vendor-support.php:93 
+#: views/wcfmu-view-screen-manager.php:51
+msgid "Commission"
+msgstr "Commissie"
+
+#: core/class-wcfmu-vendor-support.php:101
+msgid "Commission Type"
+msgstr "Type commissies"
+
+#: core/class-wcfmu-vendor-support.php:102
+msgid "Commission(%)"
+msgstr "Commissie(%)"
+
+#: core/class-wcfmu-vendor-support.php:140 helpers/wcfmu-core-functions.php:242
+msgid "Tracking Code"
+msgstr "Tracking Code"
+
+#: core/class-wcfmu-vendor-support.php:148
+msgid "Item(s) Received"
+msgstr "Ticket(s) ontvangen"
+
+#: core/class-wcfmu-vendor-support.php:183
+msgid "Shipment Tracking: "
+msgstr "Verzending tracking:"
+
+#: core/class-wcfmu-vendor-support.php:185
+msgid "Item(s) already received."
+msgstr "Ticket(s) reeds ontvangen."
+
+#: core/class-wcfmu-vendor-support.php:191
+msgid "Item(s) will be shipped soon."
+msgstr "Tickets worden snel verzonden."
+
+#: core/class-wcfmu-vendor-verification.php:213 
+#: core/class-wcfmu-vendor-verification.php:224 
+#: core/class-wcfmu-vendor-verification.php:235 
+#: core/class-wcfmu-vendor-verification.php:246
+msgid "Enable"
+msgstr "Inschakelen"
+
+#: core/class-wcfmu-vendor-verification.php:214 
+#: core/class-wcfmu-vendor-verification.php:225 
+#: core/class-wcfmu-vendor-verification.php:236 
+#: core/class-wcfmu-vendor-verification.php:247
+msgid "Redirect URL"
+msgstr "Redirect URL"
+
+#: core/class-wcfmu-vendor-verification.php:215 
+#: core/class-wcfmu-vendor-verification.php:226 
+#: core/class-wcfmu-vendor-verification.php:237
+msgid "Client ID"
+msgstr "Client ID"
+
+#: core/class-wcfmu-vendor-verification.php:216 
+#: core/class-wcfmu-vendor-verification.php:227 
+#: core/class-wcfmu-vendor-verification.php:238
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: core/class-wcfmu-vendor-verification.php:248
+msgid "Consumer key"
+msgstr "Consumer key"
+
+#: core/class-wcfmu-vendor-verification.php:249
+msgid "Consumer Secret"
+msgstr "Consumer Secret"
+
+#: core/class-wcfmu-vendor-verification.php:274
+msgid "Passport"
+msgstr "Paspoort"
+
+#: core/class-wcfmu-vendor-verification.php:275
+msgid "Driving License"
+msgstr "Rijbewijs"
+
+#: core/class-wcfmu-vendor-verification.php:338 
+#: core/class-wcfmu-vendor-verification.php:719
+msgid "Verification"
+msgstr "Verificatie"
+
+#: core/class-wcfmu-vendor-verification.php:348
+msgid "Admin Note"
+msgstr "Admin Notitie"
+
+#: core/class-wcfmu-vendor-verification.php:419 
+#: core/class-wcfmu-vendor-verification.php:447 
+#: core/class-wcfmu-vendor-verification.php:475 
+#: core/class-wcfmu-vendor-verification.php:503
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: core/class-wcfmu-vendor-verification.php:429 
+#: core/class-wcfmu-vendor-verification.php:457 
+#: core/class-wcfmu-vendor-verification.php:485 
+#: core/class-wcfmu-vendor-verification.php:513
+msgid "Connect to"
+msgstr "Verbinden met"
+
+#: core/class-wcfmu-vendor-verification.php:639 
+#: views/wcfmu-view-capability.php:209 
+#: views/thirdparty/wcfmu-view-address-geocoder-products-manage.php:40 
+#: views/thirdparty/wcfmu-view-mappress-products-manage.php:31
+msgid "Address"
+msgstr "Adres"
+
+#: core/class-wcfmu-vendor-verification.php:643
+msgid "Note to Vendor"
+msgstr "Notitie voor leverancier"
+
+#: core/class-wcfmu-vendor-verification.php:649
+msgid "Approve"
+msgstr "Goedkeuren"
+
+#: core/class-wcfmu-vendor-verification.php:650
+msgid "Reject"
+msgstr "Afwijzen"
+
+#: core/class-wcfmu-vendor-verification.php:658 
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:100 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:114
+msgid "Update"
+msgstr "Bijwerken"
+
+#: core/class-wcfmu-vendor-verification.php:756 
+#: core/class-wcfmu-vendor-verification.php:770 
+#: core/class-wcfmu-vendor-verification.php:784 
+#: core/class-wcfmu-vendor-verification.php:797 
+#: core/class-wcfmu-vendor-verification.php:810 
+#: core/class-wcfmu-vendor-verification.php:846 
+#: core/class-wcfmu-vendor-verification.php:864
+msgid "Verified Vendor"
+msgstr "Geverifieerde Vendor"
+
+#: core/class-wcfmu-wcaccommodation.php:60
+msgid "Accommodation"
+msgstr "Accomodatie"
+
+#: core/class-wcfmu-wcaddons.php:72
+msgid "Options"
+msgstr "Opties"
+
+#: core/class-wcfmu-wcappointments.php:223 
+#: core/class-wcfmu-wcappointments.php:560 
+#: views/wcfmu-view-screen-manager.php:70 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:124 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:113 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:124
+msgid "Appointment"
+msgstr "Afspraak"
+
+#: core/class-wcfmu-wcbookings.php:428 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:185
+msgid "Restricted days"
+msgstr "Beperkte dagen"
+
+#: core/class-wcfmu-wcbookings.php:431 views/wcfmu-view-screen-manager.php:28 
+#: views/wcfmu-view-screen-manager.php:38 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:356 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:391 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:179 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:209 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:187 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:216 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:190 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:176
+msgid "Type"
+msgstr "Type"
+
+#: core/class-wcfmu-wcbookings.php:433 core/class-wcfmu-wcbookings.php:435 
+#: core/class-wcfmu-wcbookings.php:437 core/class-wcfmu-wcbookings.php:439 
+#: core/class-wcfmu-wcbookings.php:441 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:358 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:360 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:362 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:364 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:366 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:368 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:393 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:395 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:397 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:399 
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:401 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:181 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:183 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:185 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:187 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:189 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:211 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:213 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:215 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:217 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:219 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:189 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:191 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:193 
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:195 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:192 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:194 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:196 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:198 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:200 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:178 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:180 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:182 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:184 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:186
+msgid "To"
+msgstr "Aan"
+
+#: core/class-wcfmu-wcbookings.php:647 views/wcfmu-view-screen-manager.php:59
+msgid "Booking"
+msgstr "Boeking"
+
+#: core/class-wcfmu-wcmarketplace.php:153 core/class-wcfmu-wcpvendors.php:155
+msgid "Unpaid"
+msgstr "Onbetaald"
+
+#: core/class-wcfmu-wcmarketplace.php:155 core/class-wcfmu-wcvendors.php:153
+msgid "Reversed"
+msgstr "Omgekeerd"
+
+#: core/class-wcfmu-wcpvendors.php:157
+msgid "Void"
+msgstr "Vervallen"
+
+#: core/class-wcfmu-wcvendors.php:151
+msgid "Due"
+msgstr "Opleveringsdatum"
+
+#: helpers/wcfmu-core-functions.php:246
+msgid "Details successfully updated."
+msgstr "Omschrijving successvol geüpdate."
+
+#: views/wcfmu-view-capability.php:73
+msgid "Sections"
+msgstr "Secties"
+
+#: views/wcfmu-view-capability.php:77
+msgid "Featured Image"
+msgstr "Aanbevolen afbeelding"
+
+#: views/wcfmu-view-capability.php:78
+msgid "Gallery Image"
+msgstr "Geef de hoogte van de afbeeldingsgalerie aan."
+
+#: views/wcfmu-view-capability.php:79
+msgid "Category"
+msgstr "Categorie"
+
+#: views/wcfmu-view-capability.php:80
+msgid "Tags"
+msgstr "Tags"
+
+#: views/wcfmu-view-capability.php:81
+msgid "Add-ons"
+msgstr "Uitbreidingen"
+
+#: views/wcfmu-view-capability.php:88
+msgid "Insights"
+msgstr "Statistieken"
+
+#: views/wcfmu-view-capability.php:94
+msgid "Delete Media"
+msgstr "Verwijder media"
+
+#: views/wcfmu-view-capability.php:96
+msgid "Featured Product"
+msgstr "Uitgelicht Product"
+
+#: views/wcfmu-view-capability.php:98
+msgid "Import"
+msgstr "Importeren"
+
+#: views/wcfmu-view-capability.php:99
+msgid "Export"
+msgstr "Exporteren"
+
+#: views/wcfmu-view-capability.php:106
+msgid "Limits"
+msgstr "Limieten"
+
+#: views/wcfmu-view-capability.php:110
+msgid "Product Limit"
+msgstr "Product Limiet"
+
+#: views/wcfmu-view-capability.php:115
+msgid "Categories"
+msgstr "Categorieën"
+
+#: views/wcfmu-view-capability.php:133
+msgid "Allowed "
+msgstr "Toegestaan"
+
+#: views/wcfmu-view-capability.php:185
+msgid "Allow"
+msgstr "فعال"
+
+#: views/wcfmu-view-capability.php:194
+msgid "Knowledgebase"
+msgstr "Kennisbank"
+
+#: views/wcfmu-view-capability.php:195
+msgid "Notice"
+msgstr "Opmerking"
+
+#: views/wcfmu-view-capability.php:197
+msgid "Notification"
+msgstr "Notificatie"
+
+#: views/wcfmu-view-capability.php:198
+msgid "Direct Message"
+msgstr "Bericht"
+
+#: views/wcfmu-view-capability.php:199
+msgid "Enquiry"
+msgstr "Bericht"
+
+#: views/wcfmu-view-capability.php:200 views/wcfmu-view-capability.php:205
+msgid "Profile"
+msgstr "Profiel"
+
+#: views/wcfmu-view-capability.php:210
+msgid "Social"
+msgstr "Social"
+
+#: views/wcfmu-view-capability.php:215 
+#: views/thirdparty/wcfmu-view-wcrentalpro-product-manage.php:290
+msgid "Settings"
+msgstr "Instellingen"
+
+#: views/wcfmu-view-capability.php:220
+msgid "Brand"
+msgstr "Merk"
+
+#: views/wcfmu-view-capability.php:221 includes/pdf_invoice/invoice.php:325 
+#: includes/pdf_invoice/invoice.php:585
+msgid "Shipping"
+msgstr "Verzendkosten"
+
+#: views/wcfmu-view-capability.php:222
+msgid "Billing"
+msgstr "Betalingsgegevens"
+
+#: views/wcfmu-view-coupons-manage.php:80
+msgid "Restriction"
+msgstr "Restrictie"
+
+#: views/wcfmu-view-coupons-manage.php:85
+msgid "Minimum spend"
+msgstr "Minimale besteding"
+
+#: views/wcfmu-view-coupons-manage.php:86
+msgid "Maximum spend"
+msgstr "Maximale besteding"
+
+#: views/wcfmu-view-coupons-manage.php:87
+msgid "Individual use only"
+msgstr "Enkel individueel gebruik"
+
+#: views/wcfmu-view-coupons-manage.php:87
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr ""
+"Vink aan als deze kortingscode niet in combinatie met andere kortingscodes "
+"gebruikt kan worden."
+
+#: views/wcfmu-view-coupons-manage.php:88
+msgid "Exclude sale items"
+msgstr "Afgeprijsde artikelen uitsluiten"
+
+#: views/wcfmu-view-coupons-manage.php:88
+msgid ""
+"Check this box if the coupon should not apply to items on sale. Per-item "
+"coupons will only work if the item is not on sale. Per-cart coupons will "
+"only work if there are no sale items in the cart."
+msgstr ""
+"Aanvinken als de kortingscode niet toegepast moet worden bij afgeprijsde "
+"artikelen. Kortingscodes werken alleen als het artikel niet afgeprijsd is. "
+"Kortingscodes werken alleen als er zich geen afgeprijsde artikelen in de "
+"winkelmand bevinden."
+
+#: views/wcfmu-view-coupons-manage.php:89
+msgid "Products"
+msgstr "Producten"
+
+#: views/wcfmu-view-coupons-manage.php:90
+msgid "Exclude products"
+msgstr "Uitgesloten producten"
+
+#: views/wcfmu-view-coupons-manage.php:94 
+#: views/wcfmu-view-coupons-manage.php:95
+msgid "Product categories"
+msgstr "Productcategorieën"
+
+#: views/wcfmu-view-coupons-manage.php:115 
+#: views/wcfmu-view-coupons-manage.php:116
+msgid "Exclude categories"
+msgstr "Categorieën uitsluiten"
+
+#: views/wcfmu-view-coupons-manage.php:136
+msgid "Email restrictions"
+msgstr "E-mailbeperkingen"
+
+#: views/wcfmu-view-coupons-manage.php:136
+msgid ""
+"List of allowed emails to check against the customer's billing email when an "
+"order is placed. Separate email addresses with commas."
+msgstr ""
+"Lijst van toegestane e-mails om te vergelijken met het factuur e-mailadres "
+"van de klant als een reservering is geplaatst. Scheid de e-mailadressen met "
+"komma's."
+
+#: views/wcfmu-view-coupons-manage.php:146
+msgid "Limit"
+msgstr "Limiet"
+
+#: views/wcfmu-view-coupons-manage.php:151
+msgid "Usage limit per coupon"
+msgstr "Gebruikslimiet per kortingsbon"
+
+#: views/wcfmu-view-coupons-manage.php:151 
+#: views/wcfmu-view-coupons-manage.php:153
+msgid "Unlimited usage"
+msgstr "Onbeperkt gebruik"
+
+#: views/wcfmu-view-coupons-manage.php:151
+msgid "How many times this coupon can be used before it is void."
+msgstr ""
+"Het aantal keer dat deze kortingscode gebruikt mag worden voordat hij "
+"vervalt."
+
+#: views/wcfmu-view-coupons-manage.php:152
+msgid "Limit usage to X items"
+msgstr "Beperk gebruik tot X artikelen"
+
+#: views/wcfmu-view-coupons-manage.php:152
+msgid "Apply to all qualifying items in cart"
+msgstr "Pas toe op alle in aanmerking komende items in de bestelling"
+
+#: views/wcfmu-view-coupons-manage.php:152
+msgid ""
+"The maximum number of individual items this coupon can apply to when using "
+"product discounts. Leave blank to apply to all qualifying items in cart."
+msgstr ""
+"Het maximum aantal individuele artikelen waar deze kortingsbon op toegepast "
+"kan worden. Laat dit veld leeg om de kortingsbon toe te passen op alle "
+"toegestane items in de bestelling."
+
+#: views/wcfmu-view-coupons-manage.php:153
+msgid "Usage limit per user"
+msgstr "Gebruikslimiet per klant"
+
+#: views/wcfmu-view-coupons-manage.php:153
+msgid ""
+"How many times this coupon can be used by an invidual user. Uses billing "
+"email for guests, and user ID for logged in users."
+msgstr ""
+"Het aantal keren dat de kortingsbon per klant of persoon mag worden gebruikt."
+" Gebruikt e-mail beperkingen voor gasten, en gebruiker ID's voor klanten met "
+"een klantaccount."
+
+#: views/wcfmu-view-coupons.php:12
+msgid "Show all types"
+msgstr "Alle Varianten Weergeven"
+
+#: views/wcfmu-view-orders-details.php:11
+msgid "Order Notes"
+msgstr "Notities bij bestelling"
+
+#: views/wcfmu-view-orders-details.php:39 
+#: views/wcfmu-view-orders-details.php:48
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: views/wcfmu-view-orders-details.php:47
+#, php-format
+msgid "added on %1$s at %2$s"
+msgstr "toegevoegd op %1$s om %2$s"
+
+#: views/wcfmu-view-orders-details.php:64
+msgid "Add note"
+msgstr "Notitie toevoegen"
+
+#: views/wcfmu-view-orders-details.php:64
+msgid ""
+"Add a note for your reference, or add a customer note (the user will be "
+"notified)."
+msgstr ""
+"Voeg een notitie toe ter referentie of voeg een klantnotitie toe (de "
+"gebruiker krijgt een melding)."
+
+#: views/wcfmu-view-orders-details.php:70
+msgid "Private note"
+msgstr "Privénotitie"
+
+#: views/wcfmu-view-orders-details.php:71
+msgid "Note to customer"
+msgstr "Notitie aan klant"
+
+#: views/wcfmu-view-orders.php:7 views/wcfmu-view-products.php:8 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:19
+msgid "All"
+msgstr "Alles"
+
+#: views/wcfmu-view-orders.php:8
+msgid "Processing"
+msgstr "Verwerking"
+
+#: views/wcfmu-view-orders.php:9
+msgid "On Hold"
+msgstr "(Tijdelijk) opgeschort"
+
+#: views/wcfmu-view-orders.php:10
+msgid "Completed"
+msgstr "Voltooide Producten/Diensten"
+
+#: views/wcfmu-view-orders.php:11 
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:24
+msgid "Cancelled"
+msgstr "Geannuleerd"
+
+#: views/wcfmu-view-orders.php:12 includes/pdf_invoice/invoice.php:637
+msgid "Refunded"
+msgstr "Teruggestort"
+
+#: views/wcfmu-view-orders.php:13
+msgid "Failed"
+msgstr "Mislukt"
+
+#: views/wcfmu-view-products-manage.php:45
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: views/wcfmu-view-products-manage.php:50
+msgid "Enable reviews"
+msgstr "Beoordelingen activeren"
+
+#: views/wcfmu-view-products-manage.php:51
+msgid "Menu Order"
+msgstr "Menu volgorde"
+
+#: views/wcfmu-view-products-manage.php:51
+msgid "Custom ordering position."
+msgstr "Aangepaste volgorde positie."
+
+#: views/wcfmu-view-products-manage.php:52
+msgid "Purchase Note"
+msgstr "Aankoop notitie"
+
+#: views/wcfmu-view-products-manage.php:52
+msgid "Enter an optional note to send the customer after purchase."
+msgstr ""
+"Voeg een notitie toe die naar de klant verzonden wordt na aankoop (optioneel)"
+"."
+
+#: views/wcfmu-view-products-quick-manage.php:15 
+#: views/wcfmu-view-screen-manager.php:60 
+#: views/wcfmu-view-screen-manager.php:71 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:90 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:100 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:114 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:125
+msgid "Product"
+msgstr "Product"
+
+#: views/wcfmu-view-products-quick-manage.php:19 
+#: views/wcfmu-view-screen-manager.php:24
+msgid "SKU"
+msgstr "EAN"
+
+#: views/wcfmu-view-products-quick-manage.php:24
+msgid "Regular Price"
+msgstr "Normale prijs"
+
+#: views/wcfmu-view-products-quick-manage.php:28
+msgid "Sale Price"
+msgstr "Kortingsprijs"
+
+#: views/wcfmu-view-products-quick-manage.php:34 
+#: views/wcfmu-view-screen-manager.php:26
+msgid "Stock"
+msgstr "Voorraad"
+
+#: views/wcfmu-view-products.php:9
+msgid "Published"
+msgstr "Gepubliceerd"
+
+#: views/wcfmu-view-products.php:10
+msgid "Draft"
+msgstr "Concept"
+
+#: views/wcfmu-view-products.php:11
+msgid "Pending"
+msgstr "In afwachting"
+
+#: views/wcfmu-view-products.php:42
+msgid "Select a category"
+msgstr "Selecteer een categorie"
+
+#: views/wcfmu-view-products.php:51
+msgid "Show all product types"
+msgstr "Alle Product Soorten"
+
+#: views/wcfmu-view-reports-low-in-stock.php:54 
+#: views/wcfmu-view-reports-low-in-stock.php:63
+msgid "product"
+msgstr "product"
+
+#: views/wcfmu-view-reports-low-in-stock.php:55 
+#: views/wcfmu-view-reports-low-in-stock.php:64
+msgid "Parent"
+msgstr "Ouder"
+
+#: views/wcfmu-view-reports-low-in-stock.php:57 
+#: views/wcfmu-view-reports-low-in-stock.php:66
+msgid "Stock Status"
+msgstr "Voorraad Status"
+
+#: views/wcfmu-view-reports-low-in-stock.php:58 
+#: views/wcfmu-view-reports-low-in-stock.php:67 
+#: views/wcfmu-view-screen-manager.php:32 
+#: views/wcfmu-view-screen-manager.php:42 
+#: views/wcfmu-view-screen-manager.php:53 
+#: views/wcfmu-view-screen-manager.php:64 
+#: views/wcfmu-view-screen-manager.php:75 
+#: views/wcfmu-view-screen-manager.php:86 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:94 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:104 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:70 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:78 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:118 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:129 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:68 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:75
+msgid "Actions"
+msgstr "Bewerkingen"
+
+#: views/wcfmu-view-reports-sales-by-date.php:83 
+#: views/reports/wcfmu-html-report-coupons-by-date.php:89 
+#: views/reports/wcfmu-html-report-sales-by-product.php:89
+msgid "Go"
+msgstr "Ga"
+
+#: views/wcfmu-view-reports-sales-by-product.php:111 
+#: views/wcfmu-view-reports-sales-by-product.php:115
+msgid "Sales by Product"
+msgstr "Verkopen per Product"
+
+#: views/wcfmu-view-screen-manager.php:22
+msgid "Image"
+msgstr "Afbeelding"
+
+#: views/wcfmu-view-screen-manager.php:25 
+#: views/wcfmu-view-screen-manager.php:47 
+#: views/wcfmu-view-screen-manager.php:58 
+#: views/wcfmu-view-screen-manager.php:69 
+#: views/wcfmu-view-screen-manager.php:81 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:91 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:101 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:112 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:123
+msgid "Status"
+msgstr "Status"
+
+#: views/wcfmu-view-screen-manager.php:27 includes/pdf_invoice/invoice.php:139
+msgid "Price"
+msgstr "Prijs"
+
+#: views/wcfmu-view-screen-manager.php:29
+msgid "Views"
+msgstr "Views"
+
+#: views/wcfmu-view-screen-manager.php:30 
+#: views/wcfmu-view-screen-manager.php:52 
+#: views/thirdparty/wcfmu-view-auctions.php:61 
+#: views/thirdparty/wcfmu-view-auctions.php:69 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:93 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:103 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:67 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:74
+msgid "Date"
+msgstr "Datum"
+
+#: views/wcfmu-view-screen-manager.php:31 
+#: views/wcfmu-view-screen-manager.php:108
+msgid "Vendor"
+msgstr "Verkoper"
+
+#: views/wcfmu-view-screen-manager.php:37
+msgid "Code"
+msgstr "Code"
+
+#: views/wcfmu-view-screen-manager.php:39
+msgid "Amt"
+msgstr "Bedrag"
+
+#: views/wcfmu-view-screen-manager.php:40
+msgid "Usage Limit"
+msgstr "Gebruikslimiet"
+
+#: views/wcfmu-view-screen-manager.php:41
+msgid "Expiry date"
+msgstr "Verloopdatum"
+
+#: views/wcfmu-view-screen-manager.php:48 
+#: views/wcfmu-view-screen-manager.php:61 
+#: views/wcfmu-view-screen-manager.php:72 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:115 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:126
+msgid "Order"
+msgstr "Volgorde"
+
+#: views/wcfmu-view-screen-manager.php:49
+msgid "Purchased"
+msgstr "Aangeschaft"
+
+#: views/wcfmu-view-screen-manager.php:62 
+#: views/wcfmu-view-screen-manager.php:73 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:116 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:127
+msgid "Start Date"
+msgstr "Startdatum"
+
+#: views/wcfmu-view-screen-manager.php:63 
+#: views/wcfmu-view-screen-manager.php:74 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:117 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:128
+msgid "End Date"
+msgstr "Einddatum"
+
+#: views/wcfmu-view-screen-manager.php:105
+msgid "Columns"
+msgstr "Kolommen"
+
+#: views/wcfmu-view-screen-manager.php:106
+msgid "Admin"
+msgstr "Beheerder"
+
+#: views/wcfmu-view-stock-manage.php:187 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:206 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:236 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:216 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:203
+msgid "Submit"
+msgstr "Verstuur"
+
+#: views/wcfmu-view-thirdparty-products-manage.php:61 
+#: views/wcfmu-view-thirdparty-products-manage.php:66 
+#: views/thirdparty/wcfmu-view-wpjm-associate-listings-products-manage.php:64
+msgid "Listings"
+msgstr "Zoekertjes"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:23
+msgid "Pending Confirmation"
+msgstr "In afwachting van bevestiging"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:25
+msgid "Un-paid"
+msgstr "Nog niet betaald"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:20
+msgid "Complete"
+msgstr "Voltooien"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:22
+msgid "Confirmed"
+msgstr "Bevestigd"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:94 
+#: controllers/wc_bookings/wcfmu-controller-wcbookings-resources.php:75
+msgid "#"
+msgstr "#"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:159
+msgid "View Details"
+msgstr "Bekijk Details"
+
+#: includes/pdf_invoice/invoice.php:26 includes/pdf_invoice/packing-slip.php:26
+msgid "Standard"
+msgstr "Standaard"
+
+#: includes/pdf_invoice/invoice.php:125
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: includes/pdf_invoice/invoice.php:142
+msgid "Total"
+msgstr "Totaal"
+
+#: includes/pdf_invoice/invoice.php:176 
+#: includes/pdf_invoice/packing-slip.php:134
+msgid "Variation ID:"
+msgstr "Variatie-ID:"
+
+#: includes/pdf_invoice/invoice.php:180 
+#: includes/pdf_invoice/packing-slip.php:138
+msgid "No longer exists"
+msgstr "Bestaat niet meer"
+
+#: includes/pdf_invoice/invoice.php:427
+msgid "Fee"
+msgstr "Kosten"
+
+#: includes/pdf_invoice/invoice.php:572
+msgid "This is the total discount. Discounts are defined per line item."
+msgstr "Dit is de totale korting. Kortingen worden per artikelregel bepaald."
+
+#: includes/pdf_invoice/invoice.php:572 
+#: views/thirdparty/wcfmu-view-wcrentalpro-product-manage.php:274
+msgid "Discount"
+msgstr "Korting"
+
+#: includes/pdf_invoice/invoice.php:585
+msgid "This is the shipping and handling total costs for the order."
+msgstr "Dit zijn de totale verzend- en behandelingskosten voor de bestelling."
+
+#: includes/pdf_invoice/invoice.php:623
+msgid "Order Total"
+msgstr "Totaal"
+
+#: views/thirdparty/wcfmu-view-acf-pro-products-manage.php:164 
+#: views/thirdparty/wcfmu-view-acf-products-manage.php:131
+msgid "-Select-"
+msgstr "-Selecteer-"
+
+#: views/thirdparty/wcfmu-view-auctions.php:43 
+#: views/thirdparty/wcfmu-view-wcrental-calendar.php:140 
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:70 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:74
+msgid "Add New Product"
+msgstr "Nieuw Product Toevoegen"
+
+#: views/thirdparty/wcfmu-view-auctions.php:43 
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:70 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:74
+msgid "Add New"
+msgstr "Nieuw artikel"
+
+#: views/thirdparty/wcfmu-view-auctions.php:59 
+#: views/thirdparty/wcfmu-view-auctions.php:67
+msgid "User"
+msgstr "Gebruiker"
+
+#: views/thirdparty/wcfmu-view-auctions.php:60 
+#: views/thirdparty/wcfmu-view-auctions.php:68
+msgid "Bid"
+msgstr "Bied"
+
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:48
+msgid "Quote Details"
+msgstr "Offerte gegevens"
+
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:65 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:71 
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:59 
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:39 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:150 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:170 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:42 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:85 
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:39 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:155 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:42 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:146
+msgid "Calendar View"
+msgstr "Kalender"
+
+#: views/thirdparty/wcfmu-view-wcrental-quote-details.php:81
+msgid "Quote Actions"
+msgstr "Offerte Handelingen"
+
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:92 
+#: views/thirdparty/wcfmu-view-wcrental-quote.php:102 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:200 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:69 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:77
+msgid "Email"
+msgstr "E-mail"
+
+#: views/thirdparty/wcfmu-view-wcrentalpro-product-manage.php:232
+msgid "Rental"
+msgstr "Verhuren"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:54
+msgid "Item condition"
+msgstr "Staat product"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:54
+msgid "Used"
+msgstr "Gebruikt"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:55
+msgid "Auction type"
+msgstr "Veiling type"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:55
+msgid "Normal"
+msgstr "Normaal"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:55
+msgid "Reverse"
+msgstr "Omgekeerde volgorde"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:56
+msgid "Proxy bidding?"
+msgstr "Bieden vanaf Proxy?"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:57 
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:56
+msgid "Starting Price"
+msgstr "Startprijs"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:58 
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:57
+msgid "Bid up"
+msgstr "Bod verhogen"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:59 
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:59
+msgid "Reserve price"
+msgstr "Reserveringsprijs"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:60 
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:60
+msgid "Buy it now price"
+msgstr "Koop nu prijs"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:60
+msgid ""
+"Buy it now disappears when bid exceeds the Buy now price for normal auction, "
+"or is lower than reverse auction"
+msgstr ""
+"'Koop nu' verdwijnt wanneer bod hoger is dan de 'Nu kopen' prijs voor een "
+"normale veiling, of lager is dan omgekeerde veiling"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:65
+msgid "Relist if fail after n hours"
+msgstr "Herplaats als het mislukt na n uur"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:66
+msgid "Relist if not paid after n hours"
+msgstr "Herplaats na geen betaling in n uur"
+
+#: views/thirdparty/wcfmu-view-wcsauctions-product-manage.php:67
+msgid "Relist auction duration in h"
+msgstr "Herplaats veiling in h"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:63
+msgid "Time to add overtime"
+msgstr "Overtijd toevoegen"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:64
+msgid "Overtime"
+msgstr "Overtijd"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:66
+msgid "days"
+msgstr "dagen"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:66
+msgid "hours"
+msgstr "uren"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:66
+msgid "minutes"
+msgstr "minuten"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:67
+msgid "Show bid up"
+msgstr "Toon bod verhogen"
+
+#: views/thirdparty/wcfmu-view-yithauctions-product-manage.php:68
+msgid "Show overtime"
+msgstr "Toon overtijd"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:33
+#, php-format
+msgid "Appointments by %s"
+msgstr "Afspraken door %s"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:42 
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:48 
+#: views/wc_appointments/wcfmu-view-wcappointments.php:73
+msgid "Create Appointment"
+msgstr "Afspraak toevoegen"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:42
+msgid "Appointment Details"
+msgstr "Afspraak details"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:78
+msgid "Overview"
+msgstr "Overzicht"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:91
+msgid "Order Number:"
+msgstr "Bestelnummer:"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:231
+msgid "Email:"
+msgstr "Email:"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:237
+msgid "Phone:"
+msgstr "Telefoon:"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:402 
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:190 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:220
+msgid "Capacity"
+msgstr "Capaciteit"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:133
+msgid "Appointment Settings"
+msgstr "Afspraak instellingen"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:160
+msgid "Edit Staff"
+msgstr "Teamlid bewerken"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:160
+msgid "Add Staff"
+msgstr "Medewerkers toevoegen"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:199
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:201
+msgid "First Name"
+msgstr "Voornaam"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:202
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:52
+msgid "Add New Staff"
+msgstr "Medewerker toevoegen"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:67 
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:75
+msgid "Staff"
+msgstr "Medewerkers"
+
+#: views/wc_appointments/wcfmu-view-wcappointments.php:67
+msgid "Screen Manager"
+msgstr "SchermbeheerderComment"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:41
+msgid "Create Booking"
+msgstr "Creëer een reservatie"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:45 
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:45 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:161 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:32 
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:152
+msgid "Manage Resources"
+msgstr "Resources beheren"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:145
+msgid "Edit Resource"
+msgstr "Hulpbron bewerken"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:145
+msgid "Add Resource"
+msgstr "Voeg hulpmiddel toe"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:183
+msgid "Resource Title"
+msgstr "Titel van de bron"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:52
+msgid "Add New Resource"
+msgstr "Voeg nieuw hulpmiddel toe"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:66 
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:73
+msgid "Resource"
+msgstr "Bronnen"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:136
+msgid "Global Availability"
+msgstr "Algemene beschikbaarheid"
+
+#: core/license/admin/class-wcfmu-settings-license.php:51
+msgid "License Activation"
+msgstr "Licentie activering"
+
+#: core/license/admin/class-wcfmu-settings-license.php:52
+msgid "API License Key"
+msgstr "API Licentie Sleutel"
+
+#: core/license/admin/class-wcfmu-settings-license.php:53
+msgid "API License email"
+msgstr "API Licentie E-mail"
+
+#: core/license/admin/class-wcfmu-settings-license.php:56
+msgid "License Deactivation"
+msgstr "Licentie Deactiveren"
+
+#: core/license/admin/class-wcfmu-settings-license.php:57
+msgid "Deactivate API License Key"
+msgstr "API License Sleutel Deactiveren"
+
+#: core/license/admin/class-wcfmu-settings-license.php:57
+msgid "Deactivates an API License Key so it can be used on another blog."
+msgstr ""
+"De API licentiesleutel deactiveren om deze voor een ander blog te kunnen "
+"gebruiken."
+
+#: core/license/admin/class-wcfmu-settings-license.php:285
+msgid "Plugin activated. "
+msgstr "﻿Plugin geactiveerd."
+
+#: core/license/admin/class-wcfmu-settings-license.php:293
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+"Verbinding maken met de licentiesleutel API-Server is momenteel niet "
+"mogelijk. Probeer het later nog eens."
+
+#: core/license/admin/class-wcfmu-settings-license.php:382
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+msgstr ""
+"De licentiesleutel kon niet worden gedeactiveerd. Gebruik de Licentie "
+"Deactiveren tab om de licentiesleutel handmatig te deactiveren voordat u een "
+"nieuwe licentiesleutel activeerd."
+
+#: core/license/classes/class-wcfmu-update.php:373
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"De licentiesleutel voor %s is verlopen. Een licentiesleutel of abonnement "
+"kunt u via uw account <a href=\"%s\" target=\"_blank\">dashboard</a> laten "
+"her-activeren, verlengen of aanschaffen."
+
+#: core/license/classes/class-wcfmu-update.php:388
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Het abonnement voor %s is gepauzeerd. Een licentiesleutel of abonnement kunt "
+"u via uw account <a href=\"%s\" target=\"_blank\">dashboard</a> laten her-"
+"activeren, verlengen of aanschaffen."
+
+#: core/license/classes/class-wcfmu-update.php:403
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+"Het abonnement voor %s is geannuleerd. Een licentiesleutel of abonnement "
+"kunt u via uw account <a href=\"%s\" target=\"_blank\">dashboard</a> laten "
+"her-activeren, verlengen of aanschaffen."
+
+#: core/license/classes/class-wcfmu-update.php:418
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Het abonnement voor %s is verlopen. Een licentiesleutel of abonnement kunt u "
+"via uw account <a href=\"%s\" target=\"_blank\">dashboard</a> laten her-"
+"activeren, verlengen of aanschaffen."
+
+#: core/license/classes/class-wcfmu-update.php:433
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>"
+"."
+msgstr ""
+"Het abonnement voor %s is opgeschort. Een licentiesleutel of abonnement kunt "
+"u via uw account <a href=\"%s\" target=\"_blank\">dashboard</a> laten her-"
+"activeren, verlengen of aanschaffen."
+
+#: core/license/classes/class-wcfmu-update.php:448
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>"
+"."
+msgstr ""
+"Het abonnement voor %s is nog in behandeling. Een licentiesleutel of "
+"abonnement kunt u via uw account <a href=\"%s\" target=\"_blank\">"
+"dashboard</a> laten her-activeren, verlengen of aanschaffen."
+
+#: core/license/classes/class-wcfmu-update.php:463
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"Het abonnement voor %s is verplaatst naar de prullenbak en zal spoedig "
+"definitief worden verwijderd. Een licentiesleutel of abonnement kunt u via "
+"uw account <a href=\"%s\" target=\"_blank\">dashboard</a> laten her-"
+"activeren, verlengen of aanschaffen."
+
+#: core/license/classes/class-wcfmu-update.php:478
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Het abonnement voor %s is niet gevonden. Een licentiesleutel of abonnement "
+"kunt u via uw account <a href=\"%s\" target=\"_blank\">dashboard</a> laten "
+"her-activeren, verlengen of aanschaffen."
+
+#: core/license/classes/class-wcfmu-update.php:493
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"Een licentiesleutel voor %s kon niet worden gevonden. Misschien bent u deze "
+"tijdens het instellen van %s vergeten in te vullen of staan de "
+"licentiesleutel instellingen binnen uw account op gedeactiveerd. Een "
+"licentiesleutel of abonnement kunt u via uw account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a> laten her-activeren, verlengen of "
+"aanschaffen."
+
+#: core/license/classes/class-wcfmu-update.php:508
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"De downloadrechten voor %s zijn ingetrokken omdat de licentiesleutel of het "
+"abonnement is verlopen. Een licentiesleutel of abonnement kunt u via uw "
+"account <a href=\"%s\" target=\"_blank\">dashboard</a> laten her-activeren, "
+"verlengen of aanschaffen."
+
+#: core/license/classes/class-wcfmu-update.php:523
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr "%s はアクティブ化されていません。 設定ページに移動し、ライセンスキーとライセンスメールを入力して %s を有効にします。"
+
+#: core/license/classes/class-wcfmu-update.php:538
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a "
+"href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"U heeft het abonnement voor %s gewijzigd. Uw nieuwe API licentiesleutel moet "
+"opnieuw, via de License Manager pagina worden ingevuld. Indien u de "
+"licentiesleutel niet per e-mail van ons heeft ontvangen, dan kunt u deze "
+"ophalen via uw account <a href=\"%s\" target=\"_blank\">dashboard</a>."

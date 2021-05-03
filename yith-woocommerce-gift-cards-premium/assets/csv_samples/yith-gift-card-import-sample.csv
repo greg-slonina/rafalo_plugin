@@ -1,0 +1,2 @@
+Order ID (optional);Gift Card ID  (optional);Code;Purchased amount;Current balance;Sender's name  (optional);Recipient's name  (optional);Recipient's email  (optional);Message  (optional);Expiration date  (optional);Delivery date  (optional);Internal note  (optional)
+123;124;B739-DD7D-C8E4-7891;10;10;John;Maria;maria@test.com;This is a message;31/12/30;31/01/21;This is a internal note

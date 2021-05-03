@@ -1,0 +1,17 @@
+{
+    "name": "max-kk/lrm-pro",
+    "description": "LRM Pro",
+    "type": "project",
+    "license": "Commercial",
+    "authors": [
+        {
+            "name": "Maxim Kaminsky",
+            "email": "max_work@hotmail.com"
+        }
+    ],
+    "require": {},
+  "autoload": {
+        "classmap": ["includes/", "skins/"]
+  }
+
+}

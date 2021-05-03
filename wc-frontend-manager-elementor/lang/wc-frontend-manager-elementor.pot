@@ -1,0 +1,200 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCFM - Elementor for WCFM Marketplace\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-15 06:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: core/class-wcfmem.php:143 includes/Documents/StorePage.php:78
+msgid "Marketplace"
+msgstr ""
+
+#: includes/class-wcfmem-module.php:100
+msgid "WCFM"
+msgstr ""
+
+#: includes/class-wcfmem-module.php:201
+msgid "Column Wrapper Padding"
+msgstr ""
+
+#: widgets/class-wcfmem-widget-storebanner.php:25 includes/Tags/StoreBanner.php:37
+msgid "Store Banner"
+msgstr ""
+
+#: widgets/class-wcfmem-widget-storebanner.php:68
+msgid "Banner"
+msgstr ""
+
+#: widgets/class-wcfmem-widget-storechat.php:27 includes/Tags/StoreChat.php:35
+msgid "Store Chat Button"
+msgstr ""
+
+#: widgets/class-wcfmem-widget-storefollow.php:27 includes/Tags/StoreFollow.php:35
+msgid "Store Follow Button"
+msgstr ""
+
+#: widgets/class-wcfmem-widget-storeinfo.php:30 widgets/class-wcfmem-widget-storeinfo.php:81 includes/Tags/StoreInfo.php:26
+msgid "Store Info"
+msgstr ""
+
+#: widgets/class-wcfmem-widget-storeinfo.php:90 widgets/class-wcfmem-widget-storeinfo.php:92
+msgid "Title"
+msgstr ""
+
+#: widgets/class-wcfmem-widget-storeinfo.php:99
+msgid "Content"
+msgstr ""
+
+#: widgets/class-wcfmem-widget-storeinfo.php:108
+msgid "Icon"
+msgstr ""
+
+#: widgets/class-wcfmem-widget-storeinquiry.php:27 includes/Tags/StoreInquiry.php:35
+msgid "Store Inquiry Button"
+msgstr ""
+
+#: widgets/class-wcfmem-widget-storelogo.php:29 widgets/class-wcfmem-widget-storelogo.php:80 includes/Tags/StoreLogo.php:37
+msgid "Store Logo"
+msgstr ""
+
+#: widgets/class-wcfmem-widget-storename.php:28 includes/Tags/StoreName.php:35
+msgid "Store Name"
+msgstr ""
+
+#: widgets/class-wcfmem-widget-storesocial.php:31 includes/Tags/StoreSocial.php:35
+msgid "Store Social"
+msgstr ""
+
+#: widgets/class-wcfmem-widget-storetabcontents.php:24
+msgid "Store Tab Contents"
+msgstr ""
+
+#: widgets/class-wcfmem-widget-storetabs.php:24 includes/Tags/StoreTabs.php:26
+msgid "Store Tabs"
+msgstr ""
+
+#: includes/Conditions/Store.php:31 includes/Documents/StorePage.php:67
+msgid "Store Page"
+msgstr ""
+
+#: includes/Conditions/Store.php:40
+msgid "All Stores"
+msgstr ""
+
+#: includes/Tags/StoreBanner.php:87 includes/Tags/StoreLogo.php:76
+msgid "Fallback"
+msgstr ""
+
+#: includes/Tags/StoreChat.php:49
+msgid "Chat module is not active"
+msgstr ""
+
+#: includes/Tags/StoreDummyProducts.php:35
+msgid "Store Dummy Products"
+msgstr ""
+
+#: includes/Tags/StoreFollow.php:49
+msgid "Follower module is not active"
+msgstr ""
+
+#: includes/Tags/StoreInfo.php:44
+msgid "Address"
+msgstr ""
+
+#: includes/Tags/StoreInfo.php:54
+msgid "Email"
+msgstr ""
+
+#: includes/Tags/StoreInfo.php:64
+msgid "Phone No"
+msgstr ""
+
+#: includes/Tags/StoreInquiry.php:49
+msgid "Inquiry module is not active"
+msgstr ""
+
+#: includes/Tags/StoreRating.php:35
+msgid "Store Rating"
+msgstr ""
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:22 includes/Traits/WCFM_Elementor_Position_Controls.php:30
+msgid "Position"
+msgstr ""
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:33
+msgid "Static"
+msgstr ""
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:34
+msgid "Relative"
+msgstr ""
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:35
+msgid "Absolute"
+msgstr ""
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:36
+msgid "Sticky"
+msgstr ""
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:37
+msgid "Fixed"
+msgstr ""
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:52
+msgid "Top"
+msgstr ""
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:64
+msgid "Right"
+msgstr ""
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:76
+msgid "Bottom"
+msgstr ""
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:88
+msgid "Left"
+msgstr ""
+
+#: views/editor-templates/sortable-list-row.php:7
+msgid "Drag & Drop"
+msgstr ""
+
+#: views/editor-templates/sortable-list-row.php:26
+msgid "Show"
+msgstr ""
+
+#: views/editor-templates/sortable-list-row.php:27
+msgid "Hide"
+msgstr ""
+
+#. Name of the plugin
+msgid "WCFM - WooCommerce Multivendor Marketplace - Elementor"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create your marketplace store pages using Elementor with your own design. Easily and Beatifully."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wclovers.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wclovers.com"
+msgstr ""

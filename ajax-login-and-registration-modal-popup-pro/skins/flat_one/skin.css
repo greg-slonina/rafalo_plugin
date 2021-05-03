@@ -1,0 +1,34 @@
+.lrm-inline .lrm-user-modal-container { border: 2px solid #000; }
+
+/* TABS */
+.lrm-user-modal-container { border-radius: 0; }
+
+@media only screen and (min-width: 600px) { .lrm-user-modal-container { max-width: 440px; } }
+
+.lrm-user-modal-container .lrm-switcher.-is-not-login-only a:not(.selected):before { content: none; }
+
+.lrm-user-modal-container .lrm-switcher.-is-not-login-only a.selected { background: #FFF; color: #1f1f1f; }
+
+.lrm-user-modal-container .lrm-switcher.-is-not-login-only li:first-child a { border-radius: 0 0 0 0; }
+
+.lrm-user-modal-container .lrm-switcher.-is-not-login-only li:last-child a { border-radius: 0 0 0 0; }
+
+.lrm-user-modal-container .lrm-switcher.-is-login-only li a { border-radius: 0 0 0 0; }
+
+.lrm-user-modal-container .input-text, .lrm-user-modal-container input[type=text], .lrm-user-modal-container input[type=email], .lrm-user-modal-container input[type=password], .lrm-user-modal-container input[type=url], .lrm-user-modal-container input[type=search], .lrm-user-modal-container input[type=tel], .lrm-user-modal-container input[type=date], .lrm-user-modal-container input[type=number], .lrm-user-modal-container select, .lrm-user-modal-container textarea, .lrm-user-modal-container .lrm-integrations .input-text, .lrm-user-modal-container .lrm-integrations input[type=text], .lrm-user-modal-container .lrm-integrations input[type=email], .lrm-user-modal-container .lrm-integrations input[type=password], .lrm-user-modal-container .lrm-integrations input[type=url], .lrm-user-modal-container .lrm-integrations input[type=search], .lrm-user-modal-container .lrm-integrations input[type=tel], .lrm-user-modal-container .lrm-integrations input[type=date], .lrm-user-modal-container .lrm-integrations input[type=number], .lrm-user-modal-container .lrm-integrations select, .lrm-user-modal-container .lrm-integrations textarea { background-color: transparent; border: none; border-bottom: 1px solid #5e5e5e; color: #000; font-weight: 300; box-shadow: none; border-radius: 0; }
+
+.lrm-user-modal-container .input-text:focus, .lrm-user-modal-container input[type=text]:focus, .lrm-user-modal-container input[type=email]:focus, .lrm-user-modal-container input[type=password]:focus, .lrm-user-modal-container input[type=url]:focus, .lrm-user-modal-container input[type=search]:focus, .lrm-user-modal-container input[type=tel]:focus, .lrm-user-modal-container input[type=date]:focus, .lrm-user-modal-container input[type=number]:focus, .lrm-user-modal-container select:focus, .lrm-user-modal-container textarea:focus, .lrm-user-modal-container .lrm-integrations .input-text:focus, .lrm-user-modal-container .lrm-integrations input[type=text]:focus, .lrm-user-modal-container .lrm-integrations input[type=email]:focus, .lrm-user-modal-container .lrm-integrations input[type=password]:focus, .lrm-user-modal-container .lrm-integrations input[type=url]:focus, .lrm-user-modal-container .lrm-integrations input[type=search]:focus, .lrm-user-modal-container .lrm-integrations input[type=tel]:focus, .lrm-user-modal-container .lrm-integrations input[type=date]:focus, .lrm-user-modal-container .lrm-integrations input[type=number]:focus, .lrm-user-modal-container .lrm-integrations select:focus, .lrm-user-modal-container .lrm-integrations textarea:focus { box-shadow: inset 0 0px 1px rgba(0, 0, 0, 0.15); border-bottom: 1px solid #000; background-color: #f1f1f1; }
+
+.lrm-user-modal-container .fieldset--terms label a, .lrm-user-modal-container .lrm-integrations .fieldset--terms label a { font-weight: 500; }
+
+.lrm-form .lrm-fieldset-wrap { padding-left: 2em !important; padding-right: 2em !important; }
+
+.lrm-form .hide-password { border-color: #000; color: #343642; }
+
+.lrm-form input.has-border, .lrm-form select.has-border { border-top: none; border-left: none; border-right: none; }
+
+.lrm-form a.button, .lrm-form button, .lrm-form button[type=submit], .lrm-form #buddypress input[type=submit], .lrm-form input[type=submit] { font-weight: 300; border-radius: 0; }
+
+.lrm-form button[type=submit], .lrm-form #buddypress input[type=submit], .lrm-form input[type=submit] { font-size: 18px; padding: 14px 5px; border-radius: 0; }
+
+/*# sourceMappingURL=skin.css.map */

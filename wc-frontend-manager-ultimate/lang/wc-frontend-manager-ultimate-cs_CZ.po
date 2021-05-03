@@ -1,0 +1,4618 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Frontend Manager - Ultimate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-21 20:00+0000\n"
+"PO-Revision-Date: 2019-10-12 11:33+0200\n"
+"Last-Translator: Správce tržiště <info@primaraj.cz>\n"
+"Language-Team: Čeština\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: controllers/wcfmu-controller-screen-manage.php:36
+#: controllers/wcfmu-controller-screen-manage.php:40
+msgid "Screen update successfully"
+msgstr "Aktualizace obrazovky úspěšná"
+
+#: controllers/wcfmu-controller-screen-manage.php:42
+#: controllers/wcfmu-controller-screen-manage.php:43
+msgid "Screen update failed"
+msgstr "Aktualizace obrazovky se nezdařila"
+
+#: core/class-wcfmu-ajax.php:216
+msgid "Attachments"
+msgstr "Přílohy"
+
+#: core/class-wcfmu-ajax.php:219
+msgid "Attachment"
+msgstr "Příloha"
+
+#: core/class-wcfmu-ajax.php:239
+msgid "Just Now"
+msgstr "Právě teď"
+
+#: core/class-wcfmu-bulk-edit.php:35
+#: views/capability/wcfmu-view-capability.php:156
+msgid "Bulk Edit"
+msgstr "Hromadná úprava"
+
+#: core/class-wcfmu-custom-validation.php:64
+msgid "Choose shipping class"
+msgstr "Vyberte třídu dopravy"
+
+#: core/class-wcfmu-custom-validation.php:76
+#: core/class-wcfmu-custom-validation.php:79
+msgid "Gallery Images"
+msgstr "Galerie obrázků"
+
+#: core/class-wcfmu-custom-validation.php:111
+msgid "Product Custom Validation"
+msgstr "Povinné položky produktu"
+
+#: core/class-wcfmu-custom-validation.php:115
+msgid "Configure what to set required for product manager"
+msgstr "Nakonfigurujte, co nastavit jako povinné při vytváření produktu"
+
+#: core/class-wcfmu-custom-validation.php:118
+msgid "Pricing"
+msgstr "Ceny"
+
+#: core/class-wcfmu-custom-validation.php:128
+msgid "Content"
+msgstr "Obsah"
+
+#: core/class-wcfmu-custom-validation.php:131
+msgid "Excerpt"
+msgstr "Krátký popis"
+
+#: core/class-wcfmu-custom-validation.php:138
+msgid "Sidebar"
+msgstr "Postranní panel"
+
+#: core/class-wcfmu-custom-validation.php:142
+#: views/capability/wcfmu-view-capability.php:131
+msgid "Featured Image"
+msgstr "Hlavní obrázek"
+
+#: core/class-wcfmu-custom-validation.php:143
+#: views/capability/wcfmu-view-capability.php:132
+msgid "Gallery Image"
+msgstr "Obrázková galerie"
+
+#: core/class-wcfmu-custom-validation.php:166
+msgid "Inventory"
+msgstr "Stav skladu"
+
+#: core/class-wcfmu-custom-validation.php:177
+#: views/capability/wcfmu-view-capability.php:289
+#: views/vendor_invoice/commission-invoice-rtl.php:297
+#: views/vendor_invoice/commission-invoice-rtl.php:503
+#: views/vendor_invoice/commission-invoice.php:299
+#: views/vendor_invoice/commission-invoice.php:498
+#: views/vendor_invoice/packing-slip-rtl.php:324
+#: views/vendor_invoice/packing-slip-rtl.php:415
+#: views/vendor_invoice/packing-slip.php:324
+#: views/vendor_invoice/packing-slip.php:413
+#: views/vendor_invoice/store-invoice-rtl.php:300
+#: views/vendor_invoice/store-invoice-rtl.php:388
+#: views/vendor_invoice/store-invoice.php:300
+#: views/vendor_invoice/store-invoice.php:386
+#: views/vendor_invoice/withdrawal-invoice.php:184
+msgid "Shipping"
+msgstr "Doprava"
+
+#: core/class-wcfmu-custom-validation.php:184
+msgid "Shipping Class"
+msgstr "Třída dopravy"
+
+#: core/class-wcfmu-custom-validation.php:190
+#: views/vendor_invoice/packing-slip-rtl.php:406
+#: views/vendor_invoice/packing-slip.php:404
+#: views/vendor_invoice/store-invoice-rtl.php:379
+#: views/vendor_invoice/store-invoice.php:377
+#: views/vendor_invoice/withdrawal-invoice.php:182
+msgid "Tax"
+msgstr "DPH"
+
+#: core/class-wcfmu-custom-validation.php:200
+msgid "Linked"
+msgstr "Propojeno"
+
+#: core/class-wcfmu-customfield-support.php:34
+msgid "After product title"
+msgstr "Po názvu produktu"
+
+#: core/class-wcfmu-customfield-support.php:34
+msgid "After product price"
+msgstr "Po ceně produktu"
+
+#: core/class-wcfmu-customfield-support.php:34
+msgid "With product summery"
+msgstr ""
+
+#: core/class-wcfmu-customfield-support.php:34
+msgid "Before product meta"
+msgstr "Před meta produktu"
+
+#: core/class-wcfmu-customfield-support.php:34
+msgid "After product meta"
+msgstr "Za produkt meta"
+
+#: core/class-wcfmu-customfield-support.php:34
+msgid "With product description"
+msgstr "S popisem produktu"
+
+#: core/class-wcfmu-dokan-subscription.php:71
+#: core/class-wcfmu-dokan-subscription.php:102
+#: views/dokan-subscription/wcfmu-view-dokan-subscription.php:25
+msgid "Subscription Packs"
+msgstr "Předplatné balíčky"
+
+#: core/class-wcfmu-dokan.php:136
+msgid "Show all dates"
+msgstr "Zobrazit všechny data"
+
+#. 1: month name, 2: 4-digit year
+#. 1: month name, 2: 4-digit year
+#. 1: month name, 2: 4-digit year
+#: core/class-wcfmu-dokan.php:154
+#, php-format
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: core/class-wcfmu-frontend.php:75
+#: controllers/products/wcfmu-controller-products.php:27
+#: controllers/products/wcfmu-controller-products.php:31
+#: views/capability/wcfmu-view-capability.php:155
+msgid "Quick Edit"
+msgstr "Rychlá editace"
+
+#: core/class-wcfmu-frontend.php:89
+msgid "Add your note"
+msgstr "Přidejte poznámku"
+
+#: core/class-wcfmu-frontend.php:94
+msgid "Add Note"
+msgstr "Přidat poznámku"
+
+#: core/class-wcfmu-frontend.php:98
+msgid "Upload File"
+msgstr "Nahrát soubor"
+
+#: core/class-wcfmu-frontend.php:102
+#: views/orders/wcfmu-view-orders-add-customer.php:41
+#: views/orders/wcfmu-view-orders-edit-popup.php:51
+#: views/orders/wcfmu-view-orders-manage.php:287
+#: views/products/wcfmu-view-stock-manage.php:185
+#: views/support/wcfmu-view-support-popup.php:115
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:144
+#: views/tych_bookings/wcfmu-view-booking-settings.php:203
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:229
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:266
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:228
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:243
+msgid "Submit"
+msgstr "Odeslat"
+
+#: core/class-wcfmu-frontend.php:126
+msgid "See Attachment"
+msgstr "Zobrazit přílohu"
+
+#: core/class-wcfmu-frontend.php:138
+msgid "Your note succesfully submited."
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:141
+#, php-format
+msgid "<b>%s</b> order note added by customer - %s"
+msgstr ""
+
+#: core/class-wcfmu-frontend.php:165
+msgid "Sales by product"
+msgstr "Prodeje podle produktu"
+
+#: core/class-wcfmu-frontend.php:166
+msgid "Coupons by date"
+msgstr "Kupóny podle data"
+
+#: core/class-wcfmu-frontend.php:167
+msgid "Low in stock"
+msgstr "Nízký sklad"
+
+#: core/class-wcfmu-frontend.php:168
+#: controllers/reports/wcfmu-controller-reports-low-in-stock.php:102
+msgid "Out of stock"
+msgstr "Vyprodáno"
+
+#: core/class-wcfmu-frontend.php:264
+msgid "Check to associate this attribute with the product"
+msgstr "Připojte tento atribut k produktu"
+
+#: core/class-wcfmu-frontend.php:286 core/class-wcfmu-vendor-support.php:55
+#: views/products/wcfmu-view-products.php:66
+msgid "Downloadable"
+msgstr "Stažitelný"
+
+#: core/class-wcfmu-frontend.php:291
+msgid "Weight"
+msgstr "Hmotnost"
+
+#: core/class-wcfmu-frontend.php:292
+msgid "Length"
+msgstr "Délka"
+
+#: core/class-wcfmu-frontend.php:293
+msgid "Width"
+msgstr "Šířka"
+
+#: core/class-wcfmu-frontend.php:294
+msgid "Height"
+msgstr "Výška"
+
+#: core/class-wcfmu-frontend.php:295
+msgid "Shipping class"
+msgstr "Třída dopravy"
+
+#: core/class-wcfmu-frontend.php:296
+msgid "Tax class"
+msgstr "Sazba DPH"
+
+#: core/class-wcfmu-frontend.php:298 core/class-wcfmu-wcaddons.php:352
+#: views/capability/wcfmu-view-capability.php:308
+msgid "Description"
+msgstr "Popis"
+
+#: core/class-wcfmu-frontend.php:299
+msgid "File Name"
+msgstr "Název souboru"
+
+#: core/class-wcfmu-frontend.php:300
+msgid "File"
+msgstr "Soubor"
+
+#: core/class-wcfmu-frontend.php:301
+msgid "Download Limit"
+msgstr "Limit stažení"
+
+#: core/class-wcfmu-frontend.php:301 core/class-wcfmu-integrations.php:1431
+#: views/capability/wcfmu-view-capability.php:180
+#: views/capability/wcfmu-view-capability.php:181
+#: views/capability/wcfmu-view-capability.php:182
+#: views/capability/wcfmu-view-capability.php:183
+#: views/capability/wcfmu-view-capability.php:184
+#: views/capability/wcfmu-view-capability.php:198
+#: views/capability/wcfmu-view-capability.php:211
+#: views/capability/wcfmu-view-capability.php:235
+msgid "Unlimited"
+msgstr "Neomezené"
+
+#: core/class-wcfmu-frontend.php:302
+msgid "Download Expiry"
+msgstr "Uplynutí platností stažení"
+
+#: core/class-wcfmu-frontend.php:302
+msgid "Never"
+msgstr "Nikdy"
+
+#: core/class-wcfmu-frontend.php:325
+msgid "Categories wise Attributes"
+msgstr "Atributy určené kategoriím"
+
+#: core/class-wcfmu-frontend.php:329
+msgid "Category Specific Attributes Setup"
+msgstr "Nastavení specifických atributů pro kategorie"
+
+#: core/class-wcfmu-frontend.php:338 core/class-wcfmu-integrations.php:2581
+msgid "Attributes"
+msgstr "Atributy"
+
+#: core/class-wcfmu-frontend.php:355
+msgid ""
+"Create Attributes group as per Categories. If no group for a category then "
+"all attributes will be available for that."
+msgstr ""
+"Vytvořte skupinu atributů určené kategoriím. Pokud pro kategorii neexistuje "
+"žádná skupina atributů, budou pro ni dostupné všechny dostupné atributy."
+
+#: core/class-wcfmu-frontend.php:386
+msgid "Add new customer"
+msgstr "Přidat nového zákazníka"
+
+#: core/class-wcfmu-integrations.php:404 core/class-wcfmu-integrations.php:534
+#: views/integrations/auction/wcfmu-view-auctions.php:24
+msgid "Auctions"
+msgstr "Aukce"
+
+#: core/class-wcfmu-integrations.php:408
+#: views/integrations/rental/wcfmu-view-wcrental-calendar.php:141
+msgid "Rental Calendar"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:412
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:24
+msgid "Quote Request"
+msgstr "Poptávka cenové nabídky"
+
+#: core/class-wcfmu-integrations.php:416
+msgid "Manage Quote Request"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:420 core/class-wcfmu-integrations.php:571
+#: views/support/wcfmu-view-my-account-support-manage.php:78
+#: views/support/wcfmu-view-support-manage.php:83
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:43
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:50
+msgid "Tickets"
+msgstr "Požadavky"
+
+#: core/class-wcfmu-integrations.php:547
+msgid "Rentals"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:552
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:89
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:99
+msgid "Quote"
+msgstr "Citace"
+
+#: core/class-wcfmu-integrations.php:600 core/class-wcfmu-integrations.php:636
+#: views/integrations/auction/wcfmu-view-auctions.php:58
+#: views/integrations/auction/wcfmu-view-auctions.php:66
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:53
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:52
+msgid "Auction"
+msgstr "Aukce"
+
+#: core/class-wcfmu-integrations.php:607
+msgid "Rental Product"
+msgstr "Půjčení produktů"
+
+#: core/class-wcfmu-integrations.php:614 core/class-wcfmu-integrations.php:654
+#: views/integrations/wcfmu-view-wc-lottery-product-manage.php:41
+msgid "Lottery"
+msgstr "Loterie"
+
+#: core/class-wcfmu-integrations.php:630
+msgid "Resume Package"
+msgstr "Obnovit balík"
+
+#: core/class-wcfmu-integrations.php:648
+#: controllers/support/wcfmu-controller-support-form.php:113
+#: controllers/support/wcfmu-controller-support-form.php:120
+#: controllers/support/wcfmu-controller-support-manage.php:104
+#: controllers/support/wcfmu-controller-support-manage.php:111
+#: controllers/support/wcfmu-controller-support-manage.php:264
+#: controllers/support/wcfmu-controller-support-manage.php:271
+#: views/support/wcfmu-view-my-account-support-manage.php:74
+#: views/support/wcfmu-view-my-account-support.php:60
+#: views/support/wcfmu-view-support-manage.php:79
+#: views/support/wcfmu-view-support.php:103
+#: views/support/wcfmu-view-support.php:117
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:87
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:98
+msgid "Ticket"
+msgstr "Požadavek"
+
+#: core/class-wcfmu-integrations.php:814
+msgid "Voucher codes successfully generated."
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:1284
+#: controllers/integrations/fooevent/wcfmu-controller-wc-fooevents-tickets.php:176
+msgid "Barcode"
+msgstr "Čárový kód"
+
+#: core/class-wcfmu-integrations.php:1285
+msgid "ISBN"
+msgstr "ISBN"
+
+#: core/class-wcfmu-integrations.php:1295
+msgid "MSRP Price"
+msgstr "Cena MSRP"
+
+#: core/class-wcfmu-integrations.php:1305
+msgid "Fee Name"
+msgstr "Název poplatku"
+
+#: core/class-wcfmu-integrations.php:1305
+msgid "This will be shown at the checkout description the added fee."
+msgstr "Toto se u popisu pokladny zobrazí s přidaným poplatkem."
+
+#: core/class-wcfmu-integrations.php:1306
+msgid "Fee Amount"
+msgstr "Výše poplatku"
+
+#: core/class-wcfmu-integrations.php:1306
+msgid ""
+"Enter a monetary decimal without any currency symbols or thousand separator. "
+"This field also accepts percentages."
+msgstr ""
+"Zadejte desetinné číslo bez jakýchkoli symbolů měny nebo oddělovače tisíců. "
+"Toto pole také přijímá procenta."
+
+#: core/class-wcfmu-integrations.php:1307
+msgid "Multiple Fee by Quantity"
+msgstr "Více poplatků podle množství"
+
+#: core/class-wcfmu-integrations.php:1307
+msgid ""
+"Multiply the fee by the quantity of this product that is added to the cart."
+msgstr "Vynásobte poplatek množstvím tohoto produktu přidaného do košíku."
+
+#: core/class-wcfmu-integrations.php:1490
+#: core/class-wcfmu-integrations.php:1493
+#: core/class-wcfmu-integrations.php:1512
+msgid "Create New Product"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:1490
+#: core/class-wcfmu-integrations.php:1493
+#: core/class-wcfmu-integrations.php:1512
+msgid "Manage Products"
+msgstr "Správa produktů"
+
+#: core/class-wcfmu-integrations.php:1934
+#: core/class-wcfmu-integrations.php:2012
+msgid "Rule(s)"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2102
+#: views/integrations/wcfmu-view-wc-min-max-quantities-products-manage.php:45
+msgid "Min/Max Quantities"
+msgstr "Min/Max Quantities"
+
+#: core/class-wcfmu-integrations.php:2159
+msgid "360° Images"
+msgstr "360° Images"
+
+#: core/class-wcfmu-integrations.php:2581
+msgid "Categories"
+msgstr "Kategorie"
+
+#: core/class-wcfmu-integrations.php:2581
+msgid "Pickup Location"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2581
+msgid "Dropoff Location"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2581
+#: views/tych_bookings/wcfmu-view-booking-resources.php:66
+#: views/tych_bookings/wcfmu-view-booking-resources.php:73
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:66
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:74
+msgid "Resource"
+msgstr "Zdroj"
+
+#: core/class-wcfmu-integrations.php:2581
+msgid "Person"
+msgstr "Osoba"
+
+#: core/class-wcfmu-integrations.php:2581
+msgid "Deposit"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2581
+msgid "Features"
+msgstr "Vlastnosti"
+
+#: core/class-wcfmu-integrations.php:2724
+msgid "Congratulations! Your quote request has been accepted"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2748
+msgid "Your quote request status has been updated"
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2767
+msgid "Quote request status has been updated."
+msgstr ""
+
+#: core/class-wcfmu-integrations.php:2828
+msgid "New reply for your quote request"
+msgstr ""
+
+#: core/class-wcfmu-license.php:163
+msgid "WCFM Ultimate"
+msgstr "WCFM Ultimate"
+
+#: core/class-wcfmu-license.php:300
+#, php-format
+msgid ""
+"The WCFM - Ultimate License Key has not been activated, so the plugin is "
+"inactive! %sClick here%s to activate the license key and the plugin."
+msgstr ""
+
+#: core/class-wcfmu-non-ajax.php:31
+msgid "Set WCFMu License"
+msgstr ""
+
+#: core/class-wcfmu-non-ajax.php:31
+msgid "License"
+msgstr "Licence"
+
+#: core/class-wcfmu-non-ajax.php:48
+msgid "View WCFMu Change Log"
+msgstr "Seznam změn WCFM"
+
+#: core/class-wcfmu-non-ajax.php:48
+msgid "Change Log"
+msgstr "Seznam změn"
+
+#: core/class-wcfmu-orders.php:76
+msgid "Create Order"
+msgstr "Vytvořit objednávku"
+
+#: core/class-wcfmu-orders.php:128
+msgid "Edit Order"
+msgstr "Upravit objednávku"
+
+#: core/class-wcfmu-orders.php:146
+msgid "Add New Order"
+msgstr "Přidat novou objednávku"
+
+#: core/class-wcfmu-reviews.php:74 core/class-wcfmu-reviews.php:105
+msgid "Reviews"
+msgstr "Hodnocení"
+
+#: core/class-wcfmu-shipment-tracking.php:79
+msgid "You are not allowed to modify this order."
+msgstr "Nemáte oprávnění měnit tuto objednávku."
+
+#: core/class-wcfmu-shipment-tracking.php:92
+msgid "Order marked shipped."
+msgstr "Objednávka byla odeslána."
+
+#: core/class-wcfmu-shipment-tracking.php:98
+#: core/class-wcfmu-shipment-tracking.php:147
+#: core/class-wcfmu-shipment-tracking.php:205
+#: core/class-wcfmu-shipment-tracking.php:259
+#: core/class-wcfmu-shipment-tracking.php:327
+#, php-format
+msgid ""
+"Vendor <b>%s</b> has shipped <b>%s</b> to customer.<br/>Tracking Code : %s "
+"<br/>Tracking URL : <a class=\"wcfm_dashboard_item_title\" target=\"_blank\" "
+"href=\"%s\">%s</a>"
+msgstr ""
+"Prodejce <b>%s</b> dodal <b>%s</b> zákazníkovi. <br/> Kód zásilky pro "
+"sledování: %s <br/> Sledovací URL: <a class=\"wcfm_dashboard_item_title\" "
+"target=\"_blank\" href=\"%s\">%s</a>"
+
+#: core/class-wcfmu-shipment-tracking.php:104
+#: core/class-wcfmu-shipment-tracking.php:151
+#: core/class-wcfmu-shipment-tracking.php:212
+#: core/class-wcfmu-shipment-tracking.php:269
+#: core/class-wcfmu-shipment-tracking.php:331
+#, php-format
+msgid ""
+"Product <b>%s</b> has been shipped to customer.<br/>Tracking Code : %s <br/"
+">Tracking URL : <a href=\"%s\">%s</a>"
+msgstr ""
+"Zásilka s <b>%s</b> byla odeslána zákazníkovi.<br />Sledovací kód : %s <br /"
+">Odkaz pro sledování : <a href=\"%s\">%s</a>"
+
+#: core/class-wcfmu-shipment-tracking.php:359
+#, php-format
+msgid ""
+"Product <b>%s</b> has been shipped to you.<br/>Tracking Code : %s <br/"
+">Tracking URL : <a target=\"_blank\" href=\"%s\">%s</a>"
+msgstr ""
+"Zásilka s <b>%s</b> byla odeslána.<br />Sledovací kód : %s <br />Sledovací "
+"odkaz : <a target=\"_blank\" href=\"%s\">%s</a>"
+
+#: core/class-wcfmu-shipment-tracking.php:360
+#: core/class-wcfmu-shipment-tracking.php:377
+msgid "Shipment Tracking Update"
+msgstr "Údaje o zásilce aktualizovány"
+
+#: core/class-wcfmu-shipment-tracking.php:361
+#: controllers/support/wcfmu-controller-support-form.php:114
+#: controllers/support/wcfmu-controller-support-manage.php:105
+#: controllers/support/wcfmu-controller-support-manage.php:265
+msgid "Hi"
+msgstr "Dobrý den"
+
+#: core/class-wcfmu-shipment-tracking.php:363
+msgid "Product Shipment update:"
+msgstr "Údaje o zásilce:"
+
+#: core/class-wcfmu-shipment-tracking.php:367
+#, php-format
+msgid "Track your package %shere%s."
+msgstr "Sledovat Vaši zásilku můžete %szde%s."
+
+#: core/class-wcfmu-shipment-tracking.php:407
+#: controllers/products/wcfmu-controller-stock-manage.php:307
+#: controllers/products/wcfmu-controller-stock-manage.php:309
+msgid "YES"
+msgstr "ANO"
+
+#: core/class-wcfmu-shipment-tracking.php:419
+#, php-format
+msgid "Customer marked <b>%s</b> received."
+msgstr ""
+
+#: core/class-wcfmu-shipment-tracking.php:434
+#, php-format
+msgid ""
+"<b>%s</b> order status updated to <b>%s</b> on item receive by customer."
+msgstr ""
+
+#: core/class-wcfmu-shipment-tracking.php:467
+#: core/class-wcfmu-shipment-tracking.php:495
+#: core/class-wcfmu-shipment-tracking.php:522
+#: core/class-wcfmu-shipment-tracking.php:562
+#: core/class-wcfmu-shipment-tracking.php:586
+#: views/orders/wcfmu-view-orders-details.php:291
+msgid "Mark Shipped"
+msgstr "Označit jako Odesláno"
+
+#: core/class-wcfmu-shipment-tracking.php:613
+msgid "Mark Fulfilled"
+msgstr ""
+
+#: core/class-wcfmu-shipment-tracking.php:625
+#: helpers/wcfmu-core-functions.php:444
+#: views/orders/wcfmu-view-orders-details.php:257
+#: views/orders/wcfmu-view-shipment-tracking.php:28
+msgid "Tracking Code"
+msgstr "Sledovací kód"
+
+#: core/class-wcfmu-shipment-tracking.php:629
+#: helpers/wcfmu-core-functions.php:445
+#: views/orders/wcfmu-view-orders-details.php:261
+#: views/orders/wcfmu-view-shipment-tracking.php:29
+msgid "Tracking URL"
+msgstr "Sledovací URL"
+
+#: core/class-wcfmu-shipment-tracking.php:633
+msgid "Item(s) Received"
+msgstr ""
+
+#: core/class-wcfmu-shipment-tracking.php:679
+msgid "Shipment Tracking: "
+msgstr "Sledování zásilky: "
+
+#: core/class-wcfmu-shipment-tracking.php:681
+msgid "Item(s) already received."
+msgstr ""
+
+#: core/class-wcfmu-shipment-tracking.php:685
+msgid "Mark as Received"
+msgstr ""
+
+#: core/class-wcfmu-shipment-tracking.php:689
+msgid "Item(s) will be shipped soon."
+msgstr "Zásilka bude odeslána co nejdříve."
+
+#: core/class-wcfmu-shipment-tracking.php:696 core/class-wcfmu.php:451
+#: views/orders/wcfmu-view-orders-details.php:197
+msgid "Shipment Tracking"
+msgstr "Sledování zásilky"
+
+#: core/class-wcfmu-shipment-tracking.php:697
+msgid "Shipment Received"
+msgstr ""
+
+#: core/class-wcfmu-sitepress-wpml.php:268
+#: core/class-wcfmu-sitepress-wpml.php:269
+msgid "Translations"
+msgstr "Překlady"
+
+#: core/class-wcfmu-support.php:122 core/class-wcfmu-support.php:388
+#: core/class-wcfmu-support.php:406
+#: views/support/wcfmu-view-my-account-support-manage.php:78
+#: views/support/wcfmu-view-support-manage.php:83
+#: views/support/wcfmu-view-support.php:40
+msgid "Support Tickets"
+msgstr "Podpora žádosti"
+
+#: core/class-wcfmu-support.php:125
+msgid "Support Ticket Manager"
+msgstr "Správa Lístků podpory"
+
+#: core/class-wcfmu-support.php:174 core/class-wcfmu-support.php:441
+msgid "Support"
+msgstr "Podpora"
+
+#: core/class-wcfmu-support.php:189
+msgid "General query"
+msgstr ""
+
+#: core/class-wcfmu-support.php:190
+msgid "Suggestion"
+msgstr "Návrh"
+
+#: core/class-wcfmu-support.php:191
+msgid "Delivery issue"
+msgstr ""
+
+#: core/class-wcfmu-support.php:192
+msgid "Damage item received"
+msgstr "Produkt dorazil poškozen"
+
+#: core/class-wcfmu-support.php:193
+msgid "Wrong item received"
+msgstr "Dorazil špatný produkt"
+
+#: core/class-wcfmu-support.php:194
+msgid "Other"
+msgstr "Jiné"
+
+#: core/class-wcfmu-support.php:208 core/class-wcfmu-support.php:238
+#: controllers/wc_subscriptions/wcfmu-controller-wcsubscriptions.php:23
+#: controllers/xa_subscriptions/wcfmu-controller-xasubscriptions.php:23
+#: views/orders/wcfmu-view-orders.php:10
+#: views/products/wcfmu-view-products.php:8
+#: views/wc_appointments/wcfmu-view-wcappointments.php:19
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:19
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:19
+msgid "All"
+msgstr "Vše"
+
+#: core/class-wcfmu-support.php:209 core/class-wcfmu-support.php:218
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:59
+msgid "Normal"
+msgstr "Normální"
+
+#: core/class-wcfmu-support.php:210 core/class-wcfmu-support.php:219
+msgid "Low"
+msgstr "Nízká"
+
+#: core/class-wcfmu-support.php:211 core/class-wcfmu-support.php:220
+msgid "Medium"
+msgstr "Střední"
+
+#: core/class-wcfmu-support.php:212 core/class-wcfmu-support.php:221
+msgid "High"
+msgstr "Vysoká"
+
+#: core/class-wcfmu-support.php:213 core/class-wcfmu-support.php:222
+msgid "Urgent"
+msgstr "Naléhavé"
+
+#: core/class-wcfmu-support.php:214 core/class-wcfmu-support.php:223
+msgid "Critical"
+msgstr "Kritická"
+
+#: core/class-wcfmu-support.php:239 core/class-wcfmu-support.php:244
+#: controllers/followers/wcfmu-controller-followings.php:130
+#: controllers/support/wcfmu-controller-support.php:140
+#: views/support/wcfmu-view-my-account-support-manage.php:141
+#: views/support/wcfmu-view-my-account-support.php:53
+#: views/support/wcfmu-view-support-manage.php:148
+msgid "Open"
+msgstr "Otevřené"
+
+#: core/class-wcfmu-support.php:240 core/class-wcfmu-support.php:245
+#: controllers/followers/wcfmu-controller-followings.php:132
+#: controllers/support/wcfmu-controller-support.php:142
+#: views/support/wcfmu-view-my-account-support-manage.php:143
+#: views/support/wcfmu-view-my-account-support.php:55
+#: views/support/wcfmu-view-support-manage.php:150
+msgid "Closed"
+msgstr "Uzavřené"
+
+#: core/class-wcfmu-support.php:414 core/class-wcfmu.php:452
+#: views/capability/wcfmu-view-capability.php:390
+#: views/support/wcfmu-view-support-manage.php:72
+#: views/support/wcfmu-view-support-popup.php:34
+msgid "Support Ticket"
+msgstr "Lístek podpory"
+
+#: core/class-wcfmu-support.php:533
+msgid "Enquiries"
+msgstr "Dotazy"
+
+#: core/class-wcfmu-support.php:545
+msgid "Show All"
+msgstr "Zobrazit vše"
+
+#: core/class-wcfmu-support.php:548
+msgid "There is no support yet!!"
+msgstr ""
+
+#: core/class-wcfmu-support.php:567
+msgid "New Support"
+msgstr ""
+
+#: core/class-wcfmu-tychbookings.php:738 core/class-wcfmu-wcbookings.php:695
+#, php-format
+msgid "<b>%s</b> booking status updated to <b>%s</b> by <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmu-tychbookings.php:741 core/class-wcfmu-wcbookings.php:698
+msgid "Booking status updated."
+msgstr "Stav rezervace aktualizován."
+
+#: core/class-wcfmu-vendor-badges.php:84 core/class-wcfmu-vendor-badges.php:88
+#: core/class-wcfmu-vendor-badges.php:93 core/class-wcfmu-vendor-badges.php:167
+#: views/integrations/wcfmu-view-wc-product-badge-products-manage.php:45
+msgid "Badges"
+msgstr "Odznaky"
+
+#: core/class-wcfmu-vendor-badges.php:93
+#, php-format
+msgid ""
+"You may create any type of custom badges for your vendors. <a target=\"_blank"
+"\" href=\"%s\">Know more.</a>"
+msgstr ""
+"Můžete vytvořit libovolný typ vlastních odznaků pro dodavatele. <a target="
+"\"_blank\" href=\"%s\">Dozvědět se více.</a>"
+
+#: core/class-wcfmu-vendor-badges.php:94 core/class-wcfmu-vendor-invoice.php:79
+#: core/class-wcfmu-vendor-invoice.php:91
+#: core/class-wcfmu-vendor-verification.php:226
+#: core/class-wcfmu-vendor-verification.php:236
+#: core/class-wcfmu-vendor-verification.php:247
+#: core/class-wcfmu-vendor-verification.php:258
+#: core/class-wcfmu-vendor-verification.php:269
+msgid "Enable"
+msgstr "Povolit"
+
+#: core/class-wcfmu-vendor-badges.php:95
+msgid "Badge Icon"
+msgstr "Ikona odznaku"
+
+#: core/class-wcfmu-vendor-badges.php:96
+msgid "Badge Name"
+msgstr "Název odznaku"
+
+#: core/class-wcfmu-vendor-badges.php:96
+msgid "Name of the badge visible as tooltip."
+msgstr ""
+
+#: core/class-wcfmu-vendor-badges.php:124
+#, php-format
+msgid ""
+"There is no badges yet to be configured! <a target=\"_blank\" href=\"%s"
+"\">Know more.</a>"
+msgstr ""
+
+#: core/class-wcfmu-vendor-badges.php:174
+msgid "There is no custom badges yet for this vendor!"
+msgstr ""
+
+#: core/class-wcfmu-vendor-badges.php:178
+msgid "Manage vendor badges!"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:133
+#: core/class-wcfmu-vendor-chatbox.php:401
+#: core/class-wcfmu-vendor-chatbox.php:416
+#: core/class-wcfmu-vendor-chatbox.php:668 core/class-wcfmu.php:458
+#: views/capability/wcfmu-view-capability.php:331
+#: views/chatbox/wcfmu-view-chatbox.php:26
+#: views/chatbox/wcfmu-view-chatbox.php:32
+msgid "Chat Box"
+msgstr "Chat Box"
+
+#: core/class-wcfmu-vendor-chatbox.php:181
+msgid "Chatbox"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:241
+#: core/class-wcfmu-vendor-chatbox.php:280
+#: core/class-wcfmu-vendor-chatbox.php:657
+msgid "Chat Now"
+msgstr "Chatovat nyní"
+
+#: core/class-wcfmu-vendor-chatbox.php:320
+msgid "Something went wrong"
+msgstr "Něco se pokazilo. Znovu načtěte stránku"
+
+#: core/class-wcfmu-vendor-chatbox.php:567
+msgid "How may I help you?"
+msgstr "Jak Vám mohu pomoci?"
+
+#: core/class-wcfmu-vendor-chatbox.php:672
+msgid "Live Chat Setting"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:677
+msgid "App ID"
+msgstr "App ID"
+
+#: core/class-wcfmu-vendor-chatbox.php:677
+#, php-format
+msgid "Get your Talk JS %sAPP ID%s"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:678
+msgid "Secret Key"
+msgstr "Tajný klíč"
+
+#: core/class-wcfmu-vendor-chatbox.php:678
+#, php-format
+msgid "Get your Talk JS %sSecret Key%s"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:679
+msgid "Chat Now Button Label"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:680
+msgid "Chat Now Button Background"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:681
+msgid "Chat Now Button Hover"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:682
+msgid "Chat Now Button Text"
+msgstr ""
+
+#: core/class-wcfmu-vendor-chatbox.php:683
+msgid "Chat Now Button Text Hover"
+msgstr ""
+
+#: core/class-wcfmu-vendor-followers.php:158
+#: core/class-wcfmu-vendor-followers.php:210
+#: core/class-wcfmu-vendor-followers.php:672
+#: views/followers/wcfmu-view-followers.php:26
+msgid "Followers"
+msgstr "Sledující"
+
+#: core/class-wcfmu-vendor-followers.php:161
+#: core/class-wcfmu-vendor-followers.php:336
+#: core/class-wcfmu-vendor-followers.php:354
+msgid "Followings"
+msgstr "Sledujících"
+
+#: core/class-wcfmu-vendor-followers.php:382
+#: core/class-wcfmu-vendor-followers.php:398
+msgid "New Product"
+msgstr "Nový produkt"
+
+#: core/class-wcfmu-vendor-followers.php:385
+msgid "A new product submitted by "
+msgstr "Nový produkt zveřejnil prodejce "
+
+#: core/class-wcfmu-vendor-followers.php:387
+#, php-format
+msgid "Check the product %s{product_title}%s."
+msgstr "Prohlédněte si produkt %s{product_title}%s."
+
+#: core/class-wcfmu-vendor-followers.php:418 core/class-wcfmu.php:457
+msgid "Following / Followers"
+msgstr "Sledující/Sledovaní"
+
+#: core/class-wcfmu-vendor-followers.php:424
+msgid "Followers Icon"
+msgstr "Ikona sledujících"
+
+#: core/class-wcfmu-vendor-followers.php:528
+msgid "Congrats! Recently you got a new follower."
+msgstr "Gratulujeme! Máte nového sledujícího."
+
+#: core/class-wcfmu-vendor-followers.php:605
+msgid "New Follower"
+msgstr "Nový sledující"
+
+#: core/class-wcfmu-vendor-followers.php:676
+msgid "Follow Now"
+msgstr "Sledujte teď"
+
+#: core/class-wcfmu-vendor-followers.php:817
+msgid "Click to Follow"
+msgstr "Kliknout pro sledování"
+
+#: core/class-wcfmu-vendor-followers.php:817
+msgid "Follow"
+msgstr "Sledovat"
+
+#: core/class-wcfmu-vendor-followers.php:857
+msgid "Click to Un-follow"
+msgstr "Kliknout pro ukončení sledování"
+
+#: core/class-wcfmu-vendor-followers.php:857
+msgid "Following"
+msgstr "Sledujete"
+
+#: core/class-wcfmu-vendor-invoice.php:70
+#: core/class-wcfmu-vendor-invoice.php:867
+#: views/vendor_invoice/commission-invoice-rtl.php:67
+#: views/vendor_invoice/commission-invoice-rtl.php:84
+#: views/vendor_invoice/commission-invoice.php:67
+#: views/vendor_invoice/commission-invoice.php:84
+msgid "Invoice"
+msgstr "FAKTURA"
+
+#: core/class-wcfmu-vendor-invoice.php:74
+msgid "Store Invoice Setting"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:79
+msgid "Send out vendor store specific invoice to customer."
+msgstr "Zašlete zákazníkovi fakturu specifickou pro prodejce."
+
+#: core/class-wcfmu-vendor-invoice.php:80
+msgid "Advance Font"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:80
+msgid "First check with default font, if not working then only enable this."
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:80
+#, php-format
+msgid "For having RTL support please install %sPDF Invoice mPDF library%s"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:81
+msgid "Advance Currency"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:81
+msgid "First check with default setting, if not working then only enable this."
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:82
+msgid "Vendor Logo"
+msgstr "Logo prodejce"
+
+#: core/class-wcfmu-vendor-invoice.php:83
+msgid "Vendor Store Name"
+msgstr "Název obchodu prodejce"
+
+#: core/class-wcfmu-vendor-invoice.php:84
+msgid "Vendor Address"
+msgstr "Adresa prodejce"
+
+#: core/class-wcfmu-vendor-invoice.php:85
+msgid "Vendor Email"
+msgstr "Email prodejce"
+
+#: core/class-wcfmu-vendor-invoice.php:86
+msgid "Vendor Phone"
+msgstr "Telefon prodejce"
+
+#: core/class-wcfmu-vendor-invoice.php:87
+msgid "Vendor policies"
+msgstr "Zásady prodejce"
+
+#: core/class-wcfmu-vendor-invoice.php:88
+msgid "Vendor Disclaimer"
+msgstr "Zřeknutí se odpovědnosti prodejce"
+
+#: core/class-wcfmu-vendor-invoice.php:89
+msgid "Vendor Signature"
+msgstr "Podpis prodejce"
+
+#: core/class-wcfmu-vendor-invoice.php:90
+msgid "Additional Info"
+msgstr "Doplňující Informace"
+
+#: core/class-wcfmu-vendor-invoice.php:92
+msgid "Field"
+msgstr "Pole"
+
+#: core/class-wcfmu-vendor-invoice.php:130
+#: core/class-wcfmu-vendor-invoice.php:208
+#: views/vendor_invoice/store-invoice-rtl.php:83
+#: views/vendor_invoice/store-invoice-rtl.php:121
+#: views/vendor_invoice/store-invoice.php:83
+#: views/vendor_invoice/store-invoice.php:121
+msgid "Store Invoice"
+msgstr "Faktury od prodejce"
+
+#: core/class-wcfmu-vendor-invoice.php:136
+msgid "Invoice No Prefix"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:137
+msgid "Invoice No. Sufix"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:138
+msgid "Invoice No. Digit"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:138
+msgid "enter the number of digits here - enter `6` to display 42 as 000042"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:153
+msgid "Disclaimer"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:154
+msgid "Digital Signature"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:192
+#: views/vendor_invoice/commission-invoice-rtl.php:82
+#: views/vendor_invoice/commission-invoice.php:82
+msgid "Commission Invoice"
+msgstr "Faktura za provizi"
+
+#: core/class-wcfmu-vendor-invoice.php:194
+msgid "Sales Invoice"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:215
+msgid "Download Packing Slip"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:403
+#: core/class-wcfmu-vendor-invoice.php:645
+msgid "invoice"
+msgstr "faktura"
+
+#: core/class-wcfmu-vendor-invoice.php:513
+msgid "membership-invoice"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:729
+msgid "packing-slip"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:804
+msgid "withdrawal-invoice"
+msgstr ""
+
+#: core/class-wcfmu-vendor-invoice.php:863
+#: views/wcfmu-view-screen-manager.php:42
+#: views/wcfmu-view-screen-manager.php:109
+msgid "Store"
+msgstr "Obchod"
+
+#: core/class-wcfmu-vendor-support.php:54
+#: views/products/wcfmu-view-products.php:70
+msgid "Virtual"
+msgstr "Virtuální"
+
+#: core/class-wcfmu-vendor-support.php:112
+#: views/wcfmu-view-screen-manager.php:58
+msgid "Commission"
+msgstr "Provize v Kč"
+
+#: core/class-wcfmu-vendor-support.php:120
+msgid "Commission Type"
+msgstr "Typ provize"
+
+#: core/class-wcfmu-vendor-support.php:121
+msgid "Commission(%)"
+msgstr "Provize (%)"
+
+#: core/class-wcfmu-vendor-support.php:122
+msgid "Commission Fixed"
+msgstr "Fixní poplatek"
+
+#: core/class-wcfmu-vendor-support.php:123
+msgid "Commission Fee"
+msgstr ""
+
+#: core/class-wcfmu-vendor-support.php:206
+#: core/class-wcfmu-vendor-support.php:208
+#: core/class-wcfmu-vendor-verification.php:1071
+#: core/class-wcfmu-vendor-verification.php:1083
+#: core/class-wcfmu-vendor-verification.php:1085
+#: core/class-wcfmu-vendor-verification.php:1098
+msgid "Verified Vendor"
+msgstr "Ověřený prodejce"
+
+#: core/class-wcfmu-vendor-verification.php:211
+#: core/class-wcfmu-vendor-verification.php:215
+#: core/class-wcfmu-vendor-verification.php:343
+#: core/class-wcfmu-vendor-verification.php:351
+#: core/class-wcfmu-vendor-verification.php:415
+#: core/class-wcfmu-vendor-verification.php:895
+#: core/class-wcfmu-vendor-verification.php:1032
+#: views/capability/wcfmu-view-capability.php:320
+msgid "Verification"
+msgstr "Ověření"
+
+#: core/class-wcfmu-vendor-verification.php:220
+msgid "Verification Badge"
+msgstr "Odznak ověřeného prodejce"
+
+#: core/class-wcfmu-vendor-verification.php:221
+msgid "Product Limit Restriction"
+msgstr "Omezení množství produktu"
+
+#: core/class-wcfmu-vendor-verification.php:225
+msgid "Identity Types"
+msgstr "Typy ověření identity"
+
+#: core/class-wcfmu-vendor-verification.php:227
+msgid "Identity Name"
+msgstr "Název ověřovací metody"
+
+#: core/class-wcfmu-vendor-verification.php:237
+#: core/class-wcfmu-vendor-verification.php:248
+#: core/class-wcfmu-vendor-verification.php:259
+#: core/class-wcfmu-vendor-verification.php:270
+msgid "Redirect URL"
+msgstr "Přesměrování URL"
+
+#: core/class-wcfmu-vendor-verification.php:237
+#: core/class-wcfmu-vendor-verification.php:248
+#: core/class-wcfmu-vendor-verification.php:259
+#: core/class-wcfmu-vendor-verification.php:270
+msgid "User will be redirect to the URL after successful authentication."
+msgstr "Po úspěšném ověření bude uživatel přesměrován na adresu URL."
+
+#: core/class-wcfmu-vendor-verification.php:238
+#: core/class-wcfmu-vendor-verification.php:249
+#: core/class-wcfmu-vendor-verification.php:260
+msgid "Client ID"
+msgstr "Klient ID"
+
+#: core/class-wcfmu-vendor-verification.php:238
+#: core/class-wcfmu-vendor-verification.php:249
+#: core/class-wcfmu-vendor-verification.php:260
+msgid "App generated Client ID required."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:239
+#: core/class-wcfmu-vendor-verification.php:250
+#: core/class-wcfmu-vendor-verification.php:261
+msgid "Client Secret"
+msgstr "Klient secret"
+
+#: core/class-wcfmu-vendor-verification.php:239
+#: core/class-wcfmu-vendor-verification.php:250
+#: core/class-wcfmu-vendor-verification.php:261
+msgid "App generated Client Secret key required."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:271
+msgid "Consumer key"
+msgstr "Uživatelský klíč"
+
+#: core/class-wcfmu-vendor-verification.php:271
+msgid "App generated Consumer Key required."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:272
+msgid "Consumer Secret"
+msgstr "Tajný klíč odběratele"
+
+#: core/class-wcfmu-vendor-verification.php:272
+msgid "App generated Consumer Secret required."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:317
+msgid "National ID Card"
+msgstr "Občanský průkaz"
+
+#: core/class-wcfmu-vendor-verification.php:322
+msgid "Business Card"
+msgstr "Vizitka"
+
+#: core/class-wcfmu-vendor-verification.php:327
+msgid "Passport"
+msgstr "Cestovní pas"
+
+#: core/class-wcfmu-vendor-verification.php:332
+msgid "Driver's License"
+msgstr "Řidičský průkaz"
+
+#: core/class-wcfmu-vendor-verification.php:425
+msgid "Admin Note"
+msgstr "Poznámka správce"
+
+#: core/class-wcfmu-vendor-verification.php:430
+msgid "Prompt Verify"
+msgstr "Stát se ověřeným prodejcem"
+
+#: core/class-wcfmu-vendor-verification.php:430
+msgid "Check this to submit your verification data to admin."
+msgstr ""
+"Zaškrtněte, pokud chcete, aby jste odeslali data k ověření správci webu."
+
+#: core/class-wcfmu-vendor-verification.php:436
+msgid "Identity Verification"
+msgstr "Ověření prodejce"
+
+#: core/class-wcfmu-vendor-verification.php:456
+msgid "Address Verification"
+msgstr "Ověření adresy"
+
+#: core/class-wcfmu-vendor-verification.php:490
+msgid "Social Verification"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:507
+#: core/class-wcfmu-vendor-verification.php:535
+#: core/class-wcfmu-vendor-verification.php:563
+#: core/class-wcfmu-vendor-verification.php:591
+msgid "Logout"
+msgstr "Odhlásit"
+
+#: core/class-wcfmu-vendor-verification.php:517
+#: core/class-wcfmu-vendor-verification.php:545
+#: core/class-wcfmu-vendor-verification.php:573
+#: core/class-wcfmu-vendor-verification.php:601
+msgid "Connect to"
+msgstr "Připojit se"
+
+#: core/class-wcfmu-vendor-verification.php:633
+#: core/class-wcfmu-vendor-verification.php:645
+#, php-format
+msgid "<b>%s</b> - verification pending for review"
+msgstr "<strong>%s</strong> - ověření prodejce čeká na schválení"
+
+#: core/class-wcfmu-vendor-verification.php:642
+msgid "Verification pending for review"
+msgstr "Ověření čeká na schválení"
+
+#: core/class-wcfmu-vendor-verification.php:647
+#, php-format
+msgid "Check here to take your decision - %s"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:653
+msgid "Verification Pending"
+msgstr "Čeká se na ověření"
+
+#: core/class-wcfmu-vendor-verification.php:675
+msgid "Congratulations! You are already a verified seller."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:681
+msgid "Ahh! Your request still under review."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:687
+msgid "Hey! Complete social verification now and be a verified seller."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:693
+msgid "Opps! Your verification rejected, please try again."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:699
+msgid "Hey! Prompt for verification now and be a verified seller."
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:732 core/class-wcfmu.php:455
+msgid "Vendor Verification"
+msgstr "Ověření prodejce"
+
+#: core/class-wcfmu-vendor-verification.php:758
+#: views/capability/wcfmu-view-capability.php:318
+#: views/integrations/wcfmu-view-address-geocoder-products-manage.php:40
+#: views/integrations/wcfmu-view-mappress-products-manage.php:31
+msgid "Address"
+msgstr "Adresa"
+
+#: core/class-wcfmu-vendor-verification.php:762
+#: core/class-wcfmu-vendor-verification.php:952
+msgid "Note to Vendor"
+msgstr "Poznámka"
+
+#: core/class-wcfmu-vendor-verification.php:766
+msgid "Status Update"
+msgstr "Aktualizace stavu"
+
+#: core/class-wcfmu-vendor-verification.php:768
+msgid "Approve"
+msgstr "Schválit"
+
+#: core/class-wcfmu-vendor-verification.php:769
+msgid "Reject"
+msgstr "Odmítnout"
+
+#: core/class-wcfmu-vendor-verification.php:777
+#: views/products/wcfmu-view-products-bulk-manage.php:355
+#: views/products/wcfmu-view-products-quick-manage.php:102
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:116
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:155
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:154
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:100
+msgid "Update"
+msgstr "Aktualizovat"
+
+#: core/class-wcfmu-vendor-verification.php:814
+msgid ""
+"<b>Opps!!!</b> Your verification rejected, please try again. <br />Added "
+"note: "
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:816
+msgid "<b>Congratulation!!!</b> Your verification approved. <br />Added note: "
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:826
+msgid "Verification status successfully updated."
+msgstr "Stav ověření byl úspěšně aktualizován."
+
+#: core/class-wcfmu-vendor-verification.php:830
+msgid "Verification status update failed."
+msgstr "Aktualizace stavu ověření se nezdařila."
+
+#: core/class-wcfmu-vendor-verification.php:900
+msgid "Identity Details"
+msgstr "Identifikace pomocí dokladu"
+
+#: core/class-wcfmu-vendor-verification.php:919
+msgid "Address Details"
+msgstr "Detail adresy"
+
+#: core/class-wcfmu-vendor-verification.php:952
+msgid "Add some note ..."
+msgstr "Přidat poznámku ..."
+
+#: core/class-wcfmu-vendor-verification.php:958
+msgid "Mark Unapproved"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:958
+msgid "Mark Approved"
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:997
+msgid ""
+"<b>Opps!!!</b> Your verification has been rejected, please try again. <br /"
+">Added note: "
+msgstr ""
+
+#: core/class-wcfmu-vendor-verification.php:999
+msgid ""
+"<b>Congratulation!!!</b> Your verification has been approved. <br />Added "
+"note: "
+msgstr ""
+"<b>Blahopřejeme !!!</b> Vaše ověření bylo potvrzeno. <br /> Přidána "
+"poznámka: "
+
+#: core/class-wcfmu-vendor-verification.php:1003
+msgid "Verification ststus successfully updated."
+msgstr "Status ověření byl aktualizován."
+
+#: core/class-wcfmu-vendor-verification.php:1007
+msgid "Verification ststus update failed."
+msgstr "Aktualizace ststus ověření se nezdařila."
+
+#: core/class-wcfmu-wcaccommodation.php:60
+msgid "Accommodation"
+msgstr "Ubytování"
+
+#: core/class-wcfmu-wcaddons.php:67 core/class-wcfmu-wcaddons.php:343
+#: core/class-wcfmu-wcaddons.php:348
+#: views/capability/wcfmu-view-capability.php:136
+msgid "Add-ons"
+msgstr "Doplňky"
+
+#: core/class-wcfmu-wcaddons.php:327
+msgid "Additional custom price input"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:328
+msgid "Additional price multiplier"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:329
+msgid "Checkboxes"
+msgstr "Zaškrtávací políčka"
+
+#: core/class-wcfmu-wcaddons.php:330
+msgid "Custom input (textarea)"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:331
+msgid "Any text"
+msgstr "Jakýkoli text"
+
+#: core/class-wcfmu-wcaddons.php:332
+msgid "Email address"
+msgstr "Emailová adresa"
+
+#: core/class-wcfmu-wcaddons.php:333
+msgid "Only letters"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:334
+msgid "Only letters and numbers"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:335
+msgid "Only numbers"
+msgstr "Pouze čísla"
+
+#: core/class-wcfmu-wcaddons.php:336
+msgid "File upload"
+msgstr "Nahrát soubor"
+
+#: core/class-wcfmu-wcaddons.php:337
+msgid "Radio buttons"
+msgstr "Kroužek pro výběr"
+
+#: core/class-wcfmu-wcaddons.php:338
+msgid "Select box"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:349
+msgid "Group"
+msgstr "Skupina"
+
+#: core/class-wcfmu-wcaddons.php:350 views/wcfmu-view-screen-manager.php:23
+#: views/capability/wcfmu-view-capability.php:306
+#: views/followers/wcfmu-view-followers.php:58
+#: views/followers/wcfmu-view-followers.php:66
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:68
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:76
+msgid "Name"
+msgstr "Jméno"
+
+#: core/class-wcfmu-wcaddons.php:353
+msgid "Required fields?"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:354
+msgid "Options"
+msgstr "Možnosti"
+
+#: core/class-wcfmu-wcaddons.php:355
+msgid "Label"
+msgstr "Popisek"
+
+#: core/class-wcfmu-wcaddons.php:356 views/wcfmu-view-screen-manager.php:27
+#: views/vendor_invoice/commission-invoice-rtl.php:157
+#: views/vendor_invoice/commission-invoice.php:157
+#: views/vendor_invoice/packing-slip-rtl.php:198
+#: views/vendor_invoice/packing-slip.php:198
+#: views/vendor_invoice/store-invoice-rtl.php:188
+#: views/vendor_invoice/store-invoice.php:188
+msgid "Price"
+msgstr "Cena"
+
+#: core/class-wcfmu-wcaddons.php:357
+msgid "Min"
+msgstr "Min"
+
+#: core/class-wcfmu-wcaddons.php:358
+msgid "Max"
+msgstr "Max"
+
+#: core/class-wcfmu-wcaddons.php:361
+msgid "Global Addon Exclusion"
+msgstr ""
+
+#: core/class-wcfmu-wcaddons.php:361
+msgid "Check this to exclude this product from all Global Addons"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:124
+msgid "Appointments Dashboard"
+msgstr "Řídicí panel schůzek"
+
+#: core/class-wcfmu-wcappointments.php:127
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:51
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:96
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:61
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:42
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:174
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:200
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:45
+#: views/wc_appointments/wcfmu-view-wcappointments.php:40
+msgid "Appointments List"
+msgstr "Seznam schůzek"
+
+#: core/class-wcfmu-wcappointments.php:130
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:25
+msgid "Appointments Staffs"
+msgstr "Schůzky zaměstnanců"
+
+#: core/class-wcfmu-wcappointments.php:133
+msgid "Appointments Staffs Manage"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:136
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:23
+msgid "Create Appointments"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:139
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:25
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:111
+msgid "Appointments Calendar"
+msgstr "Kalendář schůzek"
+
+#: core/class-wcfmu-wcappointments.php:142
+#, php-format
+msgid "Appointments Details #%s"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:145
+msgid "Appointments Settings"
+msgstr "Nastavení schůzek"
+
+#: core/class-wcfmu-wcappointments.php:229
+#: views/wcfmu-view-screen-manager.php:80
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:70
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:129
+#: views/wc_appointments/wcfmu-view-wcappointments.php:121
+#: views/wc_appointments/wcfmu-view-wcappointments.php:134
+msgid "Appointment"
+msgstr "Schůzka"
+
+#: core/class-wcfmu-wcappointments.php:527
+#, php-format
+msgid "<b>%s</b> appointment status updated to <b>%s</b> by <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:530
+msgid "Appointment status updated."
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:578
+msgid "Google Calendar Sync"
+msgstr ""
+
+#: core/class-wcfmu-wcappointments.php:727
+msgid "New Appointment"
+msgstr "Nová rezervace"
+
+#: core/class-wcfmu-wcappointments.php:761
+#: core/class-wcfmu-wcappointments.php:770
+#, php-format
+msgid "You have received an Appointment <b>#%s</b> for <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:82
+msgid "WCFM View"
+msgstr "WCFM Přehled"
+
+#: core/class-wcfmu-wcbookings.php:97 core/class-wcfmu-wcbookings.php:107
+msgid "WCFM Home"
+msgstr "WCFM Úvod"
+
+#: core/class-wcfmu-wcbookings.php:345 core/class-wcfmu-wcbookings.php:351
+msgid "Has Resources"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:346 core/class-wcfmu-wcbookings.php:352
+msgid "Has Persons"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:482
+msgid ""
+"Restrict the days of the week that are able to be selected on the calendar; "
+"this will not affect your availability."
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:483
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:420
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:185
+msgid "Restricted days"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:484
+msgid "First block starts at..."
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:485 core/class-wcfmu-wcbookings.php:628
+msgid "Rules"
+msgstr "Pravidla"
+
+#: core/class-wcfmu-wcbookings.php:486 views/wcfmu-view-screen-manager.php:29
+#: views/wcfmu-view-screen-manager.php:40
+#: views/tych_bookings/wcfmu-view-booking-settings.php:176
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:384
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:423
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:200
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:236
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:187
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:216
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:202
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:215
+msgid "Type"
+msgstr "Typ"
+
+#: core/class-wcfmu-wcbookings.php:487 core/class-wcfmu-wcbookings.php:489
+#: core/class-wcfmu-wcbookings.php:491 core/class-wcfmu-wcbookings.php:493
+#: core/class-wcfmu-wcbookings.php:495 core/class-wcfmu-wcbookings.php:630
+#: core/class-wcfmu-wcbookings.php:632 core/class-wcfmu-wcbookings.php:634
+#: core/class-wcfmu-wcbookings.php:636 core/class-wcfmu-wcbookings.php:638
+#: core/class-wcfmu-wcbookings.php:640
+#: views/tych_bookings/wcfmu-view-booking-settings.php:177
+#: views/tych_bookings/wcfmu-view-booking-settings.php:179
+#: views/tych_bookings/wcfmu-view-booking-settings.php:181
+#: views/tych_bookings/wcfmu-view-booking-settings.php:183
+#: views/tych_bookings/wcfmu-view-booking-settings.php:185
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:385
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:387
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:389
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:391
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:393
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:395
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:427
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:429
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:431
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:433
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:435
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:203
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:205
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:207
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:209
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:211
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:240
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:242
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:244
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:246
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:248
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:188
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:190
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:192
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:194
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:203
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:205
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:207
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:209
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:211
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:217
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:219
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:221
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:223
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:225
+msgid "From"
+msgstr "Od"
+
+#: core/class-wcfmu-wcbookings.php:488 core/class-wcfmu-wcbookings.php:490
+#: core/class-wcfmu-wcbookings.php:492 core/class-wcfmu-wcbookings.php:494
+#: core/class-wcfmu-wcbookings.php:496 core/class-wcfmu-wcbookings.php:631
+#: core/class-wcfmu-wcbookings.php:633 core/class-wcfmu-wcbookings.php:635
+#: core/class-wcfmu-wcbookings.php:637 core/class-wcfmu-wcbookings.php:639
+#: core/class-wcfmu-wcbookings.php:641
+#: views/tych_bookings/wcfmu-view-booking-settings.php:178
+#: views/tych_bookings/wcfmu-view-booking-settings.php:180
+#: views/tych_bookings/wcfmu-view-booking-settings.php:182
+#: views/tych_bookings/wcfmu-view-booking-settings.php:184
+#: views/tych_bookings/wcfmu-view-booking-settings.php:186
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:386
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:388
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:390
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:392
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:394
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:396
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:428
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:430
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:432
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:434
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:436
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:204
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:206
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:208
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:210
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:212
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:241
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:243
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:245
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:247
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:249
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:189
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:191
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:193
+#: views/wc_bookings/wcfmu-view-wcaccommodation-products-manage.php:195
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:204
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:206
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:208
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:210
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:212
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:218
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:220
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:222
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:224
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:226
+msgid "To"
+msgstr "Do"
+
+#: core/class-wcfmu-wcbookings.php:642
+msgid "Base Cost"
+msgstr ""
+
+#: core/class-wcfmu-wcbookings.php:717
+msgid "New Booking"
+msgstr "Nová rezervace"
+
+#: core/class-wcfmu-wcbookings.php:750 core/class-wcfmu-wcbookings.php:759
+#, php-format
+msgid "You have received a Booking <b>#%s</b> for <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmu-wcfancyproductdesigner.php:76
+#: views/wc_fncy_product_designer/wcfmu-view-fncy-product-designer.php:78
+#: views/wc_fncy_product_designer/wcfmu-view-fncy-product-designer.php:86
+msgid "Product Designer"
+msgstr ""
+
+#: core/class-wcfmu-wcfancyproductdesigner.php:79
+#: views/wc_fncy_product_designer/wcfmu-view-fncy-product-builder.php:35
+#: views/wc_fncy_product_designer/wcfmu-view-fncy-product-builder.php:43
+msgid "Product Builder"
+msgstr ""
+
+#: core/class-wcfmu-wcmarketplace.php:123 core/class-wcfmu-wcpvendors.php:125
+#: core/class-wcfmu-wcvendors.php:131
+msgid "Show all"
+msgstr "Zobrazit vše"
+
+#: core/class-wcfmu-wcmarketplace.php:124 core/class-wcfmu-wcpvendors.php:126
+msgid "Unpaid"
+msgstr "Ne"
+
+#: core/class-wcfmu-wcmarketplace.php:125 core/class-wcfmu-wcpvendors.php:127
+#: core/class-wcfmu-wcvendors.php:133
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23
+#: views/wc_appointments/wcfmu-view-wcappointments.php:21
+msgid "Paid"
+msgstr "Uhrazeno"
+
+#: core/class-wcfmu-wcmarketplace.php:126 core/class-wcfmu-wcvendors.php:134
+msgid "Reversed"
+msgstr ""
+
+#: core/class-wcfmu-wcpvendors.php:128
+#, fuzzy
+msgid "Void"
+msgstr "Neplatná"
+
+#: core/class-wcfmu-wcsubscriptions.php:105
+#: core/class-wcfmu-xasubscriptions.php:102
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:108
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:32
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:107
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:32
+msgid "Subscriptions List"
+msgstr "Seznam členství"
+
+#: core/class-wcfmu-wcsubscriptions.php:108
+#: core/class-wcfmu-xasubscriptions.php:105
+#, php-format
+msgid "Subscription Manage #%s"
+msgstr ""
+
+#: core/class-wcfmu-wcsubscriptions.php:499
+#: core/class-wcfmu-xasubscriptions.php:495
+#, php-format
+msgid "<b>%s</b> subscription status updated to <b>%s</b> by <b>%s</b>"
+msgstr ""
+
+#: core/class-wcfmu-wcsubscriptions.php:502
+#: core/class-wcfmu-xasubscriptions.php:498
+msgid "Subscription status updated."
+msgstr ""
+
+#: core/class-wcfmu-wcvendors.php:113
+#, php-format
+msgid ""
+"%sTo add or edit products, view sales and orders for your vendor account, or "
+"to configure your store, visit your %sVendor Dashboard%s.%s"
+msgstr ""
+
+#: core/class-wcfmu-wcvendors.php:132
+msgid "Due"
+msgstr "Splatnost"
+
+#: core/class-wcfmu.php:453
+msgid "Vendor Invoice"
+msgstr "Faktury od prodejce"
+
+#: core/class-wcfmu.php:454
+msgid "Vendor Vacation"
+msgstr "Dovolená prodejce"
+
+#: core/class-wcfmu.php:456
+msgid "Vendor Badges"
+msgstr "Odznaky prodejce"
+
+#: helpers/wcfmu-core-functions.php:383
+msgid "Please choose a product before submit."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:384
+msgid "No order found, please try again!"
+msgstr "Nebyla nalezena žádná objednávka, zkuste to prosím znovu!"
+
+#: helpers/wcfmu-core-functions.php:385
+msgid "Order Creation Failed."
+msgstr "Vytvoření objednávky se nezdařilo."
+
+#: helpers/wcfmu-core-functions.php:386
+msgid "Order Successfully Created."
+msgstr "Objednávka byla úspěšně vytvořena."
+
+#: helpers/wcfmu-core-functions.php:387
+msgid "Order Successfully Updated."
+msgstr "Objednávka úspěšně aktualizována."
+
+#: helpers/wcfmu-core-functions.php:399
+msgid "Please insert atleast Resource Title before submit."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:400
+msgid "Resource Saving Failed."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:401
+msgid "Resource Successfully Published."
+msgstr "Zdroj byl úspěšně publikován."
+
+#: helpers/wcfmu-core-functions.php:413
+msgid "Please insert Staff Username before submit."
+msgstr "Před odesláním vložte uživatelské jméno zaměstnance."
+
+#: helpers/wcfmu-core-functions.php:414
+msgid "Please insert Staff Email before submit."
+msgstr "Před odesláním vložte email zaměstnance."
+
+#: helpers/wcfmu-core-functions.php:415
+msgid "This Username already exists."
+msgstr "Toto uživatelské jméno již existuje."
+
+#: helpers/wcfmu-core-functions.php:416
+msgid "This Email already exists."
+msgstr "Tento email již existuje."
+
+#: helpers/wcfmu-core-functions.php:417
+msgid "Staff Saving Failed."
+msgstr "Nepodařilo se uložit zaměstnance."
+
+#: helpers/wcfmu-core-functions.php:418
+msgid "Staff Successfully Saved."
+msgstr "Zaměstnanec byl přidán."
+
+#: helpers/wcfmu-core-functions.php:430
+msgid "Global Settings Saving Failed."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:431
+msgid "Global Settings Successfully Saved."
+msgstr "Globální nastavení bylo úspěšně uloženo."
+
+#: helpers/wcfmu-core-functions.php:443
+#: views/orders/wcfmu-view-shipment-tracking.php:24
+msgid "Shipment Tracking Info"
+msgstr "Sledování zásilky Informace"
+
+#: helpers/wcfmu-core-functions.php:447
+msgid "Fill up the details."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:448
+msgid "Details successfully updated."
+msgstr "Podrobnosti byly úspěšně aktualizovány."
+
+#: helpers/wcfmu-core-functions.php:460
+msgid "Please insert your issue before submit."
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:461
+msgid "Please insert your reply before submit."
+msgstr "Před odesláním vložte svou odpověď."
+
+#: helpers/wcfmu-core-functions.php:462
+msgid "Your ticket successfully sent. Ticket ID:"
+msgstr ""
+
+#: helpers/wcfmu-core-functions.php:463
+msgid "Support reply successfully sent."
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:22
+msgid "Image"
+msgstr "Obrázek"
+
+#: views/wcfmu-view-screen-manager.php:24
+#: views/products/wcfmu-view-products-quick-manage.php:52
+#: views/products/wcfmu-view-products-quick-manage.php:53
+msgid "SKU"
+msgstr "SKU"
+
+#: views/wcfmu-view-screen-manager.php:25
+#: views/wcfmu-view-screen-manager.php:50
+#: views/wcfmu-view-screen-manager.php:67
+#: views/wcfmu-view-screen-manager.php:79
+#: views/wcfmu-view-screen-manager.php:92
+#: views/wcfmu-view-screen-manager.php:110
+#: views/products/wcfmu-view-products-bulk-manage.php:20
+#: views/support/wcfmu-view-my-account-support-manage.php:244
+#: views/support/wcfmu-view-my-account-support.php:40
+#: views/support/wcfmu-view-my-account-support.php:50
+#: views/support/wcfmu-view-support-manage.php:271
+#: views/wc_appointments/wcfmu-view-wcappointments.php:120
+#: views/wc_appointments/wcfmu-view-wcappointments.php:133
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:82
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:98
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:81
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:97
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:91
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:102
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:91
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:101
+msgid "Status"
+msgstr "Stav"
+
+#: views/wcfmu-view-screen-manager.php:26
+#: views/products/wcfmu-view-products-quick-manage.php:78
+#: views/products/wcfmu-view-products-quick-manage.php:79
+msgid "Stock"
+msgstr "Sklad"
+
+#: views/wcfmu-view-screen-manager.php:28
+msgid "Taxonomies"
+msgstr "Taxonomie"
+
+#: views/wcfmu-view-screen-manager.php:30
+msgid "Views"
+msgstr "Zobrazení"
+
+#: views/wcfmu-view-screen-manager.php:31
+#: views/wcfmu-view-screen-manager.php:61
+#: includes/reports/class-wcfm-report-coupon-usage.php:506
+#: includes/reports/class-wcfm-report-sales-by-product.php:540
+#: views/support/wcfmu-view-support.php:110
+#: views/support/wcfmu-view-support.php:124
+#: views/tych_bookings/wcfmu-view-booking-resources.php:67
+#: views/tych_bookings/wcfmu-view-booking-resources.php:74
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:68
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:76
+#: views/integrations/auction/wcfmu-view-auctions.php:61
+#: views/integrations/auction/wcfmu-view-auctions.php:69
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:92
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:103
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:93
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:103
+msgid "Date"
+msgstr "Datum"
+
+#: views/wcfmu-view-screen-manager.php:34
+#: views/wcfmu-view-screen-manager.php:45
+#: views/wcfmu-view-screen-manager.php:62
+#: views/wcfmu-view-screen-manager.php:74
+#: views/wcfmu-view-screen-manager.php:87
+#: views/wcfmu-view-screen-manager.php:103
+#: views/wcfmu-view-screen-manager.php:118
+#: views/followers/wcfmu-view-followers.php:61
+#: views/followers/wcfmu-view-followers.php:69
+#: views/followers/wcfmu-view-my-account-followings.php:34
+#: views/followers/wcfmu-view-my-account-followings.php:52
+#: views/reports/wcfmu-view-reports-low-in-stock.php:58
+#: views/reports/wcfmu-view-reports-low-in-stock.php:67
+#: views/support/wcfmu-view-my-account-support.php:44
+#: views/support/wcfmu-view-my-account-support.php:68
+#: views/support/wcfmu-view-support.php:111
+#: views/support/wcfmu-view-support.php:125
+#: views/tych_bookings/wcfmu-view-booking-resources.php:68
+#: views/tych_bookings/wcfmu-view-booking-resources.php:75
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:70
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:78
+#: views/wc_appointments/wcfmu-view-wcappointments.php:128
+#: views/wc_appointments/wcfmu-view-wcappointments.php:141
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:69
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:77
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:93
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:109
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:92
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:108
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:94
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:104
+msgid "Actions"
+msgstr "Akce"
+
+#: views/wcfmu-view-screen-manager.php:39
+msgid "Code"
+msgstr "Kód"
+
+#: views/wcfmu-view-screen-manager.php:41
+msgid "Amt"
+msgstr ""
+
+#: views/wcfmu-view-screen-manager.php:43
+msgid "Usage Limit"
+msgstr "Limit použití"
+
+#: views/wcfmu-view-screen-manager.php:44
+msgid "Expiry date"
+msgstr "Datum expirace"
+
+#: views/wcfmu-view-screen-manager.php:51
+#: views/wcfmu-view-screen-manager.php:70
+#: views/wcfmu-view-screen-manager.php:82
+#: views/wcfmu-view-screen-manager.php:94
+#: controllers/followers/wcfmu-controller-followings.php:150
+#: controllers/followers/wcfmu-controller-followings.php:152
+#: controllers/support/wcfmu-controller-support.php:160
+#: controllers/support/wcfmu-controller-support.php:162
+#: views/support/wcfmu-view-my-account-support-manage.php:128
+#: views/support/wcfmu-view-support-manage.php:131
+#: views/wc_appointments/wcfmu-view-wcappointments.php:123
+#: views/wc_appointments/wcfmu-view-wcappointments.php:136
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:84
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:100
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:83
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:99
+msgid "Order"
+msgstr "Objednávka"
+
+#: views/wcfmu-view-screen-manager.php:52
+msgid "Purchased"
+msgstr "Zakoupeno"
+
+#: views/wcfmu-view-screen-manager.php:53
+#: views/wcfmu-view-screen-manager.php:57
+#: views/wcfmu-view-screen-manager.php:59
+msgid "Hidden"
+msgstr "Skryté"
+
+#: views/wcfmu-view-screen-manager.php:56
+msgid "Gross Sales"
+msgstr "Hrubá tržba"
+
+#: views/wcfmu-view-screen-manager.php:59
+msgid "Commission Amount"
+msgstr "Částka provize"
+
+#: views/wcfmu-view-screen-manager.php:68
+msgid "Booking"
+msgstr "Rezervace"
+
+#: views/wcfmu-view-screen-manager.php:69
+#: views/wcfmu-view-screen-manager.php:81
+#: views/orders/wcfmu-view-orders-manage.php:134
+#: views/products/wcfmu-view-products-quick-manage.php:45
+#: views/reports/wcfmu-view-reports-low-in-stock.php:54
+#: views/reports/wcfmu-view-reports-low-in-stock.php:63
+#: views/support/wcfmu-view-support-popup.php:42
+#: views/vendor_invoice/commission-invoice-rtl.php:156
+#: views/vendor_invoice/commission-invoice.php:156
+#: views/vendor_invoice/packing-slip-rtl.php:196
+#: views/vendor_invoice/packing-slip.php:196
+#: views/vendor_invoice/store-invoice-rtl.php:187
+#: views/vendor_invoice/store-invoice.php:187
+#: views/wc_appointments/wcfmu-view-wcappointments.php:122
+#: views/wc_appointments/wcfmu-view-wcappointments.php:135
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:90
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:100
+msgid "Product"
+msgstr "Produkt"
+
+#: views/wcfmu-view-screen-manager.php:71
+#: views/wcfmu-view-screen-manager.php:84
+#: views/wcfmu-view-screen-manager.php:97
+#: views/wc_appointments/wcfmu-view-wcappointments.php:125
+#: views/wc_appointments/wcfmu-view-wcappointments.php:138
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:87
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:103
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:86
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:102
+msgid "Start Date"
+msgstr "Od dne"
+
+#: views/wcfmu-view-screen-manager.php:72
+#: views/wcfmu-view-screen-manager.php:85
+#: views/wcfmu-view-screen-manager.php:101
+#: views/wc_appointments/wcfmu-view-wcappointments.php:126
+#: views/wc_appointments/wcfmu-view-wcappointments.php:139
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:91
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:107
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:90
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:106
+msgid "End Date"
+msgstr "Do dne"
+
+#: views/wcfmu-view-screen-manager.php:83
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:67
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:75
+#: views/wc_appointments/wcfmu-view-wcappointments.php:124
+#: views/wc_appointments/wcfmu-view-wcappointments.php:137
+msgid "Staff"
+msgstr "Zaměstnanec"
+
+#: views/wcfmu-view-screen-manager.php:93
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:83
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:99
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:82
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:98
+msgid "Subscription"
+msgstr "Předplatné"
+
+#: views/wcfmu-view-screen-manager.php:95
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:85
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:101
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:84
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:100
+msgid "Items"
+msgstr "Položky"
+
+#: views/wcfmu-view-screen-manager.php:96
+#: views/vendor_invoice/commission-invoice-rtl.php:159
+#: views/vendor_invoice/commission-invoice.php:159
+#: views/vendor_invoice/packing-slip-rtl.php:199
+#: views/vendor_invoice/packing-slip-rtl.php:444
+#: views/vendor_invoice/packing-slip.php:199
+#: views/vendor_invoice/packing-slip.php:442
+#: views/vendor_invoice/store-invoice-rtl.php:189
+#: views/vendor_invoice/store-invoice-rtl.php:417
+#: views/vendor_invoice/store-invoice.php:189
+#: views/vendor_invoice/store-invoice.php:415
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:86
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:102
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:85
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:101
+msgid "Total"
+msgstr "Celkem"
+
+#: views/wcfmu-view-screen-manager.php:98
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:88
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:104
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:87
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:103
+msgid "Trial End"
+msgstr "Konec zkušební verze"
+
+#: views/wcfmu-view-screen-manager.php:99
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:89
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:105
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:88
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:104
+msgid "Next Payment"
+msgstr "Další platba"
+
+#: views/wcfmu-view-screen-manager.php:100
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:90
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:106
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:89
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:105
+msgid "Last Order"
+msgstr "Poslední objednávka"
+
+#: views/wcfmu-view-screen-manager.php:134
+msgid "Choose columns want to hide."
+msgstr "Vyberte sloupce, které chcete skrýt."
+
+#: views/wcfmu-view-screen-manager.php:138
+msgid "Columns"
+msgstr "Sloupce"
+
+#: views/wcfmu-view-screen-manager.php:139
+msgid "Admin"
+msgstr "Správce"
+
+#: views/wcfmu-view-screen-manager.php:141
+msgid "Vendor"
+msgstr "Prodejce"
+
+#: controllers/coupons/wcfmu-controller-coupons.php:26
+#: controllers/coupons/wcfmu-controller-coupons.php:28
+#: controllers/followers/wcfmu-controller-followers.php:98
+#: controllers/orders/wcfmu-controller-orders.php:41
+#: controllers/orders/wcfmu-controller-orders.php:50
+#: controllers/reports/wcfmu-controller-reports-low-in-stock.php:110
+#: controllers/reports/wcfmu-controller-reports-low-in-stock.php:113
+#: controllers/support/wcfmu-controller-support.php:205
+#: views/followers/wcfmu-view-my-account-followings.php:53
+msgid "Delete"
+msgstr "Vymazat"
+
+#: controllers/followers/wcfmu-controller-followings.php:197
+#: controllers/support/wcfmu-controller-support.php:202
+msgid "Reply"
+msgstr "Odpovědět"
+
+#: controllers/orders/wcfm-controller-orders-edit.php:80
+#: controllers/orders/wcfm-controller-orders-manage.php:137
+#: views/orders/wcfmu-view-orders-manage.php:248
+#: views/vendor_invoice/commission-invoice-rtl.php:492
+#: views/vendor_invoice/commission-invoice.php:487
+#: views/integrations/rental/wcfmu-view-wcrentalpro-product-manage.php:280
+msgid "Discount"
+msgstr "Sleva"
+
+#: controllers/orders/wcfm-controller-orders-edit.php:142
+#, php-format
+msgid "<b>%s</b> order updated by <b>%s</b>."
+msgstr "<b>%s</b> objednávka byla aktualizována <b>%s</b> ."
+
+#: controllers/orders/wcfm-controller-orders-manage.php:105
+#: controllers/orders/wcfm-controller-orders-manage.php:131
+msgid "Manual Order"
+msgstr "Ruční objednávka"
+
+#: controllers/orders/wcfm-controller-orders-manage.php:241
+#, php-format
+msgid "<b>%s</b> order added by <b>%s</b> for customer <b>%s</b>."
+msgstr ""
+
+#: controllers/products/wcfmu-controller-stock-manage.php:46
+msgid "Stock Successfully updated."
+msgstr ""
+
+#: controllers/products/wcfmu-controller-stock-manage.php:284
+#: views/orders/wcfmu-view-orders-manage.php:135
+msgid "Variation"
+msgstr ""
+
+#: controllers/products/wcfmu-controller-stock-manage.php:307
+#: controllers/products/wcfmu-controller-stock-manage.php:309
+msgid "NO"
+msgstr "NE"
+
+#: controllers/reports/wcfmu-controller-reports-low-in-stock.php:100
+msgid "In stock"
+msgstr "Na skladě"
+
+#: controllers/reports/wcfmu-controller-reports-low-in-stock.php:107
+#: views/support/wcfmu-view-my-account-support.php:69
+msgid "View"
+msgstr "Zobrazit"
+
+#: controllers/reports/wcfmu-controller-reports-low-in-stock.php:109
+#: controllers/reports/wcfmu-controller-reports-low-in-stock.php:112
+msgid "Edit"
+msgstr "Editace"
+
+#: controllers/support/wcfmu-controller-support-form.php:113
+msgid "New Support Request"
+msgstr ""
+
+#: controllers/support/wcfmu-controller-support-form.php:116
+#, php-format
+msgid ""
+"You have recently received a support request for \"%s\". Please check below "
+"for the details: "
+msgstr ""
+
+#: controllers/support/wcfmu-controller-support-form.php:120
+#: controllers/support/wcfmu-controller-support-manage.php:111
+#: controllers/support/wcfmu-controller-support-manage.php:271
+msgid "Check more details here"
+msgstr "Podívejte se na další podrobnosti zde"
+
+#: controllers/support/wcfmu-controller-support-form.php:121
+#: controllers/support/wcfmu-controller-support-manage.php:112
+#: controllers/support/wcfmu-controller-support-manage.php:272
+msgid "Thank You"
+msgstr "Děkujeme"
+
+#: controllers/support/wcfmu-controller-support-form.php:138
+msgid "New Support Ticket"
+msgstr ""
+
+#: controllers/support/wcfmu-controller-support-form.php:150
+#: controllers/support/wcfmu-controller-support-form.php:170
+#, php-format
+msgid "You have recently received a support request. Ticket <b>%s</b>"
+msgstr ""
+
+#: controllers/support/wcfmu-controller-support-manage.php:104
+#: controllers/support/wcfmu-controller-support-manage.php:264
+msgid "Support Ticket Reply"
+msgstr "Odpověď na lístek podpory"
+
+#: controllers/support/wcfmu-controller-support-manage.php:107
+#, php-format
+msgid ""
+"You have received reply for your \"%s\" support request. Please check below "
+"for the details: "
+msgstr ""
+"Obdrželi jste odpověď na žádost o podporu „%s“.\n"
+"<br />Podrobnosti naleznete níže: "
+
+#: controllers/support/wcfmu-controller-support-manage.php:124
+#: controllers/support/wcfmu-controller-support-manage.php:289
+msgid "Reply to Support Ticket"
+msgstr ""
+
+#: controllers/support/wcfmu-controller-support-manage.php:267
+msgid ""
+"You have received reply for your \"{product_title}\" support request. Please "
+"check below for the details: "
+msgstr ""
+"Obdrželi jste odpověď na žádost o podporu „{product_title}“. \n"
+"<br />Podrobnosti naleznete níže: "
+
+#: controllers/support/wcfmu-controller-support-manage.php:301
+#: controllers/support/wcfmu-controller-support-manage.php:321
+#, php-format
+msgid "You have received reply for Support Ticket <b>%s</b>"
+msgstr ""
+
+#: controllers/tych_bookings/wcfmu-controller-booking-resources.php:75
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:138
+#: controllers/wc_bookings/wcfmu-controller-wcbookings-resources.php:75
+msgid "#"
+msgstr "#"
+
+#: controllers/tych_bookings/wcfmu-controller-booking-resources.php:82
+#: controllers/wc_bookings/wcfmu-controller-wcbookings-resources.php:85
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:42
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:150
+msgid "Manage Resource"
+msgstr "Správa zdroje"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments-staffs.php:75
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:45
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:77
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:63
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:45
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:177
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:180
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:203
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:32
+#: views/wc_appointments/wcfmu-view-wcappointments.php:77
+msgid "Manage Staff"
+msgstr "Správa zaměstnanců"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23
+#: views/wc_appointments/wcfmu-view-wcappointments.php:23
+msgid "Pending Confirmation"
+msgstr "Čekání na potvrzení"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23
+#: views/wc_appointments/wcfmu-view-wcappointments.php:25
+msgid "Un-paid"
+msgstr "Ne"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23
+#: controllers/wc_subscriptions/wcfmu-controller-wcsubscriptions.php:27
+#: controllers/xa_subscriptions/wcfmu-controller-xasubscriptions.php:27
+#: views/wc_appointments/wcfmu-view-wcappointments.php:24
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:69
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:79
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:22
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:67
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:78
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:22
+msgid "Cancelled"
+msgstr "Zrušené"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23
+#: views/wc_appointments/wcfmu-view-wcappointments.php:20
+msgid "Complete"
+msgstr "Dokončeno"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:23
+#: views/wc_appointments/wcfmu-view-wcappointments.php:22
+msgid "Confirmed"
+msgstr "Potvrzeno"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:26
+#: views/wc_appointments/wcfmu-view-wcappointments.php:29
+msgid "Partial Paid"
+msgstr "Částečně uhrazeno"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:148
+#, php-format
+msgctxt "Guest string with name from appointment order in brackets"
+msgid "Guest (%s)"
+msgstr "Host (%s)"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:220
+msgid "Mark as Confirmed"
+msgstr "Označte jako Potvrzeno"
+
+#: controllers/wc_appointments/wcfmu-controller-wcappointments.php:222
+msgid "View Details"
+msgstr "Zobrazit detaily"
+
+#: controllers/wc_subscriptions/wcfmu-controller-wcsubscriptions-manage.php:85
+#: controllers/xa_subscriptions/wcfmu-controller-xasubscriptions-manage.php:96
+msgid "Subscription schedule updated successfully"
+msgstr "Plán předplatného byl úspěšně aktualizován"
+
+#: controllers/wc_subscriptions/wcfmu-controller-wcsubscriptions-manage.php:87
+#: controllers/xa_subscriptions/wcfmu-controller-xasubscriptions-manage.php:98
+msgid "Subscription schedule updated failed!"
+msgstr ""
+
+#: controllers/wc_subscriptions/wcfmu-controller-wcsubscriptions.php:24
+#: controllers/xa_subscriptions/wcfmu-controller-xasubscriptions.php:24
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:77
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:20
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:75
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:20
+msgid "Active"
+msgstr "Aktivní"
+
+#: controllers/wc_subscriptions/wcfmu-controller-wcsubscriptions.php:25
+#: controllers/xa_subscriptions/wcfmu-controller-xasubscriptions.php:25
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:78
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:21
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:76
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:21
+msgid "On Hold"
+msgstr "Čeká na vyřízení"
+
+#: controllers/wc_subscriptions/wcfmu-controller-wcsubscriptions.php:26
+#: controllers/xa_subscriptions/wcfmu-controller-xasubscriptions.php:26
+#: views/products/wcfmu-view-products.php:11
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:77
+#: views/reviews/dokan/wcfmu-view-reviews.php:22
+msgid "Pending"
+msgstr "Čekající"
+
+#: controllers/wc_subscriptions/wcfmu-controller-wcsubscriptions.php:28
+#: controllers/xa_subscriptions/wcfmu-controller-xasubscriptions.php:28
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:73
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:80
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:23
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:71
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:79
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:23
+msgid "Expired"
+msgstr "Expirovaný"
+
+#: includes/reports/class-wcfm-report-coupon-usage.php:471
+msgid "Discount Amounts"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-coupon-usage.php:479
+msgid "Coupon Counts"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-coupon-usage.php:490
+#: includes/reports/class-wcfm-report-sales-by-product.php:524
+msgid "Sales Report by Product"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-coupon-usage.php:512
+#: includes/reports/class-wcfm-report-sales-by-product.php:546
+msgid "Amount"
+msgstr "Částka"
+
+#: includes/reports/class-wcfm-report-sales-by-product.php:504
+msgid "Sales Amounts"
+msgstr ""
+
+#: includes/reports/class-wcfm-report-sales-by-product.php:513
+msgid "Sales Counts"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:127
+msgid "Sections"
+msgstr "Části"
+
+#: views/capability/wcfmu-view-capability.php:133
+#: views/support/wcfmu-view-my-account-support-manage.php:134
+#: views/support/wcfmu-view-my-account-support.php:42
+#: views/support/wcfmu-view-my-account-support.php:62
+#: views/support/wcfmu-view-support-manage.php:141
+#: views/support/wcfmu-view-support-popup.php:40
+#: views/support/wcfmu-view-support.php:104
+#: views/support/wcfmu-view-support.php:118
+msgid "Category"
+msgstr "Rubriky"
+
+#: views/capability/wcfmu-view-capability.php:134
+msgid "Add Category"
+msgstr "Přidat kategorii"
+
+#: views/capability/wcfmu-view-capability.php:135
+msgid "Tags"
+msgstr "Štítky"
+
+#: views/capability/wcfmu-view-capability.php:137
+msgid "Toolset Fields"
+msgstr "Toolset Fields"
+
+#: views/capability/wcfmu-view-capability.php:138
+msgid "ACF Fields"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:139
+#: views/capability/wcfmu-view-capability.php:288
+msgid "Location"
+msgstr "Umístění"
+
+#: views/capability/wcfmu-view-capability.php:143
+msgid "Insights"
+msgstr "Další možnosti"
+
+#: views/capability/wcfmu-view-capability.php:147
+msgid "Add Attribute"
+msgstr "Přidat atribut"
+
+#: views/capability/wcfmu-view-capability.php:148
+msgid "Add Attribute Term"
+msgstr "Přidat popis atributu"
+
+#: views/capability/wcfmu-view-capability.php:149
+msgid "Delete Media"
+msgstr "Odstranění média"
+
+#: views/capability/wcfmu-view-capability.php:150
+msgid "Rich Editor"
+msgstr ""
+
+#: views/capability/wcfmu-view-capability.php:151
+msgid "Featured Product"
+msgstr "Zvýrazněný  výrobek"
+
+#: views/capability/wcfmu-view-capability.php:152
+msgid "Duplicate Product"
+msgstr "Duplikovat produkt"
+
+#: views/capability/wcfmu-view-capability.php:153
+msgid "Import"
+msgstr "Import"
+
+#: views/capability/wcfmu-view-capability.php:154
+msgid "Export"
+msgstr "Export"
+
+#: views/capability/wcfmu-view-capability.php:157
+msgid "Stock Manager"
+msgstr "Správa skladu"
+
+#: views/capability/wcfmu-view-capability.php:162
+msgid "Fields"
+msgstr "Pole"
+
+#: views/capability/wcfmu-view-capability.php:169
+msgid "Sales Schedule"
+msgstr "Slevový plán"
+
+#: views/capability/wcfmu-view-capability.php:176
+msgid "Limits"
+msgstr "Limity"
+
+#: views/capability/wcfmu-view-capability.php:180
+msgid "Space Limit"
+msgstr "Limit prostoru"
+
+#: views/capability/wcfmu-view-capability.php:180
+msgid ""
+"Total disk space allow to use by an user. Disk space unit is in MB. e.g. set "
+"100 to allocate 100 MB space for a vendor. Only attachments are considered "
+"in space calculation. "
+msgstr ""
+"Celkový prostor na disku pro využití prodejcem. Jednotka místa na disku je v "
+"MB. například zadejte 100 pro přidělení 100 MB prostoru pro prodejce. Při "
+"výpočtu prostoru jsou zohledněny pouze přílohy. "
+
+#: views/capability/wcfmu-view-capability.php:181
+msgid "Article Limit"
+msgstr "Limit článků"
+
+#: views/capability/wcfmu-view-capability.php:181
+msgid "No. of Articles allow to add by an user."
+msgstr "Počet článků umožněné přidávat prodejcem."
+
+#: views/capability/wcfmu-view-capability.php:181
+#: views/capability/wcfmu-view-capability.php:182
+msgid "Set `-1` if you want to restrict limit at `0`."
+msgstr "Nastavte `-1`, pokud chcete omezit limit na` 0`."
+
+#: views/capability/wcfmu-view-capability.php:182
+msgid "Product Limit"
+msgstr "Limit produktů"
+
+#: views/capability/wcfmu-view-capability.php:182
+msgid "No. of Products allow to add by an user."
+msgstr "Počet produktů umožněné přidávat prodejcem."
+
+#: views/capability/wcfmu-view-capability.php:183
+msgid "Featured Product Limit"
+msgstr "Limit doporučených produktů"
+
+#: views/capability/wcfmu-view-capability.php:184
+msgid "Gallery Limit"
+msgstr "Limit galerie"
+
+#: views/capability/wcfmu-view-capability.php:188
+msgid "Article Categories"
+msgstr "Kategorie článků"
+
+#: views/capability/wcfmu-view-capability.php:188
+msgid "Allowed Article Cats"
+msgstr "Povolené kategorie článků"
+
+#: views/capability/wcfmu-view-capability.php:198
+msgid "Article Categories Limit"
+msgstr "Limit kategorií článku"
+
+#: views/capability/wcfmu-view-capability.php:201
+msgid "Product Categories"
+msgstr "Kategorie produktů"
+
+#: views/capability/wcfmu-view-capability.php:201
+msgid "Allowed Product Cats"
+msgstr "Povolené kategorie produktů"
+
+#: views/capability/wcfmu-view-capability.php:211
+msgid "Product Categories Limit"
+msgstr "Limit kategorií produktů"
+
+#: views/capability/wcfmu-view-capability.php:224
+msgid "Allowed "
+msgstr "Povoleno "
+
+#: views/capability/wcfmu-view-capability.php:234
+msgid "Limit "
+msgstr "Limit "
+
+#: views/capability/wcfmu-view-capability.php:247
+msgid "Product Attributes"
+msgstr "Atributy produktů"
+
+#: views/capability/wcfmu-view-capability.php:247
+msgid "Allowed Product Attributes"
+msgstr "Povolené atributy produktů"
+
+#: views/capability/wcfmu-view-capability.php:264
+msgid "Custom Fields"
+msgstr "Vlastní pole"
+
+#: views/capability/wcfmu-view-capability.php:264
+msgid "Allowed Product Custom Fields"
+msgstr "Povolená vlastní pole produktu"
+
+#: views/capability/wcfmu-view-capability.php:283
+#: views/integrations/rental/wcfmu-view-wcrentalpro-product-manage.php:296
+msgid "Settings"
+msgstr "Nastavení"
+
+#: views/capability/wcfmu-view-capability.php:287
+msgid "Brand"
+msgstr "Značka"
+
+#: views/capability/wcfmu-view-capability.php:290
+#: views/orders/wcfmu-view-orders-manage.php:155
+msgid "Payment"
+msgstr "Platba"
+
+#: views/capability/wcfmu-view-capability.php:291
+msgid "SEO"
+msgstr "SEO"
+
+#: views/capability/wcfmu-view-capability.php:292
+msgid "Policies"
+msgstr "Zásady/pravidla"
+
+#: views/capability/wcfmu-view-capability.php:293
+msgid "Customer Support"
+msgstr "Zákaznická podpora"
+
+#: views/capability/wcfmu-view-capability.php:295
+msgid "Vacation"
+msgstr "Dovolená"
+
+#: views/capability/wcfmu-view-capability.php:304
+msgid "Logo"
+msgstr "Logo"
+
+#: views/capability/wcfmu-view-capability.php:305
+msgid "Banner"
+msgstr "Baner"
+
+#: views/capability/wcfmu-view-capability.php:307
+msgid "Phone"
+msgstr "Telefon"
+
+#: views/capability/wcfmu-view-capability.php:313
+#: views/capability/wcfmu-view-capability.php:317
+msgid "Profile"
+msgstr "Profil"
+
+#: views/capability/wcfmu-view-capability.php:319
+msgid "Social"
+msgstr "Sociální sítě"
+
+#: views/capability/wcfmu-view-capability.php:321
+#: views/dokan-subscription/wcfmu-view-dokan-subscription.php:18
+msgid "Membership"
+msgstr "Členství"
+
+#: views/capability/wcfmu-view-capability.php:327
+msgid "Chat Module"
+msgstr "Modul chatu"
+
+#: views/capability/wcfmu-view-capability.php:367
+msgid "Shipping Tracking"
+msgstr "Sledování zásilky"
+
+#: views/capability/wcfmu-view-capability.php:371
+msgid "Allow"
+msgstr "Povolit"
+
+#: views/capability/wcfmu-view-capability.php:378
+#: views/capability/wcfmu-view-capability.php:382
+msgid "Inquiry"
+msgstr "Dotaz"
+
+#: views/capability/wcfmu-view-capability.php:383
+msgid "Inquiry Reply"
+msgstr "Odpověď na dotaz"
+
+#: views/capability/wcfmu-view-capability.php:394
+msgid "View / Manage"
+msgstr "Zobrazit / Spravovat"
+
+#: views/capability/wcfmu-view-capability.php:395
+msgid "Allow Reply"
+msgstr "Povolit odpověď"
+
+#: views/capability/wcfmu-view-capability.php:402
+#: views/capability/wcfmu-view-capability.php:406
+msgid "Notice"
+msgstr "Upozornění"
+
+#: views/capability/wcfmu-view-capability.php:407
+msgid "Topic Reply"
+msgstr "Téma odpovědi"
+
+#: views/capability/wcfmu-view-capability.php:413
+#: views/capability/wcfmu-view-capability.php:417
+msgid "Notification"
+msgstr "Oznámení"
+
+#: views/capability/wcfmu-view-capability.php:418
+msgid "Direct Message"
+msgstr "Přímá zpráva"
+
+#: views/capability/wcfmu-view-capability.php:419
+msgid "Knowledgebase"
+msgstr "Znalostní báze"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:81
+msgid "Restriction"
+msgstr "Omezení"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:86
+msgid "Minimum spend"
+msgstr "Minimální útrata"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:86
+msgid "No Minimum"
+msgstr "Žádné minimum"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:87
+msgid "Maximum spend"
+msgstr "Maximálníí útrata"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:87
+msgid "No Maximum"
+msgstr "Žádné maximum"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:88
+msgid "Individual use only"
+msgstr "Pouze pro individuální použití"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:88
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr ""
+"Zaškrtněte toto políčko, pokud kupon nelze použít ve spojení s jinými kupony."
+
+#: views/coupons/wcfmu-view-coupons-manage.php:89
+msgid "Exclude sale items"
+msgstr "Vyloučit prodejní položky"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:89
+msgid ""
+"Check this box if the coupon should not apply to items on sale. Per-item "
+"coupons will only work if the item is not on sale. Per-cart coupons will "
+"only work if there are no sale items in the cart."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:90
+#: views/orders/wcfmu-view-orders-manage.php:128
+msgid "Products"
+msgstr "Produkty"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:90
+msgid ""
+"Products which need to be in the cart to use this coupon or, for `Product "
+"Discounts`, which products are discounted."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:91
+msgid "Exclude products"
+msgstr "Vyloučit produkty"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:91
+msgid ""
+"Products which must not be in the cart to use this coupon or, for `Product "
+"Discounts`, which products are not discounted."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:95
+#: views/coupons/wcfmu-view-coupons-manage.php:96
+msgid "Product categories"
+msgstr "Kategorie produktů"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:95
+msgid ""
+"A product must be in this category for the coupon to remain valid or, for "
+"`Product Discounts`, products in these categories will be discounted."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:116
+#: views/coupons/wcfmu-view-coupons-manage.php:117
+msgid "Exclude categories"
+msgstr "Vyloučit kategorie"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:116
+msgid ""
+"Product must not be in this category for the coupon to remain valid or, for "
+"`Product Discounts`, products in these categories will not be discounted."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:137
+msgid "Email restrictions"
+msgstr "Omezení emailu"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:137
+msgid "No restrictions"
+msgstr "Bez omezení"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:137
+msgid ""
+"List of allowed emails to check against the customer's billing email when an "
+"order is placed. Separate email addresses with commas."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons-manage.php:147
+msgid "Limit"
+msgstr "Limit"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:152
+msgid "Usage limit per coupon"
+msgstr "Limit využití kupónu"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:152
+#: views/coupons/wcfmu-view-coupons-manage.php:154
+msgid "Unlimited usage"
+msgstr "Neomezené použití"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:152
+msgid "How many times this coupon can be used before it is void."
+msgstr "Kolikrát tento kupón lze použít dříve, než bude neplatný."
+
+#: views/coupons/wcfmu-view-coupons-manage.php:153
+msgid "Limit usage to X items"
+msgstr "Omezit použití na X položky"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:153
+msgid "Apply to all qualifying items in cart"
+msgstr "Použít pro všechny položky v košíku"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:153
+msgid ""
+"The maximum number of individual items this coupon can apply to when using "
+"product discounts. Leave blank to apply to all qualifying items in cart."
+msgstr ""
+"Maximální počet jednotlivých položek, na které je možné použit kupón, když "
+"používáte slevy výrobků. Když hodnotu nezadáte, použije se na všechny "
+"odpovídající položky v košíku."
+
+#: views/coupons/wcfmu-view-coupons-manage.php:154
+msgid "Usage limit per user"
+msgstr "Omezení použití na uživatele"
+
+#: views/coupons/wcfmu-view-coupons-manage.php:154
+msgid ""
+"How many times this coupon can be used by an invidual user. Uses billing "
+"email for guests, and user ID for logged in users."
+msgstr ""
+
+#: views/coupons/wcfmu-view-coupons.php:12
+msgid "Show all types"
+msgstr "Zobrazit všechny typy"
+
+#: views/followers/wcfmu-view-followers.php:33
+msgid "Followers List"
+msgstr "Seznam sledujících"
+
+#: views/followers/wcfmu-view-followers.php:59
+#: views/followers/wcfmu-view-followers.php:67
+#: views/followers/wcfmu-view-my-account-followings.php:32
+#: views/followers/wcfmu-view-my-account-followings.php:44
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:227
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:69
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:77
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:92
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:102
+msgid "Email"
+msgstr "Email"
+
+#: views/followers/wcfmu-view-my-account-followings.php:58
+msgid "NO Followings"
+msgstr ""
+
+#: views/followers/wcfmu-view-my-account-followings.php:59
+msgid "You are not following any vendor yet!"
+msgstr ""
+
+#: views/integrations/wcfmu-view-address-geocoder-products-manage.php:41
+msgid "Lat/Lng"
+msgstr "Lat / Lng"
+
+#: views/integrations/wcfmu-view-address-geocoder-products-manage.php:46
+msgid "Geocode Address"
+msgstr "Adresa Geocode"
+
+#: views/integrations/wcfmu-view-mappress-products-manage.php:37
+msgid "Save the product, then you will have option to associate Map with this."
+msgstr ""
+
+#: views/integrations/wcfmu-view-mappress-products-manage.php:42
+msgid "Maps for this Product"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-advanced-product-labels-products-manage.php:70
+#: views/integrations/wcfmu-view-wc-advanced-product-labels-products-manage.php:74
+msgid "Product Labels"
+msgstr "Štítky produktu"
+
+#: views/integrations/wcfmu-view-wc-deposits-products-manage.php:74
+msgid "Deposits"
+msgstr "Depozit"
+
+#: views/integrations/wcfmu-view-wc-dynamic-pricing-products-manage.php:35
+#: views/integrations/wcfmu-view-wc-dynamic-pricing-products-manage.php:39
+msgid "Dynamic Pricing"
+msgstr "Dynamické ceny"
+
+#: views/integrations/wcfmu-view-wc-measurement-price-calculator-products-manage.php:419
+#, fuzzy
+msgid "Measurement"
+msgstr "Cena podle rozměrů"
+
+#: views/integrations/wcfmu-view-wc-measurement-price-calculator-products-manage.php:422
+msgid "Measurement Price Setting"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-min-max-quantities-products-manage.php:49
+msgid "MIn/Max Quantities"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-per-product-shipping-products-manage.php:52
+#: views/integrations/wcfmu-view-wc-per-product-shipping-products-manage.php:122
+msgid "Shipping Rules"
+msgstr "Pravidla přepravy"
+
+#: views/integrations/wcfmu-view-wc-product-badge-products-manage.php:49
+msgid "Product Badges"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-tabs-manager-products-manage.php:60
+msgid "Tabs Manager"
+msgstr "Správce Tab záložek"
+
+#: views/integrations/wcfmu-view-wc-variation-gallery-products-manage.php:44
+msgid "Aditional Images"
+msgstr "Další obrázky"
+
+#: views/integrations/wcfmu-view-wc-variation-swatch-products-manage.php:179
+msgid "Please save the product first then set swatches setting!"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-waitlist-products-manage.php:33
+msgid "Waitlists"
+msgstr "Seznamy čekajících"
+
+#: views/integrations/wcfmu-view-wc-waitlist-products-manage.php:36
+msgid "Product Waitlists"
+msgstr ""
+
+#: views/integrations/wcfmu-view-wc-warranty-products-manage.php:129
+msgid "Warranty"
+msgstr "Záruka"
+
+#: views/integrations/wcfmu-view-wc-warranty-products-manage.php:132
+msgid "Product Warranty"
+msgstr "Záruka na produkt"
+
+#: views/integrations/wcfmu-view-wpjm-associate-listings-products-manage.php:59
+msgid "Associate Listings"
+msgstr "Přidružené záznamy"
+
+#: views/integrations/wcfmu-view-wpjm-associate-listings-products-manage.php:64
+msgid "Listings"
+msgstr "Položky"
+
+#: views/integrations/wcfmu-view-wpjm-associate-listings-products-manage.php:64
+msgid "Associate this product with your Listings."
+msgstr "Přiřaďte tento produkt do svého seznamu."
+
+#: views/orders/wcfmu-view-orders-add-customer.php:7
+msgid "Add Customer"
+msgstr "Přidat zákazníka"
+
+#: views/orders/wcfmu-view-orders-details.php:36
+msgid "Qutation"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-details.php:166
+msgid "File(s)"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-details.php:200
+msgid "Mark item(s) as shipped and provide tracking information"
+msgstr "Označte položky jako odeslané a poskytněte informace o sledování"
+
+#: views/orders/wcfmu-view-orders-details.php:274
+msgid "Delivery Boy"
+msgstr "Poslíček"
+
+#: views/orders/wcfmu-view-orders-details.php:317
+msgid "Order Notes"
+msgstr "Poznámky k objednávce"
+
+#: views/orders/wcfmu-view-orders-details.php:346
+#: views/orders/wcfmu-view-orders-details.php:355
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: views/orders/wcfmu-view-orders-details.php:354
+#, php-format
+msgid "added on %1$s at %2$s"
+msgstr "přidána na %1$s na %2$s"
+
+#: views/orders/wcfmu-view-orders-details.php:355
+#, php-format
+msgid "by %s"
+msgstr "od %s"
+
+#: views/orders/wcfmu-view-orders-details.php:372
+msgid "Add note"
+msgstr "Přidat poznámku"
+
+#: views/orders/wcfmu-view-orders-details.php:372
+msgid ""
+"Add a note for your reference, or add a customer note (the user will be "
+"notified)."
+msgstr ""
+"Přidat poznámku k referenci, nebo přidat poznámku zákazníka (uživatel bude "
+"upozorněn)."
+
+#: views/orders/wcfmu-view-orders-details.php:392
+msgid "Private note"
+msgstr "Soukromá poznámka"
+
+#: views/orders/wcfmu-view-orders-details.php:393
+msgid "Note to customer"
+msgstr "Poznámka pro zákazníka"
+
+#: views/orders/wcfmu-view-orders-details.php:397
+msgid "Add"
+msgstr "Přidat"
+
+#: views/orders/wcfmu-view-orders-edit-popup.php:25
+msgid "Order Edit"
+msgstr "Upravit objednávku"
+
+#: views/orders/wcfmu-view-orders-edit-popup.php:29
+#: views/orders/wcfmu-view-orders-manage.php:136
+msgid "Quantity"
+msgstr "Množství"
+
+#: views/orders/wcfmu-view-orders-edit-popup.php:36
+msgid "Apply Discount"
+msgstr "Aplikovat slevu"
+
+#: views/orders/wcfmu-view-orders-edit-popup.php:42
+#: views/orders/wcfmu-view-orders-manage.php:271
+msgid "Note to Customer"
+msgstr "Poznámka pro zákazníka"
+
+#: views/orders/wcfmu-view-orders-manage.php:38
+msgid "Select Shipping Method"
+msgstr "Vyberte doručovací metodu"
+
+#: views/orders/wcfmu-view-orders-manage.php:50
+msgid "Select Payment Method"
+msgstr "Zvolte způsob platby"
+
+#: views/orders/wcfmu-view-orders-manage.php:59
+msgid "Create Orders"
+msgstr "Vytvořit objednávky"
+
+#: views/orders/wcfmu-view-orders-manage.php:66
+msgid "Create Orders Manually"
+msgstr ""
+
+#: views/orders/wcfmu-view-orders-manage.php:70
+#: views/reports/wcfmu-view-reports-coupons-by-date.php:70
+#: views/reports/wcfmu-view-reports-low-in-stock.php:41
+#: views/reports/wcfmu-view-reports-sales-by-product.php:71
+#: views/tych_bookings/wcfmu-view-booking-calendar.php:36
+#: views/tych_bookings/wcfmu-view-booking-manual.php:34
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:54
+#: views/tych_bookings/wcfmu-view-booking-resources.php:37
+#: views/tych_bookings/wcfmu-view-booking-settings.php:141
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:36
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:54
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:34
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:166
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:192
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:37
+#: views/wc_appointments/wcfmu-view-wcappointments.php:68
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:37
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:34
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:162
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:37
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:180
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:104
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:103
+#: views/integrations/auction/wcfmu-view-auctions.php:37
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:55
+#: views/integrations/rental/wcfmu-view-wcrental-calendar.php:153
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:61
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:67
+msgid "WP Admin View"
+msgstr "Zobrazení administrace WP"
+
+#: views/orders/wcfmu-view-orders-manage.php:93
+#: views/support/wcfmu-view-support.php:107
+#: views/support/wcfmu-view-support.php:121
+msgid "Customer"
+msgstr "Zákazník"
+
+#: views/orders/wcfmu-view-orders-manage.php:96
+#: views/orders/wcfmu-view-orders-manage.php:98
+msgid "Guest"
+msgstr "Host"
+
+#: views/orders/wcfmu-view-orders-manage.php:161
+msgid "Payment Method"
+msgstr "Způsob platby"
+
+#: views/orders/wcfmu-view-orders-manage.php:162
+msgid "Payment Details"
+msgstr "Podrobnosti platby"
+
+#: views/orders/wcfmu-view-orders-manage.php:179
+msgid "Shipping Method"
+msgstr "Způsob dopravy"
+
+#: views/orders/wcfmu-view-orders-manage.php:180
+msgid "Shipping Cost"
+msgstr "Cena poštovného"
+
+#: views/orders/wcfmu-view-orders-manage.php:223
+msgid "Shipping same as billing"
+msgstr "Stejná jako fakturační"
+
+#: views/orders/wcfmu-view-orders-manage.php:254
+#: views/integrations/rental/wcfmu-view-wcrentalpro-product-manage.php:289
+msgid "Discount Amount"
+msgstr "Výše slevy"
+
+#: views/orders/wcfmu-view-orders-manage.php:265
+#: views/reviews/dokan/wcfmu-view-reviews.php:69
+#: views/reviews/dokan/wcfmu-view-reviews.php:77
+msgid "Comment"
+msgstr "Komentář"
+
+#: views/products/wcfmu-view-products-manage.php:49
+msgid "Advanced"
+msgstr "Pokročilé"
+
+#: views/products/wcfmu-view-products-manage.php:58
+msgid "Enable reviews"
+msgstr "Povolit hodnocení"
+
+#: views/products/wcfmu-view-products-manage.php:59
+msgid "Menu Order"
+msgstr "Řazení menu"
+
+#: views/products/wcfmu-view-products-manage.php:59
+msgid "Custom ordering position."
+msgstr "Vlastní uspořádání."
+
+#: views/products/wcfmu-view-products-manage.php:60
+msgid "Purchase Note"
+msgstr "Poznámka k nákupu"
+
+#: views/products/wcfmu-view-products-manage.php:60
+msgid "Enter an optional note to send the customer after purchase."
+msgstr "Zadejte volitelnou poznámku, kterou pošlete zákazníkovi po zakoupení."
+
+#: views/products/wcfmu-view-products-quick-manage.php:39
+msgid "Quick Update"
+msgstr "Rychlá aktualizace"
+
+#: views/products/wcfmu-view-products-quick-manage.php:61
+#: views/products/wcfmu-view-products-quick-manage.php:62
+msgid "Regular Price"
+msgstr "Prodejní cena"
+
+#: views/products/wcfmu-view-products-quick-manage.php:69
+#: views/products/wcfmu-view-products-quick-manage.php:70
+msgid "Sale Price"
+msgstr "Cena pos levě"
+
+#: views/products/wcfmu-view-products.php:9
+msgid "Published"
+msgstr "Zveřejněný"
+
+#: views/products/wcfmu-view-products.php:10
+msgid "Draft"
+msgstr "Koncept"
+
+#: views/products/wcfmu-view-products.php:19
+msgid "Archive"
+msgstr "Archiv"
+
+#: views/products/wcfmu-view-products.php:47
+msgid "Select a category"
+msgstr "Vyberte kategorii"
+
+#: views/products/wcfmu-view-products.php:56
+msgid "Show all product types"
+msgstr "Zobrazit všechny typy produktů"
+
+#: views/products/wcfmu-view-stock-manage.php:157
+#: views/products/wcfmu-view-stock-manage.php:172
+msgid "Backorders"
+msgstr "Povolit objednávky"
+
+#: views/products/wcfmu-view-stock-manage.php:158
+#: views/products/wcfmu-view-stock-manage.php:173
+msgid "Stock Quantity"
+msgstr ""
+
+#: views/reports/wcfmu-html-report-coupons-by-date.php:27
+#: views/reports/wcfmu-html-report-sales-by-product.php:31
+#: views/reports/wcfmu-view-reports-sales-by-date.php:24
+msgid "Custom:"
+msgstr "Vlastní:"
+
+#: views/reports/wcfmu-view-reports-coupons-by-date.php:56
+#: views/reports/wcfmu-view-reports-coupons-by-date.php:58
+msgid "Coupons by Date"
+msgstr "Kupóny podle data"
+
+#: views/reports/wcfmu-view-reports-coupons-by-date.php:56
+#: views/reports/wcfmu-view-reports-sales-by-product.php:56
+#, php-format
+msgctxt "start date and end date"
+msgid "From %s to %s"
+msgstr "Od %s do %s"
+
+#: views/reports/wcfmu-view-reports-low-in-stock.php:30
+msgid "Low in Stock"
+msgstr "Nízký sklad"
+
+#: views/reports/wcfmu-view-reports-low-in-stock.php:55
+#: views/reports/wcfmu-view-reports-low-in-stock.php:64
+msgid "Parent"
+msgstr "Nadřazený"
+
+#: views/reports/wcfmu-view-reports-low-in-stock.php:56
+#: views/reports/wcfmu-view-reports-low-in-stock.php:65
+msgid "Unit in stock"
+msgstr "Jednotek na skladě"
+
+#: views/reports/wcfmu-view-reports-low-in-stock.php:57
+#: views/reports/wcfmu-view-reports-low-in-stock.php:66
+msgid "Stock Status"
+msgstr "Stav zásob"
+
+#: views/reports/wcfmu-view-reports-sales-by-date.php:42
+msgid "Go"
+msgstr ">>"
+
+#: views/reports/wcfmu-view-reports-sales-by-product.php:56
+#: views/reports/wcfmu-view-reports-sales-by-product.php:58
+msgid "Sales by Product"
+msgstr "Prodeje podle produktu"
+
+#: views/support/wcfmu-view-my-account-support-manage.php:97
+#: views/support/wcfmu-view-support-manage.php:102
+msgid "Support Ticket For"
+msgstr "Lístek podpory pro"
+
+#: views/support/wcfmu-view-my-account-support-manage.php:104
+#: views/support/wcfmu-view-support-manage.php:109
+msgid "Ticket for Product"
+msgstr ""
+
+#: views/support/wcfmu-view-my-account-support-manage.php:107
+#: views/support/wcfmu-view-support-manage.php:112
+#, php-format
+msgid "Ticket for %s"
+msgstr ""
+
+#: views/support/wcfmu-view-my-account-support-manage.php:120
+#: views/support/wcfmu-view-support-manage.php:124
+msgid "Support Ticket for"
+msgstr "Lístek podpory pro"
+
+#: views/support/wcfmu-view-my-account-support-manage.php:130
+#: views/support/wcfmu-view-support-manage.php:134
+#: views/support/wcfmu-view-support-manage.php:136
+msgid "Support Ticket for Order"
+msgstr "Lístek podpory pro objednávku"
+
+#: views/support/wcfmu-view-my-account-support-manage.php:162
+#: views/support/wcfmu-view-support-manage.php:184
+msgid "Replies"
+msgstr "Odpovědi"
+
+#: views/support/wcfmu-view-my-account-support-manage.php:231
+#: views/support/wcfmu-view-support-manage.php:251
+msgid "New Reply"
+msgstr "Nová odpověď"
+
+#: views/support/wcfmu-view-my-account-support-manage.php:243
+#: views/support/wcfmu-view-my-account-support.php:43
+#: views/support/wcfmu-view-my-account-support.php:65
+#: views/support/wcfmu-view-support-manage.php:270
+#: views/support/wcfmu-view-support-popup.php:41
+#: views/support/wcfmu-view-support.php:108
+#: views/support/wcfmu-view-support.php:122
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:437
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:213
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:250
+msgid "Priority"
+msgstr "Priorita"
+
+#: views/support/wcfmu-view-my-account-support-manage.php:266
+#: views/support/wcfmu-view-support-manage.php:293
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:341
+msgid "Send"
+msgstr "Odeslat"
+
+#: views/support/wcfmu-view-my-account-support.php:41
+#: views/support/wcfmu-view-my-account-support.php:59
+#: views/support/wcfmu-view-my-account-support.php:74
+#, fuzzy
+msgid "Ticket(s)"
+msgstr "Lístky"
+
+#: views/support/wcfmu-view-my-account-support.php:75
+msgid "You do not have any support ticket yet!"
+msgstr ""
+
+#: views/support/wcfmu-view-support-popup.php:48
+msgid "Issues you are having"
+msgstr "Problémy, které máte"
+
+#: views/support/wcfmu-view-support.php:23
+msgid "Last 7 Days"
+msgstr "Za poslední týden"
+
+#: views/support/wcfmu-view-support.php:24
+msgid "This Month"
+msgstr "Tento měsíc"
+
+#: views/support/wcfmu-view-support.php:25
+msgid "Last Month"
+msgstr "Poslední měsíc"
+
+#: views/support/wcfmu-view-support.php:26
+msgid "Year"
+msgstr "Rok"
+
+#: views/support/wcfmu-view-support.php:105
+#: views/support/wcfmu-view-support.php:119
+msgid "Issue"
+msgstr "Problém"
+
+#: views/support/wcfmu-view-support.php:106
+#: views/support/wcfmu-view-support.php:120
+msgid "Item"
+msgstr "Položka"
+
+#: views/tych_bookings/wcfmu-view-booking-calendar.php:25
+#: views/tych_bookings/wcfmu-view-booking-calendar.php:32
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:26
+msgid "Bookings Calendar"
+msgstr "Kalendář rezervací"
+
+#: views/tych_bookings/wcfmu-view-booking-calendar.php:41
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:42
+msgid "Create Booking"
+msgstr "Vytvořit rezervaci"
+
+#: views/tych_bookings/wcfmu-view-booking-calendar.php:45
+#: views/tych_bookings/wcfmu-view-booking-manual.php:45
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:65
+#: views/tych_bookings/wcfmu-view-booking-resources.php:32
+#: views/tych_bookings/wcfmu-view-booking-settings.php:152
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:46
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:45
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:173
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:32
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:191
+msgid "Manage Resources"
+msgstr "Správa zdrojů"
+
+#: views/tych_bookings/wcfmu-view-booking-calendar.php:49
+#: views/tych_bookings/wcfmu-view-booking-manual.php:49
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:69
+#: views/tych_bookings/wcfmu-view-booking-resources.php:48
+#: views/tych_bookings/wcfmu-view-booking-settings.php:156
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:50
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:49
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:177
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:48
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:195
+msgid "Create Bookable"
+msgstr "Vytvořit rezervovatelné"
+
+#: views/tych_bookings/wcfmu-view-booking-calendar.php:51
+#: views/tych_bookings/wcfmu-view-booking-manual.php:42
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:62
+#: views/tych_bookings/wcfmu-view-booking-resources.php:45
+#: views/tych_bookings/wcfmu-view-booking-settings.php:149
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:52
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:42
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:170
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:45
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:188
+msgid "Bookings List"
+msgstr "Seznam rezervací"
+
+#: views/tych_bookings/wcfmu-view-booking-manual.php:30
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:30
+msgid "Create Bookings Manually"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-manual.php:39
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:59
+#: views/tych_bookings/wcfmu-view-booking-resources.php:42
+#: views/tych_bookings/wcfmu-view-booking-settings.php:146
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:59
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:39
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:171
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:197
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:42
+#: views/wc_appointments/wcfmu-view-wcappointments.php:85
+#: views/wc_bookings/wcfmu-view-wcbookings-manual.php:39
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:167
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:42
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:185
+#: views/integrations/rental/wcfmu-view-wcrental-calendar.php:148
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:65
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:71
+msgid "Calendar View"
+msgstr "Kalendář"
+
+#: views/tych_bookings/wcfmu-view-booking-products-manage.php:544
+msgid "- Select Block Type -"
+msgstr ""
+
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:49
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:157
+msgid "Edit Resource"
+msgstr "Editovat zdroj"
+
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:49
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:157
+msgid "Add Resource"
+msgstr "Přidat zdroj"
+
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:87
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:195
+msgid "Resource Title"
+msgstr "Název zdroje"
+
+#: views/tych_bookings/wcfmu-view-booking-resources-manage.php:88
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:67
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:75
+msgid "Available Quantity"
+msgstr "Dostupné množství"
+
+#: views/tych_bookings/wcfmu-view-booking-resources.php:25
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:25
+msgid "Bookings Resources"
+msgstr "Zdroje rezervace"
+
+#: views/tych_bookings/wcfmu-view-booking-resources.php:52
+#: views/wc_bookings/wcfmu-view-wcbookings-resources.php:52
+msgid "Add New Resource"
+msgstr "Přidat nový zdroj"
+
+#: views/tych_bookings/wcfmu-view-booking-settings.php:129
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:168
+msgid "Bookings Settings"
+msgstr "Nastavení rezervace"
+
+#: views/tych_bookings/wcfmu-view-booking-settings.php:136
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:175
+msgid "Global Availability"
+msgstr "Globální dostupnost"
+
+#: views/vendor_invoice/commission-invoice-rtl.php:27
+#: views/vendor_invoice/commission-invoice.php:27
+#: views/vendor_invoice/packing-slip-rtl.php:27
+#: views/vendor_invoice/packing-slip.php:27
+#: views/vendor_invoice/store-invoice-rtl.php:25
+#: views/vendor_invoice/store-invoice.php:25
+msgid "Standard"
+msgstr "Standardní"
+
+#: views/vendor_invoice/commission-invoice-rtl.php:102
+#: views/vendor_invoice/commission-invoice.php:102
+#: views/vendor_invoice/packing-slip-rtl.php:148
+#: views/vendor_invoice/packing-slip.php:148
+#: views/vendor_invoice/store-invoice-rtl.php:129
+#: views/vendor_invoice/store-invoice.php:129
+msgid "Billing Address:"
+msgstr "Fakturační adresa:"
+
+#: views/vendor_invoice/commission-invoice-rtl.php:118
+#: views/vendor_invoice/commission-invoice.php:118
+#: views/vendor_invoice/packing-slip-rtl.php:162
+#: views/vendor_invoice/packing-slip.php:162
+#: views/vendor_invoice/store-invoice-rtl.php:142
+#: views/vendor_invoice/store-invoice.php:142
+msgid "Ship To:"
+msgstr "Poslat na:"
+
+#: views/vendor_invoice/commission-invoice-rtl.php:132
+#: views/vendor_invoice/commission-invoice.php:132
+#: views/vendor_invoice/packing-slip-rtl.php:175
+#: views/vendor_invoice/packing-slip.php:175
+#: views/vendor_invoice/store-invoice-rtl.php:165
+#: views/vendor_invoice/store-invoice.php:165
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:91
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:129
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:128
+msgid "Order Number:"
+msgstr "Číslo objednávky:"
+
+#: views/vendor_invoice/commission-invoice-rtl.php:136
+#: views/vendor_invoice/commission-invoice.php:136
+#: views/vendor_invoice/packing-slip-rtl.php:179
+#: views/vendor_invoice/packing-slip.php:179
+#: views/vendor_invoice/store-invoice-rtl.php:169
+#: views/vendor_invoice/store-invoice.php:169
+msgid "Order Date:"
+msgstr "Datum objednávky:"
+
+#: views/vendor_invoice/commission-invoice-rtl.php:140
+#: views/vendor_invoice/commission-invoice.php:140
+#: views/vendor_invoice/membership-invoice.php:97
+#: views/vendor_invoice/packing-slip-rtl.php:183
+#: views/vendor_invoice/packing-slip.php:183
+#: views/vendor_invoice/store-invoice-rtl.php:173
+#: views/vendor_invoice/store-invoice.php:173
+#: views/vendor_invoice/withdrawal-invoice.php:117
+msgid "Payment Method:"
+msgstr "Způsob platby:"
+
+#: views/vendor_invoice/commission-invoice-rtl.php:141
+#: views/vendor_invoice/commission-invoice.php:141
+#: views/vendor_invoice/packing-slip-rtl.php:184
+#: views/vendor_invoice/packing-slip.php:184
+#: views/vendor_invoice/store-invoice-rtl.php:174
+#: views/vendor_invoice/store-invoice.php:174
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: views/vendor_invoice/commission-invoice-rtl.php:366
+#: views/vendor_invoice/commission-invoice.php:366
+msgid "Fee"
+msgstr "Poplatek"
+
+#: views/vendor_invoice/commission-invoice-rtl.php:480
+#: views/vendor_invoice/commission-invoice.php:475
+#: views/vendor_invoice/packing-slip-rtl.php:393
+#: views/vendor_invoice/packing-slip.php:391
+#: views/vendor_invoice/store-invoice-rtl.php:366
+#: views/vendor_invoice/store-invoice.php:364
+msgid "Customer Notes"
+msgstr "Poznámka zákazníka k objednávce"
+
+#: views/vendor_invoice/commission-invoice-rtl.php:492
+#: views/vendor_invoice/commission-invoice.php:487
+msgid "This is the total discount. Discounts are defined per line item."
+msgstr ""
+"Toto je celková sleva. Slevy jsou definovány pro každou řádkovou položku."
+
+#: views/vendor_invoice/commission-invoice-rtl.php:503
+#: views/vendor_invoice/commission-invoice.php:498
+msgid "This is the shipping and handling total costs for the order."
+msgstr "Jedná se o přepravní a manipulační náklady na objednávku."
+
+#: views/vendor_invoice/commission-invoice-rtl.php:537
+#: views/vendor_invoice/commission-invoice.php:532
+msgid "Order Total"
+msgstr "Celková objednávka"
+
+#: views/vendor_invoice/commission-invoice-rtl.php:549
+#: views/vendor_invoice/commission-invoice.php:544
+msgid "Refunded"
+msgstr "Vrácené"
+
+#: views/vendor_invoice/membership-invoice.php:41
+#: views/vendor_invoice/membership-invoice.php:53
+msgid "Subscription Invoice"
+msgstr ""
+
+#: views/vendor_invoice/membership-invoice.php:89
+#: views/vendor_invoice/store-invoice-rtl.php:160
+#: views/vendor_invoice/store-invoice.php:160
+#: views/vendor_invoice/withdrawal-invoice.php:109
+msgid "Invoice Date:"
+msgstr "Datum vystavení:"
+
+#: views/vendor_invoice/membership-invoice.php:137
+msgid "Membership Plan"
+msgstr "Druh členství"
+
+#: views/vendor_invoice/membership-invoice.php:138
+msgid "Cost"
+msgstr "Cena/ks"
+
+#: views/vendor_invoice/packing-slip-rtl.php:87
+#: views/vendor_invoice/packing-slip-rtl.php:127
+#: views/vendor_invoice/packing-slip-rtl.php:140
+#: views/vendor_invoice/packing-slip.php:87
+#: views/vendor_invoice/packing-slip.php:127
+#: views/vendor_invoice/packing-slip.php:140
+msgid "Packing Slip"
+msgstr "Dodací list"
+
+#: views/vendor_invoice/packing-slip-rtl.php:429
+#: views/vendor_invoice/packing-slip.php:427
+#: views/vendor_invoice/store-invoice-rtl.php:402
+#: views/vendor_invoice/store-invoice.php:400
+#: views/vendor_invoice/withdrawal-invoice.php:186
+msgid "Shipping Tax"
+msgstr "DPH - dopravné"
+
+#: views/vendor_invoice/store-invoice-rtl.php:155
+#: views/vendor_invoice/store-invoice.php:155
+#: views/vendor_invoice/withdrawal-invoice.php:105
+msgid "Invoice Number:"
+msgstr "Číslo faktury:"
+
+#: views/vendor_invoice/store-invoice-rtl.php:442
+#: views/vendor_invoice/store-invoice.php:447
+msgid "Policies:"
+msgstr ""
+
+#: views/vendor_invoice/withdrawal-invoice.php:57
+#: views/vendor_invoice/withdrawal-invoice.php:69
+msgid "Withdrawal Invoice"
+msgstr ""
+
+#: views/vendor_invoice/withdrawal-invoice.php:130
+msgid "Pay Mode:"
+msgstr ""
+
+#: views/vendor_invoice/withdrawal-invoice.php:151
+msgid "Payment Status:"
+msgstr "Stav platby:"
+
+#: views/vendor_invoice/withdrawal-invoice.php:167
+msgid "Payment Date:"
+msgstr ""
+
+#: views/vendor_invoice/withdrawal-invoice.php:179
+msgid "Specification"
+msgstr "Specifikace"
+
+#: views/vendor_invoice/withdrawal-invoice.php:180
+msgid "Item Total"
+msgstr ""
+
+#: views/vendor_invoice/withdrawal-invoice.php:188
+msgid "Earning"
+msgstr "Zisk"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:32
+#, php-format
+msgid "Appointments by %s"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:41
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:48
+#: views/wc_appointments/wcfmu-view-wcappointments.php:73
+msgid "Create Appointment"
+msgstr "Vytvořit rezervaci"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:49
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:60
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:49
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:181
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:207
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:48
+#: views/wc_appointments/wcfmu-view-wcappointments.php:81
+msgid "Create Appointable"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:73
+msgid "Start:"
+msgstr "Začátek:"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:74
+msgid "Duration:"
+msgstr "Doba trvání:"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:75
+msgid "Quantity:"
+msgstr "Množství:"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:76
+msgid "Staff:"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:78
+msgid "Customer Name:"
+msgstr "Jméno zákazníka:"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:80
+msgid "Customer Email:"
+msgstr "Email zákazníka:"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:81
+msgid "Customer Phone:"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-calendar.php:84
+msgid "View Appointment"
+msgstr "Zobrazit rezervaci"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-dashboard.php:24
+msgid "Appointments"
+msgstr "Schůzky"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:42
+msgid "Appointment Details"
+msgstr "Detaily rezervace"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:49
+msgid "Appointment #"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:67
+msgid "Create Appointmentable"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:78
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:118
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:117
+msgid "Overview"
+msgstr "Přehled"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:86
+msgid "Appointment Created:"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:178
+#, fuzzy
+msgid "All day"
+msgstr "Celý den"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:253
+msgid "Billing Email:"
+msgstr "Fakturační email:"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:259
+msgid "Billing Phone:"
+msgstr "Fakturační telefon:"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-details.php:270
+msgid "View Order"
+msgstr "Zobrazit objednávku"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-manual.php:30
+msgid "Create Appointments Manually"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:334
+msgid "Choose Staff"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:344
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:438
+msgid "Appointable"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:385
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:386
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:427
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:428
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:240
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:241
+msgid "YYYY-MM-DD"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:424
+msgid "Capacity"
+msgstr "Kapacita"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:424
+msgid ""
+"The maximum number of appointments per slot. Overrides general product "
+"capacity."
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:438
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:251
+msgid ""
+"If not appointable, users won't be able to choose slots in this range for "
+"their appointment."
+msgstr ""
+"Pokud to není možné, uživatelé si nebudou moci vybrat role v tomto rozsahu "
+"pro své jmenování."
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:456
+msgid "Staff selection"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:457
+msgid "Available all Staffs"
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:457
+msgid ""
+"Staffs are used if you have multiple bookable items, e.g. room types, "
+"instructors or ticket types. Availability for staffs is global across all "
+"bookable products. Choose to associate with your product."
+msgstr ""
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:458
+msgid "Staffs"
+msgstr "Zaměstnanci"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-products-manage.php:459
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:202
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:239
+#: views/wc_bookings/wcfmu-view-wcbookings-settings.php:216
+msgid "Title"
+msgstr "Název"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-settings.php:154
+msgid "Appointment Settings"
+msgstr "Nastavení rezervací"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:187
+msgid "Edit Staff"
+msgstr "Upravit Zaměstnance"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:187
+msgid "Add Staff"
+msgstr "Přidat zaměstnance"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:226
+msgid "Username"
+msgstr "Přihlašovací jméno"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:228
+msgid "First Name"
+msgstr "Křestní jméno"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs-manage.php:229
+msgid "Last Name"
+msgstr "Příjmení"
+
+#: views/wc_appointments/wcfmu-view-wcappointments-staffs.php:52
+msgid "Add New Staff"
+msgstr "Přidat nového zaměstnance"
+
+#: views/wc_appointments/wcfmu-view-wcappointments.php:67
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions.php:59
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions.php:59
+msgid "Screen Manager"
+msgstr "Správce obrazovky"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:20
+msgid "Day"
+msgstr "Den"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:21
+msgid "Schedule"
+msgstr "Plán"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:21
+msgid "Month"
+msgstr "Měsíc"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-calendar.php:33
+#, php-format
+msgid "Bookings by %s"
+msgstr "Rezervace od %s"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-products-manage.php:74
+msgid "Choose Resource"
+msgstr ""
+
+#: views/wc_bookings/wcfmu-view-wcbookings-products-manage.php:99
+msgid "Type Name"
+msgstr "Zadejte název"
+
+#: views/wc_bookings/wcfmu-view-wcbookings-resources-manage.php:201
+msgid "Resource Details"
+msgstr ""
+
+#: views/wc_fncy_product_designer/wcfmu-view-fancy-order-viewer.php:22
+msgid "Fancy Product Design"
+msgstr ""
+
+#: views/wc_fncy_product_designer/wcfmu-view-fancy-products-manage.php:56
+msgid "Fancy Product"
+msgstr ""
+
+#: views/wc_fncy_product_designer/wcfmu-view-fancy-products-manage.php:59
+msgid "Fancy Product Designer"
+msgstr "Fancy Product Designer"
+
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:91
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:90
+msgid "Subscription Details"
+msgstr "Detaily předplatného"
+
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:98
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:97
+msgid "Subscription #"
+msgstr ""
+
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:124
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:123
+msgid "Subscription Created:"
+msgstr ""
+
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:146
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:162
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:145
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:161
+msgid "Subscription Status:"
+msgstr ""
+
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:396
+#: views/xa_subscriptions/wcfmu-view-xasubscriptions-manage.php:390
+msgid "Subscription Item"
+msgstr ""
+
+#: views/wc_subscriptions/wcfmu-view-wcsubscriptions-manage.php:962
+msgid "Related Orders"
+msgstr "Související objednávky"
+
+#: controllers/integrations/rental/wcfmu-controller-rental-quote.php:106
+msgid "Details"
+msgstr "Detaily"
+
+#: core/license/admin/class-wcfm-license.php:16
+#: core/license/admin/class-wcfm-license.php:17
+msgid "WCFM License"
+msgstr "WCFM Licence"
+
+#: core/license/admin/class-wcfm-license.php:79
+#, php-format
+msgid "<h2>%s License</h2>"
+msgstr "<h2>%s Licence</h2>"
+
+#: core/license/admin/class-wcfm-license.php:86
+#, php-format
+msgid ""
+"<h4 style='border-bottom: 1px solid rgb(215, 211, 211);padding-bottom: "
+"21px;'>%s</h4>"
+msgstr ""
+"<h4 style='border-bottom: 1px solid rgb(215, 211, 211);padding-bottom: "
+"21px;'>%s</h4>"
+
+#: core/license/admin/class-wcfmu-settings-license.php:51
+msgid "License Activation"
+msgstr "Aktivace licence"
+
+#: core/license/admin/class-wcfmu-settings-license.php:52
+msgid "API License Key"
+msgstr "Licenční klíč API"
+
+#: core/license/admin/class-wcfmu-settings-license.php:53
+msgid "API License email"
+msgstr "Email licence API"
+
+#: core/license/admin/class-wcfmu-settings-license.php:56
+msgid "License Deactivation"
+msgstr "Deaktivace licence"
+
+#: core/license/admin/class-wcfmu-settings-license.php:57
+msgid "Deactivate API License Key"
+msgstr "Deaktivujte licenční klíč API"
+
+#: core/license/admin/class-wcfmu-settings-license.php:57
+msgid "Deactivates an API License Key so it can be used on another blog."
+msgstr "Deaktivuje licenční klíč API, aby jste jej mohli použít na jiném webu."
+
+#: core/license/admin/class-wcfmu-settings-license.php:246
+msgid "Please insert your license key."
+msgstr "Vložte prosím licenční klíč."
+
+#: core/license/admin/class-wcfmu-settings-license.php:256
+msgid "Please insert your license email."
+msgstr "Vložte prosím licenční email."
+
+#: core/license/admin/class-wcfmu-settings-license.php:285
+msgid "Plugin activated. "
+msgstr "Plugin aktivován. "
+
+#: core/license/admin/class-wcfmu-settings-license.php:293
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+"Připojení k serveru API licenčního klíče se nezdařilo. Zkuste to později "
+"znovu."
+
+#: core/license/admin/class-wcfmu-settings-license.php:358
+msgid "Plugin license deactivated."
+msgstr "Licence pluginu byla deaktivována."
+
+#: core/license/admin/class-wcfmu-settings-license.php:382
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+msgstr ""
+"Licence nemohla být deaktivována. Karta Deaktivace Licence slouží k ruční "
+"deaktivaci licence před aktivací nové licence."
+
+#: core/license/classes/class-wcfmu-update.php:373
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Platnost licenčního klíče pro %s vypršela. Licenční klíč můžete znovu "
+"aktivovat nebo zakoupit ve vašem <a href=\"%s\" target=\"_blank"
+"\">uživatelském účtu</a>."
+
+#: core/license/classes/class-wcfmu-update.php:388
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Předplatné pro %s je pozdrženo. Odběr můžete znovu aktivovat z <a href=\"%s"
+"\" target=\"_blank\">řídicího panelu</a> účtu."
+
+#: core/license/classes/class-wcfmu-update.php:403
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+"Předplatné pro %s bylo zrušeno. Předplatné můžete obnovit z hlavního <a href="
+"\"%s\" target=\"_blank\">panelu</a> účtu. Po dokončení vaší objednávky vám "
+"bude zaslán nový licenční klíč."
+
+#: core/license/classes/class-wcfmu-update.php:418
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Platnost předplatného pro %s vypršela. Předplatné můžete znovu aktivovat z "
+"<a href=\"%s\" target=\"_blank\">řídicího panelu</a> účtu."
+
+#: core/license/classes/class-wcfmu-update.php:433
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"Předplatné %s bylo pozastaveno. Předplatné můžete znovu aktivovat z <a href="
+"\"%s\" target=\"_blank\">řídicího panelu</a> účtu."
+
+#: core/license/classes/class-wcfmu-update.php:448
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"Předplatné pro %s stále čeká na vyřízení. Stav předplatného můžete "
+"zkontrolovat v <a href=\"%s\" target=\"_blank\">řídicím panelu</a> účtu."
+
+#: core/license/classes/class-wcfmu-update.php:463
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"Předplatné pro %s bylo umístěno do koše a brzy bude smazáno. Nové předplatné "
+"můžete zakoupit z <a href=\"%s\" target=\"_blank\">řídicího panelu</a> účtu."
+
+#: core/license/classes/class-wcfmu-update.php:478
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Nelze nalézt předplatné pro %s. Předplatné můžete zakoupit z <a href=\"%s\" "
+"target=\"_blank\">řídicího panelu</a> účtu."
+
+#: core/license/classes/class-wcfmu-update.php:493
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+msgstr ""
+"Nelze nalézt licenční klíč pro %s. Možná jste zapomněli zadat licenční klíč "
+"při nastavování %s, nebo byl klíč deaktivován ve vašem účtu. Licenční klíč "
+"můžete znovu aktivovat nebo zakoupit z <a href=\"%s\" target=\"_blank"
+"\">řídicího panelu</a> účtu."
+
+#: core/license/classes/class-wcfmu-update.php:508
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Oprávnění ke stažení pro %s bylo zrušeno pravděpodobně z důvodu ukončení "
+"platnosti licenčního klíče nebo předplatného. Licenční klíč můžete znovu "
+"aktivovat nebo zakoupit z <a href=\"%s\" target=\"_blank\">řídicího panelu</"
+"a> účtu."
+
+#: core/license/classes/class-wcfmu-update.php:523
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+"%s nebylo aktivováno. Přejděte na stránku nastavení a zadejte licenční klíč "
+"a licenční email pro aktivaci %s."
+
+#: core/license/classes/class-wcfmu-update.php:538
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Změnili jste předplatné pro %s, takže budete muset na stránce nastavení "
+"zadat nový licenční klíč API. Licenční klíč by měl dorazit do vaší emailové "
+"schránky, pokud ne, můžete jej získat po přihlášení do <a href=\"%s\" target="
+"\"_blank\">řídicího panelu</a> účtu."
+
+#: views/integrations/acf/wcfmu-view-acf-articles-manage.php:233
+#: views/integrations/acf/wcfmu-view-acf-pro-articles-manage.php:234
+#: views/integrations/acf/wcfmu-view-acf-pro-articles-manage.php:264
+#: views/integrations/acf/wcfmu-view-acf-pro-products-manage.php:249
+#: views/integrations/acf/wcfmu-view-acf-pro-products-manage.php:279
+#: views/integrations/acf/wcfmu-view-acf-products-manage.php:250
+msgid "-Select-"
+msgstr "-Vybrat-"
+
+#: views/integrations/auction/wcfmu-view-auctions.php:31
+msgid "Auction Activity"
+msgstr "Aukční činnost"
+
+#: views/integrations/auction/wcfmu-view-auctions.php:43
+#: views/integrations/rental/wcfmu-view-wcrental-calendar.php:160
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:70
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:74
+msgid "Add New Product"
+msgstr "Přidat nový produkt"
+
+#: views/integrations/auction/wcfmu-view-auctions.php:43
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:70
+#: views/integrations/rental/wcfmu-view-wcrental-quote.php:74
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: views/integrations/auction/wcfmu-view-auctions.php:59
+#: views/integrations/auction/wcfmu-view-auctions.php:67
+msgid "User"
+msgstr "Uživatel"
+
+#: views/integrations/auction/wcfmu-view-auctions.php:60
+#: views/integrations/auction/wcfmu-view-auctions.php:68
+msgid "Bid"
+msgstr "Nabídka"
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:58
+msgid "Item condition"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:58
+msgid "New"
+msgstr "Nové"
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:58
+msgid "Used"
+msgstr "Použití"
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:59
+msgid "Auction type"
+msgstr "Typ aukce"
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:59
+msgid "Reverse"
+msgstr "Opačné řazení"
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:60
+msgid "Proxy bidding?"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:61
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:57
+msgid "Starting Price"
+msgstr "Startovací cena"
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:62
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:58
+msgid "Bid up"
+msgstr "Nabídka"
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:63
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:60
+msgid "Reserve price"
+msgstr "Minimální cena"
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:63
+msgid ""
+"A reserve price is the lowest price at which you are willing to sell your "
+"item. If you don't want to sell your item below a certain price, you can set "
+"a reserve price. The amount of your reserve price is not disclosed to your "
+"bidders, but they will see that your auction has a reserve price and whether "
+"or not the reserve has been met. If a bidder does not meet that price, you "
+"are not obligated to sell your item."
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:64
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:61
+msgid "Buy it now price"
+msgstr "Koupit teď"
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:64
+msgid ""
+"Buy it now disappears when bid exceeds the Buy now price for normal auction, "
+"or is lower than reverse auction"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:65
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:62
+msgid "Auction Date From"
+msgstr "Datum aukce od"
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:66
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:63
+msgid "Auction Date To"
+msgstr "Datum aukce do"
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:87
+msgid "Automatic relist auction"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:88
+msgid "Relist if fail after n hours"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:89
+msgid "Relist if not paid after n hours"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-wcsauctions-product-manage.php:90
+msgid "Relist auction duration in h"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:59
+msgid "Minimum increment amount"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:64
+msgid "Time to add overtime"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:64
+msgid ""
+"Number of minutes before auction ends to check if overtime added. (Override "
+"the settings option)"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:65
+msgid "Overtime"
+msgstr "Přesčas"
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:65
+msgid ""
+"Number of minutes by which the auction will be extended. (Overrride the "
+"settings option)"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:66
+msgid "Time value for automatic rescheduling"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:67
+msgid "Select unit for automatic rescheduling"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:67
+msgid "days"
+msgstr "dnů"
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:67
+msgid "hours"
+msgstr "hodiny"
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:67
+msgid "minutes"
+msgstr "minut"
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:68
+msgid "Show bid up"
+msgstr ""
+
+#: views/integrations/auction/wcfmu-view-yithauctions-product-manage.php:69
+msgid "Show overtime"
+msgstr ""
+
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-products-manage.php:300
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:88
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:99
+msgid "Event"
+msgstr "Událost"
+
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-products-manage.php:303
+msgid "Event Setup"
+msgstr ""
+
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:69
+msgid "Select an event"
+msgstr "Vybrat událost"
+
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:89
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:100
+msgid "Purchaser"
+msgstr "Kupující"
+
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:90
+#: views/integrations/fooevent/wcfmu-view-wc-fooevents-tickets.php:101
+msgid "Attendee"
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:263
+msgid "PDF Vouchers"
+msgstr "PDF vouchery"
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:268
+msgid "Voucher General Setting"
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:311
+msgid "Gift Voucher Setting"
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:316
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:322
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:329
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:335
+msgid "Enable to make this required."
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:347
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:354
+msgid "Recipient Fields:"
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:347
+msgid ""
+"Select recipient fields that you want to show in Email to Recipient block."
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:354
+msgid ""
+"Select recipient fields that you want to show in Offline to Recipient block."
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:357
+msgid "Voucher Template Setting"
+msgstr ""
+
+#: views/integrations/pdf_voucher/wcfmu-view-wc-pdf-vouchers-products-manage.php:366
+msgid "Voucher Vendor Setting"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrental-calendar.php:157
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:67
+msgid "Quote Requests"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:48
+msgid "Quote Details"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:55
+msgid "Quote Request #"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:81
+msgid "Quote Actions"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:114
+msgid "Quote Management"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:327
+msgid "Quote Messages"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrental-quote-details.php:334
+msgid "Send Message"
+msgstr "Odeslat zprávu"
+
+#: views/integrations/rental/wcfmu-view-wcrentalpro-product-manage.php:236
+msgid "Rental"
+msgstr "Pronájem"
+
+#: views/integrations/rental/wcfmu-view-wcrentalpro-product-manage.php:244
+msgid "Hourly Price"
+msgstr "Hodinová cena"
+
+#: views/integrations/rental/wcfmu-view-wcrentalpro-product-manage.php:245
+msgid "General Price"
+msgstr "Obecná cena"
+
+#: views/integrations/rental/wcfmu-view-wcrentalpro-product-manage.php:268
+msgid "Daye Range"
+msgstr ""
+
+#: views/integrations/rental/wcfmu-view-wcrentalpro-product-manage.php:285
+msgid "Discount depending on day length"
+msgstr "Sleva v závislosti na délce dne"
+
+#: views/integrations/toolset/wcfmu-view-toolset-types-articles-manage.php:257
+#: views/integrations/toolset/wcfmu-view-toolset-types-products-manage.php:257
+#: views/integrations/toolset/wcfmu-view-toolset-types-taxonomy.php:87
+#: views/integrations/toolset/wcfmu-view-toolset-types-user-profile.php:212
+msgid "--- not set ---"
+msgstr "--- nenastaveno ---"
+
+#: views/integrations/toolset/wcfmu-view-toolset-types-settings.php:61
+msgid "Product Type Toolset Fields"
+msgstr ""
+
+#: views/integrations/toolset/wcfmu-view-toolset-types-settings.php:88
+msgid ""
+"Create group of your Store Toolset Types Fields as per Product Types. "
+"Product Manager will work according to that."
+msgstr ""
+
+#: views/reviews/dokan/wcfmu-view-reviews.php:21
+msgid "Approved"
+msgstr "Schválené"
+
+#: views/reviews/dokan/wcfmu-view-reviews.php:23
+msgid "Spam"
+msgstr "Spam"
+
+#: views/reviews/dokan/wcfmu-view-reviews.php:24
+msgid "Trash"
+msgstr "Koš"
+
+#: views/reviews/dokan/wcfmu-view-reviews.php:70
+#: views/reviews/dokan/wcfmu-view-reviews.php:78
+msgid "Rating"
+msgstr "Hodnocení"
+
+#. Name of the plugin
+msgid "WCFM - WooCommerce Frontend Manager - Ultimate"
+msgstr "WCFM - WooCommerce Frontend Manager - Ultimate"
+
+#. Description of the plugin
+msgid ""
+"Now manage your WooCommerce Store from your Store Front with more Powers. "
+"Easily and Peacefully."
+msgstr ""
+"Nyní spravujte svůj WooCommerce z vašeho frontendu s dalšími vychytávkami. "
+"Snadno a pohodlně. <strong>O překlad se stará: <a href=\"https://vandaal.cz"
+"\">Fany VanDaal</a></strong> (https://vandaal.cz)."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wclovers.com"
+msgstr "https://wclovers.com"
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr "WC Lovers"

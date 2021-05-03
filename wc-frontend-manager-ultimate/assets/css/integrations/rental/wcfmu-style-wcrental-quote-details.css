@@ -1,0 +1,40 @@
+#wcfm-main-contentainer label.wcfm_title {
+	font-size: 15px;
+	margin-bottom: 5px !important;
+	font-style: normal;
+	width: 35%;
+	display: inline-block;
+}
+
+ul.quote-message li .quote-message-content.customer {
+  background: #efefef;
+  color: #555;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+}
+
+ul.quote-message li .quote-message-content.customer:after {
+	border-color: #efefef transparent;
+}
+
+.quote_items { color: #D15600; }
+
+.quote-status {
+  padding: 4px 4px;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 12px;
+	line-height: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	display: inline-block;
+	float: left;
+}
+
+.quote-status-quote-cancelled { background-color: #CC0000; }
+.quote-status-quote-completed { background-color: #4096EE; }
+.quote-status-quote-accepted { background-color: #008C00; }
+.quote-status-quote-processing { background-color: #FF0084; }
+.quote-status-quote-pending { background-color: #D15600; }
+.quote-status-quote-on-hold { background-color: #C79810; }

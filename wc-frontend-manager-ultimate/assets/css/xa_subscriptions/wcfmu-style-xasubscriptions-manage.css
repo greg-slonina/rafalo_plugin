@@ -1,0 +1,216 @@
+#subscriptions_details_general_expander .form-field-wide label, #subscriptions_details_subscription_expander .form-field-wide label, #subscriptions_details_billing_schedule_expander .date-fields strong, #subscriptions_details_billing_schedule_expander p.wcfm_title {
+	width: 50%;
+	display: inline-block; 
+	margin-top: 15px;
+}
+
+#wcfm-main-contentainer #wcfm_modify_subscription_status {
+	float: right;
+	margin-top: 2px;
+	margin-left: 10px;
+	
+	background: #1a1a1a none repeat scroll 0 0;
+	border: 0 none;
+	border-radius: 2px;
+	color: #fff;
+	font-family: Montserrat,"Helvetica Neue",sans-serif;
+	font-weight: 500;
+	letter-spacing: 0.046875em;
+	line-height: 1;
+	padding: 0.84375em 0.875em 0.78125em !important;
+	text-transform: uppercase;
+	
+	color: #ffffff !important;
+	float: none;
+	padding: 4px;
+}
+
+#wcfm-main-contentainer #wcfm_modify_subscription_status:hover {
+	background: #17a2b8 none repeat scroll 0 0;
+}
+
+.subscription-orderno {
+	padding: 2px 4px;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 12px;
+	line-height: 10px;
+	background-color: #4096EE;
+}
+
+.subscription-orderno a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.subscription-status {
+	padding: 4px 4px;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 12px;
+	line-height: 10px;
+	margin-top: 6px;
+	margin-left: 10px;
+	display: inline-block;
+	float: left;
+}
+
+.subscription-status-active { background-color: #4096EE; }
+.subscription-status-cancelled { background-color: #a00; }
+.subscription-status-on-hold { background-color: #C79810; }
+.subscription-status-expired { background-color: #d0c21f; }
+
+#orders_details_general_expander a, #subscriptions_details_subscription_expander a { color: #2ea2cc !important; }
+#orders_details_general_expander .order-again { display: none; }
+
+#subscriptions_details_subscription_expander table td, #subscriptions_details_subscription_expander table th {
+	text-align: left;
+}
+
+#subscriptions_details_subscription_expander table.woocommerce_order_items th.line_cost, #subscriptions_details_subscription_expander table.woocommerce_order_items td.line_cost { text-align: center; }
+
+#subscriptions_details_subscription_expander table.woocommerce_order_items td.thumb .wc-order-item-thumbnail {
+	width: 38px;
+	height: 38px;
+	border: 2px solid #e8e8e8;
+	background: #f8f8f8;
+	color: #ccc;
+	position: relative;
+	font-size: 21px;
+	display: block;
+	text-align: center;
+}
+
+#subscriptions_details_subscription_expander table.woocommerce_order_items td.thumb .wc-order-item-thumbnail img {
+	max-width: 100%;
+	height: auto;
+}
+
+#subscriptions_details_subscription_expander table.woocommerce_order_items td.thumb {
+	text-align: left;
+	width: 38px;
+	padding-bottom: 1.5em;
+}
+
+#subscriptions_details_subscription_expander table.woocommerce_order_items td.line_cost {
+	width: 1%;
+}
+
+#subscriptions_details_subscription_expander table.woocommerce_order_items td.shipping_tax_cost {
+	width: 150px;
+}
+
+#subscriptions_details_subscription_expander .wc-order-totals {
+	float: right;
+	width: 50%;
+	margin: 0;
+	padding: 0;
+}
+
+#subscriptions_details_subscription_expander table.woocommerce_order_items table.display_meta tr th, #subscriptions_details_subscription_expander table.woocommerce_order_items table.display_meta tr td, #subscriptions_details_subscription_expander table.woocommerce_order_items table.meta tr th {
+	border: 0;
+	padding: 0 4px .5em 0;
+	line-height: 1.5em;
+	font-size: .92em!important;
+	color: #888;
+	vertical-align: middle;
+	background: #fdfdfd;
+}
+#subscriptions_details_subscription_expander table.woocommerce_order_items table.display_meta tr th { width: 20%; }
+
+#subscriptions_details_subscription_expander .wc-order-totals .total { font-weight: 500; }
+#subscriptions_details_subscription_expander .wc-order-totals .total, #subscriptions_details_subscription_expander .wc-order-totals .label {
+	color: #43454b !important;
+	text-align: right !important;
+	padding: 5px 10px;
+}
+#subscriptions_details_subscription_expander .wc-order-totals .refunded-total { color: #a00; }
+
+#subscriptions_details_subscription_expander table.woocommerce_order_items .wc-order-item-discount {
+	display: block;
+  margin-top: .5em;
+  white-space: nowrap;
+  text-align: right;
+}
+
+#subscriptions_details_subscription_expander table.woocommerce_order_items .wc-order-item-discount .amount {
+	font-size: .92em!important;
+  color: #888;
+}
+
+#subscriptions_details_subscription_expander .wc-order-data-row .wc-used-coupons {
+	text-align: left;
+	float: left;
+	width: 50%;
+}
+
+#subscriptions_details_subscription_expander ul.wc_coupon_list {
+	padding-bottom: 5px;
+	margin: 0;
+	overflow: hidden;
+	zoom: 1;
+	clear: both;
+	list-style: none;
+}
+
+#subscriptions_details_subscription_expander ul.wc_coupon_list li {
+	margin: 0;
+}
+
+#subscriptions_details_subscription_expander ul.wc_coupon_list li.code {
+	display: inline-block;
+	position: relative;
+	padding: 0 .5em;
+	background-color: #fff;
+	border: 1px solid #aaa;
+	box-shadow: 0 1px 0 #dfdfdf;
+	border-radius: 4px;
+	margin-right: 5px;
+	margin-top: 5px;
+}
+
+#subscriptions_details_subscription_expander ul.wc_coupon_list li.code a { margin-right: 5px; }
+
+#subscriptions_details_subscription_expander ul.wc_coupon_list li.code a span {
+	display: inline-block;
+	text-decoration: none;
+	color: #888;
+	cursor: pointer;
+}
+
+#subscriptions_details_billing_schedule_expander .date-fields .hf-date-input, #subscriptions_details_billing_schedule_expander select.wcfm-select {
+	width: 48%;
+	display: inline-block; 
+	margin-top: 15px;
+}
+
+#subscriptions_details_billing_schedule_expander select.billing_period, #subscriptions_details_billing_schedule_expander select.billing_interval {
+	width: 19%;
+	margin-right: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  .no_ipad {
+  	display: none !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .no_mob {
+  	display: none !important;
+  }
+  
+  #subscriptions_details_general_expander .form-field-wide label, #subscriptions_details_subscription_expander .form-field-wide label, #subscriptions_details_billing_schedule_expander .date-fields .hf-date-input, #subscriptions_details_billing_schedule_expander p.wcfm_title, #subscriptions_details_billing_schedule_expander select.wcfm-select {
+		width: 98%;
+	}
+	
+	#subscriptions_details_billing_schedule_expander select.billing_period, #subscriptions_details_billing_schedule_expander select.billing_interval {
+		width: 47%;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+  .no_mob {
+  	display: none !important;
+  }
+}

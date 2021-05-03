@@ -1,0 +1,570 @@
+div.wcfm-content {
+	padding: 0px;
+	margin: 0px;
+}
+
+.wc_appointments_calendar_form .appointments {
+    color: #000;
+    width: 100%
+}
+
+.wc_appointments_calendar_form .appointments .single_appointment {
+    font-size: 15px;
+    line-height: 1.5em;
+    margin: 0 0 4px 0;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 5
+}
+
+.wc_appointments_calendar_form .appointments .single_appointment:hover {
+    z-index: 10;
+    box-shadow: 0 8px 9px -6px rgba(0, 0, 0, .2);
+    transition: all 150ms ease
+}
+
+.wc_appointments_calendar_form .appointments .single_appointment a {
+    background-color: rgba(255, 255, 255, .8);
+    color: #000;
+    display: block;
+    height: 100%;
+    margin-left: 4px;
+    padding: 2px 4px;
+    position: relative;
+    text-decoration: none;
+    width: 100%
+}
+
+.wc_appointments_calendar_form .appointments .single_appointment a:hover {
+    background-color: rgba(255, 255, 255, .7)
+}
+
+.wc_appointments_calendar_form .appointments .single_appointment a ul {
+    padding: 0;
+    margin: 0
+}
+
+.wc_appointments_calendar_form .appointments .single_appointment a ul li {
+    list-style: none;
+    font-size: .75em;
+    padding: 0;
+    margin: 0;
+    border: 0
+}
+
+.wc_appointments_calendar_form .appointments .single_appointment a ul li.appointment_status {
+    display: inline-block;
+    position: absolute;
+    top: 3px;
+    left: auto;
+    right: 16px;
+    text-align: right
+}
+
+.wc_appointments_calendar_form .appointments .single_appointment a ul li.appointment_status:before {
+    font-family: WooCommerce;
+    speak: none;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    text-indent: 0;
+    content: '';
+    font-size: 1.2em
+}
+
+.wc_appointments_calendar_form .appointments .single_appointment a ul li.appointment_status.status-incart:before,
+.wc_appointments_calendar_form .appointments .single_appointment a ul li.appointment_status.status-unpaid:before {
+    content: "\e033"
+}
+
+.wc_appointments_calendar_form .appointments .single_appointment a ul li.appointment_status.status-pending-confirmation:before,
+.wc_appointments_calendar_form .appointments .single_appointment a ul li.appointment_status.status-pending:before {
+    content: "\e012"
+}
+
+.wc_appointments_calendar_form .appointments .single_appointment a ul li.appointment_status.status-confirmed:before {
+    content: "\e011"
+}
+
+.wc_appointments_calendar_form .appointments .single_appointment a ul li.appointment_status.status-paid:before {
+    content: "\e015"
+}
+
+.wc_appointments_calendar_form .appointments .single_appointment a ul li.appointment_status.status-cancelled:before {
+    content: "\e013"
+}
+
+.wc_appointments_calendar_form .appointments .single_appointment a ul li.appointment_status.status-complete:before {
+    content: "\e015"
+}
+
+.wc_appointments_calendar_form .appointments.bymonth {
+    margin-top: 10px;
+    max-height: 100px;
+    overflow: auto
+}
+
+.wc_appointments_calendar_form .appointments.bymonth .single_appointment {
+    position: relative
+}
+
+.wc_appointments_calendar_form .calendar_wrapper {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    display: flex;
+    overflow: hidden
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation {
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header {
+    display: flex;
+    flex-flow: row wrap;
+    z-index: 10
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_labels {
+    flex: 0 0 70px
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_labels .empty_label {
+    cursor: auto;
+    display: block;
+    height: 80px;
+    margin: 10px 10px 0;
+    vertical-align: top;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_labels .allday_label {
+    cursor: auto;
+    display: block;
+    box-sizing: border-box;
+    height: 30px;
+    padding: 6px 12px;
+    vertical-align: top;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_days {
+    flex: 1 1 0
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_days.staff_scroll {
+    overflow-x: auto
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_days.staff_scroll .header_wrapper .header_column {
+    flex: 0 0 170px
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_days .header_wrapper {
+    background-color: #fff;
+    display: flex;
+    margin: 0;
+    min-width: 100%;
+    position: relative;
+    width: auto;
+    white-space: nowrap;
+    z-index: 4
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_days .header_wrapper .header_column {
+    box-sizing: border-box;
+    border-left: 1px solid #ddd;
+    cursor: default;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    position: relative
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_days .header_wrapper .header_column .header_label {
+    height: 80px;
+    margin: 10px 10px 0
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_days .header_wrapper .header_column .header_label.staff_label {
+    text-align: center
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_days .header_wrapper .header_column .header_label a {
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	text-decoration: none;
+	z-index: 9;
+	color: #17a2b8;
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_days .header_wrapper .header_column .header_label a:hover {
+    opacity: .8
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_days .header_wrapper .header_column .header_label img {
+    border-radius: 50%;
+    margin-right: 5px
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_days .header_wrapper .header_column .header_label span {
+    vertical-align: top;
+    display: block;
+    line-height: 1.3
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_days .header_wrapper .header_column .header_label span.daynum {
+    font-size: 3.5em
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_days .header_wrapper .header_column .header_label span.staff_name {
+    max-width: 145px;
+    overflow: hidden
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_header .header_days .header_wrapper .header_column .header_allday {
+    box-sizing: border-box;
+    display: block;
+    padding: 3px 0;
+    height: 30px
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_body {
+    background-image: linear-gradient(to bottom, #999 0, #f9f9f9 1%, #f9f9f9 26%, #f9f9f9 50%, #ddd 51%, #f9f9f9 52%);
+    background-repeat: repeat;
+    background-position-x: 0;
+    background-size: auto 4.16667%;
+    background-origin: content-box;
+    display: flex;
+    flex-flow: row wrap
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_body .body_labels {
+    flex: 0 0 70px
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_body .body_labels .hours {
+    font-size: .85em;
+    margin: 0;
+    position: relative;
+    z-index: 4
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_body .body_labels .hours .hour_label {
+    display: block;
+    height: 60px;
+    height: 60px
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_body .body_labels .hours .hour_label:first-child label {
+    display: none
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_body .body_labels .hours .hour_label label {
+    background: #f9f9f9;
+    float: left;
+    margin-top: -15px;
+    padding: 5px 10px;
+    vertical-align: top;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_body .body_days {
+    flex: 1 1 0
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_body .body_days.staff_scroll {
+    overflow-x: auto
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_body .body_days.staff_scroll .body_wrapper .body_column {
+    flex: 0 0 170px
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_body .body_days .body_wrapper {
+    display: flex;
+    height: 1440px;
+    margin: 0;
+    min-width: 100%;
+    width: auto;
+    white-space: nowrap;
+    z-index: 8
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .calendar_body .body_days .body_wrapper .body_column {
+    box-sizing: border-box;
+    border-left: 1px solid #ddd;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    position: relative
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .current {
+    background-color: rgba(0, 0, 0, .05);
+    z-index: 3
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .past a {
+    color: rgba(0, 0, 0, .4)
+}
+
+.wc_appointments_calendar_form .calendar_wrapper .calendar_presentation .indicator {
+    width: 100%;
+    height: 0;
+    margin-top: -1px;
+    border-bottom: 2px solid rgba(255, 0, 0, .9);
+    background-color: rgba(255, 255, 255, .5);
+    position: absolute;
+    z-index: 4
+}
+
+.wc_appointments_calendar_form .tablenav {
+    height: auto
+}
+
+.wc_appointments_calendar_form .tablenav:after,
+.wc_appointments_calendar_form .tablenav:before {
+	content: " ";
+	display: table
+}
+
+.wc_appointments_calendar_form .tablenav:after {
+	clear: both
+}
+
+.wc_appointments_calendar_form .tablenav .filters {
+	float: left;
+	margin: 5px 0
+}
+
+.wc_appointments_calendar_form .tablenav .filters .chosen-container {
+	width: 12em
+}
+
+.wc_appointments_calendar_form .tablenav .views {
+	float: right;
+	margin: 5px 0;
+	padding: 0
+}
+
+.wc_appointments_calendar_form .tablenav .views a {
+	display: inline-block;
+	padding: 6px 12px;
+	text-decoration: none
+}
+
+.wc_appointments_calendar_form .tablenav .views a.current {
+	background-color: #fff;
+	border-bottom: 3px solid #0073aa;
+	pointer-events: none;
+	cursor: default
+}
+
+.wc_appointments_calendar_form .tablenav .date_selector {
+	display: inline-block;
+	float: left;
+	margin: 5px
+}
+
+.wc_appointments_calendar_form .tablenav .date_selector div {
+	margin: 0px 10px;
+  float: left
+}
+
+.wc_appointments_calendar_form .tablenav .date_selector div input {
+	width: 100%!important;
+}
+
+.wc_appointments_calendar_form .tablenav .date_selector div:first-of-type select {
+	margin-right: 5px
+}
+
+.wc_appointments_calendar_form .tablenav .date_selector select {
+	vertical-align: middle;
+	width: 6em!important;
+}
+
+.wc_appointments_calendar_form .tablenav .date_selector a {
+	display: block;
+	text-indent: -9999px;
+	position: relative;
+	height: 1em;
+	width: 1em;
+	font-size: 1.2em;
+	padding: .5em
+}
+
+.wc_appointments_calendar_form .tablenav .date_selector a.prev {
+    float: left
+}
+
+.wc_appointments_calendar_form .tablenav .date_selector a.next {
+    float: right
+}
+
+.wc_appointments_calendar_form .tablenav .date_selector .calendar_day {
+	padding: 6px;
+	margin: 0
+}
+
+.wc_appointments_calendar_form .tablenav .week_selector {
+	float: left;
+	margin: 5px;
+	display: block
+}
+
+.wc_appointments_calendar_form .tablenav .week_selector .week_picker {
+	margin: 0px 10px;
+	float: left
+}
+
+.wc_appointments_calendar_form .tablenav .week_selector .week_picker .calendar_day {
+	padding: 6px;
+	width: 100%!important;
+	margin: 0
+}
+
+.wc_appointments_calendar_form .tablenav .week_selector button {
+	background: 0;
+	border: 0;
+	padding: 0
+}
+
+.wc_appointments_calendar_form .tablenav .week_selector a {
+	display: block;
+	text-indent: -9999px;
+	position: relative;
+	height: 1em;
+	width: 1em;
+	font-size: 1.2em;
+	padding: .5em
+}
+
+.wc_appointments_calendar_form .tablenav .week_selector a.prev {
+    float: left
+}
+
+.wc_appointments_calendar_form .tablenav .week_selector a.next {
+    float: right
+}
+
+.wc_appointments_calendar_form .wc_appointments_calendar {
+    width: 100%
+}
+
+.wc_appointments_calendar_form .wc_appointments_calendar td {
+    color: #bbb;
+    padding: 10px 10px 0 0 !important;
+    font-size: 15px;
+    border-right: 1px solid #ddd !important;
+    border-bottom: 1px solid #ddd !important;
+    height: 120px;
+    vertical-align: top !important;
+}
+
+.wc_appointments_calendar_form .wc_appointments_calendar td .datenum {
+    margin-left: 10px;
+    color: #17a2b8;
+}
+
+.wc_appointments_calendar_form .wc_appointments_calendar td.calendar-current-day .datenum {
+    color: red;
+    font-weight: 600
+}
+
+.wc_appointments_calendar_form .wc_appointments_calendar td.calendar-passed-day {
+    background: #efefef
+}
+
+.wc_appointments_calendar_form .wc_appointments_calendar td.calendar-passed-day a,
+.wc_appointments_calendar_form .wc_appointments_calendar td.calendar-passed-day li,
+.wc_appointments_calendar_form .wc_appointments_calendar td.calendar-passed-day ul {
+    color: rgba(0, 0, 0, .4)
+}
+
+.wc_appointments_calendar_form .wc_appointments_calendar td.calendar-diff-month {
+    background: #efefef
+}
+
+.wc_appointments_calendar_form .wc_appointments_calendar tbody tr td:last-child {
+    border-right: 0
+}
+
+.wc_appointments_calendar_form .wc_appointments_calendar tbody tr:last-child td {
+    border-bottom: 0
+}
+
+.status-cancelled { color: #f86c6b; }
+.status-complete { color: #4dbd74; }
+.status-confirmed { color: #20c997; }
+.status-paid { color: #20a8d8; }
+.status-wc-partial-payment { color: #20a8d8; }
+.status-pending-confirmation { color: #f8cb00; }
+
+.wc_appointments_calendar_form .day_label_short { display: none; }
+
+@media only screen and (max-width: 640px) {
+	.wc_appointments_calendar_form .tablenav .filters {
+		float: none;
+		text-align: center;
+	}
+	
+	.wc_appointments_calendar_form .tablenav .date_selector {
+		margin: 0px auto;
+		text-align: center;
+		width: 100%;
+		float: none;
+	}
+	
+	.wc_appointments_calendar_form .tablenav .date_selector a {
+		float: none;
+	}
+	
+	.wc_appointments_calendar_form .tablenav .date_selector div, .wc_appointments_calendar_form .tablenav .week_selector .week_picker {
+		float: none;
+		display: inline-block;
+	}
+	
+	.wc_appointments_calendar_form .tablenav .views {
+		float: none;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+	}
+	
+	#wcfm-main-contentainer table td, #wcfm-main-contentainer table thead th {
+    padding: 1em .5em !important;
+  }
+  
+  .wc_appointments_calendar_form .day_label_long { display: none; }
+  .wc_appointments_calendar_form .day_label_short { display: block; }
+  
+  .wc_appointments_calendar_form .appointments ul li a ul li:not(.appointment_status) { display: none; }
+  .wc_appointments_calendar_form .appointments li:not(.multiple-staff-appointment) a { padding: 0px; margin-left: 1px; }
+  .wc_appointments_calendar_form .wc_appointments_calendar td .appointments ul li a strong, .wc_appointments_calendar_form .calendar_wrapper ul li a strong { font-size: 10px; }
+  .wc_appointments_calendar_form .calendar_days .allday_label { padding: 2px; }
+}

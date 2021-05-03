@@ -1,0 +1,10 @@
+table.dataTable.display tr td:nth-child(2), 
+table.dataTable.display tr td:nth-child(3), 
+table.dataTable.display tr td:nth-child(4), 
+table.dataTable.display tr td:nth-child(5), 
+table.dataTable.display tr th:nth-child(2),
+table.dataTable.display tr th:nth-child(3), 
+table.dataTable.display tr th:nth-child(4),
+table.dataTable.display tr th:nth-child(5) {
+	text-align: center;
+}

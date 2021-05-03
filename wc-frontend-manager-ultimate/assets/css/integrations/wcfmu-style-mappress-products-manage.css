@@ -1,0 +1,92 @@
+.mapp-m-panel hr {
+  display: none;	
+}
+
+.mapp-m-panel a {
+	color: #17a2b8;
+}
+
+#mapp_m_save, #mapp_m_cancel {
+  margin-top: 0px;
+}
+
+#mapp_e_saddr {
+	padding: 5px;
+	margin-bottom: 10px;
+	font-size: 15px;
+	display: inline-block;
+	background-color: #fff !important;
+	border: 1px solid #555 !important;
+	box-shadow: none;
+}
+
+#mapp_e_search {
+	background: #17a2b8;
+	border-color: #17a2b8 #17a2b8 #17a2b8;
+	-webkit-box-shadow: 0 1px 0 #17a2b8;
+	box-shadow: 0 1px 0 #17a2b8;
+	color: #fff;
+	text-decoration: none;
+	text-shadow: 0 -1px 1px #17a2b8, 1px 0 1px #17a2b8, 0 1px 1px #17a2b8, -1px 0 1px #17a2b8;
+	
+	display: inline-block;
+	font-size: 13px;
+	line-height: 26px;
+	height: 28px;
+	margin: 0;
+	padding: 0 10px 1px;
+	cursor: pointer;
+	border-width: 1px;
+	border-style: solid;
+	-webkit-appearance: none;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	white-space: nowrap;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background-image: url(../../images/search.png) !important;
+}
+
+.mapp-geolocate-button {
+	color: #555;
+	border-color: #ccc;
+	background: #f7f7f7;
+	-webkit-box-shadow: 0 1px 0 #ccc;
+	box-shadow: 0 1px 0 #ccc;
+	vertical-align: top;
+	
+	display: inline-block;
+	font-size: 13px;
+	line-height: 26px;
+	height: 28px;
+	margin: 0;
+	padding: 0 10px 1px;
+	cursor: pointer;
+	border-width: 1px;
+	border-style: solid;
+	-webkit-appearance: none;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	white-space: nowrap;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background-image: url(../../images/geolocate.png) !important;
+}
+
+.mapp-search-button, .mapp-geolocate-button {
+	background-repeat: no-repeat !important;
+	background-position: center center !important;
+	margin: 0 !important;
+	vertical-align: middle !important;
+}
+
+.mapp-search-button:before, #mappress .mapp-geolocate-button:before {
+	content: "XX";
+	visibility: hidden;
+}
+
+.mapp-table > div > div, .mapp-table > div > label {
+	vertical-align: top;
+}

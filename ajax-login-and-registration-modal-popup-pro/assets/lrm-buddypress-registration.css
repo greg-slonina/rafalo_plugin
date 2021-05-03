@@ -1,0 +1,36 @@
+.lrm-user-modal #buddypress  {
+    padding-bottom: 30px;
+}
+
+.lrm-user-modal #buddypress .standard-form#signup_form div.submit,
+.register-section {
+    float: none !important;
+    width: 100% !important;
+    flex: none !important;
+    padding: 0 !important;
+}
+
+.lrm-user-modal #buddypress .standard-form label,
+.lrm-user-modal #buddypress .standard-form legend,
+.lrm-user-modal #buddypress .standard-form span.label {
+    font-size: 16px;
+}
+
+.lrm-form #buddypress input[type=submit] {}
+
+.lrm-form #buddypress input[type=submit],
+#buddypress .standard-form#signup_form input[type=text],
+#buddypress .standard-form#signup_form textarea {
+    width: 100% !important;
+}
+
+
+#buddypress .standard-form#signup_form input[type=number],
+#buddypress .standard-form#signup_form input[type=tel],
+#buddypress .standard-form#signup_form input[type=password],
+#buddypress .standard-form#signup_form input[type=text],
+#buddypress .standard-form#signup_form input[type=email] {
+    border-radius: 0.25em;
+    border: 1px solid #d2d8d8;
+}
+

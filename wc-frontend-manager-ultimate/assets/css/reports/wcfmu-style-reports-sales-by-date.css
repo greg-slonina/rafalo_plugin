@@ -1,0 +1,84 @@
+.woocommerce-reports-wide .postbox div.stats_range ul li.custom {
+	padding: 9px 10px;
+  vertical-align: middle;
+}
+
+.woocommerce-reports-wide .postbox div.stats_range ul li.custom div, .woocommerce-reports-wide .postbox div.stats_range ul li.custom form {
+	display: inline-block;
+  margin: 0;
+  width: 260px;
+}
+
+#wcfm-main-contentainer .wcfm_add_attribute { 
+	margin-top: 0px;
+}
+
+.woocommerce-reports-wide .postbox div.stats_range ul li.custom div input.range_datepicker, .woocommerce-reports-wide .postbox div.stats_range ul li.custom form input.range_datepicker {
+  padding: 5px;
+	margin: 0 10px 0 0;
+	background: 0 0;
+	border: 0;
+	color: #777;
+	text-align: center;
+	-webkit-box-shadow: none;
+	box-shadow: none;	
+	max-width: 85px;
+	display: inline-block;
+}
+
+.woocommerce-reports-wide .button {
+	color: #555;
+	border-color: #ccc;
+	background: #f7f7f7;
+	-webkit-box-shadow: 0 1px 0 #ccc;
+	box-shadow: 0 1px 0 #ccc;
+	vertical-align: top;
+	
+	display: inline-block;
+	text-decoration: none;
+	font-size: 13px;
+	margin: 0;
+	padding: 0 10px 1px;
+	cursor: pointer;
+	border-width: 1px;
+	border-style: solid;
+	-webkit-appearance: none;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	white-space: nowrap;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.woocommerce-reports-wide .button:hover {
+	background: #2ea2cc;
+}
+
+.woocommerce-reports-wide .postbox div.stats_range ul li.custom.active {
+	color: #0073aa;
+}
+
+.woocommerce-reports-wide .postbox div.stats_range .export_csv, .woocommerce-reports-wide .postbox h3.stats_range .export_csv, .woocommerce-reports-wrap .postbox div.stats_range .export_csv, .woocommerce-reports-wrap .postbox h3.stats_range .export_csv {
+	float: right;
+	line-height: 26px;
+	border-left: 1px solid #dfdfdf;
+	padding: 10px;
+	display: block;
+	text-decoration: none;
+	color: #0073aa;
+}
+
+.woocommerce-reports-wide .postbox div.stats_range .export_csv:before, .woocommerce-reports-wide .postbox h3.stats_range .export_csv:before, .woocommerce-reports-wrap .postbox div.stats_range .export_csv:before, .woocommerce-reports-wrap .postbox h3.stats_range .export_csv:before {
+	font-family: woocommerce;
+	speak: none;
+	font-weight: 400;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	content: "\e02e";
+	text-decoration: none;
+	margin-right: 4px;
+	vertical-align: middle;
+}

@@ -1,0 +1,2330 @@
+# Translation of YITH WooCommerce Gift Cards in Swedish
+# This file is distributed under the same license as the YITH WooCommerce Gift Cards package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-25 10:31:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: YITH WooCommerce Gift Cards\n"
+
+#: templates/myaccount/my-giftcards.php:18
+msgid "Apply to cart"
+msgstr ""
+
+#: plugin-options/recipient_delivery-options.php:334
+msgid "If enabled, a PDF with the gift card will be attached to the gift card email."
+msgstr ""
+
+#: plugin-options/general-options.php:74
+msgid "If enabled, the use of gift cards codes to purchase a gift card product is not allowed. This option is only valid when using the default gift card fields to redeem a code."
+msgstr ""
+
+#: lib/class-yith-ywgc-gift-cards-table.php:105
+msgid "Recipient"
+msgstr ""
+
+#: templates/shortcodes/gift-card-check-balance-form.php:23
+msgid "This code is not associated to any existing gift card. Try again."
+msgstr "Den här koden är inte kopplad till något befintligt presentkort. Försök igen. "
+
+#: templates/shortcodes/gift-card-check-balance-form.php:19
+msgid "Your gift card balance: "
+msgstr ""
+
+#: lib/class-yith-ywgc-backend.php:648
+msgid "Enable to override the expiration global settings for this gift card."
+msgstr ""
+
+#: lib/class-yith-ywgc-backend.php:631
+msgid "Override global expiration settings"
+msgstr "Åsidosätt globala utgångsinställningar"
+
+#: lib/class-yith-ywgc-backend.php:594
+msgid "Enable to include a discount for this gift card."
+msgstr "Gör det möjligt att inkludera en rabatt på detta presentkort."
+
+#: lib/class-yith-ywgc-backend.php:577
+msgid "Add a discount"
+msgstr "Lägg till en rabatt"
+
+#: plugin-options/general-options.php:40
+msgid "Enable this option if you want to create physical gift cards without any code."
+msgstr "Aktivera det här alternativet om du vill skapa fysiska presentkort utan någon kod."
+
+#: plugin-options/general-options.php:44
+msgid "Disable code generation in virtual gift cards"
+msgstr "Inaktivera kodgenerering i virtuella presentkort"
+
+#: plugin-options/general-options.php:36
+msgid "Disable code generation in physical gift cards"
+msgstr "Inaktivera kodgenerering i fysiska presentkort"
+
+#: lib/class-yith-ywgc-gift-cards-table.php:103
+msgid "Used in orders"
+msgstr "Används i beställningar"
+
+#: lib/class-yith-ywgc-gift-cards-table.php:101
+msgid "Purchase order"
+msgstr "Inköpsorder"
+
+#: plugin-options/cart_checkout-options.php:206
+msgid "If enabled, customers can apply the gift card code in the default field on Checkout."
+msgstr "Om det är aktiverat kan kunderna använda presentkortkoden i standardfältet i kassan."
+
+#: plugin-options/cart_checkout-options.php:202
+msgid "Show gift card field on Checkout"
+msgstr "Visa presentkortfältet i kassan"
+
+#: plugin-options/cart_checkout-options.php:117
+#: plugin-options/cart_checkout-options.php:168
+msgid "If enabled, customers can apply the gift card code in the default field on Cart."
+msgstr "Om det är aktiverat kan kunderna använda presentkortkoden i standardfältet i kundvagnen."
+
+#: plugin-options/cart_checkout-options.php:113
+#: plugin-options/cart_checkout-options.php:164
+msgid "Show gift card field on Cart"
+msgstr "Visa presentkortfält i kundvagnen"
+
+#: plugin-options/cart_checkout-options.php:89
+msgid "write the apply coupon description text"
+msgstr "skriv tillämpningsbeskrivningstexten"
+
+#: plugin-options/cart_checkout-options.php:85
+msgid "Enter a text for the 'Have a coupon?' description in checkout"
+msgstr "Ange en text för 'Har en kupong?' beskrivning i kassan"
+
+#: plugin-options/cart_checkout-options.php:73
+msgid "Enter a text for the 'Have a coupon?' label in checkout"
+msgstr "Ange en text för 'Har en kupong?' etikett i kassan"
+
+#: plugin-options/cart_checkout-options.php:64
+msgid "write the coupon field placeholder"
+msgstr "skriv kupongfältets platshållare"
+
+#: plugin-options/cart_checkout-options.php:60
+msgid "Enter a text for the 'Coupon code' placeholder in cart"
+msgstr "Ange en text för platshållaren \"Kupongkod\" i vagnen"
+
+#: plugin-options/cart_checkout-options.php:52
+msgid "write the coupon field title"
+msgstr "skriv kupongfältets titel"
+
+#: plugin-options/cart_checkout-options.php:48
+msgid "Enter a text for the 'Coupon:' title in cart"
+msgstr "Ange en text för titeln 'Kupong:' i kundvagnen"
+
+#: lib/class-yith-ywgc-frontend-premium.php:1152
+#: plugin-options/cart_checkout-options.php:91
+msgid "If you have a coupon code, please apply it below."
+msgstr "Om du har en kupongkod, vänligen använd den nedan."
+
+#: lib/class-yith-ywgc-frontend-premium.php:1148
+#: plugin-options/cart_checkout-options.php:65
+msgid "Coupon code"
+msgstr "Rabattkod"
+
+#: lib/class-yith-ywgc-frontend-premium.php:1144
+#: plugin-options/cart_checkout-options.php:53
+msgid "Coupon:"
+msgstr "Kupong:"
+
+#: lib/class-yith-ywgc-backend.php:749
+msgid "+ Add another amount"
+msgstr "+ Lägg till ett annat belopp"
+
+#: lib/class-yith-ywgc-backend.php:716
+msgid "If enabled, customers can choose from the available amounts or also enter a custom amount for the gift card."
+msgstr "Om det är aktiverat kan kunder välja mellan tillgängliga belopp eller också ange ett anpassat belopp för presentkortet."
+
+#: lib/class-yith-ywgc-backend.php:696 plugin-options/general-options.php:147
+msgid "Allow custom amount"
+msgstr "Tillåt anpassat belopp"
+
+#: lib/class-yith-ywgc-backend.php:691
+msgid "Enable to override the custom amount global settings for this gift card."
+msgstr "Aktivera att åsidosätta de globala inställningarna för det anpassade beloppet för detta presentkort."
+
+#: lib/class-yith-ywgc-backend.php:674
+msgid "Override custom amount settings"
+msgstr "Överstyr anpassade beloppsinställningar"
+
+#: templates/admin/update-cron.php:14
+msgid "Update Cron"
+msgstr "Uppdatera Cron"
+
+#: plugin-options/recipient_delivery-options.php:310
+msgid "If enabled, the gift card price will show up in the gift card template."
+msgstr "Om det är aktiverat visas presentkortpriset i presentkortmallen."
+
+#: plugin-options/recipient_delivery-options.php:305
+msgid "Show the gift card price in the email"
+msgstr "Visa presentkortets pris i e-postmeddelandet"
+
+#: plugin-options/recipient_delivery-options.php:298
+msgid "write a message with the instructions to show in the gift card PDF"
+msgstr "skriva ett meddelande med anvisningarna för att visa i presentkortet PDF"
+
+#: plugin-options/recipient_delivery-options.php:286
+msgid "write a message with the instructions to show in the gift card email"
+msgstr "skriv ett meddelande med anvisningarna som ska visas i presentkortets e-post"
+
+#: plugin-options/recipient_delivery-options.php:176
+msgid "write a placeholder for the sender message field"
+msgstr "skriv en platshållare för avsändarens meddelandefält"
+
+#: plugin-options/recipient_delivery-options.php:155
+msgid "write the sender info title"
+msgstr "skriv avsändarens info-titel"
+
+#: plugin-options/recipient_delivery-options.php:123
+msgid "write the recipient info title"
+msgstr "skriv mottagarens info-titel"
+
+#: plugin-options/recipient_delivery-options.php:110
+msgid "Click the button to update the Cron Job that delivers the scheduled gift cards."
+msgstr "Klicka på knappen för att uppdatera Cron Job som levererar de schemalagda presentkorten."
+
+#: plugin-options/recipient_delivery-options.php:87
+msgid "Daily"
+msgstr "Dagligen"
+
+#: plugin-options/recipient_delivery-options.php:86
+msgid "Hourly"
+msgstr "Varje timme"
+
+#: plugin-options/recipient_delivery-options.php:84
+msgid "Select the interval to execute the scheduled gift card delivery."
+msgstr "Välj intervallet för att utföra den planerade presentkortleveransen."
+
+#: plugin-options/recipient_delivery-options.php:80
+msgid "Choose an interval to send the scheduled gift cards"
+msgstr "Välj ett intervall för att skicka de schemalagda presentkorten"
+
+#: plugin-options/recipient_delivery-options.php:35
+msgid "write the delivery info title"
+msgstr "skriv leveransinfo titel"
+
+#: plugin-options/gift_this_product-options.php:28
+msgid "Enable \"Gift this product\" option"
+msgstr "Aktivera alternativet \"Gör produkten till en gåva)"
+
+#: plugin-options/general-options.php:175
+msgid "write expiration date in months"
+msgstr "skriv utgångsdatum i månader"
+
+#: plugin-options/general-options.php:161
+msgid "write a minimal amount"
+msgstr "skriva ett minimalt belopp"
+
+#: plugin-options/general-options.php:65
+msgid "write the set an amount area title"
+msgstr "skriv uppsättningen ett beloppsområdets titel"
+
+#: plugin-options/general-options.php:115
+msgid "Write the additional emails here, separated by comma"
+msgstr "Skriv de ytterligare e-postmeddelandena här, separerade med komma"
+
+#: plugin-options/design-options.php:199
+msgid "write the suggest image size in pixels"
+msgstr "skriv den föreslagna bildstorleken i pixlar"
+
+#: plugin-options/design-options.php:162
+msgid "write the view all button text"
+msgstr "skriv Visa alla knapptexter"
+
+#: plugin-options/design-options.php:131
+msgid "write the choose image area title"
+msgstr "skriv titeln Välj bildområdet"
+
+#: plugin-options/cart_checkout-options.php:40
+#: plugin-options/cart_checkout-options.php:77
+msgid "write the apply coupon button text"
+msgstr "skriv tillämpa kupongknappstext"
+
+#: templates/yith-gift-cards/physical-gift-card-details.php:34
+msgid "Enter recipient name"
+msgstr "Ange mottagarens namn"
+
+#: templates/yith-gift-cards/gift-card-presets.php:137
+msgid "Upload your custom image here, to make your gift card even more special!"
+msgstr "Ladda upp din anpassade bild här för att göra ditt presentkort ännu mer speciellt!"
+
+#: templates/yith-gift-cards/gift-card-details.php:69
+#: templates/yith-gift-cards/physical-gift-card-details.php:29
+msgid "Enter your name"
+msgstr "Skriv ditt namn"
+
+#: templates/yith-gift-cards/gift-card-details.php:46
+msgid "Enter the recipient's email address"
+msgstr "Ange mottagarens e-postadress"
+
+#: templates/yith-gift-cards/gift-card-details.php:40
+msgid "Enter the recipient's name"
+msgstr "Ange mottagarens namn"
+
+#: templates/yith-gift-cards/gift-card-details.php:28
+msgid "Today"
+msgstr "Idag"
+
+#: templates/support-attachments.php:43
+msgid "Use it!"
+msgstr "Använd den!"
+
+#: templates/support-attachments.php:23
+msgid "Drop files or click here"
+msgstr "Släpp filer eller klicka här"
+
+#: templates/shortcodes/gift-card-check-balance-form.php:3
+msgid "Enter code"
+msgstr "Ange kod"
+
+#: plugin-options/recipient_delivery-options.php:342
+msgid "Write the gift card PDF file name. You can use the placeholders [giftcardid] to include the gift card ID and [uniqid] to include a unique and random ID. It is recommended to add these placeholders to avoid duplicate file names."
+msgstr "Skriv PDF-filnamnet på presentkortet. Du kan använda platshållarna [giftcardid] för att inkludera presentkort-ID och [uniqid] för att inkludera ett unikt och slumpmässigt ID. Det rekommenderas att lägga till dessa platshållare för att undvika duplicerade filnamn."
+
+#: plugin-options/recipient_delivery-options.php:337
+msgid "PDF file name"
+msgstr "PDF-filnamn"
+
+#: plugin-options/recipient_delivery-options.php:177
+#: templates/yith-gift-cards/gift-card-details.php:74
+#: templates/yith-gift-cards/physical-gift-card-details.php:41
+msgid "Enter a message for the recipient"
+msgstr "Ange ett meddelande för mottagaren"
+
+#: plugin-options/gift_this_product-options.php:104
+msgid "Description to show before button"
+msgstr "Beskrivning att vissa före knappen"
+
+#: plugin-options/gift_this_product-options.php:40
+msgid "Enable to show the \"Gift this product\" link also in shop pages."
+msgstr "Aktivera att visa länken \"Gör produkten till en gåva\"också på butiksidor."
+
+#: plugin-options/gift_this_product-options.php:36
+msgid "Show \"Gift this product\" option in shop page"
+msgstr "Visa alternativet \"Gör produkten till en gåva\" i butikssidan"
+
+#: plugin-options/general-options.php:130
+msgid "If enabled, the sender will receive an email notifying the use of the gift card purchased by him."
+msgstr "Om den är aktiverad, kommer avsändaren att få ett e-postmeddelande om användningen av presentkortet som han har köpt."
+
+#: plugin-options/general-options.php:122
+msgid "If enabled, the sender will receive an email when the gift card has been delivered to recipient."
+msgstr "Om den är aktiverad får avsändaren ett e-postmeddelande när presentkortet har levererats till mottagaren."
+
+#: plugin-options/general-options.php:118
+msgid "Notify the delivery of a gift card"
+msgstr "Meddela leverans av ett presentkort"
+
+#: plugin-options/general-options.php:113
+msgid "Create additional emails separating by a comma, to receive a BCC email with the gift card code."
+msgstr "Skapa ytterligare e-postmeddelanden som separeras med komma för att få ett BCC-e-postmeddelande med presentkortkoden."
+
+#: plugin-options/general-options.php:109
+msgid "BCC additional emails"
+msgstr "BCC ytterligare e-postmeddelanden"
+
+#: plugin-options/general-options.php:89
+msgid "Notifications"
+msgstr "Aviseringar"
+
+#: lib/third-party/elementor/class-ywgc-user-table-widget.php:28
+msgid "YITH Gift Card User Table"
+msgstr "YITH-presentkort för användarkort"
+
+#: lib/third-party/elementor/class-ywgc-redeem-widget.php:28
+msgid "YITH Gift Card Redeem Form"
+msgstr "YITH Presentkort Lös in form"
+
+#: lib/third-party/elementor/class-ywgc-form-widget.php:64
+msgid "Your section title"
+msgstr "Din sektortitel"
+
+#: lib/third-party/elementor/class-ywgc-form-widget.php:61
+msgid "Form Title"
+msgstr "Formulärrubrik"
+
+#: lib/third-party/elementor/class-ywgc-form-widget.php:28
+msgid "YITH Gift Card Product Form"
+msgstr "YITH presentkort produktform"
+
+#: lib/third-party/elementor/class-ywgc-check-balance-widget.php:64
+#: lib/third-party/elementor/class-ywgc-redeem-widget.php:64
+#: lib/third-party/elementor/class-ywgc-user-table-widget.php:64
+msgid "Write a description here"
+msgstr "Skriv en beskrivning här"
+
+#: lib/third-party/elementor/class-ywgc-check-balance-widget.php:61
+#: lib/third-party/elementor/class-ywgc-redeem-widget.php:61
+#: lib/third-party/elementor/class-ywgc-user-table-widget.php:61
+msgid "Form description"
+msgstr "Formulärbeskrivning"
+
+#: lib/third-party/elementor/class-ywgc-check-balance-widget.php:53
+#: lib/third-party/elementor/class-ywgc-form-widget.php:53
+#: lib/third-party/elementor/class-ywgc-redeem-widget.php:53
+#: lib/third-party/elementor/class-ywgc-user-table-widget.php:53
+msgid "Content"
+msgstr "Innehåll"
+
+#: lib/third-party/elementor/class-ywgc-check-balance-widget.php:28
+msgid "YITH Gift Card Check Balance Form"
+msgstr "YITH Presentkort Kontrollbalansformulär"
+
+#: lib/emails/class-yith-ywgc-email-delivered-gift-card.php:46
+#: lib/emails/class-yith-ywgc-email-delivered-gift-card.php:86
+msgid "Your gift card has been delivered to <code>{recipient_email}</code>.<br>Thanks again for choosing our store!<br>We wish you all the best."
+msgstr "Ditt presentkort har levererats till <code>{recipient_email}</code> . <br> Tack igen för att du valde vår butik! <br> Vi önskar er all lycka."
+
+#: lib/emails/class-yith-ywgc-email-delivered-gift-card.php:41
+msgid "[{site_title}] Your gift card has been delivered"
+msgstr "[{site_title}] Ditt presentkort har levererats"
+
+#: lib/emails/class-yith-ywgc-email-delivered-gift-card.php:40
+msgid "Your gift card has been delivered"
+msgstr "Ditt presentkort har levererats"
+
+#: lib/emails/class-yith-ywgc-email-delivered-gift-card.php:37
+msgid "Customer notification - the gift card you have bought has been delivered"
+msgstr "Kundmeddelande - presentkortet du har köpt har levererats"
+
+#: lib/emails/class-yith-ywgc-email-delivered-gift-card.php:34
+msgid "YITH Gift Cards - Delivered Gift Card Notification"
+msgstr "YITH Presentkort - Levererat presentkortmeddelande"
+
+#: lib/class-yith-ywgc-gift-cards-table.php:244
+msgid "Link copied!"
+msgstr "Länk kopierad!"
+
+#: lib/class-yith-ywgc-gift-cards-table.php:243
+msgid "Copy link"
+msgstr "Kopiera länk"
+
+#: lib/class-yith-ywgc-frontend-premium.php:404
+msgid "Sending..."
+msgstr "Skickar…"
+
+#: lib/class-yith-ywgc-frontend-premium.php:403
+msgid "Uploading... {percent}%"
+msgstr "Laddar upp ... {procent}%"
+
+#: lib/class-yith-ywgc-frontend-premium.php:399
+msgid "File is too large. Max file size:"
+msgstr "Filen är för stor. Max filstorlek:"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:618
+msgid "Pre-Printed"
+msgstr "Förtryckt"
+
+#. Author URI of the plugin/theme
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"
+
+#. Author of the plugin/theme
+msgid "YITH"
+msgstr "YITH"
+
+#. Description of the plugin/theme
+msgid "<code><strong>YITH WooCommerce Gift Card</strong></code> allows your users to purchase and give gift cards. In this way, you will increase the spread of your brand, your sales, and average spend, especially during the holidays. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce shop on <strong>YITH</strong></a>."
+msgstr "<code><strong>YITH WooCommerce Gift Card</strong></code> tillåter dina användare att köpa och ge presentkort. På detta sätt kommer du att öka spridningen av ditt varumärke, din försäljning och genomsnittliga utgifter, särskilt under semestern. <a href=\"https://yithemes.com/\" target=\"_blank\">Få fler plugins för din e-handelsbutik på <strong>YITH</strong></a> ."
+
+#. Plugin URI of the plugin/theme
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-gift-cards"
+msgstr "https://yithemes.com/themes/plugins/yith-woocommerce-gift-cards"
+
+#. Plugin Name of the plugin/theme
+msgid "YITH WooCommerce Gift Cards Premium"
+msgstr "YITH WooCommerce Presentkort Premium"
+
+#: views/privacy/html-policy-content-has_access.php:4
+msgctxt "Privacy Policy Content"
+msgid "Sender name, recipient name, recipient email address, delivery date, message, amount and balance of the gift card you have purchased"
+msgstr "Avsändarens namn, mottagarens namn, mottagarens e-postadress, leveransdatum, meddelande, belopp och saldo på presentkortet du har köpt"
+
+#: views/privacy/html-policy-content-has_access.php:1
+msgctxt "Privacy Policy Content"
+msgid "Members of our team have access to the information you provide us. For example, both Administrators and Shop Managers can access:"
+msgstr "Medlemmar i vårt team har tillgång till den information du förser oss med. Både administratörer och butiks chefer kan till exempel komma åt:"
+
+#: views/privacy/html-policy-content-collect_and_store.php:4
+msgctxt "Privacy Policy Content"
+msgid "Sender's name, recipient's name and email address:  we’ll use this to create gift card products"
+msgstr "Avsändarens namn, mottagarens namn och e-postadress: vi använder detta för att skapa presentkortsprodukter"
+
+#: views/privacy/html-policy-content-collect_and_store.php:1
+msgctxt "Privacy Policy Content"
+msgid "While you visit our site, we collect information about you during the checkout process on our store. We’ll track:"
+msgstr "När du besöker vår webbplats, och under utcheckningsprocessen i vår butik samlar vi in information om dig. Vi spårar:"
+
+#: templates/yith-gift-cards/ywgc-gift-card-template.php:193
+msgctxt "gift card expiration date"
+msgid "This gift card code will be valid until %s"
+msgstr ""
+
+#: templates/yith-gift-cards/ywgc-gift-card-template.php:186
+msgid "You can automatically apply the gift card in our shop by reading the QR code with your phone."
+msgstr "Du kan automatiskt applicera presentkortet i vår butik genom att läsa QR-koden med din telefon."
+
+#: templates/yith-gift-cards/ywgc-gift-card-template.php:156
+msgid "Gift card code:"
+msgstr "Presentkortkod:"
+
+#: templates/yith-gift-cards/ywgc-gift-card-template.php:63
+#: templates/yith-gift-cards/ywgc-gift-card-template.php:64
+#: templates/yith-gift-cards/ywgc-gift-card-template.php:69
+#: templates/yith-gift-cards/ywgc-gift-card-template.php:70
+msgid "Gift card image"
+msgstr "Presentkort bild"
+
+#: templates/yith-gift-cards/ywgc-gift-card-template.php:35
+#: templates/yith-gift-cards/ywgc-gift-card-template.php:36
+#: templates/yith-gift-cards/ywgc-gift-card-template.php:86
+#: templates/yith-gift-cards/ywgc-gift-card-template.php:87
+msgid "The shop logo for the gift card"
+msgstr "Butikens logotyp för presentkortet"
+
+#: templates/yith-gift-cards/gift-card-presets.php:118
+msgid "Choose"
+msgstr "Välj"
+
+#: templates/yith-gift-cards/gift-card-presets.php:74
+#: templates/yith-gift-cards/gift-card-presets.php:136
+msgid "Upload your image"
+msgstr "Ladda upp din bild"
+
+#: templates/yith-gift-cards/gift-card-presets.php:43
+msgctxt "choose image"
+msgid "All"
+msgstr "Allt"
+
+#: templates/yith-gift-cards/gift-card-presets.php:39
+msgid "Categories"
+msgstr "Kategorier"
+
+#: templates/yith-gift-cards/gift-card-details.php:55
+msgid "+ add another recipient"
+msgstr "+ lägg till ytterligare mottagare"
+
+#: templates/yith-gift-cards/gift-card-details.php:51
+msgid "If empty, will be sent to your email address"
+msgstr "Om det är tomt, skickas det till din e-postadress"
+
+#: templates/yith-gift-cards/gift-card-details.php:44
+msgid "Email: "
+msgstr "E-post: "
+
+#: templates/yith-gift-cards/gift-card-details.php:33
+msgid "RECIPIENT INFO"
+msgstr "MOTTAGAR INFO"
+
+#: templates/yith-gift-cards/gift-card-design.php:181
+msgid "Upload your image >"
+msgstr "Ladda upp din bild>"
+
+#: templates/yith-gift-cards/gift-card-design.php:181
+msgid "Suggested size (px): "
+msgstr "Föreslagen storlek (px):"
+
+#: templates/yith-gift-cards/gift-card-design.php:181
+msgid "Or "
+msgstr "Eller"
+
+#: templates/single-product/form-preview.php:32
+#: templates/yith-gift-cards/ywgc-gift-card-template.php:134
+msgid "To: "
+msgstr "Till:"
+
+#: templates/single-product/form-preview.php:28
+#: templates/yith-gift-cards/ywgc-gift-card-template.php:130
+msgid "From: "
+msgstr "Från: "
+
+#: plugin-options/gift_this_product-options.php:107
+msgid "Do you feel this product is perfect for a friend or a loved one? You can buy a gift card for this item!"
+msgstr "Känner du att den här produkten är perfekt för en vän eller en älskad? Du kan köpa ett presentkort för den här artikeln!"
+
+#: templates/single-product/add-to-cart/gift-card.php:49
+#: templates/single-product/add-to-cart/gift-this-product-form.php:23
+msgid "This product cannot be purchased"
+msgstr "Den här produkten kan inte köpas"
+
+#: templates/shortcodes/redeem-gift-card-form.php:11
+msgid "ENTER AMOUNT"
+msgstr "Ange belopp"
+
+#: templates/shortcodes/redeem-gift-card-form.php:10
+msgid "Used amount: "
+msgstr "Använt belopp:"
+
+#: templates/shortcodes/redeem-gift-card-form.php:41
+msgid "The gift card balance is not enough to cover this order amount."
+msgstr "Presentkortsbalansen räcker inte för att täcka detta beställningsbelopp."
+
+#: templates/shortcodes/redeem-gift-card-form.php:36
+msgid "New gift card balance: "
+msgstr "Ny presentkortsaldo:"
+
+#: templates/shortcodes/redeem-gift-card-form.php:36
+msgid "The gift card has been redeemed successfully."
+msgstr "Presentkortet har inlösts framgångsrikt."
+
+#: templates/shortcodes/gift-card-check-balance-form.php:4
+#: templates/shortcodes/redeem-gift-card-form.php:12
+msgid "Submit"
+msgstr "Skicka"
+
+#: templates/shortcodes/redeem-gift-card-form.php:9
+msgid "ENTER CODE"
+msgstr "ANGE KOD"
+
+#: templates/shortcodes/gift-card-check-balance-form.php:2
+#: templates/shortcodes/redeem-gift-card-form.php:8
+msgid "Gift Card code: "
+msgstr "Presentkortskod: "
+
+#: templates/shortcodes/redeem-gift-card-form.php:42
+msgid "Gift card balance: "
+msgstr "Presentkort saldo"
+
+#: templates/myaccount/my-giftcards.php:165
+#: templates/shortcodes/user-gift-card-table.php:132
+msgid "Apply this gift card"
+msgstr "Använd detta presentkort"
+
+#: templates/myaccount/my-giftcards.php:144
+msgid "Order %s"
+msgstr "Order %s"
+
+#: templates/myaccount/my-giftcards.php:128
+#: templates/shortcodes/user-gift-card-table.php:115
+msgctxt "gift card expiration date"
+msgid "Expires on: %s"
+msgstr ""
+
+#: templates/myaccount/my-giftcards.php:73
+msgid "Add new"
+msgstr "Lägg till ny"
+
+#: templates/myaccount/my-giftcards.php:72
+#: templates/shortcodes/user-gift-card-table.php:69
+msgid "My Gift Cards"
+msgstr "Mina presentkort"
+
+#: templates/myaccount/my-giftcards.php:81
+msgid "Add it"
+msgstr "Lägg till det"
+
+#: templates/myaccount/my-giftcards.php:80
+msgid "Your gift card code here ..."
+msgstr "Din presentkodkod här ..."
+
+#: templates/myaccount/my-giftcards.php:78
+msgid "Link a gift card to your account "
+msgstr "Länka ett presentkort till ditt konto"
+
+#: templates/myaccount/my-giftcards.php:64
+msgid "The gift card code %s is now linked to your account."
+msgstr "Presentkortkoden %s är nu länkad till ditt konto."
+
+#: templates/myaccount/my-giftcards.php:58
+#: templates/shortcodes/redeem-gift-card-form.php:29
+msgid "The code added is not associated to any existing gift card."
+msgstr "Den tillagda koden är inte kopplad till något befintligt presentkort."
+
+#: templates/shortcodes/user-gift-card-table.php:31
+msgid "Auto Apply"
+msgstr "Används automatiskt"
+
+#: templates/myaccount/my-giftcards.php:17
+#: templates/shortcodes/user-gift-card-table.php:30
+msgid "Status"
+msgstr "Status"
+
+#: templates/myaccount/my-giftcards.php:16
+msgid "Usage"
+msgstr "Användning"
+
+#: lib/class-yith-ywgc-gift-cards-table.php:84
+#: templates/myaccount/my-giftcards.php:14
+#: templates/shortcodes/user-gift-card-table.php:28
+msgid "Code"
+msgstr "Kod"
+
+#: templates/emails/product-suggestion.php:37
+msgid "Maybe you can use the gift card for this item:"
+msgstr "Kanske kan du använda presentkortet för det här objektet:"
+
+#: templates/checkout/form-gift-cards.php:68
+msgctxt "Apply gift card"
+msgid "Gift card code"
+msgstr "Presentkortskod"
+
+#: templates/checkout/form-gift-cards.php:63
+msgid "Apply the gift card code in the following field"
+msgstr "Använd presentkortskoden i nedanstående fält"
+
+#: templates/checkout/form-gift-cards.php:52
+msgctxt "Apply gift card"
+msgid "In order to apply the gift card, the total amount in the cart has to be at least"
+msgstr "För att applicera presentkortet måste det totala beloppet i vagnen vara minst"
+
+#: plugin-options/recipient_delivery-options.php:329
+msgid "Attach PDF"
+msgstr "Bifoga PDF"
+
+#: plugin-options/recipient_delivery-options.php:326
+msgid "If enabled, the gift card template will show a QR code with the gift card code, so if customers read the code with their phone, they will be redirected to the Shop page and the gift card will be automatically applied to the cart."
+msgstr "Om det är aktiverat kommer presentkortmallen att visa en QR-kod med presentkortkoden, så om kunder läser koden med sin telefon kommer de att omdirigeras till butiksidan och presentkortet appliceras automatiskt på vagnen."
+
+#: plugin-options/recipient_delivery-options.php:321
+msgid "Show QR code"
+msgstr "Visa QR-kod"
+
+#: plugin-options/recipient_delivery-options.php:318
+msgid "If enabled, the gift card expiration date will show up in the gift card template, if available."
+msgstr "Om det är aktiverat visas utgångsdatumet för presentkort i presentkortmallen, om det finns tillgängligt."
+
+#: plugin-options/recipient_delivery-options.php:313
+msgid "Show the gift card’s expiration date"
+msgstr "Visa presentkortets utgångsdatum"
+
+#: plugin-options/recipient_delivery-options.php:297
+msgid "You can automatically apply the gift card code by simply reading the QR code with your phone."
+msgstr "Du kan automatiskt tillämpa presentkortkoden genom att bara läsa QR-koden med din telefon."
+
+#: plugin-options/recipient_delivery-options.php:293
+msgid "Custom text in the PDF"
+msgstr "Anpassad text i PDF"
+
+#: plugin-options/recipient_delivery-options.php:285
+#: templates/yith-gift-cards/ywgc-gift-card-template.php:180
+msgid "To use this gift card, you can either enter the code in the gift card field on the cart page or click on the following link to automatically get the discount."
+msgstr "För att använda detta presentkort kan du antingen ange koden i presentkortfältet på vagnssidan eller klicka på följande länk för att automatiskt få rabatten."
+
+#: plugin-options/recipient_delivery-options.php:281
+msgid "Custom text in the email"
+msgstr "Anpassad text i e-postmeddelandet"
+
+#: plugin-options/recipient_delivery-options.php:278
+msgid "This text will be displayed in the gift card email with the instructions about how to redeem the gift card. Leave this field empty if you do not want to display any message."
+msgstr "Denna text kommer att visas i presentkortets e-postmeddelande med instruktionerna om hur du löser in presentkortet. Lämna det här fältet tomt om du inte vill visa något meddelande."
+
+#: plugin-options/recipient_delivery-options.php:273
+msgid "Enter a custom text in the email template"
+msgstr "Ange en anpassad text i e-postmallen"
+
+#: plugin-options/recipient_delivery-options.php:265
+msgid "If enabled, the gift card code will be automatically applied when the user clicks on the button."
+msgstr "Om det är aktiverat tillämpas presentkortskoden automatiskt när användaren klickar på knappen."
+
+#: plugin-options/recipient_delivery-options.php:261
+msgid "Auto-apply the Gift Card code"
+msgstr "Tillämpa presentkortkoden automatiskt"
+
+#: plugin-options/recipient_delivery-options.php:257
+msgid "Select the page where the recipient will be redirected after clicking on the discount button."
+msgstr "Välj den sida där mottagaren kommer att omdirigeras efter att ha klickat på rabattknappen."
+
+#: plugin-options/recipient_delivery-options.php:251
+msgid "Button redirect to"
+msgstr "Knappen omdirigerar till"
+
+#: plugin-options/recipient_delivery-options.php:244
+#: templates/emails/automatic-discount.php:12
+#: templates/emails/automatic-discount.php:18
+msgid "Apply your gift card code"
+msgstr "Använd din presentkod"
+
+#: plugin-options/recipient_delivery-options.php:241
+msgid "Button label"
+msgstr "Knapptext"
+
+#: plugin-options/recipient_delivery-options.php:236
+msgid "If enabled, the gift card dispatch email will contain a link to redirect your user to your site in one click."
+msgstr "Om det är aktiverat kommer e-postmeddelandet med presentkort att innehålla en länk för att omdirigera din användare till din webbplats med ett klick."
+
+#: plugin-options/recipient_delivery-options.php:232
+msgid "Show a button in the gift card email"
+msgstr "Visa en knapp i presentkortets e-postmeddelande"
+
+#: plugin-options/recipient_delivery-options.php:229
+msgid "WooCommerce emails settings"
+msgstr "WooCommerce e-postinställningar"
+
+#: plugin-options/recipient_delivery-options.php:229
+msgid "You can manage and edit the YITH Gift Card emails in the "
+msgstr "Du kan hantera och redigera YITH presentkort-e-postmeddelanden i"
+
+#: plugin-options/recipient_delivery-options.php:227
+msgid "Email options & customization"
+msgstr "E-postalternativ & anpassning"
+
+#: plugin-options/recipient_delivery-options.php:210
+msgid "Ask sender's and recipient's name"
+msgstr "Fråga avsändarens och mottagarens namn"
+
+#: plugin-options/recipient_delivery-options.php:203
+msgid "Allow customers to add a printed message to the gift card"
+msgstr "Låt kunderna lägga till ett tryckt meddelande på presentkortet"
+
+#: plugin-options/recipient_delivery-options.php:199
+msgid "Recipient & Delivery settings for physical Gift Cards delivered at home"
+msgstr "Mottagare & leveransinställningar för fysiska presentkort levererade hemma"
+
+#: plugin-options/recipient_delivery-options.php:175
+msgid "Enter a placeholder for the sender's message field."
+msgstr "Ange en platshållare för avsändarens meddelandefält."
+
+#: plugin-options/recipient_delivery-options.php:171
+msgid "Placeholder for Message textarea"
+msgstr "Platshållare för meddelandetext"
+
+#: plugin-options/recipient_delivery-options.php:156
+#: templates/yith-gift-cards/gift-card-details.php:63
+#: templates/yith-gift-cards/physical-gift-card-details.php:23
+msgid "YOUR INFO"
+msgstr "Avsändarens information"
+
+#: plugin-options/recipient_delivery-options.php:154
+msgid "Enter a title for the section with sender's info."
+msgstr "Ange en titel för avsnittet med avsändarens information."
+
+#: plugin-options/recipient_delivery-options.php:150
+msgid "Title for “Sender's info” section"
+msgstr "Titel för avsändarens information"
+
+#: plugin-options/recipient_delivery-options.php:143
+msgid "Ask sender's name"
+msgstr "Fråga avsändarens namn"
+
+#: plugin-options/recipient_delivery-options.php:139
+msgid "If enabled, customers can set multiple recipients: one gift card for each of them will be generated."
+msgstr "Om det är aktiverat kan kunder ställa in flera mottagare: ett presentkort för var och en av dem kommer att genereras."
+
+#: plugin-options/recipient_delivery-options.php:135
+msgid "Enable multiple recipients for virtual gift cards"
+msgstr "Aktivera flera mottagare för virtuella presentkort"
+
+#: plugin-options/recipient_delivery-options.php:131
+msgid "If enabled, the recipient's name and email fields will be mandatory."
+msgstr "Om den är aktiverad är mottagarens namn och e-postfält obligatoriska."
+
+#: plugin-options/recipient_delivery-options.php:127
+msgid "Make recipient's info mandatory"
+msgstr "Gör mottagarens information obligatorisk"
+
+#: plugin-options/recipient_delivery-options.php:124
+msgid "RECIPIENT'S INFO"
+msgstr "Mottagarens information"
+
+#: plugin-options/recipient_delivery-options.php:122
+msgid "Enter a title for the section with the recipient's info."
+msgstr "Ange en titel för avsnittet med mottagarens information."
+
+#: plugin-options/recipient_delivery-options.php:118
+msgid "Title for the “Recipient info” section"
+msgstr "Titel för avsnittet \"Mottagarinformation\""
+
+#: plugin-options/recipient_delivery-options.php:100
+msgid "Select the time when the gift card will be sent. It is a 24h format, where the minimum time is 00:00 and the maximum is 24:00."
+msgstr "Välj tidpunkten när presentkortet ska skickas. Det är ett 24h-format, där minimitiden är 00:00 och den maximala är 24:00."
+
+#: plugin-options/recipient_delivery-options.php:96
+msgid "Choose a default delivery time for gift cards"
+msgstr "Välj en leveranstid för presentkort"
+
+#: plugin-options/recipient_delivery-options.php:76
+msgid "Allow your customers to choose a delivery date for the virtual gift card (option not available for physical gift cards delivered at home)."
+msgstr "Låt dina kunder välja ett leveransdatum för det virtuella presentkortet (alternativet är inte tillgängligt för fysiska presentkort som levereras hemma)."
+
+#: plugin-options/recipient_delivery-options.php:72
+msgid "Allow the user to choose the delivery date"
+msgstr "Låt användaren välja leveransdatum"
+
+#: plugin-options/recipient_delivery-options.php:36
+#: templates/yith-gift-cards/gift-card-details.php:21
+msgid "Delivery info"
+msgstr "Leveransinformation"
+
+#: plugin-options/recipient_delivery-options.php:34
+msgid "Enter a title for the delivery info area on your gift card page. This area will include recipient and sender's info, date of delivery and so on."
+msgstr "Ange en titel för leveransinfoområdet på din presentkortsida. Detta område kommer att innehålla information om mottagare och avsändare, leveransdatum och så vidare."
+
+#: plugin-options/recipient_delivery-options.php:30
+msgid "Title for “Delivery info” section"
+msgstr "Titel för avsnittet ”Leveransinfo”"
+
+#: plugin-options/recipient_delivery-options.php:26
+msgid "Recipient & Delivery settings for virtual gift cards"
+msgstr "Mottagare & leveransinställningar för virtuella presentkort"
+
+#: plugin-options/gift_this_product-options.php:225
+msgid "Automatically apply the gift voucher code to the cart, without the user having to enter it manually."
+msgstr "Använd automatiskt presentkortkoden på vagnen utan att användaren behöver ange den manuellt."
+
+#: plugin-options/gift_this_product-options.php:221
+msgid "Automatically apply the gift card code to cart"
+msgstr "Använd automatiskt presentkortkoden i kundvagnen"
+
+#: plugin-options/gift_this_product-options.php:213
+msgid "Add the recommended product to the recipient's cart"
+msgstr "Lägg till den rekommenderade produkten i mottagarens vagn"
+
+#: plugin-options/gift_this_product-options.php:209
+msgid "Automatically add the suggested product to the cart"
+msgstr "Lägg automatiskt till den föreslagna produkten i kundvagnen"
+
+#: plugin-options/gift_this_product-options.php:198
+msgid "Set the page you want the user to be redirected to when the button in the gift card email is clicked on."
+msgstr "Ställ in den sida du vill att användaren ska omdirigeras till när du klickar på knappen i presentkortet."
+
+#: plugin-options/gift_this_product-options.php:188
+msgid "Another page"
+msgstr "En annan sida"
+
+#: plugin-options/gift_this_product-options.php:187
+msgid "Product page"
+msgstr "Produktsida"
+
+#: plugin-options/gift_this_product-options.php:182
+msgid "Button redirect the user to"
+msgstr "Knappen omdirigerar användaren till"
+
+#: plugin-options/gift_this_product-options.php:175
+msgid "Go to the product"
+msgstr "Gå till produkten"
+
+#: plugin-options/gift_this_product-options.php:172
+msgid "Enter a text for the button displayed in the email sent to the gift card recipient."
+msgstr "Ange en text för knappen som visas i e-postmeddelandet som skickas till presentkortmottagaren."
+
+#: plugin-options/gift_this_product-options.php:171
+msgid "Button text"
+msgstr "Knapptext"
+
+#: plugin-options/gift_this_product-options.php:166
+msgid "Gift this product email options"
+msgstr "Gå med den här produktens e-postalternativ"
+
+#: plugin-options/gift_this_product-options.php:125
+msgid "Label colors"
+msgstr "Etikettfärger"
+
+#: plugin-options/gift_this_product-options.php:115
+msgid "Enter a custom text"
+msgstr "Ange en anpassad text"
+
+#: plugin-options/gift_this_product-options.php:94
+msgid "Button"
+msgstr "Knapp"
+
+#: plugin-options/gift_this_product-options.php:93
+msgid "Only text"
+msgstr "Endast text"
+
+#: plugin-options/gift_this_product-options.php:88
+msgid "Label style"
+msgstr "Etikettstil"
+
+#: plugin-options/gift_this_product-options.php:52
+msgid "Enable a gift card icon in the Gift this product title."
+msgstr "Aktivera en presentkortikon i den här produktens titel."
+
+#: plugin-options/gift_this_product-options.php:48
+msgid "Gift this product icon"
+msgstr "Gåva denna produktikon"
+
+#: plugin-options/gift_this_product-options.php:32
+msgid "Enable to allow users to buy a gift card of the same amount of the product. This feature appears on the product page. The product will be recommended in the recipient email that includes the gift card code."
+msgstr "Aktivera för att låta användare köpa ett presentkort med samma mängd produkt. Den här funktionen visas på produktsidan. Produkten kommer att rekommenderas i mottagarmail som innehåller presentkortkoden."
+
+#: plugin-options/gift_this_product-options.php:24
+msgid "Product page options"
+msgstr "Alternativ för produktsidan"
+
+#: plugin-options/general-options.php:207
+msgid "When an order containing a gift card is refunded"
+msgstr "När en beställning som innehåller ett presentkort återbetalas"
+
+#: plugin-options/general-options.php:202
+#: plugin-options/general-options.php:215
+msgid "Dismiss the gift cards"
+msgstr "Ta bort presentkorten"
+
+#: plugin-options/general-options.php:201
+#: plugin-options/general-options.php:214
+msgid "Disable the gift cards"
+msgstr "Inaktivera presentkorten"
+
+#: plugin-options/general-options.php:200
+#: plugin-options/general-options.php:213
+msgid "Do nothing"
+msgstr "Gör ingenting"
+
+#: plugin-options/general-options.php:194
+msgid "When an order containing a gift card is cancelled"
+msgstr "När en beställning som innehåller ett presentkort avbryts"
+
+#: plugin-options/general-options.php:190
+msgid "Gift card orders settings"
+msgstr "Inställningar för presentkort"
+
+#: plugin-options/general-options.php:171
+msgid "Set a default expiration for gift cards in months. If the value is zero, your gift cards will never expire."
+msgstr "Ställ in ett utgångsdatum för presentkort i månader. Om värdet är noll, går dina presentkort aldrig ut."
+
+#: plugin-options/general-options.php:170
+msgid "Gift card expiration date"
+msgstr "Presentkortens giltighetstid"
+
+#: plugin-options/general-options.php:157
+msgid "Set a minimum value for the custom amount of your gift cards. Leave empty if you don't want to set a minimum amount."
+msgstr "Ställ in ett minimivärde för det anpassade beloppet på dina presentkort. Lämna tomt om du inte vill ställa in ett minimumbelopp."
+
+#: plugin-options/general-options.php:151
+msgid "If enabled, customers can enter a custom amount when buying a gift card."
+msgstr "Om det är aktiverat kan kunderna ange ett anpassat belopp när de köper ett presentkort."
+
+#: plugin-options/general-options.php:67
+#: templates/single-product/add-to-cart/gift-card-amount-selection.php:14
+msgid "Set an amount"
+msgstr "Välj belopp"
+
+#: plugin-options/general-options.php:64
+msgid "Enter a title for the 'Set an amount' area on your gift card page. This area will include the preset gift card amounts and the custom amount if enabled."
+msgstr "Ange en rubrik för området \"Ställ in ett belopp\" på din presentkortsida. Detta område kommer att innehålla de förinställda presentkortsbeloppen och det anpassade beloppet om det är aktiverat."
+
+#: plugin-options/general-options.php:60
+msgid "Title for “Set an amount” section"
+msgstr "Titel för avsnittet \"Ställ in ett belopp\""
+
+#: plugin-options/general-options.php:144
+msgid "These options will be applied to all your gift card products, but in the gift card product edit page you can override them if you want different values for specific gift cards."
+msgstr "Dessa alternativ kommer att tillämpas på alla dina presentkortprodukter, men på redigeringssidan för presentkortprodukten kan du åsidosätta dem om du vill ha olika värden för specifika presentkort."
+
+#: plugin-options/general-options.php:142
+msgid "Global settings"
+msgstr "Globala inställningar"
+
+#: plugin-options/general-options.php:82
+msgid "If enabled, the user with role Shop Manager will be able to manage the plugin settings panel."
+msgstr "Om den är aktiverad kan användaren med rollen Shop Manager hantera inställningspanelen för insticksprogram."
+
+#: plugin-options/general-options.php:78
+msgid "Enable Shop Managers"
+msgstr "Aktivera butikschefer"
+
+#: plugin-options/general-options.php:126
+msgid "Notify the use of a gift card"
+msgstr "Meddela användningen av ett presentkort"
+
+#: plugin-options/general-options.php:105
+msgid "If enabled, the customer (the gift card sender) will receive a BCC email with the gift card code."
+msgstr "Om detta är aktiverat kommer kunden (presentkortets avsändare) att få ett BCC-e-postmeddelande med presentkortkoden."
+
+#: plugin-options/general-options.php:101
+msgid "Gift card sender notification"
+msgstr "Avsändare av presentkort"
+
+#: plugin-options/general-options.php:97
+msgid "If enabled, admin will receive a BCC email with the gift card code."
+msgstr "Om det är aktiverat kommer administratören att få ett BCC-e-postmeddelande med presentkortkoden."
+
+#: plugin-options/general-options.php:93
+msgid "Gift card admin notification"
+msgstr "Administratörsmeddelande om presentkort"
+
+#: plugin-options/general-options.php:70
+msgid "Prevent the use of a gift card to purchase another gift card"
+msgstr "Förhindra att ett presentkort används för att köpa ett annat presentkort"
+
+#: plugin-options/general-options.php:54
+msgid "Choose the pattern of new gift cards. If you set ***-*** your cards will have a code like: 1ME-D28."
+msgstr "Välj mönster för nya presentkort. Om du ställer in *** - *** kommer dina kort att ha en kod som: 1ME-D28."
+
+#: plugin-options/general-options.php:53
+msgid "Gift card code pattern"
+msgstr "Mönster för kod till presentkort"
+
+#: plugin-options/general-options.php:48
+msgid "Enable this option if you want to create virtual gift cards without any code."
+msgstr "Aktivera det här alternativet om du vill skapa virtuella presentkort utan någon kod."
+
+#: plugin-options/general-options.php:32
+msgid "Choose the date format for the gift card expiry date, date of delivery and so on."
+msgstr "Välj datumformat för utgångsdatum för presentkort, leveransdatum och så vidare."
+
+#: plugin-options/general-options.php:27
+msgid "Date format"
+msgstr "Datumformat"
+
+#: plugin-options/general-options.php:23
+msgid "General settings"
+msgstr "Allmänna inställningar"
+
+#: plugin-options/design-options.php:262
+msgid "Select the plugin main color."
+msgstr "Välj plugin huvudfärg."
+
+#: plugin-options/design-options.php:261
+msgid "Plugin main color"
+msgstr "Plugin huvudfärg"
+
+#: plugin-options/design-options.php:257
+msgid "Plugin design options"
+msgstr "Alternativ för plugin-design"
+
+#: plugin-options/design-options.php:211
+msgid "Set up a maximum size (in MB) for the custom images uploaded by customers. Enter 0 if you don't want to set any limit."
+msgstr "Ställ in en maximal storlek (i MB) för de anpassade bilderna som laddas upp av kunder. Ange 0 om du inte vill ställa in någon gräns."
+
+#: plugin-options/design-options.php:207
+msgid "Set a max size in MB for custom images (required)"
+msgstr "Ställ in en maxstorlek i MB för anpassade bilder (krävs)"
+
+#: plugin-options/design-options.php:197
+msgid "Enter a recommended size for the uploaded image that fits your gift card layout."
+msgstr "Ange en rekommenderad storlek för den överförda bilden som passar din presentkort."
+
+#: plugin-options/design-options.php:193
+msgid "Enter a recommended image size (in pixels) for custom images"
+msgstr "Ange en rekommenderad bildstorlek (i pixlar) för anpassade bilder"
+
+#: plugin-options/design-options.php:188
+msgid "Enable if the customer can upload a custom image/photo for the gift card."
+msgstr "Aktivera om kunden kan ladda upp en anpassad bild / foto för presentkortet."
+
+#: plugin-options/design-options.php:184
+msgid "Custom Image upload"
+msgstr "Anpassad bildöverföring"
+
+#: plugin-options/design-options.php:173
+msgid "Enable if you want to show a title below every image in the gallery."
+msgstr "Aktivera om du vill visa en titel under varje bild i galleriet."
+
+#: plugin-options/design-options.php:172
+msgid "Show image title"
+msgstr "Visa bildtitel"
+
+#: plugin-options/design-options.php:163
+#: templates/yith-gift-cards/gift-card-design.php:143
+msgid "VIEW ALL"
+msgstr "VISA ALLA"
+
+#: plugin-options/design-options.php:159
+msgid "Text for \"View all\" button"
+msgstr "Text för \"Visa alla\" -knappen"
+
+#: plugin-options/design-options.php:146
+msgid "Set how many gift card images to show on the gift card page. Other designs will be shown when the customer clicks on \"View all\" button."
+msgstr "Ange hur många presentkortbilder som ska visas på presentkortsidan. Andra mönster visas när kunden klickar på knappen \"Visa alla\"."
+
+#: plugin-options/design-options.php:145
+msgid "How many images to show"
+msgstr "Hur många bilder att visa"
+
+#: plugin-options/design-options.php:140
+msgid "Set your template categories"
+msgstr "Ställ in dina mallkategorier"
+
+#: plugin-options/design-options.php:140
+msgid "Set your gallery categories."
+msgstr "Ställ in dina gallerikategorier."
+
+#: plugin-options/design-options.php:140
+msgid "Allow users to pick the gift card image from those available in the gallery. Note: images that can be used by customers have to be uploaded through the Media gallery. To make the search easier, you can group images into categories (e.g. Christmas, Easter, Birthday, etc.) through this link: "
+msgstr "Tillåt användare att välja presentkortbilden från de som finns i galleriet. Obs: bilder som kan användas av kunder måste laddas upp via mediagalleriet. För att göra sökningen enklare kan du gruppera bilder i kategorier (t.ex. jul, påsk, födelsedag etc.) genom den här länken:"
+
+#: plugin-options/design-options.php:136
+msgid "Enable the gallery"
+msgstr "Aktivera galleriet"
+
+#: plugin-options/design-options.php:133
+#: templates/yith-gift-cards/gift-card-design.php:54
+msgid "Choose your image"
+msgstr "Välj din bild"
+
+#: plugin-options/design-options.php:130
+msgid " Enter a title for the 'Choose your image' area on your gift card page."
+msgstr "Ange en titel för området \"Välj din bild\" på din presentkortsida."
+
+#: plugin-options/design-options.php:126
+msgid "Title for “Choose your image” section"
+msgstr "Titel för avsnittet \"Välj din bild\""
+
+#: plugin-options/design-options.php:123
+msgid "Upload a image that will be used by default for all your gift cards. You can, however, override it when you create a new gift card product and leave empty if you don't want to apply a default image."
+msgstr "Ladda upp en bild som kommer att användas som standard för alla dina presentkort. Du kan dock åsidosätta den när du skapar en ny presentkortprodukt och lämnar tom om du inte vill använda en standardbild."
+
+#: plugin-options/design-options.php:119
+msgid "Default gift card image"
+msgstr "Standard presentkortsbild"
+
+#: plugin-options/design-options.php:115
+msgid "Gift card design options"
+msgstr "Alternativ för presentkort"
+
+#: plugin-options/design-options.php:76
+msgid "Add your shop logo before the gift card image"
+msgstr "Lägg till din butikslogotyp innan presentkortbilden"
+
+#: plugin-options/design-options.php:66 plugin-options/design-options.php:94
+msgid "Right"
+msgstr "Höger"
+
+#: plugin-options/design-options.php:65 plugin-options/design-options.php:93
+msgid "Center"
+msgstr "Centrera"
+
+#: plugin-options/design-options.php:64 plugin-options/design-options.php:92
+msgid "Left"
+msgstr "Vänster"
+
+#: plugin-options/design-options.php:59 plugin-options/design-options.php:87
+msgid "Logo alignment"
+msgstr "Logotypinriktning"
+
+#: plugin-options/design-options.php:48
+msgid "Add your shop logo after the gift card image"
+msgstr "Lägg till din butikslogotyp efter presentkortbilden"
+
+#: plugin-options/design-options.php:39
+msgid "Upload the logo you want to show in the gift card sent to customers."
+msgstr "Ladda upp logotypen du vill visa på presentkortet som skickas till kunderna."
+
+#: plugin-options/design-options.php:35
+msgid "Upload your shop logo"
+msgstr "Ladda upp din butikslogotyp"
+
+#: plugin-options/design-options.php:31
+msgid "Set if you want the shop logo to show up on the gift card template sent to the customers. We suggest you keep it disabled if your gift card template image contains your shop logo."
+msgstr "Ställ in om du vill att butikslogotypen ska visas på presentkortmallen som skickas till kunderna. Vi föreslår att du håller den inaktiverad om din presentkortmallbild innehåller din butikslogotyp."
+
+#: plugin-options/design-options.php:27
+msgid "Add your shop logo on gift cards"
+msgstr "Lägg till din butikslogotyp på presentkort"
+
+#: plugin-options/design-options.php:23
+msgid "Shop logo options"
+msgstr "Handla logotypalternativ"
+
+#: plugin-options/cart_checkout-options.php:315
+msgid "Colors of Apply gift card button"
+msgstr "Färger på Apply-presentknappen"
+
+#: plugin-options/cart_checkout-options.php:312
+#: templates/checkout/form-gift-cards.php:75
+msgid "Apply Gift Card"
+msgstr "Lägg till Presentkort"
+
+#: plugin-options/cart_checkout-options.php:308
+msgid "Text of Apply gift card button"
+msgstr "Text på Apply-presentknappen"
+
+#: plugin-options/cart_checkout-options.php:301
+#: plugin-options/cart_checkout-options.php:336
+#: plugin-options/gift_this_product-options.php:146
+msgid "hover text color"
+msgstr "hovra textfärg"
+
+#: plugin-options/cart_checkout-options.php:296
+#: plugin-options/cart_checkout-options.php:331
+#: plugin-options/gift_this_product-options.php:141
+msgid "default text color"
+msgstr "standard textfärg"
+
+#: plugin-options/cart_checkout-options.php:291
+#: plugin-options/cart_checkout-options.php:326
+#: plugin-options/gift_this_product-options.php:136
+msgid "hover color"
+msgstr "hovra färg"
+
+#: plugin-options/cart_checkout-options.php:286
+#: plugin-options/cart_checkout-options.php:321
+#: plugin-options/gift_this_product-options.php:131
+msgid "default color"
+msgstr "standardfärg"
+
+#: plugin-options/cart_checkout-options.php:280
+msgid "Colors of apply gift card section"
+msgstr "Färger på tillämpning av presentkort"
+
+#: plugin-options/cart_checkout-options.php:276
+msgid "Apply the gift card code in the following box"
+msgstr "Använd presentkortskoden i nedanstående fält"
+
+#: plugin-options/cart_checkout-options.php:272
+msgid "Enter a text for the gift card form"
+msgstr "Ange en text för presentkortformuläret"
+
+#: plugin-options/cart_checkout-options.php:267
+msgid "Visible form"
+msgstr "Synlig form"
+
+#: plugin-options/cart_checkout-options.php:266
+msgid "Hidden form"
+msgstr "Dold form"
+
+#: plugin-options/cart_checkout-options.php:261
+msgid "Apply gift card layout"
+msgstr "Tillämpa presentkort layout"
+
+#: plugin-options/cart_checkout-options.php:257
+msgid "Show a gift-card icon in the text before the gift card form."
+msgstr "Visa en presentkortikon i texten före presentkortformuläret."
+
+#: plugin-options/cart_checkout-options.php:253
+msgid "Enable icon before text"
+msgstr "Aktivera ikonen före text"
+
+#: plugin-options/cart_checkout-options.php:250
+#: templates/checkout/form-gift-cards.php:33
+msgid "Use it here!"
+msgstr "Använd den här."
+
+#: plugin-options/cart_checkout-options.php:246
+msgid "Enter here the text of the link that opens the gift card form"
+msgstr "Ange här texten till länken som öppnar presentkortformuläret"
+
+#: plugin-options/cart_checkout-options.php:243
+#: templates/checkout/form-gift-cards.php:33
+msgid "Got a gift card from a loved one?"
+msgstr "Har du en presentkortskod?"
+
+#: plugin-options/cart_checkout-options.php:239
+msgid "Enter a text before the gift card form"
+msgstr "Ange en text innan presentkortformuläret"
+
+#: plugin-options/cart_checkout-options.php:235
+msgid "Apply gift card section design"
+msgstr "Använd design av presentkort"
+
+#: plugin-options/cart_checkout-options.php:217
+msgid "after checkout form"
+msgstr "efter kassaformuläret"
+
+#: plugin-options/cart_checkout-options.php:216
+msgid "before checkout form"
+msgstr "före kassaformuläret"
+
+#: plugin-options/cart_checkout-options.php:198
+msgid "Checkout page options"
+msgstr "Alternativ i kassasidan"
+
+#: plugin-options/cart_checkout-options.php:128
+#: plugin-options/cart_checkout-options.php:179
+msgid "after cart"
+msgstr "efter vagn"
+
+#: plugin-options/cart_checkout-options.php:127
+#: plugin-options/cart_checkout-options.php:178
+msgid "before cart"
+msgstr "före vagn"
+
+#: plugin-options/cart_checkout-options.php:121
+#: plugin-options/cart_checkout-options.php:172
+#: plugin-options/cart_checkout-options.php:210
+msgid "Apply gift card position"
+msgstr "Använd presentkortposition"
+
+#: plugin-options/cart_checkout-options.php:155
+msgid "Enter here the cart minimum amount to allow using gift card codes."
+msgstr "Ange här vagnens lägsta belopp för att tillåta användning av presentkortkoder."
+
+#: plugin-options/cart_checkout-options.php:154
+msgid "Set cart minimum amount"
+msgstr "Ställ in minsta belopp"
+
+#: plugin-options/cart_checkout-options.php:147
+msgid "If enabled, customers can only use the gift card code if the cart minimum amount requirement is fulfilled."
+msgstr "Om det är aktiverat kan kunderna bara använda presentkortkoden om minimikravet för vagnen är uppfylld."
+
+#: plugin-options/cart_checkout-options.php:146
+msgid "Minimum amount in cart"
+msgstr "Minsta belopp i kundvagnen"
+
+#: plugin-options/cart_checkout-options.php:139
+msgid "If enabled, when a gift card is added to the cart, the gift card info will be displayed."
+msgstr "Om det är aktiverat kommer presentkortinformationen att visas när ett presentkort läggs till i vagnen."
+
+#: plugin-options/cart_checkout-options.php:138
+msgid "Show gift card info in the cart"
+msgstr "Visa presentkortinformation i kundvagnen"
+
+#: plugin-options/cart_checkout-options.php:109
+msgid "Cart page options"
+msgstr "Alternativ för vagnssida"
+
+#: plugin-options/cart_checkout-options.php:36
+msgid "Enter a text for the 'Apply coupon' button"
+msgstr "Ange en text för knappen \"Använd kupong\""
+
+#: plugin-options/cart_checkout-options.php:32
+msgid "Let customers apply the gift card code in the standard WooCommerce coupon fields"
+msgstr "Låt kunderna använda presentkortkoden i de vanliga WooCommerce-kupongfälten"
+
+#: plugin-options/cart_checkout-options.php:28
+msgid "Allow gift card codes in WooCommerce coupon fields"
+msgstr "Tillåt presentkortskoder i WooCommerce-kupongfält"
+
+#: plugin-options/cart_checkout-options.php:24
+msgid "Coupon fields settings"
+msgstr "Inställningar för kupongfält"
+
+#: lib/emails/class-yith-ywgc-email-send-gift-card.php:171
+msgid "a friend"
+msgstr "en vän"
+
+#: lib/emails/class-yith-ywgc-email-send-gift-card.php:46
+#: lib/emails/class-yith-ywgc-email-send-gift-card.php:178
+msgid "Hi {recipient_name}, you have received this gift card from {sender}, use it on our online shop."
+msgstr "Hej {recipient_name}, du har fått detta presentkort från {sender}."
+
+#: lib/emails/class-yith-ywgc-email-send-gift-card.php:40
+msgid "[{site_title}] You have received a gift card"
+msgstr "[{site_title}] Du har fått ett presentkort"
+
+#: lib/emails/class-yith-ywgc-email-send-gift-card.php:39
+msgid "Your gift card"
+msgstr "Ditt presentkort"
+
+#: lib/emails/class-yith-ywgc-email-send-gift-card.php:36
+msgid "Send the digital gift card to the email address selected during the purchase"
+msgstr "Skicka det digitala presentkortet till den e-postadress som valts under köpet"
+
+#: lib/emails/class-yith-ywgc-email-send-gift-card.php:33
+msgid "YITH Gift Cards - Dispatch of the code"
+msgstr "YITH Presentkort - Skicka presentkortskoden"
+
+#: lib/emails/class-yith-ywgc-email-delivered-gift-card.php:156
+#: lib/emails/class-yith-ywgc-email-notify-customer.php:160
+#: lib/emails/class-yith-ywgc-email-send-gift-card.php:267
+msgid "Introductive message"
+msgstr "Introduktionsmeddelande"
+
+#: lib/emails/class-yith-ywgc-email-delivered-gift-card.php:149
+#: lib/emails/class-yith-ywgc-email-notify-customer.php:153
+#: lib/emails/class-yith-ywgc-email-send-gift-card.php:260
+msgid "Email Heading"
+msgstr "E-postrubrik"
+
+#: lib/emails/class-yith-ywgc-email-delivered-gift-card.php:144
+#: lib/emails/class-yith-ywgc-email-delivered-gift-card.php:151
+#: lib/emails/class-yith-ywgc-email-delivered-gift-card.php:158
+#: lib/emails/class-yith-ywgc-email-notify-customer.php:148
+#: lib/emails/class-yith-ywgc-email-notify-customer.php:155
+#: lib/emails/class-yith-ywgc-email-notify-customer.php:162
+#: lib/emails/class-yith-ywgc-email-send-gift-card.php:255
+#: lib/emails/class-yith-ywgc-email-send-gift-card.php:262
+#: lib/emails/class-yith-ywgc-email-send-gift-card.php:269
+msgid "Defaults to <code>%s</code>"
+msgstr "Standardvärde: <code>%s</code>"
+
+#: lib/emails/class-yith-ywgc-email-delivered-gift-card.php:142
+#: lib/emails/class-yith-ywgc-email-notify-customer.php:146
+#: lib/emails/class-yith-ywgc-email-send-gift-card.php:253
+msgid "Subject"
+msgstr "Ämne"
+
+#: lib/emails/class-yith-ywgc-email-delivered-gift-card.php:138
+#: lib/emails/class-yith-ywgc-email-notify-customer.php:142
+#: lib/emails/class-yith-ywgc-email-send-gift-card.php:249
+msgid "Enable this email notification"
+msgstr "Aktivera denna e-postnotifikation"
+
+#: lib/emails/class-yith-ywgc-email-notify-customer.php:46
+#: lib/emails/class-yith-ywgc-email-notify-customer.php:86
+msgid "The gift card you have sent to <code>{recipient_email}</code> has been used in our shop."
+msgstr "Presentkortet som du har skickat till <code> {mottagare_email} </code> har använts i vår butik."
+
+#: lib/emails/class-yith-ywgc-email-notify-customer.php:41
+msgid "[{site_title}] Your gift card has been used"
+msgstr "[{site_title}] Ditt presentkort har använts"
+
+#: lib/emails/class-yith-ywgc-email-notify-customer.php:40
+msgid "I have appreciated your gift"
+msgstr "Jag har uppskattat din gåva"
+
+#: lib/emails/class-yith-ywgc-email-notify-customer.php:37
+msgid "Customer notification - the gift card you have bought has been used"
+msgstr "Kundmeddelande - presentkortet du har köpt har använts"
+
+#: lib/emails/class-yith-ywgc-email-notify-customer.php:34
+msgid "YITH Gift Cards - Notification"
+msgstr "YITH Presentkort - Notifiering"
+
+#: lib/class.yith-woocommerce-gift-cards-privacy.php:599
+msgid "Gift Card"
+msgstr "Presentkort"
+
+#: lib/class.yith-woocommerce-gift-cards-privacy.php:431
+msgctxt "GDPR privacy"
+msgid "Gift cards sent"
+msgstr "Presentkort skickade"
+
+#: lib/class.yith-woocommerce-gift-cards-privacy.php:383
+msgctxt "GDPR privacy"
+msgid "YITH gift cards sent"
+msgstr "YITH presentkort skickas"
+
+#: lib/class.yith-woocommerce-gift-cards-privacy.php:355
+msgctxt "GDPR privacy"
+msgid "Gift cards received"
+msgstr "Mottagna presentkort"
+
+#: lib/class.yith-woocommerce-gift-cards-privacy.php:302
+msgctxt "GDPR privacy"
+msgid "YITH gift cards received"
+msgstr "Mottagna presentkort"
+
+#. translators: %d: Comment ID
+#: lib/class.yith-woocommerce-gift-cards-privacy.php:166
+#: lib/class.yith-woocommerce-gift-cards-privacy.php:241
+msgid "Gift card %d contains personal data but could not be anonymized."
+msgstr "Presentkortc %d innehåller personuppgifter men kunde inte anonymiseras."
+
+#: lib/class.yith-woocommerce-gift-cards-privacy.php:145
+#: lib/class.yith-woocommerce-gift-cards-privacy.php:218
+#: lib/class.yith-woocommerce-gift-cards-privacy.php:558
+msgctxt "GDPR privacy"
+msgid "Anonymous"
+msgstr "Anonym"
+
+#: lib/class.yith-woocommerce-gift-cards-privacy.php:96
+msgctxt "GDPR privacy"
+msgid "YITH gift cards received and sent"
+msgstr "Mottagna och skickade presentkort"
+
+#: lib/class.yith-woocommerce-gift-cards-privacy.php:28
+msgctxt "Privacy Policy Content"
+msgid "YITH Gift Cards for WooCommerce premium"
+msgstr "YITH Presentkort för WooCommerce-premium"
+
+#: lib/class-ywgc-plugin-fw-loader.php:226
+msgid "In the YITH Plugins tab you can find YITH WooCommerce Gift Cards options.<br> From this menu you can access all the settings of your active YITH plugins."
+msgstr "På fliken YITH Plugins kan du hitta alternativ för YITH WooCommerce Presentkort. <br> Från den här menyn kan du komma åt alla inställningar för dina aktiva YITH-plugins."
+
+#: lib/class-ywgc-plugin-fw-loader.php:225
+msgid "YITH WooCommerce Gift Cards"
+msgstr "YITH WooCommerce presentkort"
+
+#: lib/class-ywgc-plugin-fw-loader.php:217
+msgid "YITH WooCommerce Gift Cards is available in an outstanding premium version with many new options, discover it now."
+msgstr "YITH WooCommerce Presentkort finns i en enastående premiumversion med många nya alternativ, upptäck det nu."
+
+#: lib/class-ywgc-plugin-fw-loader.php:157
+#: lib/class-ywgc-plugin-fw-loader.php:218
+msgid "Premium version"
+msgstr "Premiumversion"
+
+#: lib/class-ywgc-plugin-fw-loader.php:153
+msgid "Cart & checkout"
+msgstr "Varukorg & kassa"
+
+#: lib/class-ywgc-plugin-fw-loader.php:152
+msgid "Recipient & delivery"
+msgstr "Mottagare & leverans"
+
+#: lib/class-ywgc-plugin-fw-loader.php:150
+msgid "Image categories"
+msgstr "Bildkategorier"
+
+#: lib/class-ywgc-plugin-fw-loader.php:149
+msgid "Style"
+msgstr "Stil"
+
+#: lib/class-ywgc-plugin-fw-loader.php:147
+msgid "Dashboard"
+msgstr "Kontrollpanel"
+
+#: lib/class-yith-ywgc-gift-cards-table.php:351
+msgid "Physical product"
+msgstr "Fysisk produkt"
+
+#: lib/class-yith-ywgc-gift-cards-table.php:344
+msgid "This card is dismissed."
+msgstr "Detta kort avvisas."
+
+#: lib/class-yith-ywgc-gift-cards-table.php:108
+msgid "Enable"
+msgstr ""
+
+#: lib/class-yith-ywgc-gift-cards-table.php:328
+msgid "Send now"
+msgstr "Skicka nu"
+
+#: lib/class-yith-ywgc-gift-cards-table.php:304
+msgid "Download pdf"
+msgstr "Ladda ner PDF"
+
+#: lib/class-yith-ywgc-gift-cards-table.php:219
+msgid "Unlimited"
+msgstr "Obegränsad"
+
+#: lib/class-yith-ywgc-gift-cards-table.php:200
+#: templates/myaccount/my-giftcards.php:150
+msgid "The code has not been used yet"
+msgstr "Koden har inte använts ännu"
+
+#: lib/class-yith-ywgc-gift-cards-table.php:180
+msgid "Created manually"
+msgstr "Skapad manuellt"
+
+#: lib/class-yith-ywgc-gift-cards-table.php:152
+msgctxt "Order number by X"
+msgid "%s by %s"
+msgstr "%s med %s"
+
+#: lib/class-yith-ywgc-gift-cards-table.php:148
+msgid "Guest"
+msgstr "Gäst"
+
+#: lib/emails/class-yith-ywgc-email-delivered-gift-card.php:136
+#: lib/emails/class-yith-ywgc-email-notify-customer.php:140
+#: lib/emails/class-yith-ywgc-email-send-gift-card.php:247
+msgid "Enable/Disable"
+msgstr "Aktivera/Inaktivera"
+
+#: lib/class-yith-ywgc-gift-cards-table.php:106
+msgid "Notes"
+msgstr "Anteckningar"
+
+#: lib/class-yith-ywgc-gift-cards-table.php:102
+#: templates/myaccount/my-giftcards.php:15
+#: templates/shortcodes/user-gift-card-table.php:29
+msgid "Balance"
+msgstr "Balans"
+
+#: lib/class-yith-ywgc-gift-card-premium.php:527
+msgid "No longer valid, replaced by another code"
+msgstr "Gäller inte längre, ersatt av en annan kod"
+
+#: lib/class-yith-ywgc-gift-card-premium.php:524
+msgid "Valid"
+msgstr "Giltig"
+
+#: lib/class-yith-ywgc-gift-card-premium.php:521
+msgid "The gift card has been disabled"
+msgstr "Presentkortet har inaktiverats"
+
+#: lib/class-yith-ywgc-gift-card-premium.php:233
+msgid "Gift card code successfully removed."
+msgstr "Presentkortkoden har tagits bort."
+
+#: lib/class-yith-ywgc-gift-card-premium.php:230
+msgid "Gift card code successfully applied."
+msgstr "Presentkortkoden har använts."
+
+#: lib/class-yith-ywgc-gift-card-premium.php:208
+#: lib/class-yith-ywgc-gift-card-premium.php:237
+msgid "Gift card codes cannot be used to purchase other gift cards"
+msgstr "Presentkortskoder kan inte användas för att köpa andra presentkort"
+
+#: lib/class-yith-ywgc-gift-card-premium.php:205
+msgid "Sorry, it seems that the gift card code %s is invalid - it has been removed from your cart."
+msgstr "Tyvärr verkar det som att presentkortkoden \"%s\" är ogiltig - den har nu tagits bort från din kundvagn."
+
+#: lib/class-yith-ywgc-gift-card-premium.php:202
+msgid "Sorry, the gift card code %s is no longer valid!"
+msgstr "Tyvärr verkar det som att presentkortkoden \"%s\" är inte längre giltig."
+
+#: lib/class-yith-ywgc-gift-card-premium.php:199
+msgid "Sorry, the gift card code %s is currently disabled and cannot be used."
+msgstr "Tyvärr är presentkortkoden \"%s\" för närvarande inaktiverad och kan inte användas."
+
+#: lib/class-yith-ywgc-gift-card-premium.php:196
+msgid "Sorry, the gift card code %s is expired and cannot be used."
+msgstr "Presentkortkoden \"%s\" har gått ut och kan inte användas."
+
+#: lib/class-yith-ywgc-gift-card-premium.php:193
+msgid "The gift card code %s has already been applied!"
+msgstr "Presentkortkoden \"%s\" har redan använts."
+
+#: lib/class-yith-ywgc-gift-card-premium.php:190
+msgid "Sorry, it seems that the gift card code \"%s\" is not yours and cannot be used for this order."
+msgstr "Tyvärr verkar det som att presentkortkoden \"%s\" inte är för dig och inte kan tillämpas på din kundvagn."
+
+#: lib/class-yith-ywgc-gift-card-premium.php:187
+msgid "The gift card code %s does not exist!"
+msgstr "Presentkortkoden \"%s\" finns inte."
+
+#: lib/class-yith-ywgc-cart-checkout.php:252
+#: lib/class-yith-ywgc-frontend-premium.php:1231
+msgid "It is not possible to add a gift card code when the cart contains a gift card product"
+msgstr "Det är inte möjligt att lägga till en presentkortskod när varukorgen innehåller ett presentkort"
+
+#: lib/class-yith-ywgc-frontend-premium.php:1175
+msgid "Click here to enter your code"
+msgstr "Klicka här för att ange din rabattkod"
+
+#: lib/class-yith-ywgc-frontend-premium.php:1173
+#: plugin-options/cart_checkout-options.php:78
+msgid "Have a coupon?"
+msgstr "Har du en kupong?"
+
+#: lib/class-yith-ywgc-frontend-premium.php:1140
+#: plugin-options/cart_checkout-options.php:41
+msgid "Apply coupon"
+msgstr "Använd rabattkupong"
+
+#: lib/class-yith-ywgc-frontend-premium.php:1046
+#: lib/class-yith-ywgc-gift-cards-table.php:379
+msgid "Delivery date: %s"
+msgstr "Leveransdatum: %s"
+
+#: lib/class-yith-ywgc-frontend-premium.php:1042
+msgid "Recipient: %s"
+msgstr "Mottagare:  %s"
+
+#: lib/class-yith-ywgc-frontend-premium.php:1037
+#: lib/class-yith-ywgc-gift-cards-table.php:367
+msgid "Failed"
+msgstr "Misslyckad"
+
+#: lib/class-yith-ywgc-frontend-premium.php:1034
+#: lib/class-yith-ywgc-gift-cards-table.php:364
+msgid "Not yet sent"
+msgstr "Inte skickat ännu"
+
+#: lib/class-yith-ywgc-frontend-premium.php:1031
+#: lib/class-yith-ywgc-gift-cards-table.php:361
+msgid "Scheduled"
+msgstr "Schemalagd"
+
+#: lib/class-yith-ywgc-frontend-premium.php:1028
+#: lib/class-yith-ywgc-gift-cards-table.php:358
+msgid "Sent on %s"
+msgstr "Skickat den %s"
+
+#: lib/class-yith-ywgc-frontend-premium.php:832
+#: templates/support-attachments.php:42
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: lib/class-yith-ywgc-frontend-premium.php:830
+msgid "Apply"
+msgstr "Tillämpa"
+
+#: lib/class-yith-ywgc-frontend-premium.php:798
+msgid "Edit"
+msgstr "Redigera"
+
+#: lib/class-yith-ywgc-frontend-premium.php:790
+#: lib/class-yith-ywgc-frontend-premium.php:816
+msgid "Recipient: "
+msgstr "Mottagare: "
+
+#: lib/class-yith-ywgc-frontend-premium.php:785
+#: lib/class-yith-ywgc-frontend-premium.php:809
+msgid "Sender: "
+msgstr "Avsändare:"
+
+#: lib/class-yith-ywgc-frontend-premium.php:783
+#: lib/class-yith-ywgc-frontend-premium.php:802
+msgid "Gift card details"
+msgstr "Presentkortsuppgifter"
+
+#: lib/class-yith-ywgc-frontend-premium.php:780
+msgid "See card details"
+msgstr "Visa presentkortsuppgifter"
+
+#: lib/class-yith-ywgc-frontend-premium.php:345
+msgid "Buy gift card"
+msgstr "Köp presentkort"
+
+#: lib/class-yith-ywgc-frontend-premium.php:343
+msgid "E-mail: "
+msgstr "E-post:"
+
+#: lib/class-yith-ywgc-frontend-premium.php:342
+#: templates/yith-gift-cards/gift-card-details.php:39
+#: templates/yith-gift-cards/gift-card-details.php:67
+#: templates/yith-gift-cards/physical-gift-card-details.php:27
+msgid "Name: "
+msgstr "Namn: "
+
+#: lib/class-yith-ywgc-frontend-premium.php:341
+msgid "ENTER ADDITIONAL RECIPIENT'S EMAIL ADDRESS"
+msgstr "Lägg till ytterligare mottagares e-postadress"
+
+#: lib/class-yith-ywgc-frontend-premium.php:340
+msgid "ENTER ADDITIONAL RECIPIENT'S NAME"
+msgstr "Lägg till ytterligare mottagares namn"
+
+#: lib/class-yith-ywgc-frontend-premium.php:338
+msgid "Please enter a valid email address"
+msgstr "Vänligen ange en giltig e-postadress"
+
+#: lib/class-yith-ywgc-frontend-premium.php:333
+msgid "Please use only digits and the decimal separator '%1$s'. Valid examples are '123', '123%1$s9 and '123%1$s99'."
+msgstr "Använd endast siffror och decimalavskiljaren '%1$s'. Giltiga exempel är '123', '123%1$s9 och' 123%1$s99 '."
+
+#: lib/class-yith-ywgc-frontend-premium.php:320
+msgid "Please enter a valid delivery date"
+msgstr "Ange ett giltigt leveransdatum"
+
+#: lib/class-yith-ywgc-frontend-premium.php:319
+msgid "<b>Note</b>: You added more than one recipient, so <i class='ywgc-darkred-text'>you will buy %number_gift_cards% gift cards</i> and each recipient will receive a different gift card."
+msgstr "<b>Obs</b> : Du har lagt till mer än en mottagare, så <i class='ywgc-darkred-text'>du köper% number_gift_cards% presentkort</i> och varje mottagare får ett annat presentkort."
+
+#: lib/class-yith-ywgc-frontend-premium.php:318
+msgid "<b>Attention</b>: the <b>suggested minimum</b> size of the image is 490x195"
+msgstr "<b>Observera</b> : den <b>föreslagna minsta</b> storleken på bilden är 490x195"
+
+#: lib/class-yith-ywgc-frontend-premium.php:316
+msgid "The size fo the uploaded file exceeds the maximum allowed"
+msgstr "Storleken för den uppladdade filen överskrider det högsta tillåtna"
+
+#: lib/class-yith-ywgc-frontend-premium.php:315
+msgid "File format is not valid, select a jpg, jpeg, png, gif or bmp file"
+msgstr "Filformatet är inte giltigt, välj en jpg-, jpeg-, png-, gif- eller bmp-fil"
+
+#: lib/class-yith-ywgc-frontend-premium.php:286
+msgid "The minimum amount is"
+msgstr "Minsta belopp är"
+
+#: lib/class-yith-ywgc-backend.php:747
+#: lib/class-yith-ywgc-frontend-premium.php:236
+msgid "Enter amount"
+msgstr "Ange belopp"
+
+#: lib/class-yith-ywgc-cart-checkout.php:1767
+msgid "You can't purchase a physical product and a digital gift card with the same order"
+msgstr "Du kan inte köpa fysisk produkter och digital presentkort  samtidigt"
+
+#: lib/class-yith-ywgc-cart-checkout.php:1589
+msgid "Email address not valid, please check the following: "
+msgstr "E-postadressen är inte giltig, kontrollera följande:"
+
+#: lib/class-yith-ywgc-cart-checkout.php:1578
+msgid "The recipient(s) email address is mandatory"
+msgstr "Mottagarens (e) e-postadress är obligatorisk"
+
+#: lib/class-yith-ywgc-cart-checkout.php:1565
+msgid "Add a valid email address for the recipient"
+msgstr "Lägg till en giltig e-postadress för mottagaren"
+
+#: lib/class-yith-ywgc-cart-checkout.php:1551
+msgid "An error occurred while adding the product to the cart."
+msgstr "Ett fel uppstod när produkten läggs till i kundvagnen."
+
+#: lib/class-yith-ywgc-cart-checkout.php:1289
+msgid "The gift card has invalid amount"
+msgstr "Presentkortet har ogiltigt belopp"
+
+#: lib/class-yith-ywgc-cart-checkout.php:1248
+#: templates/yith-gift-cards/gift-card-details.php:27
+msgid "Delivery date: "
+msgstr "Leveransdatum:"
+
+#: lib/class-yith-ywgc-cart-checkout.php:1239
+#: lib/class-yith-ywgc-frontend-premium.php:795
+#: lib/class-yith-ywgc-frontend-premium.php:823
+#: templates/yith-gift-cards/gift-card-details.php:73
+#: templates/yith-gift-cards/physical-gift-card-details.php:40
+msgid "Message: "
+msgstr "Meddelande:"
+
+#: lib/class-yith-ywgc-cart-checkout.php:1235
+msgid "Your name: "
+msgstr "Avsändarens namn: "
+
+#: lib/class-yith-ywgc-cart-checkout.php:1231
+msgid "Recipient's email: "
+msgstr "Mottagarens e-post adress:"
+
+#: lib/class-yith-ywgc-cart-checkout.php:1228
+msgid "Your billing email address"
+msgstr "Din e-postadress för fakturering"
+
+#: lib/class-yith-ywgc-cart-checkout.php:1222
+#: templates/yith-gift-cards/physical-gift-card-details.php:32
+msgid "Recipient's name: "
+msgstr "Mottagarens namn:"
+
+#: lib/class-yith-ywgc-cart-checkout.php:972
+msgid "Order paid with gift cards for a total amount of %s."
+msgstr "Beställning betalad med presentkort för ett totalt belopp av %s."
+
+#: lib/class-yith-ywgc-cart-checkout.php:667
+msgid "[Remove]"
+msgstr "[Ta bort]"
+
+#: lib/class-yith-ywgc-cart-checkout.php:663
+msgid "Gift card:"
+msgstr "Presentkort:"
+
+#: lib/class-yith-ywgc-cart-checkout.php:642
+msgid "Gift cards:"
+msgstr "Presentkort:"
+
+#: lib/class-yith-ywgc-cart-checkout.php:591
+msgid "as a Gift Card"
+msgstr "som ett presentkort"
+
+#: lib/class-yith-ywgc-backend.php:744
+msgid "Gift card amount"
+msgstr "Presentkortsbelopp"
+
+#: lib/class-yith-ywgc-backend.php:724
+msgid "Set an optional minimum custom amount for this gift card."
+msgstr "Ange ett valfritt anpassat belopp för detta presentkort"
+
+#: lib/class-yith-ywgc-backend.php:723
+msgid "Enter a minimum amount"
+msgstr "Ange ett lägsta belopp"
+
+#: lib/class-yith-ywgc-backend.php:722 plugin-options/general-options.php:156
+msgid "Minimum custom amount"
+msgstr "Minsta anpassade belopp"
+
+#: lib/class-yith-ywgc-backend.php:656
+msgid "Set an expiration date for this gift card."
+msgstr "Ställ in ett utgångsdatum för detta presentkort."
+
+#: lib/class-yith-ywgc-backend.php:608
+msgid "Enter a text  to describe your discount."
+msgstr "Ange en text för att beskriva din rabatt."
+
+#: lib/class-yith-ywgc-backend.php:606
+msgid "Sale discount text"
+msgstr "Försäljning rabatt text"
+
+#: lib/class-yith-ywgc-backend.php:602
+msgid "Enter an optional discount for this gift card."
+msgstr "Ange en valfri rabatt för detta presentkort."
+
+#: lib/class-yith-ywgc-backend.php:600
+msgid "Sale discount (%)"
+msgstr "Försäljningsrabatt (%)"
+
+#: lib/class-yith-ywgc-backend.php:371
+#: templates/yith-gift-cards/ywgc-gift-card-template.php:102
+msgid "Gift card"
+msgstr "Presentkort"
+
+#: lib/class-yith-ywgc-backend.php:338
+msgid "Done"
+msgstr "Klar"
+
+#: lib/class-yith-ywgc-backend.php:337
+msgid "Manage the Media library"
+msgstr "Hantera mediebiblioteket"
+
+#: lib/class-yith-ywgc-backend.php:314
+msgid "Unset gift card image category"
+msgstr "Återställ bildkategori för presentkort"
+
+#: lib/class-yith-ywgc-backend.php:313
+msgid "Set gift card image category"
+msgstr "Ställ in bildkategori för presentkort"
+
+#: lib/class-yith-ywgc-backend.php:288
+msgid "Choose Image"
+msgstr "Välj bild"
+
+#: lib/class-yith-ywgc-backend.php:198
+msgid "Enter the pre-printed code: "
+msgstr "Ange den förtryckta koden:"
+
+#: lib/class-yith-ywgc-backend.php:190
+#: lib/class-yith-ywgc-frontend-premium.php:1022
+msgid "Gift card code: "
+msgstr "Presentkortskod: "
+
+#: lib/class-yith-ywgc-backend.php:166
+msgid "purchased as a Gift Card"
+msgstr "köpta som presentkort"
+
+#: lib/class-yith-ywgc-backend-premium.php:1096
+msgid "Upload/manage images in the WordPress Media Library and include them in the existing gift card categories."
+msgstr "Ladda upp / hantera bilder i WordPress Media Library och inkludera dem i befintliga presentkortkategorier."
+
+#: lib/class-yith-ywgc-backend-premium.php:1095
+msgid "Manage media"
+msgstr "Hantera media"
+
+#: lib/class-yith-ywgc-backend-premium.php:1093
+msgid "Manage the gift card images through the WordPress Media Library"
+msgstr "Hantera presentkortsbilderna genom WordPress Media Library"
+
+#: lib/class-yith-ywgc-backend-premium.php:1068
+msgid "Enable WPML integration"
+msgstr "Aktivera WPML-integration"
+
+#: lib/class-yith-ywgc-backend-premium.php:1063
+msgid "WPML Currency Switcher integration"
+msgstr "WPML valutaskiftarintegration"
+
+#: lib/class-yith-ywgc-backend-premium.php:1037
+msgid "Enable Aelia integration"
+msgstr "Aktivera Aelia-integration"
+
+#: lib/class-yith-ywgc-backend-premium.php:1032
+msgid "Aelia Currency Switcher integration"
+msgstr "Aelia Valutaomkopplare integration"
+
+#: lib/class-yith-ywgc-backend-premium.php:1010
+msgid "Transfer \"Store Credit / Gift Certificate\" coupons. This action cannot be undone"
+msgstr "Överför kuponger \"Store Credit / Gift Certificate\". Den här åtgärden kan inte ångras"
+
+#: lib/class-yith-ywgc-backend-premium.php:1006
+msgid "Transfer WooCommerce Smart Coupons to YITH Gift Cards "
+msgstr "Överför Smart WooCommerce-kuponger till YITH-presentkort"
+
+#: lib/class-yith-ywgc-backend-premium.php:1003
+msgid "WooCommerce Smart Coupons integration"
+msgstr "WooCommerce Smart Coupons integration"
+
+#: lib/class-yith-ywgc-backend-premium.php:734
+msgid "Postdated"
+msgstr "Datummärkt"
+
+#: lib/class-yith-ywgc-backend-premium.php:728
+msgid "Version"
+msgstr "Version"
+
+#: lib/class-yith-ywgc-backend-premium.php:725
+msgid "Subtotal tax"
+msgstr "Subtotal skatt"
+
+#: lib/class-yith-ywgc-backend-premium.php:722
+msgid "Subtotal"
+msgstr "Delsumma"
+
+#: lib/class-yith-ywgc-backend-premium.php:719
+msgid "Design"
+msgstr "Design"
+
+#: lib/class-yith-ywgc-backend-premium.php:716
+msgid "Design type"
+msgstr "Designtyp"
+
+#: lib/class-yith-ywgc-backend-premium.php:701
+msgid "Amount"
+msgstr "Belopp"
+
+#: lib/class-yith-ywgc-backend-premium.php:698
+msgid "Present variation ID"
+msgstr "Nuvarande variant-ID"
+
+#: lib/class-yith-ywgc-backend-premium.php:695
+msgid "Present product ID"
+msgstr "Nuvarande produkt-ID"
+
+#: lib/class-yith-ywgc-backend-premium.php:692
+msgid "Product as a present"
+msgstr "Produkt som present"
+
+#: lib/class-yith-ywgc-backend-premium.php:689
+msgid "Product ID"
+msgstr "Produkt-ID"
+
+#: lib/class-yith-ywgc-backend-premium.php:627
+msgid "Used"
+msgstr "Använda"
+
+#: lib/class-yith-ywgc-backend-premium.php:625
+msgid "Active"
+msgstr "Aktiv"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1418
+msgid "This code is already applied"
+msgstr "Den här koden är redan tillämpad"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1405
+msgid "It is not possible to add any gift card if the cart contains a subscription-based product"
+msgstr "Det är inte möjligt att lägga till något presentkort om vagnen innehåller en prenumerationsbaserad produkt"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1104
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1105
+#: lib/class-yith-woocommerce-gift-cards.php:245
+#: lib/class-yith-woocommerce-gift-cards.php:246
+#: lib/class-yith-ywgc-frontend-premium.php:197
+msgid "Gift Cards"
+msgstr "Presentkort"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1102
+msgid "No gift cards found in Trash."
+msgstr "Inga presentkort hittades i papperskorgen."
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1101
+#: templates/myaccount/my-giftcards.php:190
+#: templates/shortcodes/user-gift-card-table.php:157
+msgid "No gift cards found."
+msgstr "Inga presentkort hittades."
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1100
+msgid "Parent gift cards:"
+msgstr "Föräldrakort:"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1099
+msgid "Search gift cards"
+msgstr "Sök presentkort"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1098
+msgid "All gift cards"
+msgstr "Alla presentkort"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1097
+msgid "View Gift Card"
+msgstr "Visa presentkort"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1096
+msgid "Edit Gift Card"
+msgstr "Editera presentkort"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1095
+msgid "New Gift Card"
+msgstr "Nytt presentkort"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1094
+msgid "Create Gift Card Code"
+msgstr "Skapa nytt presentkort"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1093
+msgctxt "admin menu item"
+msgid "Create Code"
+msgstr "Skapa kod"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1092
+msgctxt "add new on admin bar"
+msgid "Gift Card"
+msgstr "Presentkort"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1091
+msgctxt "admin menu"
+msgid "Gift Cards"
+msgstr "Presentkort"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1090
+msgctxt "post type singular name"
+msgid "Gift Card"
+msgstr "Presentkort"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1089
+msgctxt "post type general name"
+msgid "All Gift Cards"
+msgstr "Alla presentkort"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1067
+msgid "Enter your notes here. This will only be visible to the admin."
+msgstr "Ange dina anteckningar här. Detta kommer bara att vara synligt för administratören."
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1066
+msgid "Internal notes"
+msgstr "Interna noteringar"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1047
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1054
+msgid "The date when the digital gift card will expire."
+msgstr "Datumet då det digitala presentkortet går ut."
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1046
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1053
+#: lib/class-yith-ywgc-backend.php:654
+#: lib/class-yith-ywgc-gift-cards-table.php:104
+msgid "Expiration date"
+msgstr "Förfallodatum"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1027
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1034
+msgid "The date when the digital gift card will be sent to the recipient."
+msgstr "Datumet då det digitala presentkortet skickas till mottagaren."
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1026
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1033
+#: lib/class-yith-ywgc-backend-premium.php:731
+msgid "Delivery date"
+msgstr "Leveransdatum"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1015
+msgid "The message attached to the gift card."
+msgstr "Meddelandet bifogat presentkortet."
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1014
+#: lib/class-yith-ywgc-backend-premium.php:713
+msgid "Message"
+msgstr "Meddelande"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1004
+msgid "The name of the digital gift card recipient."
+msgstr "Namnet på den digitala presentkortmottagaren."
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:1003
+#: lib/class-yith-ywgc-backend-premium.php:710
+msgid "Recipient's name"
+msgstr "Mottagarens namn"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:993
+msgid "The email address of the digital gift card recipient."
+msgstr "E-postadressen till mottagaren av det digitala presentkortet."
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:992
+msgid "Recipient's email"
+msgstr "Mottagarens e-post adress"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:981
+msgid "The name of the digital gift card sender, if any."
+msgstr "Namnet på den avsändare av digital presentkort som finns."
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:980
+#: lib/class-yith-ywgc-backend-premium.php:707
+msgid "Sender's name"
+msgstr "Avsändarens namn"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:974
+msgid "Check if the gift card will be sent via email. Leave it unchecked to make this work as a physical product."
+msgstr "Kontrollera om presentkortet kommer att skickas via e-post. Låt det inte vara kryssat för att detta ska fungera som en fysisk produkt."
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:973
+#: lib/class-yith-ywgc-backend-premium.php:704
+msgid "Digital"
+msgstr "Digital"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:967
+msgid "The current amount available for the customer."
+msgstr "Det nuvarande tillgängliga beloppet för kunden."
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:966
+msgid "Current balance"
+msgstr "Nuvarande saldo"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:960
+msgid "The amount purchased by the customer."
+msgstr "Det belopp som köpts av kunden."
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:959
+msgid "Purchased amount"
+msgstr "Köpt belopp"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:954
+#: lib/class-ywgc-plugin-fw-loader.php:148
+msgid "General"
+msgstr "Allmänt"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:948
+msgid "Gift card detail"
+msgstr "Presentkortsuppgifter"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:726
+msgid "An error occurred, you cannot use the plugin"
+msgstr "Ett fel inträffade, du kan inte använda plugin-programmet"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:697
+msgid "This product has been automatically created by the plugin YITH Gift Cards.You must not edit it, or the plugin could not work properly. The main functionality of this product is to be used for the feature \"Gift this product\""
+msgstr "Den här produkten har automatiskt skapats av plugin-programmet YITH Presentkort. Du får inte redigera den, annars kan inte plugin fungera korrekt. Den huvudsakliga funktionen för denna produkt ska användas för funktionen \"Gåva den här produkten\""
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:695
+#: lib/class-yith-woocommerce-gift-cards-premium.php:829
+#: lib/class-ywgc-plugin-fw-loader.php:151
+#: plugin-options/gift_this_product-options.php:118
+#: templates/single-product/add-to-cart/give-product-as-present.php:33
+#: templates/single-product/add-to-cart/give-product-as-present.php:36
+#: templates/single-product/add-to-cart/give-product-as-present.php:43
+#: templates/single-product/add-to-cart/give-product-as-present.php:47
+msgid "Gift this product"
+msgstr "Gör en gåva av produkten"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:607
+msgid "Code not valid"
+msgstr "Koden är inte giltig"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:596
+msgid "Dismissed"
+msgstr "Skickad"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:585
+msgid "Disabled"
+msgstr "Inaktiverad"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:561
+msgid "Select this category in your gift card product if you want to display all the images categories in your gift card gallery"
+msgstr "Välj denna kategori i ditt presentkortprodukt om du vill visa alla bildkategorier i ditt presentkortgalleri"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:558
+msgid "All"
+msgstr "Allt"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:549
+msgid "Select this category in your gift card product if you do not want to display images in your gift card gallery"
+msgstr "Välj denna kategori i ditt presentkortprodukt om du inte vill visa bilder i ditt presentkortgalleri"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:546
+msgid "None"
+msgstr "Ingen"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:526
+msgid "New image category name"
+msgstr "Nytt bildkategorinamn"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:525
+msgid "Add new image category"
+msgstr "Lägg till en ny bildkategori"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:524
+msgid "Update gift card image category"
+msgstr "Uppdatera bildkategorin för presentkort"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:523
+msgid "Edit image category"
+msgstr "Redigera bildkategori"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:522
+msgid "Parent image category:"
+msgstr "Överordnad bildkategori:"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:521
+msgid "Parent image category"
+msgstr "Överordnad bildkategori"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:520
+msgid "All image categories"
+msgstr "Alla bildkategorier"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:519
+msgid "Search image categories"
+msgstr "Sök i bildkategorier"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:518
+#: lib/class-yith-woocommerce-gift-cards-premium.php:527
+msgid "Gift card image category"
+msgstr "Presentkort bildkategori"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:517
+msgid "Gift card image categories"
+msgstr "Presentkorts bildkategorier"
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:472
+msgid "Check this option if you want to disable the option \"gift this product\" on this product."
+msgstr "Markera det här alternativet om du vill inaktivera alternativet \"gör en gåva av produkten\" på den här produkten."
+
+#: lib/class-yith-woocommerce-gift-cards-premium.php:471
+msgid "Disable gift this product"
+msgstr "Inaktivera gåva den här produkten"
+
+#: lib/class-yith-wc-product-gift-card.php:291
+msgid "Read more"
+msgstr "Läs mer"
+
+#: lib/class-yith-wc-product-gift-card.php:291
+msgid "Select amount"
+msgstr "Välj belopp"
+
+#: lib/class-yith-wc-product-gift-card.php:232
+#: lib/third-party/class-ywgc-dynamic-pricing.php:95
+msgctxt "Price range: from-to"
+msgid "%1$s&ndash;%2$s"
+msgstr "%1$s&ndash;%2$s"
+
+#: init.php:44
+msgid "YITH WooCommerce Gift Cards is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "YITH WooCommerce-presentkort är aktiverade men inte effektiva. Det kräver WooCommerce för att fungera."
+
+#: functions.php:189
+msgid "This title is already used. Please choose another one"
+msgstr "Den här titeln används redan. Välj en annan"

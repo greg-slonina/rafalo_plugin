@@ -1,0 +1,12 @@
+table.dataTable.display tr td:nth-child(2), 
+table.dataTable.display tr td:nth-child(3),
+table.dataTable.display tr td:nth-child(4),
+table.dataTable.display tr th:nth-child(2),
+table.dataTable.display tr th:nth-child(3),
+table.dataTable.display tr th:nth-child(4) {
+	text-align: center;
+}
+
+@media only screen and (max-width: 414px) {
+	a#add_new_resource_dashboard .text { display: none; }
+}

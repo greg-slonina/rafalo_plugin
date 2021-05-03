@@ -1,0 +1,41 @@
+#wcfm-main-contentainer .collapse {
+  display: block; 	
+  height: auto;
+}
+
+#wcfm-main-contentainer .wcfm-collapse {
+	overflow: hidden;
+	width: 100%;
+	flex: 5 auto;
+    
+	vertical-align: top;
+	background-color: #eceef2;
+	visibility: visible !important;
+	
+	-moz-border-radius: 0px 3px 3px 0px;
+	-webkit-border-radius: 0px 3px 3px 0px;
+	border-radius: 0px 3px 3px 0px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 70px;
+	
+}
+
+#wcfm-main-contentainer div.wcfm-content {
+	background: #fff;
+	margin: 0 10px 10px;
+	padding: 10px;
+	font-size: .9em;
+	line-height: 1.5em;
+}
+
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--followings a:before, body.storefront-secondary-navigation .woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--followings a:before {
+	content: "\f1ae";
+	font-family: "Font Awesome 5 Free";
+	font-weight: 300;
+}
+
+a.wcfm_followings_delete {
+	text-align: center;
+}
